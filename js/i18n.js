@@ -1,0 +1,95 @@
+const translations = {
+  en: {
+    siteName: "AI News",
+    siteDesc: "Your daily source for artificial intelligence news and insights",
+    nav: {
+      home: "Home",
+      latest: "Latest",
+      categories: "Categories",
+      about: "About",
+    },
+    hero: {
+      badge: "Featured",
+      readMore: "Read More",
+    },
+    sections: {
+      latestNews: "Latest AI News",
+      categories: "Browse by Category",
+      newsletter: "Stay Updated",
+      newsletterDesc:
+        "Get the latest AI news delivered to your inbox every week.",
+      emailPlaceholder: "Enter your email",
+      subscribe: "Subscribe",
+    },
+    categories: {
+      llm: "Large Language Models",
+      cv: "Computer Vision",
+      robotics: "Robotics",
+      ethics: "AI Ethics",
+      healthcare: "Healthcare AI",
+      research: "Research",
+    },
+    footer: {
+      about: "About Us",
+      aboutText:
+        "AI News is your trusted source for the latest developments in artificial intelligence, machine learning, and emerging technologies.",
+      quickLinks: "Quick Links",
+      contact: "Contact",
+      followUs: "Follow Us",
+      rights: "All rights reserved.",
+      privacy: "Privacy Policy",
+      terms: "Terms of Service",
+    },
+    time: {
+      minRead: "min read",
+      hoursAgo: "hours ago",
+      daysAgo: "days ago",
+    },
+  },
+  zh: {
+    siteName: "AI 新闻",
+    siteDesc: "每日人工智能新闻与洞察",
+    nav: {
+      home: "首页",
+      latest: "最新",
+      categories: "分类",
+      about: "关于",
+    },
+    hero: {
+      badge: "精选",
+      readMore: "阅读更多",
+    },
+    sections: {
+      latestNews: "最新 AI 新闻",
+      categories: "按分类浏览",
+      newsletter: "保持更新",
+      newsletterDesc: "每周获取最新 AI 新闻推送。",
+      emailPlaceholder: "输入您的邮箱",
+      subscribe: "订阅",
+    },
+    categories: {
+      llm: "大语言模型",
+      cv: "计算机视觉",
+      robotics: "机器人技术",
+      ethics: "AI 伦理",
+      healthcare: "医疗 AI",
+      research: "前沿研究",
+    },
+    footer: {
+      about: "关于我们",
+      aboutText:
+        "AI 新闻是您获取人工智能、机器学习和新兴技术最新动态的可靠来源。",
+      quickLinks: "快速链接",
+      contact: "联系我们",
+      followUs: "关注我们",
+      rights: "版权所有。",
+      privacy: "隐私政策",
+      terms: "服务条款",
+    },
+    time: {
+      minRead: "分钟阅读",
+      hoursAgo: "小时前",
+      daysAgo: "天前",
+    },
+  },
+};

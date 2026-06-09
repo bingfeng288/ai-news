@@ -1,0 +1,174 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop",
+    "category": "llm",
+    "readTime": 8,
+    "timeAgo": 2,
+    "en": {
+      "title": "OpenAI Announces GPT-5 with Unprecedented Reasoning Capabilities",
+      "excerpt": "The latest model demonstrates significant improvements in mathematical reasoning, code generation, and multimodal understanding, setting new benchmarks across all major evaluations.",
+      "content": "OpenAI has unveiled GPT-5, its most advanced language model to date. The model shows remarkable improvements in reasoning, creativity, and factual accuracy."
+    },
+    "zh": {
+      "title": "OpenAI 发布 GPT-5，推理能力达到前所未有的水平",
+      "excerpt": "最新模型在数学推理、代码生成和多模态理解方面展现出显著改进，在所有主要评估中创下新基准。",
+      "content": "OpenAI 发布了其迄今最先进的语言模型 GPT-5。该模型在推理、创造力和事实准确性方面展现出显著改进。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 5,
+      "timeAgo": 3,
+      "en": {
+        "title": "DeepMind's New Architecture Reduces Training Costs by 60%",
+        "excerpt": "Researchers at DeepMind introduce a novel transformer architecture that dramatically reduces computational requirements while maintaining performance.",
+        "content": "A breakthrough from DeepMind could make AI training significantly more affordable and accessible."
+      },
+      "zh": {
+        "title": "DeepMind 新架构将训练成本降低 60%",
+        "excerpt": "DeepMind 研究人员推出一种新型 Transformer 架构，在保持性能的同时大幅降低计算需求。",
+        "content": "DeepMind 的突破性成果可能使 AI 训练变得更加经济实惠和易于获取。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=600&h=400&fit=crop",
+      "category": "healthcare",
+      "readTime": 6,
+      "timeAgo": 5,
+      "en": {
+        "title": "AI System Detects Early-Stage Cancer with 98% Accuracy",
+        "excerpt": "A new AI-powered diagnostic tool has shown unprecedented accuracy in detecting various types of cancer at their earliest stages.",
+        "content": "Medical researchers have developed an AI system that can detect early-stage cancer with remarkable accuracy."
+      },
+      "zh": {
+        "title": "AI 系统以 98% 准确率检测早期癌症",
+        "excerpt": "一种新的 AI 诊断工具在检测各类早期癌症方面展现出前所未有的准确率。",
+        "content": "医学研究人员开发了一种能够以惊人准确率检测早期癌症的 AI 系统。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 7,
+      "timeAgo": 8,
+      "en": {
+        "title": "Boston Dynamics Unveils Humanoid Robot with Advanced Dexterity",
+        "excerpt": "The newest Atlas robot demonstrates remarkable ability to handle delicate objects and perform complex manipulation tasks.",
+        "content": "Boston Dynamics has revealed a new version of its Atlas humanoid robot with unprecedented manipulation capabilities."
+      },
+      "zh": {
+        "title": "波士顿动力推出具有高级灵活性的人形机器人",
+        "excerpt": "最新的 Atlas 机器人展现出处理精细物体和执行复杂操作任务的卓越能力。",
+        "content": "波士顿动力推出了新版 Atlas 人形机器人，具有前所未有的操控能力。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 4,
+      "timeAgo": 12,
+      "en": {
+        "title": "Anthropic Introduces Claude with Enhanced Safety Features",
+        "excerpt": "The latest Claude model includes groundbreaking constitutional AI improvements and more transparent reasoning processes.",
+        "content": "Anthropic has released an updated version of Claude with significant safety improvements."
+      },
+      "zh": {
+        "title": "Anthropic 推出具有增强安全功能的 Claude",
+        "excerpt": "最新的 Claude 模型包含突破性的宪法 AI 改进和更透明的推理过程。",
+        "content": "Anthropic 发布了 Claude 的更新版本，包含重大安全改进。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 5,
+      "timeAgo": 18,
+      "en": {
+        "title": "New AI Model Generates Photorealistic Video from Text Descriptions",
+        "excerpt": "A startup unveils a text-to-video model that produces cinema-quality footage, raising both excitement and concerns about deepfakes.",
+        "content": "A new text-to-video AI model can generate photorealistic video content from simple text descriptions."
+      },
+      "zh": {
+        "title": "新 AI 模型可从文本描述生成逼真视频",
+        "excerpt": "一家初创公司推出文本转视频模型，可生成电影级画面，引发对深度伪造的关注。",
+        "content": "一种新的文本转视频 AI 模型可以从简单的文本描述生成逼真的视频内容。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 6,
+      "timeAgo": 24,
+      "en": {
+        "title": "EU Finalizes Comprehensive AI Regulation Framework",
+        "excerpt": "The European Union's AI Act sets new global standards for AI governance, with strict rules for high-risk applications.",
+        "content": "The European Union has finalized its comprehensive AI regulation framework."
+      },
+      "zh": {
+        "title": "欧盟最终确定全面 AI 监管框架",
+        "excerpt": "欧盟的 AI 法案为 AI 治理设定了新的全球标准，对高风险应用有严格规定。",
+        "content": "欧盟已最终确定其全面的 AI 监管框架。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 9,
+      "timeAgo": 30,
+      "en": {
+        "title": "Breakthrough: AI Discovers New Antibiotic Compound",
+        "excerpt": "Machine learning algorithms identify a novel antibiotic structure effective against drug-resistant bacteria.",
+        "content": "AI has helped discover a new antibiotic compound that could combat drug-resistant infections."
+      },
+      "zh": {
+        "title": "突破：AI 发现新型抗生素化合物",
+        "excerpt": "机器学习算法识别出一种对耐药细菌有效的新型抗生素结构。",
+        "content": "AI 帮助发现了一种可用于对抗耐药感染的新型抗生素化合物。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1617791160505-6f00504e3519?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 4,
+      "timeAgo": 36,
+      "en": {
+        "title": "Tesla's Full Self-Driving Reaches Level 4 Autonomy",
+        "excerpt": "Tesla announces its FSD system has achieved Level 4 autonomous driving in select metropolitan areas.",
+        "content": "Tesla has announced a major milestone in autonomous driving technology."
+      },
+      "zh": {
+        "title": "特斯拉全自动驾驶达到 L4 级别",
+        "excerpt": "特斯拉宣布其 FSD 系统在部分城市地区实现了 L4 级自动驾驶。",
+        "content": "特斯拉宣布了自动驾驶技术的重大里程碑。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f2?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 48,
+      "en": {
+        "title": "Google DeepMind Launches Gemini Ultra 2.0",
+        "excerpt": "The next generation of Gemini models shows superior performance in complex reasoning and multimodal tasks.",
+        "content": "Google DeepMind has launched Gemini Ultra 2.0 with significant improvements."
+      },
+      "zh": {
+        "title": "Google DeepMind 发布 Gemini Ultra 2.0",
+        "excerpt": "新一代 Gemini 模型在复杂推理和多模态任务中表现出卓越性能。",
+        "content": "Google DeepMind 发布了 Gemini Ultra 2.0，带来重大改进。"
+      }
+    }
+  ]
+}
