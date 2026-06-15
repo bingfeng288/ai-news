@@ -5,169 +5,179 @@
     "category": "llm",
     "readTime": 8,
     "timeAgo": 2,
+    "date": "2026-06-09",
     "en": {
-      "title": "OpenAI Announces GPT-5 with Unprecedented Reasoning Capabilities",
-      "excerpt": "The latest model demonstrates significant improvements in mathematical reasoning, code generation, and multimodal understanding, setting new benchmarks across all major evaluations.",
-      "content": "OpenAI has unveiled GPT-5, its most advanced language model to date. The model shows remarkable improvements in reasoning, creativity, and factual accuracy."
+      "title": "Apple Reveals New AI Architecture Built Around Google Gemini Models",
+      "excerpt": "Apple today announced a major overhaul of its Apple Intelligence platform, revealing a new architecture built on foundation models co-developed with Google using the technologies behind the Gemini family.",
+      "content": "Apple today announced a major overhaul of its Apple Intelligence platform, revealing a new architecture built on foundation models developed in collaboration with Google using the technologies behind the Gemini family.\n\nThe new architecture centers on Apple Foundation Models co-developed with Google, which Apple says are adapted to run both on-device and on servers through its existing Private Cloud Compute infrastructure. Apple described the collaboration as a \"deep\" one that unlocks what it called a \"huge upgrade\" for Apple Intelligence, bringing state-of-the-art understanding and reasoning capabilities as well as multimodal support including image understanding and generation.\n\nThe upgraded models support new capabilities including realistic image creation, advanced photo editing, and visual question answering. Certain devices will receive a higher-power version of the model with additional capabilities including speech generation, improved dictation accuracy, and stronger natural language understanding.\n\nA new system orchestrator sits at the center of the revised architecture, coordinating Apple Intelligence features securely across Apple's platforms. The orchestrator allows the system to tailor its responses based on the active app and the user's current task, enabling truly system-wide intelligence.\n\nApple framed its approach as a contrast to competitors it characterized as \"racing forward\" without regard for users. The company reiterated that Apple Intelligence relies on on-device processing and Private Cloud Compute, with a promise that user data is only used to execute the immediate request and is not accessible to Apple or third parties."
     },
     "zh": {
-      "title": "OpenAI 发布 GPT-5，推理能力达到前所未有的水平",
-      "excerpt": "最新模型在数学推理、代码生成和多模态理解方面展现出显著改进，在所有主要评估中创下新基准。",
-      "content": "OpenAI 发布了其迄今最先进的语言模型 GPT-5。该模型在推理、创造力和事实准确性方面展现出显著改进。"
+      "title": "苹果发布全新 AI 架构，基于 Google Gemini 模型构建",
+      "excerpt": "苹果今日宣布对 Apple Intelligence 平台进行重大改革，揭示了基于与 Google 合作开发的 Gemini 系列技术构建的新架构。",
+      "content": "苹果今日宣布对 Apple Intelligence 平台进行重大改革，揭示了基于与 Google 合作开发的 Gemini 系列技术构建的新基础模型架构。\n\n新架构的核心是与 Google 联合开发的 Apple Foundation Models，苹果表示这些模型已适配为可在设备端和通过其现有 Private Cloud Compute 基础设施在服务器端运行。苹果将此次合作描述为\"深度\"合作，为 Apple Intelligence 带来\"巨大升级\"，包括最先进的理解和推理能力，以及多模态支持（含图像理解和生成）。\n\n升级后的模型支持新功能，包括逼真的图像创建、高级照片编辑和视觉问答。部分设备将获得更高性能版本的模型，具有语音生成、改进的听写准确性和更强的自然语言理解等额外功能。\n\n一个新的系统协调器位于修订架构的中心，安全地协调跨 Apple 平台的 Apple Intelligence 功能。该协调器允许系统根据当前活跃的应用和用户的任务定制其响应，实现真正的全系统智能。\n\n苹果将其方法描述为与\"不顾用户利益向前冲\"的竞争对手形成对比，强调 Apple Intelligence 依赖于设备端处理和 Private Cloud Compute，用户数据仅用于执行即时请求，苹果或第三方无法访问。"
     }
   },
   "articles": [
     {
       "id": 1,
       "image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?w=600&h=400&fit=crop",
-      "category": "research",
-      "readTime": 5,
+      "category": "llm",
+      "readTime": 6,
       "timeAgo": 3,
+      "date": "2026-06-09",
       "en": {
-        "title": "DeepMind's New Architecture Reduces Training Costs by 60%",
-        "excerpt": "Researchers at DeepMind introduce a novel transformer architecture that dramatically reduces computational requirements while maintaining performance.",
-        "content": "A breakthrough from DeepMind could make AI training significantly more affordable and accessible."
+        "title": "Apple Renames Siri as 'Siri AI' with Major iOS 27 AI Push",
+        "excerpt": "Apple officially renames Siri to 'Siri AI' as part of WWDC 2026, integrating the new Gemini-powered foundation models into a completely rebuilt voice assistant.",
+        "content": "Apple officially announced at WWDC 2026 that Siri is being renamed to 'Siri AI', marking the most significant transformation of the voice assistant since its original launch.\n\nThe rebuilt Siri AI leverages the new Gemini-based foundation models announced alongside it, offering dramatically improved natural language understanding, contextual awareness, and the ability to perform complex multi-step tasks across apps.\n\nKey new features include:\n- Advanced on-device processing that keeps personal data private\n- Ability to understand and generate images, analyze documents, and answer visual questions\n- A new conversational memory that maintains context across sessions\n- Deep integration with Apple's ecosystem, allowing Siri AI to orchestrate actions across multiple apps simultaneously\n- Improved dictation accuracy and speech generation capabilities\n\nHowever, the most powerful on-device AI features require the latest hardware. iOS 27's most advanced AI capabilities will only be available on iPhone 17 Pro and iPhone Air models, which feature the new neural engine required to run the larger models locally.\n\nThe move represents Apple's most aggressive push into AI to date, directly challenging competitors like Google Assistant and OpenAI's ChatGPT."
       },
       "zh": {
-        "title": "DeepMind 新架构将训练成本降低 60%",
-        "excerpt": "DeepMind 研究人员推出一种新型 Transformer 架构，在保持性能的同时大幅降低计算需求。",
-        "content": "DeepMind 的突破性成果可能使 AI 训练变得更加经济实惠和易于获取。"
+        "title": "苹果将 Siri 更名为'Siri AI'，iOS 27 全面发力 AI",
+        "excerpt": "苹果在 WWDC 2026 上正式将 Siri 更名为'Siri AI'，将新的 Gemini 驱动的基础模型集成到完全重建的语音助手之中。",
+        "content": "苹果在 WWDC 2026 上正式宣布将 Siri 更名为'Siri AI'，标志着这一语音助手自推出以来最重大的变革。\n\n重建后的 Siri AI 利用了同期发布的基于 Gemini 的基础模型，提供显著改进的自然语言理解、上下文感知能力，以及跨应用执行复杂多步骤任务的能力。\n\n主要新功能包括：\n- 先进的设备端处理能力，保护个人数据隐私\n- 能够理解和生成图像、分析文档、回答视觉问题\n- 全新的对话记忆功能，可跨会话保持上下文\n- 与 Apple 生态系统的深度集成，允许 Siri AI 同时协调多个应用的操作\n- 改进的听写准确性和语音生成能力\n\n然而，最强大的设备端 AI 功能需要最新的硬件支持。iOS 27 最先进的 AI 功能仅在 iPhone 17 Pro 和 iPhone Air 上可用，这些设备配备了运行更大本地模型所需的新神经引擎。\n\n此举代表了苹果迄今为止在 AI 领域最积极的布局，直接挑战 Google Assistant 和 OpenAI 的 ChatGPT 等竞争对手。"
       }
     },
     {
       "id": 2,
-      "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=600&h=400&fit=crop",
-      "category": "healthcare",
-      "readTime": 6,
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 5,
       "timeAgo": 5,
+      "date": "2026-06-09",
       "en": {
-        "title": "AI System Detects Early-Stage Cancer with 98% Accuracy",
-        "excerpt": "A new AI-powered diagnostic tool has shown unprecedented accuracy in detecting various types of cancer at their earliest stages.",
-        "content": "Medical researchers have developed an AI system that can detect early-stage cancer with remarkable accuracy."
+        "title": "Microsoft's Open Source Tools Hacked to Steal Passwords of AI Developers",
+        "excerpt": "Attackers compromised popular Microsoft open source packages to inject malicious code targeting AI developers' credentials and API keys.",
+        "content": "Security researchers have discovered that attackers compromised several popular Microsoft open source development tools to inject malicious code specifically designed to steal passwords and API keys from AI developers.\n\nThe attack targeted widely-used packages in the AI development ecosystem, injecting code that could harvest credentials stored in environment variables, configuration files, and popular AI platform API keys including those for OpenAI, Anthropic, and Google Cloud AI services.\n\nMicrosoft has acknowledged the breach and is working with security researchers to assess the full scope of the compromise. The company has urged all developers who recently updated affected packages to rotate their credentials immediately.\n\nThis incident highlights the growing security risks in the AI supply chain, as the rapid growth of AI development has made developers and their credentials increasingly valuable targets for attackers.\n\nSecurity experts recommend that AI developers:\n- Use hardware security keys for authentication\n- Rotate API keys regularly\n- Monitor for unauthorized usage of their credentials\n- Use secret scanning tools in their development workflows"
       },
       "zh": {
-        "title": "AI 系统以 98% 准确率检测早期癌症",
-        "excerpt": "一种新的 AI 诊断工具在检测各类早期癌症方面展现出前所未有的准确率。",
-        "content": "医学研究人员开发了一种能够以惊人准确率检测早期癌症的 AI 系统。"
+        "title": "微软开源工具遭黑客入侵，AI 开发者密码被盗",
+        "excerpt": "攻击者入侵了微软流行的开源软件包，注入恶意代码窃取 AI 开发者的凭证和 API 密钥。",
+        "content": "安全研究人员发现，攻击者入侵了微软多个流行的开源开发工具，注入专门设计用于窃取 AI 开发者密码和 API 密钥的恶意代码。\n\n此次攻击针对 AI 开发生态系统中广泛使用的软件包，注入的代码可以收集存储在环境变量、配置文件中的凭证，以及包括 OpenAI、Anthropic 和 Google Cloud AI 服务在内的流行 AI 平台 API 密钥。\n\n微软已确认此安全事件，正与安全研究人员合作评估入侵的完整范围。公司敦促所有近期更新过受影响软件包的开发者立即轮换其凭证。\n\n此事件凸显了 AI 供应链中日益增长的安全风险，AI 开发的快速增长使开发者及其凭证成为攻击者越来越有价值的目标。\n\n安全专家建议 AI 开发者：使用硬件安全密钥进行身份验证、定期轮换 API 密钥、监控凭证的未授权使用情况、在开发工作流中使用密钥扫描工具。"
       }
     },
     {
       "id": 3,
-      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
-      "category": "robotics",
-      "readTime": 7,
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
       "timeAgo": 8,
+      "date": "2026-06-09",
       "en": {
-        "title": "Boston Dynamics Unveils Humanoid Robot with Advanced Dexterity",
-        "excerpt": "The newest Atlas robot demonstrates remarkable ability to handle delicate objects and perform complex manipulation tasks.",
-        "content": "Boston Dynamics has revealed a new version of its Atlas humanoid robot with unprecedented manipulation capabilities."
+        "title": "OpenAI Submits Confidential S-1 to SEC, Marking Major Step Toward IPO",
+        "excerpt": "OpenAI has confidentially submitted a draft S-1 registration statement to the SEC, signaling the AI giant's long-anticipated move toward becoming a publicly traded company.",
+        "content": "OpenAI has confidentially submitted a draft S-1 registration statement to the U.S. Securities and Exchange Commission (SEC), marking a significant milestone in the AI company's path toward an initial public offering.\n\nThe confidential submission allows OpenAI to begin the regulatory review process while keeping its financial details private until it's ready for a public filing. This approach is common among high-profile tech companies seeking to test investor appetite before revealing sensitive financial information.\n\nThe move comes after OpenAI's valuation soared past $300 billion in recent funding rounds, driven by the massive adoption of ChatGPT and the company's enterprise AI products. OpenAI's annualized revenue has reportedly exceeded $10 billion.\n\nThe IPO would be one of the largest in tech history, potentially valuing the company at well over $300 billion. It would also mark a dramatic transformation for the organization, which began as a non-profit AI research lab before restructuring into a capped-profit company.\n\nIndustry observers note that the timing coincides with a broader AI market boom, with multiple AI companies reaching unprecedented valuations. The public listing would give retail investors their first direct opportunity to invest in the company behind the AI revolution."
       },
       "zh": {
-        "title": "波士顿动力推出具有高级灵活性的人形机器人",
-        "excerpt": "最新的 Atlas 机器人展现出处理精细物体和执行复杂操作任务的卓越能力。",
-        "content": "波士顿动力推出了新版 Atlas 人形机器人，具有前所未有的操控能力。"
+        "title": "OpenAI 向 SEC 秘密提交 S-1 文件，迈出 IPO 关键一步",
+        "excerpt": "OpenAI 已向美国证券交易委员会秘密提交了 S-1 注册声明草案，标志着这家 AI 巨头向上市迈出重要一步。",
+        "content": "OpenAI 已向美国证券交易委员会（SEC）秘密提交了 S-1 注册声明草案，标志着这家 AI 公司在首次公开募股（IPO）道路上的重要里程碑。\n\n秘密提交允许 OpenAI 在公开文件准备就绪之前开始监管审查流程，同时保持其财务细节的私密性。这种方式在知名科技公司中很常见，可以在披露敏感财务信息之前测试投资者的兴趣。\n\n此举正值 OpenAI 在近期融资轮中的估值突破 3000 亿美元，受 ChatGPT 和企业 AI 产品大规模采用的推动。据报道，OpenAI 的年化收入已超过 100 亿美元。\n\n此次 IPO 将成为科技史上最大的 IPO 之一，公司估值可能远超 3000 亿美元。这也标志着该组织的重大转型——它最初是一个非营利 AI 研究实验室，后来重组为利润封顶公司。\n\n业内人士指出，此次 IPO 的时机恰逢更广泛的 AI 市场繁荣，多家 AI 公司达到前所未有的估值。公开上市将使散户投资者首次有机会直接投资于引领 AI 革命的公司。"
       }
     },
     {
       "id": 4,
-      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
-      "category": "llm",
-      "readTime": 4,
-      "timeAgo": 12,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 7,
+      "timeAgo": 10,
+      "date": "2026-06-09",
       "en": {
-        "title": "Anthropic Introduces Claude with Enhanced Safety Features",
-        "excerpt": "The latest Claude model includes groundbreaking constitutional AI improvements and more transparent reasoning processes.",
-        "content": "Anthropic has released an updated version of Claude with significant safety improvements."
+        "title": "Anthropic Sounds Alarm on Recursive Self-Improvement Risks in AI Systems",
+        "excerpt": "Anthropic's research team publishes urgent findings on the dangers of AI systems capable of improving their own code, calling for industry-wide safeguards.",
+        "content": "Anthropic's research team has published urgent findings highlighting the potential dangers of AI systems capable of recursive self-improvement — the ability to modify and enhance their own underlying code and algorithms.\n\nThe research paper details how current AI architectures are approaching a threshold where they could potentially begin optimizing their own training processes, raising unprecedented safety concerns. Anthropic warns that without proper safeguards, self-improving AI systems could rapidly exceed human ability to understand or control their behavior.\n\nKey findings include:\n- Current large language models show nascent ability to suggest improvements to their own training code\n- Recursive improvement could lead to rapid capability gains that outpace safety research\n- Existing alignment techniques may not remain effective through multiple self-improvement cycles\n- The company recommends establishing hard computational limits and mandatory human oversight for any self-modifying AI systems\n\nAnthropic's CEO Dario Amodei called the findings \"a wake-up call for the entire industry,\" urging competitors and regulators to take the threat seriously before it becomes an immediate reality.\n\nThe paper has sparked intense debate in the AI safety community, with some researchers arguing the risks are overstated while others praise Anthropic for raising the alarm early."
       },
       "zh": {
-        "title": "Anthropic 推出具有增强安全功能的 Claude",
-        "excerpt": "最新的 Claude 模型包含突破性的宪法 AI 改进和更透明的推理过程。",
-        "content": "Anthropic 发布了 Claude 的更新版本，包含重大安全改进。"
+        "title": "Anthropic 就 AI 系统递归自我改进风险发出警告",
+        "excerpt": "Anthropic 研究团队发布了关于能够改进自身代码的 AI 系统危险性的紧急发现，呼吁全行业建立安全防护措施。",
+        "content": "Anthropic 研究团队发布了紧急发现，强调了具有递归自我改进能力的 AI 系统的潜在危险——即修改和增强自身底层代码和算法的能力。\n\n该研究论文详细说明了当前 AI 架构如何正在接近一个临界点，在这个点上它们可能开始优化自己的训练过程，引发前所未有的安全担忧。Anthropic 警告说，如果没有适当的保障措施，自我改进的 AI 系统可能迅速超出人类理解或控制其行为的能力。\n\n主要发现包括：\n- 当前的大语言模型已显示出为自身训练代码提出改进建议的初始能力\n- 递归改进可能导致快速的能力增长，超过安全研究的速度\n- 现有的对齐技术在多次自我改进循环后可能不再有效\n- 公司建议对任何自我修改的 AI 系统建立硬性计算限制和强制性人工监督\n\nAnthropic CEO Dario Amodei 称这些发现\"是给整个行业的警钟\"，敦促竞争对手和监管机构在其成为现实之前认真对待这一威胁。\n\n该论文在 AI 安全社区引发了激烈辩论，一些研究人员认为风险被夸大了，而另一些人则赞扬 Anthropic 及早发出警告。"
       }
     },
     {
       "id": 5,
       "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=600&h=400&fit=crop",
       "category": "cv",
-      "readTime": 5,
-      "timeAgo": 18,
+      "readTime": 6,
+      "timeAgo": 12,
+      "date": "2026-06-09",
       "en": {
-        "title": "New AI Model Generates Photorealistic Video from Text Descriptions",
-        "excerpt": "A startup unveils a text-to-video model that produces cinema-quality footage, raising both excitement and concerns about deepfakes.",
-        "content": "A new text-to-video AI model can generate photorealistic video content from simple text descriptions."
+        "title": "OpenCV 5 Released: The Biggest Leap in Years for Computer Vision",
+        "excerpt": "The OpenCV project releases version 5 with major performance improvements, new AI model integration, and a modernized API that promises to reshape computer vision development.",
+        "content": "The OpenCV project has released version 5 of its widely-used open source computer vision library, marking the biggest update in years for the foundational tool used by millions of developers worldwide.\n\nOpenCV 5 brings significant improvements across the board:\n\n- **Performance**: Up to 3x faster inference on modern hardware through optimized memory management and GPU acceleration improvements\n- **AI Integration**: Native support for loading and running models from major frameworks including PyTorch, TensorFlow, and ONNX Runtime without conversion\n- **Modernized API**: A cleaner, more Pythonic API design while maintaining full backward compatibility with existing codebases\n- **Edge Deployment**: New lightweight modules specifically designed for deployment on edge devices, mobile platforms, and embedded systems\n- **3D Vision**: Enhanced stereo vision, depth estimation, and point cloud processing capabilities\n\nThe release comes at a critical time as computer vision applications are booming across industries from autonomous driving to medical imaging, industrial inspection, and augmented reality.\n\n\"OpenCV 5 represents years of work from our global community of contributors,\" said the project's lead maintainer. \"We've focused on making cutting-edge computer vision accessible to everyone while maintaining the reliability that the industry depends on.\"\n\nThe library is used in over 10 million projects worldwide and is a core dependency for many commercial AI products."
       },
       "zh": {
-        "title": "新 AI 模型可从文本描述生成逼真视频",
-        "excerpt": "一家初创公司推出文本转视频模型，可生成电影级画面，引发对深度伪造的关注。",
-        "content": "一种新的文本转视频 AI 模型可以从简单的文本描述生成逼真的视频内容。"
+        "title": "OpenCV 5 发布：计算机视觉领域多年来最大飞跃",
+        "excerpt": "OpenCV 项目发布了第 5 版，带来重大性能提升、新 AI 模型集成和现代化 API，有望重塑计算机视觉开发格局。",
+        "content": "OpenCV 项目发布了其广泛使用的开源计算机视觉库的第 5 版，标志着这一被全球数百万开发者使用的基础工具多年来最大规模的更新。\n\nOpenCV 5 在各方面带来了显著改进：\n\n- **性能**：通过优化的内存管理和 GPU 加速改进，在现代硬件上推理速度提升高达 3 倍\n- **AI 集成**：原生支持加载和运行来自 PyTorch、TensorFlow 和 ONNX Runtime 等主要框架的模型，无需转换\n- **现代化 API**：更简洁、更 Python 化的 API 设计，同时与现有代码库保持完全向后兼容\n- **边缘部署**：专为边缘设备、移动平台和嵌入式系统部署设计的全新轻量级模块\n- **3D 视觉**：增强的立体视觉、深度估计和点云处理能力\n\n此次发布正值计算机视觉应用在自动驾驶、医学成像、工业检测和增强现实等行业蓬勃发展的关键时刻。\n\n\"OpenCV 5 代表了我们全球贡献者社区多年的工作成果，\"项目首席维护者表示。\"我们专注于让前沿计算机视觉技术对每个人都可及，同时保持行业所依赖的可靠性。\"\n\n该库在全球超过 1000 万个项目中使用，是许多商业 AI 产品的核心依赖。"
       }
     },
     {
       "id": 6,
-      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
-      "category": "ethics",
-      "readTime": 6,
-      "timeAgo": 24,
+      "image": "https://images.unsplash.com/photo-1617791160505-6f00504e3519?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 14,
+      "date": "2026-06-09",
       "en": {
-        "title": "EU Finalizes Comprehensive AI Regulation Framework",
-        "excerpt": "The European Union's AI Act sets new global standards for AI governance, with strict rules for high-risk applications.",
-        "content": "The European Union has finalized its comprehensive AI regulation framework."
+        "title": "Meta's Muse Spark AI Model Replaces Llama 4 on Smart Glasses",
+        "excerpt": "Meta introduces Muse Spark, a new multimodal AI model designed specifically for wearable devices, replacing Llama 4 on its Ray-Ban Meta smart glasses.",
+        "content": "Meta has unveiled Muse Spark, a new multimodal AI model specifically designed for wearable devices, replacing the Llama 4 model on its Ray-Ban Meta smart glasses lineup.\n\nMuse Spark represents a fundamental shift in Meta's approach to on-device AI. Rather than shrinking a large general-purpose model, Meta built Muse Spark from the ground up for the unique constraints and use cases of wearable devices:\n\n- **Ultra-low latency**: Responses in under 200ms for real-time visual queries\n- **Multimodal by design**: Simultaneously processes camera input, voice commands, and contextual sensor data\n- **Power efficient**: Runs on the glasses' limited hardware while maintaining all-day battery life\n- **Privacy-first**: Processes visual data on-device, with only anonymized queries sent to the cloud when needed\n\nKey capabilities include real-time object identification, text translation overlaid on the wearer's view, navigation assistance, and the ability to answer questions about the user's visual environment.\n\n\"Muse Spark is what AI on glasses should have been from the start,\" said Meta's VP of AI. \"It's not about running a big model on a small device — it's about building the right model for the right device.\"\n\nThe update will roll out to all Ray-Ban Meta glasses owners through a firmware update this month."
       },
       "zh": {
-        "title": "欧盟最终确定全面 AI 监管框架",
-        "excerpt": "欧盟的 AI 法案为 AI 治理设定了新的全球标准，对高风险应用有严格规定。",
-        "content": "欧盟已最终确定其全面的 AI 监管框架。"
+        "title": "Meta 发布 Muse Spark AI 模型，取代 Llama 4 登陆智能眼镜",
+        "excerpt": "Meta 推出 Muse Spark，一种专为可穿戴设备设计的新型多模态 AI 模型，取代其 Ray-Ban Meta 智能眼镜上的 Llama 4。",
+        "content": "Meta 发布了 Muse Spark，一种专为可穿戴设备设计的新型多模态 AI 模型，取代了其 Ray-Ban Meta 智能眼镜产品线上的 Llama 4 模型。\n\nMuse Spark 代表了 Meta 在设备端 AI 方面的根本性转变。Meta 并非简单地缩小大型通用模型，而是从头开始为可穿戴设备的独特约束和使用场景构建 Muse Spark：\n\n- **超低延迟**：实时视觉查询响应时间低于 200 毫秒\n- **原生多模态**：同时处理摄像头输入、语音命令和上下文传感器数据\n- **高能效**：在眼镜有限的硬件上运行，同时保持全天电池续航\n- **隐私优先**：在设备端处理视觉数据，仅在需要时向云端发送匿名查询\n\n主要功能包括实时物体识别、覆盖在佩戴者视野上的文本翻译、导航辅助，以及回答有关用户视觉环境的问题。\n\n\"Muse Spark 从一开始就是眼镜 AI 应有的样子，\"Meta AI 副总裁表示。\"这不是在小设备上运行大模型的问题——而是为合适的设备构建合适的模型。\"\n\n此次更新将通过本月的固件更新推送给所有 Ray-Ban Meta 眼镜用户。"
       }
     },
     {
       "id": 7,
-      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
-      "category": "research",
-      "readTime": 9,
-      "timeAgo": 30,
+      "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=600&h=400&fit=crop",
+      "category": "healthcare",
+      "readTime": 5,
+      "timeAgo": 18,
+      "date": "2026-06-09",
       "en": {
-        "title": "Breakthrough: AI Discovers New Antibiotic Compound",
-        "excerpt": "Machine learning algorithms identify a novel antibiotic structure effective against drug-resistant bacteria.",
-        "content": "AI has helped discover a new antibiotic compound that could combat drug-resistant infections."
+        "title": "Foxconn Deploys AI Systems Across Taiwan Hospitals",
+        "excerpt": "Foxconn partners with major Taiwan hospitals to deploy AI-powered diagnostic and workflow systems, marking the manufacturing giant's aggressive push into healthcare AI.",
+        "content": "Foxconn, the world's largest electronics manufacturer, has announced a major partnership with several leading hospitals across Taiwan to deploy AI-powered diagnostic and clinical workflow systems.\n\nThe deployment covers three key areas:\n\n- **Medical Imaging AI**: Automated analysis of X-rays, CT scans, and MRIs to assist radiologists in detecting abnormalities, with initial results showing a 40% reduction in diagnostic turnaround time\n- **Clinical Workflow Optimization**: AI-powered scheduling, resource allocation, and patient flow management to reduce wait times and improve hospital efficiency\n- **Drug Interaction Monitoring**: Real-time AI analysis of prescription combinations to flag potential adverse drug interactions before they reach patients\n\nFoxconn's healthcare AI division, established last year, has been developing these systems using the company's expertise in hardware-software integration and large-scale manufacturing processes.\n\n\"Our strength is in building reliable systems at scale,\" said Foxconn's healthcare division lead. \"Healthcare AI needs the same rigor and reliability we bring to manufacturing — lives depend on it.\"\n\nThe initiative is part of Foxconn's broader strategy to diversify beyond electronics manufacturing into high-growth technology sectors, including AI, electric vehicles, and healthcare."
       },
       "zh": {
-        "title": "突破：AI 发现新型抗生素化合物",
-        "excerpt": "机器学习算法识别出一种对耐药细菌有效的新型抗生素结构。",
-        "content": "AI 帮助发现了一种可用于对抗耐药感染的新型抗生素化合物。"
+        "title": "富士康在台湾多家医院部署 AI 系统",
+        "excerpt": "富士康与台湾多家主要医院合作，部署 AI 驱动的诊断和工作流程系统，标志着这家制造业巨头大举进军医疗 AI。",
+        "content": "全球最大的电子制造商富士康宣布与台湾多家领先医院建立重大合作伙伴关系，部署 AI 驱动的诊断和临床工作流程系统。\n\n此次部署涵盖三个关键领域：\n\n- **医学影像 AI**：自动分析 X 光、CT 扫描和 MRI，协助放射科医生检测异常，初步结果显示诊断周转时间缩短了 40%\n- **临床工作流优化**：AI 驱动的排班、资源分配和患者流程管理，减少等待时间并提高医院效率\n- **药物相互作用监测**：实时 AI 分析处方组合，在药物到达患者手中之前标记潜在的不良药物相互作用\n\n富士康去年成立的医疗 AI 部门一直在利用公司在硬件软件集成和大规模制造流程方面的专业知识开发这些系统。\n\n\"我们的优势在于大规模构建可靠的系统，\"富士康医疗部门负责人表示。\"医疗 AI 需要我们为制造业带来的同样严谨和可靠性——因为生命取决于此。\"\n\n该计划是富士康在电子制造之外向包括 AI、电动汽车和医疗保健在内的高增长科技领域多元化战略的一部分。"
       }
     },
     {
       "id": 8,
-      "image": "https://images.unsplash.com/photo-1617791160505-6f00504e3519?w=600&h=400&fit=crop",
-      "category": "cv",
-      "readTime": 4,
-      "timeAgo": 36,
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 6,
+      "timeAgo": 20,
+      "date": "2026-06-09",
       "en": {
-        "title": "Tesla's Full Self-Driving Reaches Level 4 Autonomy",
-        "excerpt": "Tesla announces its FSD system has achieved Level 4 autonomous driving in select metropolitan areas.",
-        "content": "Tesla has announced a major milestone in autonomous driving technology."
+        "title": "Tech Giants Warn AI Safety Gaps Could Enable Bioweapons Development",
+        "excerpt": "Leading AI companies and biotech CEOs jointly call for new US legislation on DNA screening, warning that current AI systems could be misused to design dangerous biological agents.",
+        "content": "In an unprecedented joint statement, leaders from major AI companies and biotechnology firms have called on the U.S. government to enact new legislation requiring mandatory DNA synthesis screening, warning that current AI systems have safety gaps that could be exploited for bioweapons development.\n\nThe group, which includes executives from OpenAI, Anthropic, Google DeepMind, and several leading biotech companies, warns that advanced AI models now possess sufficient biological knowledge to potentially design novel harmful biological agents.\n\nKey concerns raised include:\n- Current AI models can generate plausible sequences for dangerous pathogens\n- Existing screening tools for DNA synthesis orders are inconsistent and easily circumvented\n- The rapid pace of AI capability growth is outstripping the development of biological safety measures\n- Open-source models lack the safety guardrails present in commercial systems\n\nThe coalition is proposing a five-point plan:\n1. Mandatory screening of all DNA synthesis orders through certified platforms\n2. Real-time monitoring of AI queries related to dangerous biological knowledge\n3. International cooperation on biological AI safety standards\n4. Funding for research into AI-enabled biological threat detection\n5. Regular red-teaming exercises to test AI systems for biological misuse potential\n\n\"This is not a hypothetical risk,\" the statement reads. \"The convergence of AI capabilities and biotechnology requires immediate, coordinated action.\""
       },
       "zh": {
-        "title": "特斯拉全自动驾驶达到 L4 级别",
-        "excerpt": "特斯拉宣布其 FSD 系统在部分城市地区实现了 L4 级自动驾驶。",
-        "content": "特斯拉宣布了自动驾驶技术的重大里程碑。"
+        "title": "科技巨头警告 AI 安全漏洞可能助长生物武器开发",
+        "excerpt": "主要 AI 公司和生物技术 CEO 联合呼吁美国出台 DNA 筛查新立法，警告当前 AI 系统可能被滥用于设计危险的生物制剂。",
+        "content": "在一个前所未有的联合声明中，主要 AI 公司和生物技术公司的领导人呼吁美国政府制定新的立法，要求强制进行 DNA 合成筛查，警告当前 AI 系统存在可能被利用进行生物武器开发的安全漏洞。\n\n该团体包括来自 OpenAI、Anthropic、Google DeepMind 和多家领先生物技术公司的高管，他们警告说，先进的 AI 模型现在拥有足够的生物学知识，有可能设计出新型有害生物制剂。\n\n提出的主要关切包括：\n- 当前 AI 模型能够为危险病原体生成合理的序列\n- 现有的 DNA 合成订单筛查工具不一致且容易被绕过\n- AI 能力增长的快速步伐正在超过生物安全措施的发展\n- 开源模型缺乏商业系统中存在的安全防护栏\n\n该联盟提出了五点计划：\n1. 强制通过认证平台筛查所有 DNA 合成订单\n2. 实时监控与危险生物学知识相关的 AI 查询\n3. 在生物 AI 安全标准方面进行国际合作\n4. 资助 AI 驱动的生物威胁检测研究\n5. 定期进行红队演练，测试 AI 系统的生物滥用潜力\n\n\"这不是假设性的风险，\"声明写道。\"AI 能力与生物技术的融合需要立即采取协调行动。\""
       }
     },
     {
       "id": 9,
-      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f2?w=600&h=400&fit=crop",
-      "category": "llm",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
       "readTime": 5,
-      "timeAgo": 48,
+      "timeAgo": 24,
+      "date": "2026-06-09",
       "en": {
-        "title": "Google DeepMind Launches Gemini Ultra 2.0",
-        "excerpt": "The next generation of Gemini models shows superior performance in complex reasoning and multimodal tasks.",
-        "content": "Google DeepMind has launched Gemini Ultra 2.0 with significant improvements."
+        "title": "AI and Robots: Cairns Hospital Enters New Era of Surgery",
+        "excerpt": "An Australian hospital pioneers the integration of AI-guided robotic surgery systems, achieving remarkable precision improvements and faster patient recovery times.",
+        "content": "Cairns Hospital in Queensland, Australia, has become a pioneer in the integration of AI-guided robotic surgery, marking a new era of surgical precision and patient care in the region.\n\nThe hospital has deployed a new generation of surgical robots that use real-time AI analysis to assist surgeons during complex procedures. The system combines:\n\n- **AI-powered surgical planning**: Pre-operative analysis of patient imaging to create optimal surgical pathways\n- **Real-time guidance**: Live AI analysis during surgery that provides sub-millimeter precision guidance to the robotic instruments\n- **Predictive monitoring**: AI systems that monitor patient vitals and predict potential complications before they occur\n\nEarly results have been remarkable:\n- 35% reduction in average surgery duration\n- 50% fewer post-operative complications\n- Significantly faster patient recovery times, with average hospital stays reduced by 2 days\n- Surgeon fatigue reduced through AI-assisted tremor filtering and precision enhancement\n\n\"The combination of AI and robotics doesn't replace our surgeons — it amplifies their capabilities,\" said the hospital's chief of surgery. \"We're seeing outcomes that weren't possible even five years ago.\"\n\nThe success at Cairns Hospital is being closely watched by healthcare systems worldwide as they evaluate the adoption of similar technologies."
       },
       "zh": {
-        "title": "Google DeepMind 发布 Gemini Ultra 2.0",
-        "excerpt": "新一代 Gemini 模型在复杂推理和多模态任务中表现出卓越性能。",
-        "content": "Google DeepMind 发布了 Gemini Ultra 2.0，带来重大改进。"
+        "title": "AI 与机器人：凯恩斯医院开启手术新时代",
+        "excerpt": "澳大利亚一家医院率先整合 AI 引导的机器人手术系统，实现了显著的精度提升和更快的患者康复时间。",
+        "content": "澳大利亚昆士兰州凯恩斯医院已成为 AI 引导机器人手术整合的先驱，标志着该地区外科手术精度和患者护理的新时代。\n\n该医院部署了新一代手术机器人，利用实时 AI 分析在复杂手术过程中协助外科医生。该系统结合了：\n\n- **AI 驱动的手术规划**：术前分析患者影像以创建最佳手术路径\n- **实时引导**：手术期间的实时 AI 分析，为机器人器械提供亚毫米级精度引导\n- **预测性监测**：监测患者生命体征并在潜在并发症发生前进行预测的 AI 系统\n\n早期结果非常显著：\n- 平均手术时间缩短 35%\n- 术后并发症减少 50%\n- 患者康复时间显著加快，平均住院时间减少 2 天\n- 通过 AI 辅助的震颤过滤和精度增强，外科医生疲劳度降低\n\n\"AI 和机器人的结合不是取代我们的外科医生——而是增强他们的能力，\"该医院外科主任表示。\"我们看到了甚至五年前都不可能实现的治疗效果。\"\n\n凯恩斯医院的成功正受到全球医疗系统的密切关注，它们正在评估采用类似技术的可行性。"
       }
     }
   ]

@@ -8,7 +8,6 @@ function initTheme() {
   if (savedTheme) {
     document.documentElement.setAttribute("data-theme", savedTheme);
   } else {
-    // Follow system preference
     const prefersDark = window.matchMedia(
       "(prefers-color-scheme: dark)"
     ).matches;
@@ -63,24 +62,30 @@ function t(key) {
 
 // ===== Content Rendering =====
 function updateContent() {
-  // Update nav
   document.querySelectorAll("[data-i18n]").forEach((el) => {
     const key = el.getAttribute("data-i18n");
     const text = t(key);
     if (text) el.textContent = text;
   });
 
-  // Update placeholder
   document.querySelectorAll("[data-i18n-placeholder]").forEach((el) => {
     const key = el.getAttribute("data-i18n-placeholder");
     const text = t(key);
     if (text) el.placeholder = text;
   });
 
-  // Re-render news if data is loaded
   if (newsData) {
     renderHero(newsData.featured);
     renderNewsGrid(newsData.articles);
+  }
+
+  // Re-render detail page if visible
+  const hash = window.location.hash;
+  if (hash.startsWith("#/article/")) {
+    const id = parseInt(hash.split("/")[2]);
+    if (!isNaN(id)) {
+      renderDetailPage(id);
+    }
   }
 }
 
@@ -90,7 +95,7 @@ function renderHero(article) {
 
   const data = article[currentLang];
   hero.innerHTML = `
-    <div class="hero-card">
+    <div class="hero-card" onclick="navigateToArticle(${article.id})">
       <img src="${article.image}" alt="${data.title}" class="hero-image" loading="eager">
       <div class="hero-overlay">
         <span class="hero-badge">${t("hero.badge")}</span>
@@ -119,7 +124,7 @@ function renderNewsGrid(articles) {
     .map((article) => {
       const data = article[currentLang];
       return `
-      <article class="news-card">
+      <article class="news-card" onclick="navigateToArticle(${article.id})">
         <div class="card-image-wrapper">
           <img src="${article.image}" alt="${data.title}" class="card-image" loading="lazy">
           <span class="card-category">${t("categories." + article.category)}</span>
@@ -171,6 +176,159 @@ function renderCategories() {
     .join("");
 }
 
+// ===== Article Detail Page =====
+function findArticle(id) {
+  if (!newsData) return null;
+  if (newsData.featured.id === id) return newsData.featured;
+  return newsData.articles.find((a) => a.id === id) || null;
+}
+
+function navigateToArticle(id) {
+  window.location.hash = `#/article/${id}`;
+}
+
+function renderDetailPage(id) {
+  const article = findArticle(id);
+  if (!article) {
+    showHomePage();
+    return;
+  }
+
+  const data = article[currentLang];
+  const homeSections = document.getElementById("home-sections");
+  const detailPage = document.getElementById("detail-page");
+
+  if (homeSections) homeSections.style.display = "none";
+  if (detailPage) {
+    detailPage.style.display = "block";
+
+    // Format content paragraphs
+    const contentHtml = data.content
+      .split("\n")
+      .filter((p) => p.trim())
+      .map((p) => {
+        // Handle bullet points
+        if (p.trim().startsWith("- ")) {
+          return `<li>${p.trim().substring(2)}</li>`;
+        }
+        // Handle numbered lists
+        if (/^\d+\./.test(p.trim())) {
+          return `<li>${p.trim().replace(/^\d+\.\s*/, "")}</li>`;
+        }
+        return `<p>${p}</p>`;
+      })
+      .join("")
+      .replace(/<\/li><li>/g, "</li><li>")
+      .replace(/<li>/g, (match, offset, str) => {
+        // Wrap consecutive <li> in <ul> if not already
+        const prevChar = str.substring(Math.max(0, offset - 5), offset);
+        if (!prevChar.includes("</li>") && !prevChar.includes("<ul>")) {
+          return "<ul><li>";
+        }
+        return match;
+      })
+      .replace(/<\/li>(?![\s\S]*<li>)/g, "</li></ul>");
+
+    // Get related articles (same category, different id)
+    const relatedArticles = newsData.articles
+      .filter((a) => a.category === article.category && a.id !== article.id)
+      .slice(0, 3);
+
+    detailPage.innerHTML = `
+      <div class="detail-container">
+        <div class="detail-header">
+          <button class="detail-back" onclick="showHomePage()">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5"/><polyline points="12 19 5 12 12 5"/></svg>
+            ${t("detail.backToHome")}
+          </button>
+          <span class="detail-category">${t("categories." + article.category)}</span>
+        </div>
+
+        <div class="detail-hero-image">
+          <img src="${article.image}" alt="${data.title}" loading="eager">
+        </div>
+
+        <div class="detail-body">
+          <h1 class="detail-title">${data.title}</h1>
+          <div class="detail-meta">
+            <span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              ${article.date || "2026-06-09"}
+            </span>
+            <span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+              ${article.readTime} ${t("time.minRead")}
+            </span>
+            <span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+              ${article.timeAgo} ${t("time.hoursAgo")}
+            </span>
+          </div>
+          <div class="detail-content">
+            ${contentHtml}
+          </div>
+        </div>
+
+        ${
+          relatedArticles.length > 0
+            ? `
+        <div class="detail-related">
+          <h2 class="detail-related-title">${t("detail.relatedNews")}</h2>
+          <div class="detail-related-grid">
+            ${relatedArticles
+              .map((ra) => {
+                const rd = ra[currentLang];
+                return `
+                <div class="detail-related-card" onclick="navigateToArticle(${ra.id})">
+                  <img src="${ra.image}" alt="${rd.title}" class="detail-related-image" loading="lazy">
+                  <div class="detail-related-content">
+                    <span class="card-category">${t("categories." + ra.category)}</span>
+                    <h3>${rd.title}</h3>
+                    <p>${rd.excerpt}</p>
+                  </div>
+                </div>
+              `;
+              })
+              .join("")}
+          </div>
+        </div>
+        `
+            : ""
+        }
+      </div>
+    `;
+
+    // Scroll to top
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+}
+
+function showHomePage() {
+  const homeSections = document.getElementById("home-sections");
+  const detailPage = document.getElementById("detail-page");
+
+  if (homeSections) homeSections.style.display = "block";
+  if (detailPage) detailPage.style.display = "none";
+
+  // Clear the hash without triggering a new hashchange
+  history.pushState("", document.title, window.location.pathname + window.location.search);
+}
+
+// ===== Routing =====
+function handleRoute() {
+  const hash = window.location.hash;
+
+  if (hash.startsWith("#/article/")) {
+    const id = parseInt(hash.split("/")[2]);
+    if (!isNaN(id) && newsData) {
+      renderDetailPage(id);
+      return;
+    }
+  }
+
+  showHomePage();
+}
+
 // ===== Data Loading =====
 async function loadNews() {
   try {
@@ -179,6 +337,9 @@ async function loadNews() {
     renderHero(newsData.featured);
     renderNewsGrid(newsData.articles);
     renderCategories();
+
+    // Handle initial route after data loads
+    handleRoute();
   } catch (error) {
     console.error("Failed to load news:", error);
   }
@@ -199,6 +360,26 @@ function watchSystemTheme() {
     });
 }
 
+// ===== Mobile Menu =====
+function initMobileMenu() {
+  const menuBtn = document.getElementById("mobile-menu");
+  const navLinks = document.querySelector(".nav-links");
+  if (!menuBtn || !navLinks) return;
+
+  menuBtn.addEventListener("click", () => {
+    navLinks.classList.toggle("mobile-open");
+    menuBtn.classList.toggle("active");
+  });
+
+  // Close menu when clicking a link
+  navLinks.querySelectorAll("a").forEach((link) => {
+    link.addEventListener("click", () => {
+      navLinks.classList.remove("mobile-open");
+      menuBtn.classList.remove("active");
+    });
+  });
+}
+
 // ===== Initialize =====
 document.addEventListener("DOMContentLoaded", () => {
   initTheme();
@@ -206,6 +387,7 @@ document.addEventListener("DOMContentLoaded", () => {
   updateLangButton();
   loadNews();
   watchSystemTheme();
+  initMobileMenu();
 
   // Theme toggle
   document
@@ -228,4 +410,7 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     }
   });
+
+  // Hash-based routing
+  window.addEventListener("hashchange", handleRoute);
 });

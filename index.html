@@ -49,54 +49,62 @@
       </div>
     </nav>
 
-    <!-- Hero Section -->
-    <section class="hero">
-      <div class="hero-container" id="hero-content">
-        <!-- Dynamically rendered -->
-      </div>
-    </section>
+    <!-- Home Sections -->
+    <div id="home-sections">
+      <!-- Hero Section -->
+      <section class="hero">
+        <div class="hero-container" id="hero-content">
+          <!-- Dynamically rendered -->
+        </div>
+      </section>
 
-    <!-- Latest News -->
-    <section class="section" id="latest">
-      <div class="section-header">
-        <h2 class="section-title" data-i18n="sections.latestNews">Latest AI News</h2>
-      </div>
-      <div class="news-grid" id="news-grid">
-        <!-- Dynamically rendered -->
-      </div>
-    </section>
+      <!-- Latest News -->
+      <section class="section" id="latest">
+        <div class="section-header">
+          <h2 class="section-title" data-i18n="sections.latestNews">Latest AI News</h2>
+        </div>
+        <div class="news-grid" id="news-grid">
+          <!-- Dynamically rendered -->
+        </div>
+      </section>
 
-    <!-- Categories -->
-    <section class="section" id="categories" style="background: var(--bg-secondary)">
-      <div class="section-header">
-        <h2 class="section-title" data-i18n="sections.categories">Browse by Category</h2>
-      </div>
-      <div class="categories-grid" id="categories-grid">
-        <!-- Dynamically rendered -->
-      </div>
-    </section>
+      <!-- Categories -->
+      <section class="section" id="categories" style="background: var(--bg-secondary)">
+        <div class="section-header">
+          <h2 class="section-title" data-i18n="sections.categories">Browse by Category</h2>
+        </div>
+        <div class="categories-grid" id="categories-grid">
+          <!-- Dynamically rendered -->
+        </div>
+      </section>
 
-    <!-- Newsletter -->
-    <section class="section newsletter">
-      <div class="newsletter-container">
-        <h2 class="newsletter-title" data-i18n="sections.newsletter">Stay Updated</h2>
-        <p class="newsletter-desc" data-i18n="sections.newsletterDesc">
-          Get the latest AI news delivered to your inbox every week.
-        </p>
-        <form class="newsletter-form" onsubmit="event.preventDefault(); alert('Thank you for subscribing!');">
-          <input
-            type="email"
-            class="newsletter-input"
-            placeholder="Enter your email"
-            data-i18n-placeholder="sections.emailPlaceholder"
-            required
-          />
-          <button type="submit" class="newsletter-btn" data-i18n="sections.subscribe">
-            Subscribe
-          </button>
-        </form>
-      </div>
-    </section>
+      <!-- Newsletter -->
+      <section class="section newsletter">
+        <div class="newsletter-container">
+          <h2 class="newsletter-title" data-i18n="sections.newsletter">Stay Updated</h2>
+          <p class="newsletter-desc" data-i18n="sections.newsletterDesc">
+            Get the latest AI news delivered to your inbox every week.
+          </p>
+          <form class="newsletter-form" onsubmit="event.preventDefault(); alert('Thank you for subscribing!');">
+            <input
+              type="email"
+              class="newsletter-input"
+              placeholder="Enter your email"
+              data-i18n-placeholder="sections.emailPlaceholder"
+              required
+            />
+            <button type="submit" class="newsletter-btn" data-i18n="sections.subscribe">
+              Subscribe
+            </button>
+          </form>
+        </div>
+      </section>
+    </div>
+
+    <!-- Article Detail Page -->
+    <div id="detail-page" style="display: none;">
+      <!-- Dynamically rendered -->
+    </div>
 
     <!-- Footer -->
     <footer class="footer" id="about">

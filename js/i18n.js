@@ -29,6 +29,12 @@ const translations = {
       healthcare: "Healthcare AI",
       research: "Research",
     },
+    detail: {
+      backToHome: "Back to Home",
+      relatedNews: "Related News",
+      shareArticle: "Share Article",
+      publishedOn: "Published on",
+    },
     footer: {
       about: "About Us",
       aboutText:
@@ -74,6 +80,12 @@ const translations = {
       ethics: "AI 伦理",
       healthcare: "医疗 AI",
       research: "前沿研究",
+    },
+    detail: {
+      backToHome: "返回首页",
+      relatedNews: "相关新闻",
+      shareArticle: "分享文章",
+      publishedOn: "发布于",
     },
     footer: {
       about: "关于我们",
