@@ -28,6 +28,10 @@ const translations = {
       ethics: "AI Ethics",
       healthcare: "Healthcare AI",
       research: "Research",
+      infra: "Infrastructure",
+      business: "Business",
+      creative: "Creative AI",
+      policy: "Policy & Regulation",
     },
     detail: {
       backToHome: "Back to Home",
@@ -80,6 +84,10 @@ const translations = {
       ethics: "AI 伦理",
       healthcare: "医疗 AI",
       research: "前沿研究",
+      infra: "基础设施",
+      business: "商业动态",
+      creative: "创意 AI",
+      policy: "政策与监管",
     },
     detail: {
       backToHome: "返回首页",

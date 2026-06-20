@@ -77,6 +77,7 @@ function updateContent() {
   if (newsData) {
     renderHero(newsData.featured);
     renderNewsGrid(newsData.articles);
+    renderCategories();
   }
 
   // Re-render detail page if visible
@@ -207,15 +208,17 @@ function renderDetailPage(id) {
       .split("\n")
       .filter((p) => p.trim())
       .map((p) => {
+        // Convert markdown bold **text** to <strong>text</strong>
+        let line = p.replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>");
         // Handle bullet points
         if (p.trim().startsWith("- ")) {
-          return `<li>${p.trim().substring(2)}</li>`;
+          return `<li>${line.trim().substring(2)}</li>`;
         }
         // Handle numbered lists
         if (/^\d+\./.test(p.trim())) {
-          return `<li>${p.trim().replace(/^\d+\.\s*/, "")}</li>`;
+          return `<li>${line.trim().replace(/^\d+\.\s*/, "")}</li>`;
         }
-        return `<p>${p}</p>`;
+        return `<p>${line}</p>`;
       })
       .join("")
       .replace(/<\/li><li>/g, "</li><li>")
@@ -337,6 +340,7 @@ async function loadNews() {
     renderHero(newsData.featured);
     renderNewsGrid(newsData.articles);
     renderCategories();
+    updateContent();
 
     // Handle initial route after data loads
     handleRoute();
