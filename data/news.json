@@ -1,20 +1,20 @@
 {
   "featured": {
     "id": 0,
-    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=600&fit=crop",
-    "category": "policy",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=600&fit=crop",
+    "category": "business",
     "readTime": 7,
-    "timeAgo": 12,
-    "date": "2026-07-05",
+    "timeAgo": 1,
+    "date": "2026-07-06",
     "en": {
-      "title": "US Lifts Restrictions on Anthropic's Fable 5 and Mythos 5 After Safety Fixes",
-      "excerpt": "Washington ended its short-lived export ban on Anthropic's most advanced AI models after the company deployed a new safety measure that redirects jailbreak attempts to a weaker model. Fable 5 returns to the public on July 1.",
-      "content": "Anthropic's most advanced artificial intelligence systems returned to public access this week after Washington lifted a short-lived export ban imposed over fears the technology could be weaponized.\n\n**The Timeline:**\n- The US Commerce Department ordered Anthropic on June 12 to immediately block foreign access to Fable 5 and Mythos 5\n- Anthropic, unable to verify users' nationalities in real time, pulled both models offline entirely\n- The trigger: Amazon researchers discovered Fable 5's safeguards could be bypassed to find software vulnerabilities and generate exploit code\n- On June 26, Mythos 5 was partially restored to ~100 trusted US organizations\n- On July 1, Fable 5 returned to the general public\n\n**The Fix:**\nAnthropic deployed a new safety measure that catches malicious requests and silently redirects them to a weaker model, Opus 4.8. The company acknowledged the fix is not seamless, warning that some harmless queries will be blocked and that making any AI completely immune to jailbreaks is \"probably impossible.\"\n\n**What Changed:**\n- Mythos 5, the cybersecurity-focused model, expands to more domestic and international partners under the \"Glasswing\" program\n- Fable 5 is available to the general public again\n- The Commerce Department can reimpose restrictions at any time if Anthropic fails to honor its commitments\n- Anthropic agreed to report malicious activity and work with the government on protocols for future releases\n\n**The Bigger Picture:**\nThe episode is part of a broader White House push to review frontier AI models before they reach wider audiences. President Trump signed an executive order encouraging developers to submit powerful new systems for up to 30 days of government assessment. OpenAI confirmed last week that it had delayed full public release of GPT-5.6 at Washington's request.\n\nAnthropic is now deepening ties with the US government, granting designated agencies early access to both models and working with Amazon, Microsoft, Google, and other Glasswing partners to create shared standards for evaluating and fixing jailbreaks. The Pentagon earlier labeled the company a \"supply-chain risk\" after it refused to permit its AI for mass domestic surveillance or fully autonomous weapons.\n\nBoth Anthropic and OpenAI have confidentially filed for initial public offerings."
+      "title": "NVIDIA Joins the Bond Borrowing Frenzy with a $20 Billion Sale — Its First Debt Deal Since 2021",
+      "excerpt": "NVIDIA filed Monday to sell at least $20 billion in investment-grade bonds across seven maturities, the chipmaker's first debt issuance since 2021, as the AI infrastructure buildout fuels a record wave of corporate borrowing across the sector.",
+      "content": "NVIDIA entered the bond market with a jumbo filing Monday, offering at least $20 billion in investment-grade debt across seven maturities spanning two to 30 years. It marks the chipmaker's first debt issuance since 2021 — and dwarfs its 2020 and 2021 deals combined by a factor of at least four, according to Bloomberg.\n\n**The Jumbo Deal:**\n- Size: at least $20 billion, potentially upsized — proceeds will partly refinance existing debt\n- Longest-dated tranche priced around 90 basis points over U.S. Treasuries\n- Lead managers: JPMorgan Chase, Morgan Stanley, Goldman Sachs\n\n**Why Now:**\nThe sale puts NVIDIA in the camp of other tech giants racing to finance AI data-center buildouts with bond-market cash. Oracle, Google, Amazon and Meta collectively raised roughly $90 billion in the final three months of 2025 alone. Despite record fiscal Q1 revenue of $81.6 billion (up 85% year-on-year) and $48.6 billion in quarterly free cash flow, NVIDIA is tapping the market while rates are favorable and demand for AI-grade issuance is insatiable.\n\n**The Bigger Picture:**\nNVIDIA is simultaneously becoming a capital provider as well as a chip supplier — placing $30 billion into OpenAI's latest round, $5 billion into Intel, up to $10 billion into Anthropic, and authorizing an $80-billion share buyback. Monday's filing formalizes a shift from pure-play chipmaker to central financial node of the AI stack."
     },
     "zh": {
-      "title": "美国解除对 Anthropic Fable 5 和 Mythos 5 的限制：安全修复后 AI 模型恢复上线",
-      "excerpt": "华盛顿结束了对 Anthropic 最先进 AI 模型的短暂出口禁令，此前该公司部署了新的安全措施，将越狱尝试重定向到较弱的模型。Fable 5 于 7 月 1 日重新向公众开放。",
-      "content": "Anthropic 最先进的人工智能系统本周恢复公众访问，此前华盛顿解除了因担心该技术可能被武器化而实施的短暂出口禁令。\n\n**时间线：**\n- 美国商务部于 6 月 12 日下令 Anthropic 立即阻止外国访问 Fable 5 和 Mythos 5\n- Anthropic 无法实时验证用户国籍，将两个模型全部下线\n- 触发原因：亚马逊研究人员发现 Fable 5 的安全防护可被绕过，从而发现软件漏洞并生成漏洞利用代码\n- 6 月 26 日，Mythos 5 部分恢复，面向约 100 个可信美国组织\n- 7 月 1 日，Fable 5 重新向公众开放\n\n**修复方案：**\nAnthropic 部署了新的安全措施，可捕获恶意请求并静默重定向到较弱的模型 Opus 4.8。公司承认该修复并非完美，警告一些无害查询将被阻止，且让任何 AI 完全免疫越狱\"可能是不可能的\"。\n\n**变化内容：**\n- 网络安全模型 Mythos 5 通过\"Glasswing 计划\"扩展到更多国内外合作伙伴\n- Fable 5 重新对公众开放\n- 如果 Anthropic 未能履行承诺，商务部可随时重新实施限制\n- Anthropic 同意报告恶意活动并与政府合作制定未来发布的协议\n\n**更广泛的背景：**\n这一事件是白宫推动在 AI 模型更广泛发布前进行审查的一部分。特朗普总统签署了行政命令，鼓励开发者将强大的新系统提交最多 30 天的政府评估。OpenAI 上周确认，应华盛顿要求推迟了 GPT-5.6 的全面公开发布。\n\nAnthropic 正在加深与美国政府的关系，向指定机构授予两种模型的提前访问权限，并与亚马逊、微软、谷歌及其他 Glasswing 合作伙伴合作，为评估和修复越狱问题创建共享标准。五角大楼此前将该公司标记为\"供应链风险\"，原因是其拒绝允许其 AI 用于大规模国内监控或完全自主武器。\n\nAnthropic 和 OpenAI 均已秘密提交了 IPO 申请。"
+      "title": "英伟达启动 200 亿美元债券发行，加入 AI 企业举债热潮——五年来首次",
+      "excerpt": "英伟达周一提交发行至少 200 亿美元投资级债券的申请，这是该芯片制造商自 2021 年以来的首次债务发行，AI 基础设施建设热潮正推动整个行业的企业借贷潮创下新纪录。",
+      "content": "英伟达周一以一笔巨额债券发行申请进入债券市场，发行至少 200 亿美元投资级债券，分为七档期限，从两年到 30 年不等。这是该芯片制造商自 2021 年以来的首次债务发行，据彭博社报道，规模比其 2020 年和 2021 年发行的总和还大四倍以上。\n\n**交易规模：**\n- 规模：至少 200 亿美元，可能上调——部分收益将用于对现有债务进行再融资\n- 最长期档：较美国国债利率高出约 90 个基点\n- 主承销商：摩根大通、摩根士丹利、高盛\n\n**为何现在发债：**\n此次发行让英伟达跻身于那些争相利用债券市场现金为 AI 数据中心提供资金的大型科技公司行列。仅 2025 年最后三个月，甲骨文、谷歌、亚马逊和 Meta 就共同发行了约 900 亿美元债券。尽管第一财季创下 816 亿美元的收入（同比增长 85%），当季自由现金流达 486 亿美元，英伟达依然在利率有利且 AI 级债券发行需求旺盛时发债。\n\n**更广泛的背景：**\n英伟达正同时成为资本供应方和芯片供应商——向 OpenAI 最新一轮融资投入 300 亿美元，向英特尔投入 50 亿美元，向 Anthropic 投入最多 100 亿美元，并授权 800 亿美元股票回购额度。周一的发行申请正式标志著该公司从纯芯片制造商向 AI 生态金融中心节点的转变。"
     }
   },
   "articles": [
@@ -142,6 +142,132 @@
         "title": "DeepSeek V4 预览版发布，成本比 GPT-5.5 低 85%",
         "excerpt": "来自中国的 DeepSeek V4 预览版以比 GPT-5.5 低约 85% 的成本提供接近前沿水平的 AI 性能。这一发布加剧了对美国 AI 实验室的定价压力。",
         "content": "DeepSeek 发布了其 V4 模型的预览版，延续其以大幅降低成本提供接近前沿 AI 性能的策略。这款新的开源模型成本比 OpenAI 的 GPT-5.5 低约 85%，同时在主要基准测试中提供有竞争力的结果。\n\n**定价颠覆：**\n- DeepSeek V4 预览版的 API 定价约为 GPT-5.5 费率的 15%\n- 模型开源，开发者可自行部署，完全避免按 token 付费的 API 成本\n- 这延续了 DeepSeek 以激进定价获取市场份额的既定策略，尤其在发展中市场\n\n**竞争定位：**\n该模型在编程、推理和多语言任务上与领先的美国模型相比具有优势，但在某些专业基准上仍有差距。其发布正值华盛顿加强对华 AI 出口审查，以及中国 AI 公司推行\"够用就好、成本更低\"策略之际。\n\n**市场影响：**\nDeepSeek 的方法正在东南亚、海湾国家以及关注当前出口管制制度下美国 AI 产品可靠性的组织中取得进展。该公司声称其 AI 服务利润率高达 545%，表明还有显著的进一步降价空间。\n\n**更广泛的图景：**\nDeepSeek V4 代表了中国开源模型对美国 AI 主导地位日益增长的挑战。虽然美国实验室以 GPT-5.6 Sol 和 Claude Fable 5 等模型推动前沿发展，但 DeepSeek 正在广大的中间层市场获取份额——这些用户需要能力足够强的 AI，但无法承受顶级美国模型的溢价定价。\n\n该发布也与 OpenAI 提议给予美国政府 5% 股份以及 Anthropic 的国际化扩张同时发生——这些发展部分是由中国 AI 公司的竞争压力驱动的。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 6,
+      "timeAgo": 1,
+      "date": "2026-07-06",
+      "en": {
+        "title": "NVIDIA Launches $20 Billion Bond Sale, Its First Debt Offering Since 2021",
+        "excerpt": "NVIDIA filed to sell at least $20 billion in investment-grade bonds across seven maturities, the chipmaker's first issuance in five years, as the AI infrastructure buildout fuels a wave of borrowing across Big Tech.",
+        "content": "NVIDIA entered the bond market with a jumbo filing Monday, offering at least $20 billion in investment-grade debt across seven maturities spanning two to 30 years. It marks the chipmaker's first debt issuance in five years — and dwarfs its 2020 and 2021 deals combined by a factor of at least four.\n\n**The Jumbo Deal:**\n- Size: at least $20 billion, potentially upsized — proceeds will partly refinance existing debt\n- Longest-dated tranche: ~90 basis points over U.S. Treasuries\n- Lead managers: JPMorgan Chase, Morgan Stanley, Goldman Sachs (per Bloomberg)\n\n**Why Now:**\nThe sale puts NVIDIA in the camp of other tech giants racing to finance AI data-center buildouts with bond-market cash. Oracle, Google, Amazon and Meta collectively raised roughly $90 billion in the final three months of 2025 alone. Despite record fiscal Q1 revenue of $81.6 billion (up 85% year-on-year) and $48.6 billion in quarterly free cash flow, NVIDIA is tapping the market while rates are favorable and demand for AI-grade issuance is insatiable.\n\n**The Bigger Picture:**\nNVIDIA is simultaneously becoming a capital provider as well as a chip supplier — placing $30 billion into OpenAI's latest round, $5 billion into Intel, up to $10 billion into Anthropic, and an $80-billion share-buyback authorization. Monday's filing formalizes a shift from pure-play chipmaker to central financial node of the AI stack."
+      },
+      "zh": {
+        "title": "英伟达启动 200 亿美元债券发行——五年来首次举债，押注 AI 基础设施扩张",
+        "excerpt": "英伟达周一提交发行至少 200 亿美元投资级债券的计划，这是该芯片制造商自 2021 年来的首次债务发行，AI 基础设施建设热潮正推动整个大型科技领域掀起借贷潮。",
+        "content": "英伟达周一以一笔巨额债券发行申请进入债券市场，发行至少 200 亿美元投资级债券，分为七档期限，从两年到 30 年不等。这是该芯片制造商五年来首次债务发行，规模比其 2020 年和 2021 年发行的总和还大四倍以上。\n\n**交易规模：**\n- 规模：至少 200 亿美元，可能上调——部分收益将用于对现有债务进行再融资\n- 最长期档：较美国国债利率高出约 90 个基点\n- 主承销商：摩根大通、摩根士丹利、高盛（据彭博社报道）\n\n**为何现在发债：**\n此次发行让英伟达跻身于那些争相利用债券市场现金为 AI 数据中心提供资金的大型科技公司行列。仅 2025 年最后三个月，甲骨文、谷歌、亚马逊和 Meta 就共同发行了约 900 亿美元债券。尽管第一财季创下 816 亿美元的收入（同比增长 85%），当季自由现金流达 486 亿美元，英伟达依然在利率有利且 AI 级债券发行需求旺盛时发债。\n\n**更广泛的背景：**\n英伟达正同时成为资本供应方和芯片供应商——向 OpenAI 最新一轮融资投入 300 亿美元，向英特尔投入 50 亿美元，向 Anthropic 投入最多 100 亿美元，并授权 800 亿美元股票回购额度。周一的发行请求正式標誌著该公司从纯芯片制造商向 AI 生态金融中心节点的转变。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 6,
+      "timeAgo": 2,
+      "date": "2026-07-06",
+      "en": {
+        "title": "Palantir CEO Alex Karp Calls Out Frontier AI Labs as 'Data Communists'",
+        "excerpt": "In a rare public broadside, Palantir's Alex Karp accused OpenAI and Anthropic of planning to 'suck the knowledge out of enterprises' — igniting the sharpest public debate yet over who will own the intelligence layer of the enterprise.",
+        "content": "Palantir Technologies CEO Alex Karp launched a rare public broadside against frontier AI model vendors this week, accusing companies such as OpenAI and Anthropic of intending to \"suck the knowledge out of enterprises\" and strip them of the proprietary business advantages — their \"alpha\" — that make them valuable.\n\n**The Accusation:**\nKarp frames the frontier labs' model as \"data communism\": a world in which every firm gets access to the same intelligence, eroding competitive moats. He positions Palantir as a law-bound \"application layer\" that keeps sensitive data, processes and state inside the organization and its trusted ecosystem.\n\n**The Counter-Argument:**\nSiliconANGLE's Cube Research proposes the alternative lens of \"data capitalism\", in which proprietary advantage remains exclusive — but where the highest-value layer may not be the foundation model itself. Nvidia CEO Jensen Huang underlined that framing at GTC 2026: \"Proprietary versus open is not a thing. It's proprietary _and_ open.\"\n\n**What Is at Stake:**\nThe fight over the \"system of intelligence\" — the enterprise-specific context layer capturing business rules, policies, processes and tacit knowledge as governed assets — is emerging as the central commercial battleground for enterprise AI. Cube Research analysts expect \"silos of intelligence\" to proliferate over the next decade, with a fragmented industry in which no single vendor wins the whole stack."
+      },
+      "zh": {
+        "title": "Palantir CEO Alex Karp 公开批评前沿 AI 模型厂商为「数据共产主义者」",
+        "excerpt": "Palantir 的 Alex Karp 在一次罕见的公开批评中指控 OpenAI 和 Anthropic 计划「吸乾企业知识」——引发了迄今关于谁将拥有企业智能层主导权的激烈公开讨论。",
+        "content": "Palantir Technologies CEO Alex Karp 本周对前沿 AI 模型厂商发起了罕见的公开批评，指 OpenAI 和 Anthropic 等公司意图「吸乾企业知识」，剥夺它们宝贵的专有商业优势即「alpha」。\n\n**核心指控：**\nKarp 将前沿实验室的模式定性为「数据共产主义」：一种所有公司获取相同智能、削弱竞争护城河的世界。他将 Palantir 定位为受法律约束的「应用层」，确保敏感数据、流程和组织状态掌握在企业及其可信生态系统内部。\n\n**对立观点：**\nSiliconANGLE 的研究部门 Cube Research 提供了「数据资本主义」的另一种视角：专有优势仍为独家所有，但最高价值层可能并非基础模型本身。英伟达 CEO 黄仁勋在 GTC 2026 上强调了这一点：「专有与开源并非对立，而是专有 _和_ 开源。」\n\n**关键之争：**\n围绕「智能系统」（即将业务规则、政策、流程和隐性知识作为受治理资产捕获的企业专属上下文层）的争夺正成为企业 AI 商业竞争的核心战场。Cube Research 分析师预计，「智能孤岛」将在未来十年激增，行业格局碎片化，没有任何单一供应商能够独揽整层技术栈。"
+      }
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 3,
+      "date": "2026-07-06",
+      "en": {
+        "title": "AI Boom Mints Nearly 90 New Unicorns in the First Half of 2026",
+        "excerpt": "Nearly 90 startups crossed the $1 billion valuation mark in the first six months of 2026, more than double the pace from the same period last year, as AI-focused companies dominate the new class of billion-dollar startups.",
+        "content": "The unicorn factory is running at full speed. According to TechCrunch tracking, nearly 90 startups crossed the $1 billion valuation threshold in the first six months of 2026 — more than doubling the roughly 40 minted during the same period in 2025. AI-focused startups make up a significant share of the new class, spanning enterprise automation, vertical SaaS and specialized large language models.\n\n**By the Numbers:**\n- 90 new unicorns in H1 2026 vs. ~40 in H1 2025 — a doubling in pace\n- AI companies are the dominant growth driver\n- Median time to unicorn status has compressed to as little as 18 months\n\n**What Is Driving It:**\nFear of missing out plays a role, but there is substance behind the surge. Corporate venture arms of Microsoft, Google and leading AI labs are strategic investors, while AI-native companies command premium valuations across industries scrambling to integrate machine learning.\n\n**The Cautionary Note:**\nVeteran investors warn the pace raises questions about whether valuations are outpacing fundamentals — a repeat of past boom-to-bust cycles. Proponents argue this time is different because AI is producing measurable productivity gains and genuine disruption, not just speculative hype. The Silicon Valley concentration is easing, with European and Asian startups increasingly breaking through to billion-dollar status."
+      },
+      "zh": {
+        "title": "AI 热潮推动 2026 上半年诞生近 90 家新独角兽",
+        "excerpt": "2026 年上半年有近 90 家初创公司越过 10 亿美元估值门槛，较去年同期增长一倍以上，AI 公司在新一批十亿级创业公司中占主导地位。",
+        "content": "独角兽工厂正在全速运转。根据 TechCrunch 追踪，2026 年上半年有近 90 家初创公司越过了 10 亿美元估值门槛，是去年同期约 40 家的两倍多。AI 初创公司占新晋独角兽的大部分，横跨企业自动化、垂直 SaaS 和专用大语言模型等领域。\n\n**数字一览：**\n- 2026 上半年诞生 90 家新独角兽，去年同期为约 40 家——速度翻倍\n- AI 公司是主要增长引擎\n- 从创立到成为独角兽的最短时间压缩至约 18 个月\n\n**驱动因素：**\n「错失恐惧」固然起到一定作用，但热潮背后有实际支撑。微软、谷歌以及头部的 AI 实验室的企业风投部门充当战略投资者，而 AI 原生公司正在各行业竞相集成机器学习时获得高估值。\n\n**谨慎之声：**\n资深投资者警告，这一速度催生了估值是否超出基本面的问题——会不会重复过去繁荣-崩溃周期的老路。支持者认为这次不同，因为 AI 正在产生可衡的生产力提升和真正的颠覆，而不仅仅是投机炒作。硅谷的集中度正在下降，越来越多欧洲和亚洲的初创公司也在突破十亿美元估值。"
+      }
+    },
+    {
+      "id": 11,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
+      "category": "open-source",
+      "readTime": 6,
+      "timeAgo": 4,
+      "date": "2026-07-06",
+      "en": {
+        "title": "Reflection AI Hits $25 Billion Valuation Without Releasing Its Flagship Model",
+        "excerpt": "A startup founded by AlphaGo co-creator Ioannis Antonoglou vaulted from $545 million to $25 billion in one year, betting that open-weight models will define the next chapter of enterprise AI.",
+        "content": "Reflection AI, the New York–based startup founded in 2024 by former DeepMind researchers — among them AlphaGo co-creator Ioannis Antonoglou and Gemini reward-modeling lead Misha Laskin — reached a $25 billion valuation by March 2026 without publicly releasing its flagship foundation model.\n\n**The Run-Up:**\n- March 2025: $130 million Series A at a ~$545 million valuation\n- October 2025: NVIDIA-led $2 billion Series B, jumping valuation to $8 billion\n- March 2026: $2.5 billion raise targeting $25 billion\n- Roughly a 46× increase in one year, with no flagship model shipped\n\n**The Rationale:**\nInvestors are betting on \"sovereign\" open-weight AI — letting enterprises and defense agencies own their models, data and deployment — as the answer to customers cautious about closed-source APIs. Reflection's core product is Asimov, an autonomous coding agent that understands entire codebases, documentation and team communications. Backers include NVIDIA, Eric Schmidt, Lightspeed, Sequoia and Citi, plus a $6.3 billion computing contract with SpaceX and a place on the U.S. Defense Department's partner list.\n\n**Why It Matters:**\nPromoters cast Reflection as the American answer to DeepSeek: open weights, domestic trust, defense-grade posture. Skeptics counter that foundation-model capability matters, and that shipping nothing at a $25 billion valuation is a bet few young companies can afford to lose."
+      },
+      "zh": {
+        "title": "Reflection AI 估值达 250 亿美元——至今未发布旗舰模型",
+        "excerpt": "由 AlphaGo 联合创始人 Ioannis Antonoglou 创立的初创公司在一年内估值从 5.45 亿美元蹿升至 250 亿美元，其核心押注是开放权重模型将主导企业 AI 的下一章。",
+        "content": "Reflection AI 是一家 2024 年于纽约创立的公司，由前 DeepMind 研究人员创办——包括 AlphaGo 联合创始人 Ioannis Antonoglou 和 Gemini 奖励建模负责人 Misha Laskin。到 2026 年 3 月其估值已达 250 亿美元，尽管尚未公开发布其旗舰基础模型。\n\n**估值飞速攀升：**\n- 2025 年 3 月：1.3 亿美元 A 轮，估值约 5.45 亿美元\n- 2025 年 10 月：英伟达领投 20 亿美元 B 轮，估值跳至 80 亿美元\n- 2026 年 3 月：2.5 亿美元融资，目标估值 250 亿美元\n- 估值一年内增长约 46 倍，且未对外发布旗舰模型\n\n**核心逻辑：**\n投资者在押注「主权」开放权重 AI——让企业和国防机构拥有自己的模型、数据和部署——正是不满闭源 API 的客户所期待的答案。Reflection 的核心产品是 Asimov，一个能够理解整个代码库、文档和团队沟通的自主编程智能体。支持者包括英伟达、Eric Schmidt、Lightspeed、红杉资本和花旗集团，并与 SpaceX 签订了 63 亿美元的算力合同，进入美国国防部的合作伙伴名单。\n\n**为何意义重大：**\n支持者将 Reflection 塑造为 DeepSeek 的美国答案：开放权重、本土信任、国防级别的定位。怀疑论者则反驳称，基础模型能力至关重要，在 250 亿美元估值时未交付任何产品，是一场很少年轻输得起的赌局。"
+      }
+    },
+    {
+      "id": 12,
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 5,
+      "date": "2026-07-06",
+      "en": {
+        "title": "OpenAI Releases GPT-5.6 First Look While Keeping Most Users Waiting",
+        "excerpt": "OpenAI has released a limited preview of its GPT-5.6 family — Sol, Terra and Luna, with top-end Sol specialized for cybersecurity — while wider access remains gated.",
+        "content": "OpenAI is allowing a first look at GPT-5.6 without yet opening the floodgates. A limited preview of the model family — Sol, Terra and Luna — has gone out to select users, with the top-end Sol variant explicitly specialized for cybersecurity applications. OpenAI has not set a date for general availability.\n\n**The Models:**\n- Sol: top-end GPT-5.6 variant specialized in cybersecurity capabilities\n- Terra and Luna: additional variants across the GPT-5.6 family\n- General availability: date yet to be announced\n\n**The Hardware Signal:**\nOpenAI separately signaled it will ship a dedicated hardware device for its AI coding tool Codex on July 15, a first step into dedicated AI peripherals.\n\n**The Context:**\nThe limited release comes as Washington continues to vet frontier models before public distribution. President Trump signed an executive order encouraging developers to submit powerful new systems for up to 30 days of government assessment. Both OpenAI and Anthropic have confirmed slower, government-coordinated rollout schedules for their newest model classes."
+      },
+      "zh": {
+        "title": "OpenAI 发布 GPT-5.6 预览——多数用户仍需等待",
+        "excerpt": "OpenAI 发布了其 GPT-5.6 系列的有限预览（Sol、Terra 和 Luna，其中最高端版本 Sol 专为网络安全设计），而更广泛的访问仍受控。",
+        "content": "OpenAI 允许外界首次一窥 GPT-5.6 的风采，但尚未全面开放。该系列模型——Sol、Terra 和 Luna——已向部分用户提供有限预览，其中最高端版本 Sol 明确针对网络安全应用。OpenAI 尚未公布全面开放的日期。\n\n**模型家族：**\n- Sol：最高端 GPT-5.6 变体，专攻网络安全能力\n- Terra 和 Luna：该系列的其他变体\n- 全面开放：日期待定\n\n**硬件信号：**\nOpenAI 另外表示，将于 7 月 15 日推出专为 AI 编程工具 Codex 设计的硬件设备，这是向专用 AI 外设领域迈出的第一步。\n\n**相关背景：**\n此次有限发布正值前沿模型在公开发行前持续受到华盛顿审查之际。特朗普总统已签署行政命令，鼓励开发者将强大的新系统提交最多 30 天的政府评估。OpenAI 和 Anthropic 均已确认，其最新模型系列的推出节奏将更缓，并与政府进行协调。"
+      }
+    },
+    {
+      "id": 13,
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 4,
+      "date": "2026-07-06",
+      "en": {
+        "title": "Anthropic Releases Claude Sonnet 5 as the AI Agent Price War Intensifies",
+        "excerpt": "Anthropic officially launched Claude Sonnet 5, a mid-range model matching Opus 4.8 on key benchmarks while significantly cutting the per-token cost of running agentic workloads.",
+        "content": "Anthropic has officially released Claude Sonnet 5, confirming months of speculation about an upgrade to the mid-tier workhorse that powers most of Claude's volume. Sonnet 5 targets customers running heavier agentic workloads, matching Opus 4.8 on several popular benchmarks while significantly cutting the per-token cost of the flagship model.\n\n**The Spec Direction:**\nSonnet 5 trades a small headline capability edge for a dramatic cost cut — a bet that the next leg of enterprise AI adoption will be driven by workloads that run many cheaper-to-run model calls rather than a single most-expensive flagship call.\n\n**Pricing Pressure:**\nThe launch escalates an increasingly public battle over AI model pricing. OpenAI's GPT-5.7, Anthropic's Opus 4.8, and a wave of open-source challengers from DeepSeek, GLM and Kimi have pushed model costs down sharply over the last year. Anthropic is betting that moving its most-used mid-tier model down the cost curve keeps Claude's volume moat intact.\n\n**The Bigger Story:**\nSonnet 5 lands alongside Anthropic's preclinical drug-discovery push and its custom-chip discussions with Samsung — a multi-front expansion that reflects a company racing to own more of the developer and enterprise stack."
+      },
+      "zh": {
+        "title": "Anthropic 发布 Claude Sonnet 5，AI 智能体价格战加剧",
+        "excerpt": "Anthropic 正式发布了 Claude Sonnet 5，这款中端模型在关键基准测试中与 Opus 4.8 表现接近，同时大幅降低了运行 AI 智能体工作负载的每个 token 成本。",
+        "content": "Anthropic 正式发布了 Claude Sonnet 5，证实了外界数月来对其驱动了大部分的中端工作马升级的猜测。Sonnet 5 针对确切的正是运行更重型智能体工作负载的客户，在多项热门基准测试中与 Opus 4.8 接近，同时较旗舰模型显著降低每 token 成本。\n\n**规格定位：**\nSonnet 5 以微小的顶级能力为代价换取大幅的成本下降——这一押注认为，企业 AI 普及的下一程将由更多但单次调用成本更低的工作负载驱动，而非依赖单次最昂贵的旗舰调用。\n\n**定价压力：**\n此次发布加剧了日益白热化的 AI 模型价格战。OpenAI 的 GPT-5.7、Anthropic 的 Opus 4.8，以及来自 DeepSeek、GLM 和 Kimi 的一波开源挑战者，都在过去一年大幅拉低了模型成本。Anthropic 押注，让其最常用的中端模型沿成本曲线下移，将保住 Claude 的流量护城河。\n\n**更广泛的背景：**\nSonnet 5 与 Anthropic 的临床前药物发现推进以及与三星的定制芯片讨论同步到来——多层次的全面推进反映了一家公司正竞相掌控更多开发者和企业技术栈。"
+      }
+    },
+    {
+      "id": 14,
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 5,
+      "date": "2026-07-06",
+      "en": {
+        "title": "SoftBank and Meta Enter the Neocloud Race, Challenging AWS, Microsoft and Google",
+        "excerpt": "SoftBank and Meta both plan to rent GPU-heavy AI computing capacity to U.S. customers, intensifying a land grab that is reshaping the infrastructure layer of AI.",
+        "content": "SoftBank Group and Meta are entering the fast-growing neocloud market for AI computing — renting GPU-heavy infrastructure to U.S. customers, intensifying competition in a segment long dominated by Amazon Web Services, Microsoft and Google Cloud.\n\n**The Movers:**\n- SoftBank and its telecom unit SoftBank plan a \"SB Neo\" neocloud business starting next fiscal year, renting AI compute to U.S. enterprises\n- Meta is accelerating plans to monetize its heavily-invested data-center footprint via cloud services — echoing SpaceX's playbook after that company sold the full compute capacity of its Colossus1 data center to Anthropic, Google and Reflection AI\n- NVIDIA is meanwhile expanding its revenue-sharing and credit-support program for smaller cloud operators that lease its GPUs\n\n**Why It Matters:**\nThe neocloud model is reshaping the infrastructure layer beneath the AI boom. Challengers argue they can offer closer-to-cost GPU capacity without the hyperscaler margin. Analysts caution that the Big Three cloud providers are responding by building out forward-deployed engineering teams to embed enterprise AI services directly into core cloud relationships."
+      },
+      "zh": {
+        "title": "软银与 Meta 进入 AI 新云赛道，挑战 AWS、微软和谷歌",
+        "excerpt": "软银和 Meta 都计划向美国客户出租 GPU 密集型的 AI 计算能力，加剧了重构 AI 基础设施层的争夺。",
+        "content": "软银集团和 Meta 正进入快速增长的 AI 计算「新云」市场——向美国客户出租以 GPU 为主的基础设施，加剧了长期以来由 AWS、微软 Azure 和谷歌云主导的这一领域竞争。\n\n**主要参与者：**\n- 软银及其电信业务子公司软银计划下一财年推出「SB Neo」新云业务，向美国企业出租 AI 计算能力\n- Meta 正加速推进将其重资产数据中心变现的云服务计划——效仿 SpaceX 向 Anthropic、谷歌和 Reflection AI 出售其 Colossus1 数据中心全部算力后的策略\n- 与此同时，英伟达正在扩大为其 GPU 租赁商提供的收入分成和信用支持计划\n\n**意义：**\n新云模式正在重塑 AI 热潮之下的基础设施层。挑战者声称可以提供更接近成本的 GPU 算力，而无需超大规模云服务商的高利润加成。分析师则提醒，三大云服务商正通过组建专门的前端工程团队，将企业 AI 服务进一步嵌入核心云客户关系。"
       }
     }
   ]
