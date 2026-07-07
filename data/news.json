@@ -1,20 +1,20 @@
 {
   "featured": {
     "id": 0,
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=600&fit=crop",
-    "category": "business",
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=1200&h=600&fit=crop",
+    "category": "llm",
     "readTime": 7,
-    "timeAgo": 1,
-    "date": "2026-07-06",
+    "timeAgo": 2,
+    "date": "2026-07-07",
     "en": {
-      "title": "NVIDIA Joins the Bond Borrowing Frenzy with a $20 Billion Sale — Its First Debt Deal Since 2021",
-      "excerpt": "NVIDIA filed Monday to sell at least $20 billion in investment-grade bonds across seven maturities, the chipmaker's first debt issuance since 2021, as the AI infrastructure buildout fuels a record wave of corporate borrowing across the sector.",
-      "content": "NVIDIA entered the bond market with a jumbo filing Monday, offering at least $20 billion in investment-grade debt across seven maturities spanning two to 30 years. It marks the chipmaker's first debt issuance since 2021 — and dwarfs its 2020 and 2021 deals combined by a factor of at least four, according to Bloomberg.\n\n**The Jumbo Deal:**\n- Size: at least $20 billion, potentially upsized — proceeds will partly refinance existing debt\n- Longest-dated tranche priced around 90 basis points over U.S. Treasuries\n- Lead managers: JPMorgan Chase, Morgan Stanley, Goldman Sachs\n\n**Why Now:**\nThe sale puts NVIDIA in the camp of other tech giants racing to finance AI data-center buildouts with bond-market cash. Oracle, Google, Amazon and Meta collectively raised roughly $90 billion in the final three months of 2025 alone. Despite record fiscal Q1 revenue of $81.6 billion (up 85% year-on-year) and $48.6 billion in quarterly free cash flow, NVIDIA is tapping the market while rates are favorable and demand for AI-grade issuance is insatiable.\n\n**The Bigger Picture:**\nNVIDIA is simultaneously becoming a capital provider as well as a chip supplier — placing $30 billion into OpenAI's latest round, $5 billion into Intel, up to $10 billion into Anthropic, and authorizing an $80-billion share buyback. Monday's filing formalizes a shift from pure-play chipmaker to central financial node of the AI stack."
+      "title": "Chinese AI Models Leapfrog Claude on OpenRouter as US Share Halves in a Year",
+      "excerpt": "On OpenRouter, the neutral marketplace routing billions of tokens, American models' combined share collapsed from ~70% to ~30% in twelve months, with Anthropic's Claude slipping to 13.3% — now behind six Chinese models. The trigger: the Beijing-built GLM-5.2 is being called a 'mini DeepSeek moment.'",
+      "content": "The pecking order of the AI industry is usually written in benchmark tables. This month it is being rewritten in raw usage data, and the numbers are brutal for the American labs that have dominated the era. On OpenRouter, the neutral marketplace that routes billions of tokens between developers and large language models, the combined share of United States models has collapsed from roughly 70% to about 30% in a single year, while Anthropic's Claude has slid from 29.1% to just 13.3% and now sits behind six separate Chinese models.\n\n**The Trigger:**\nThe latest lurch is a Beijing-built model called GLM-5.2, which analysts and Silicon Valley investors alike are calling a \"mini DeepSeek moment.\" On several popular software-engineering benchmarks it matches or exceeds Anthropic's Opus 4.8 and OpenAI's flagship, at a fraction of the cost. Industry observers now count half a dozen Chinese models running ahead of Claude on OpenRouter on some measure of activity.\n\n**Why Now:**\nThe latest surge compounds two constraints hitting closed American labs at the same time: U.S. export curbs that limit foreign availability of the most capable frontier models, and a delayed full public release of OpenAI's GPT-5.6. Developers hungry for capability without waiting for Washington have found willing suppliers in Beijing, Shenzhen and Hangzhou.\n\n**Two Markets Forming:**\nToken volume is flowing toward open-weight Chinese models; recurring subscription revenue is still flowing toward the American labs. Analysts increasingly describe the split as \"usage vs. monetization\": U.S. vendors remain far ahead on revenue per token, but the gap in real, monthly active adoption is closing sharply."
     },
     "zh": {
-      "title": "英伟达启动 200 亿美元债券发行，加入 AI 企业举债热潮——五年来首次",
-      "excerpt": "英伟达周一提交发行至少 200 亿美元投资级债券的申请，这是该芯片制造商自 2021 年以来的首次债务发行，AI 基础设施建设热潮正推动整个行业的企业借贷潮创下新纪录。",
-      "content": "英伟达周一以一笔巨额债券发行申请进入债券市场，发行至少 200 亿美元投资级债券，分为七档期限，从两年到 30 年不等。这是该芯片制造商自 2021 年以来的首次债务发行，据彭博社报道，规模比其 2020 年和 2021 年发行的总和还大四倍以上。\n\n**交易规模：**\n- 规模：至少 200 亿美元，可能上调——部分收益将用于对现有债务进行再融资\n- 最长期档：较美国国债利率高出约 90 个基点\n- 主承销商：摩根大通、摩根士丹利、高盛\n\n**为何现在发债：**\n此次发行让英伟达跻身于那些争相利用债券市场现金为 AI 数据中心提供资金的大型科技公司行列。仅 2025 年最后三个月，甲骨文、谷歌、亚马逊和 Meta 就共同发行了约 900 亿美元债券。尽管第一财季创下 816 亿美元的收入（同比增长 85%），当季自由现金流达 486 亿美元，英伟达依然在利率有利且 AI 级债券发行需求旺盛时发债。\n\n**更广泛的背景：**\n英伟达正同时成为资本供应方和芯片供应商——向 OpenAI 最新一轮融资投入 300 亿美元，向英特尔投入 50 亿美元，向 Anthropic 投入最多 100 亿美元，并授权 800 亿美元股票回购额度。周一的发行申请正式标志著该公司从纯芯片制造商向 AI 生态金融中心节点的转变。"
+      "title": "中国 AI 模型在 OpenRouter 上反超 Claude——美国模型份额一年缩水一半",
+      "excerpt": "在路由数十亿 token 的中立平台 OpenRouter 上，美国模型的合计份额在 12 个月内从约 70% 降至约 30%，Anthropic 的 Claude 份额降至 13.3%，如今落后于六款中国模型。导火索：北京研发的 GLM-5.2 被称为「迷你 DeepSeek 时刻」。",
+      "content": "AI 行业的力量格局以往通常写在基准测试表格里。而本月，这一格局正在被真实使用数据重写——数字对主导这一时代的美国实验室颇为残酷。在 OpenRouter 这一为开发者和大语言模型路由数十亿 token 的中立市场上，美国模型的总份额在一年内从约 70% 骤降至约 30%，Anthropic 的 Claude 从 29.1% 下滑至仅 13.3%，如今落后于六款独立的中国模型。\n\n**导火索：**\n最新的一波变化源于一款北京研发的 GLM-5.2 模型，分析师和硅谷投资者将其称为「迷你 DeepSeek 时刻」。在多项主流软件工程基准测试中，它达到甚至超越了 Anthropic 的 Opus 4.8 和 OpenAI 的旗舰模型，而成本仅为极小一部分。业内人士的统计显示，目前已有六款中国模型在某活动指标上跑在 Claude 前面。\n\n**为何现在：**\n此轮需求激增叠加了同时打击美国闭源实验室的两个限制：限制最强大前沿模型对外国出口的管制，以及 OpenAI GPT-5.6 全面公开发延迟。急于获得能力而无需等待华盛顿批准的开发者，已在京沪深杭找到了积极的供应商。\n\n**两个市场的分流：**\nToken 流量正向中国开源权重模型流动，而经常性收入仍流向美国实验室。分析师日益将这一分化描述为「使用 vs. 变现」：美国厂商在每 token 收入上仍遥遥领先，但在按月活跃采用率的差距正在迅速缩小。"
     }
   },
   "articles": [
@@ -268,6 +268,132 @@
         "title": "软银与 Meta 进入 AI 新云赛道，挑战 AWS、微软和谷歌",
         "excerpt": "软银和 Meta 都计划向美国客户出租 GPU 密集型的 AI 计算能力，加剧了重构 AI 基础设施层的争夺。",
         "content": "软银集团和 Meta 正进入快速增长的 AI 计算「新云」市场——向美国客户出租以 GPU 为主的基础设施，加剧了长期以来由 AWS、微软 Azure 和谷歌云主导的这一领域竞争。\n\n**主要参与者：**\n- 软银及其电信业务子公司软银计划下一财年推出「SB Neo」新云业务，向美国企业出租 AI 计算能力\n- Meta 正加速推进将其重资产数据中心变现的云服务计划——效仿 SpaceX 向 Anthropic、谷歌和 Reflection AI 出售其 Colossus1 数据中心全部算力后的策略\n- 与此同时，英伟达正在扩大为其 GPU 租赁商提供的收入分成和信用支持计划\n\n**意义：**\n新云模式正在重塑 AI 热潮之下的基础设施层。挑战者声称可以提供更接近成本的 GPU 算力，而无需超大规模云服务商的高利润加成。分析师则提醒，三大云服务商正通过组建专门的前端工程团队，将企业 AI 服务进一步嵌入核心云客户关系。"
+      }
+    },
+    {
+      "id": 15,
+      "image": "https://images.unsplash.com/photo-1544256718-0732d2c20046?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 6,
+      "timeAgo": 1,
+      "date": "2026-07-07",
+      "en": {
+        "title": "Illinois Becomes First State to Mandate Independent Audits of Frontier AI Developers",
+        "excerpt": "Gov. JB Pritzker signed the Artificial Intelligence Safety Measures Act into law Monday, requiring outside evaluations of advanced AI safety practices by auditors without financial conflicts.",
+        "content": "Illinois Gov. JB Pritzker on Monday signed the Artificial Intelligence Safety Measures Act (SB 315) into law, making Illinois the first state to require independent, outside evaluations of AI safety practices by auditors without financial conflicts of interest. The law takes effect January 1, 2027.\n\n**What the Law Requires:**\n- Public disclosure of AI developers' safety and security practices\n- Mandatory reporting of significant AI safety incidents\n- Maintenance of internal compliance programs\n- Confidential reporting channels and whistleblower protections for employees raising AI safety concerns\n\n**Industry Backing:**\nThe legislation drew bipartisan support and rare public backing from the frontier industry itself. Anthropic formally backed the bill, with Cesar Fernandez, head of the company's state and local government practice, saying SB 315 \"makes Illinois the first state to pair AI transparency requirements with independent verification.\"\n\n**The Bigger State Picture:**\nIllinois' signing reflects a growing state-led patchwork of AI governance filling a vacuum left by federal inaction. California's governor in May signed an executive order preparing state agencies for AI workforce disruption; Utah has established an Office of AI Policy to smooth regulatory snags. Governors and attorneys general across the country are increasingly stepping into AI sectors Washington has declined to regulate."
+      },
+      "zh": {
+        "title": "伊利诺伊州率先立法，强制前沿 AI 开发商接受独立安全审计",
+        "excerpt": "州长普利茨克周一签署《人工智能安全法案》为法律，要求由无财务利害冲突的外部审计机构对先进 AI 安全实践进行评估。法律于 2027 年 1 月 1 日生效。",
+        "content": "伊利诺伊州州长 JB 普利茨克周一将《人工智能安全法案》（SB 315）签署为法律，使伊利诺伊州成为第一个要求由无财务利害冲突的外部审计机构对 AI 安全实践进行独立评估的州。该法律于 2027 年 1 月 1 日生效。\n\n**法案要求：**\n- 公开披露 AI 开发商的安全保障实践\n- 强制报告重大 AI 安全事件\n- 建立内部合规计划\n- 为提出 AI 安全担忧的员工设立保密举报渠道和反报复保护\n\n**行业立场：**\n该立法获得两党支持，并罕见地得到前沿业者的公开背书。Anthropic 正式背书该法案，公司州政府与政府业务负责人 Cesar Fernandez 称 SB 315「使伊利诺伊州成为第一个将 AI 透明度要求与独立验证相结合的州」。\n\n**更广泛的州层面缩影：**\n伊利诺伊州的签署反映了由联邦缺位留下的真空正被各州主导的人工智能治理拼凑网所填补。加州州长 5 月签署行政令为 AI 对劳动力市场的冲击做准备；犹他州已设立 AI 政策办公室以消除监管障碍。全美各州州长和司法部长日益介入这一华盛顿不肯监管的行业。"
+      }
+    },
+    {
+      "id": 16,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 3,
+      "date": "2026-07-07",
+      "en": {
+        "title": "NVIDIA CEO Jensen Huang Says $30B OpenAI Deal Is Likely the Last Pre-IPO Investment",
+        "excerpt": "At Morgan Stanley's TMT conference, Jensen Huang said NVIDIA's $30 billion investment in OpenAI, and its $10 billion in Anthropic, are probably the last large pre-IPO deals the chipmaker will make in the two AI labs.",
+        "content": "Nvidia CEO Jensen Huang said at the Morgan Stanley Technology, Media & Telecom Conference this week that the chipmaker's $30 billion investment in OpenAI is probably its largest last investment before the AI lab goes public — and added that its $10 billion in Anthropic is likely the last such bet on that rival, too.\n\n**What Huang Said:**\nHuang said the extra $100 billion once discussed in Nvidia's OpenAI pact was \"probably not slated\" for before the offering, adding: \"The reason for that is because they're gonna go public. If we provide the compute capacity they need, the revenues will more than follow.\"\n\n**The Bigger Implication:**\nThe comments clarify how AI's most consequential private company backer intends to reposition as its giants go public. After founding-era bets in both rival labs, Nvidia plans to switch to the role of capacity provider and ongoing customer rather than deepening its equity ties — still the dominant supplier, but at more conventional arm's length.\n\n**Context:**\nBoth OpenAI and Anthropic are widely expected to go public in 2026, and Anthropic is separately reported to be targeting a debut by Decency 31, 2026, according to prediction markets. Nvidia has meanwhile committed to a separate 2026 bond financing package."
+      },
+      "zh": {
+        "title": "英伟达 CEO 黄仁勋：300 亿美元投资 OpenAI 可能是最后一笔 Pre-IPO 押注",
+        "excerpt": "黄仁勋在摩根士丹利 TMT 大会上表示，英伟达对 OpenAI 的 300 亿美元投资，以及对竞争对手 Anthropic 的 100 亿美元投资，可能是该芯片制造商在这两家 AI 实验室上市前最后一笔大型 Pre-IPO 押注。",
+        "content": "英伟达 CEO 黄仁勋本周在摩根士丹利科技与媒体电话会议上表示，该公司对 OpenAI 的 300 亿美元投资可能是其对这家 AI 实验室上市前最大（也很可能是最后一笔）投资——并补充说，对竞争对手 Anthropic 的 100 亿美元也可能同样是最后一笔此类押注。\n\n**黄仁勋的话：**\n黄仁勋表示，英伟达与 OpenAI 协议中曾讨论的额外 1000 亿美元「很可能不在 IPO 前的日程上」，并补充说：「原因是他们将公开发行。只要我们提供他们所需的算力，收入自会随之而来。」\n\n**更广泛的启示：**\n这番评论揭示了 AI 领域最重要的私人公司支持者，在其巨头们上市后打算如何重新定位。在两大对头实验室都下了创始赌注之后，英伟达计划转型为算力提供者和持续的客户角色——弱化股权深度绑定，仍为占主导地位的供应商，但保持更常规的距离。\n\n**背景：**\nOpenAI 和 Anthropic 均被广泛预期将于 2026 年上市，预测市场则显示 Anthropic 力争在 2026 年 12 月 31 日前首次亮相。英伟达单独则在 2026 年完成了另一项债券融资。"
+      }
+    },
+    {
+      "id": 17,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 4,
+      "date": "2026-07-07",
+      "en": {
+        "title": "US Firms' Chinese AI Usage Surged After Anthropic Restrictions, Nikkei Reports",
+        "excerpt": "Amid U.S. government restrictions Anthropic placed on its most capable models, American companies' use of services such as GLM and DeepSeek surged in June, according to the Nikkei, with Chinese offerings priced as low as 5% of Claude Mythos.",
+        "content": "U.S. companies' use of Chinese artificial intelligence services surged in June, the period when Anthropic suspended some of its most capable models under government restrictions, according to the Nikkei — as open-source Chinese models priced as low as one-twentieth of Anthropic's Claude Mythos became more deeply entrenched in the American corporate world.\n\n**Who's Switching:**\nBig-name U.S. firms including Coinbase and Uber have moved workloads onto Chinese models such as Zhipu's GLM and DeepSeek's V4 family, per the Nikkei, in several cases replacing or supplementing workloads that had run on Anthropic or OpenAI.\n\n**Why Now:**\nWashington's export controls on Anthropic's most capable frontier systems created sudden corporate demand for alternatives that were available immediately, capable and cheap. The price gap — as low as 5% — made the migration an easy economic sell to CIOs alongside the access logic.\n\n**The Bigger Picture:**\nThe surge underscores how U.S. export restrictions, intended to constrain Beijing's AI rise, are also creating demand pull for Chinese alternatives inside the U.S. domestic market. At a median enterprise model bill level, the economics increasingly favor open Chinese models; the flywheel runs in the opposite direction from the one Washington intended."
+      },
+      "zh": {
+        "title": "日经：Anthropic 限制后美国企业中国 AI 用量激增，价格低至 Mythos 的 5%",
+        "excerpt": "在美国政府限制的背景下，Anthropic 暂停部分最先进模型后，美国企业 6 月对 GLM 和 DeepSeek 等中国模型的使用量激增，据日经报道——中国产品的定价低至 Claude Mythos 的 5%。",
+        "content": "据《日本经济新闻》报道，在 Anthropic 根据政府限制暂停部分最先进模型的背景下，美国企业 6 月对中国人工智能服务的使用量激增——定价低至 Anthropic Claude Mythos 五分之一的中国开源模型，更深入地扎根于美国企业世界。\n\n**谁在切换：**\n包括 Coinbase 和 Uber 在内的知名美国企业已将其部分工作负载转移到智谱 GLM 和 DeepSeek V4 系列等中国模型上，据日经报道——部分情况下替代或补充了此前运行在 Anthropic 或 OpenAI 上的工作负载。\n\n**为何现在：**\n华盛顿对 Anthropic 最强大前沿系统的出口管制，立即带来了对可用、强大且廉价的替代品的强烈企业需求。价格差距低至 5%，CIO 们在批准迁移时，经济层面成为一个容易接受的卖点——与可及性逻辑一道。\n\n**更广泛背景：**\n这一激增凸显了美国出口管制虽意在遏制中国 AI 崛起，却同时在国内市场内为中国替代品创造了需求拉动。在企业模型支出的中间水平上，经济学日益倾向于中国开源模型；飞轮正朝着与华盛顿预期相反的方向运行。"
+      }
+    },
+    {
+      "id": 18,
+      "image": "https://images.unsplash.com/photo-1560179707-f14ebe90c827?w=600&h=400&fit=crop",
+      "category": "products",
+      "readTime": 5,
+      "timeAgo": 3,
+      "date": "2026-07-07",
+      "en": {
+        "title": "Amazon Mechanical Turk to Stop Accepting New Users as AI Finally Eats Its Predecessor",
+        "excerpt": "Starting July 30, Amazon's 21-year-old Mechanical Turk platform will stop accepting new customers — retiring the Jeff Bezos-coined practice of 'artificial artificial intelligence' as real AI drifts in to perform the work.",
+        "content": "Starting July 30, Amazon will stop accepting new customers for Mechanical Turk (MTurk), its 21-year-old platform that co-founder Jeff Bezos once described as \"artificial artificial intelligence.\" The move retires the pioneer of paid crowdsourcing — at a moment when real AI models are finally doing much of the digital drudge work MTurk once hired humans to complete.\n\n**The Timeline:**\n- June 30: Amazon adds an \"inconspicuous\" maintenance notice to the MTurk website, per Gizmodo\n- July 30: New signups stop. Existing users can continue using the platform\n- AWS SageMaker docs separately state the cloud unit \"does not plan to introduce new features\" for MTurk\n\n**The Irony:**\nBezos coined \"artificial artificial intelligence\" as a put-down: humans imitating machines. Twenty-one years later, genuine machine intelligence is systematically outperforming the humans on the platform for image labeling, transcription, verification — and academic researchers have been abandoning MTurk in droves as AI-driven automation advances.\n\n**The Bigger Picture:**\nMTurk's slow wind-down closes the original chapter of online crowd labor and helps explain why several of Amazon's peers — including Meta — are now rushing to deploy human-in-the-loop data pipelines alongside their foundation models, even as the original artificial-AI work gets automated away."
+      },
+      "zh": {
+        "title": "Amazon Mechanical Turk 停止接纳新用户——历经 21 年的「人工智能」终于被真正的 AI 取代",
+        "excerpt": "亚马逊有 21 年历史的 Mechanical Turk 平台将于 7 月 30 日起停止接纳新客户——这个被杰夫·贝佐斯称为「人工（仿）人工智能」的平台正式退休，真正的 AI 正逐步接手工作。",
+        "content": "亚马逊将于 7 月 30 日起停止接纳 Mechanical Turk（MTurk）新客户。这个有 21 年历史的平台联合创始人杰夫·贝佐斯曾称为「人工（仿）人工智能」。此举让这一付费众包的鼻祖正式退休——而此刻真正的 AI 模型正系统性地取代该平台曾雇佣人类完成的数字杂务。\n\n**时间线：**\n- 6 月 30 日：亚马逊在 MTurk 网站加上一条「不起眼」的维护公告（据 Gizmodo）\n- 7 月 30 日：新注册停止。现有用户可继续使用该平台\n- AWS 的 SageMaker 文档单独示意该云部门「不计划引入新功能」\n\n**讽刺：**\n贝佐斯当年以「人工（仿）人工智能」戏称之：人类模仿机器行事。21 年后，真正的机器智能正系统性地在图像标注、语音转录、验证等任务上超越平台上的人类——学术界也已成群结队地抛弃 MTurk，因为 AI 驱动的自动化不断进步。\n\n**更广泛背景：**\nMTurk 的缓慢谢幕为线上众包劳动的原始篇章画上句号，也解释了为何亚马逊的几位同行——包括 Meta——正急于在其基础模型旁边部署「人类在环」数据流水线，即使最初的「人工（仿）」工作已被自动化替代。"
+      }
+    },
+    {
+      "id": 19,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "products",
+      "readTime": 6,
+      "timeAgo": 2,
+      "date": "2026-07-07",
+      "en": {
+        "title": "Meituan Open-Weights LongCat-2.0 as Station F Accelerates Europe's Catch-Up Bid",
+        "excerpt": "Chinese model developer Meituan released LongCat-2.0 as open-weight with Day-0 domestic chip support; hours later, France's Station F launched a new F/ai cohort pairing European AI startups with ElevenLabs, Nebius and GitHub.",
+        "content": "Two AI supply-chain signals pointed east and west on the same day: Chinese model developer Meituan open-weights its LongCat-2.0 model alongside its inference engine and technical documentation, and a day later France's Station F launched Europe's most ambitious cohort yet for commercializing European AI.\n\n**Meituan LongCat-2.0 Goes Open:**\nMeituan on Monday announced the open-weight release of LongCat-2.0 with full model weights, inference engine and core documentation. Domestic chipmakers Huawei Ascend, Moore Threads and MetaX simultaneously announced Day-0 inference support — high-water mark in Chinese AI domestic substitution and Meituan's bid to turn its infrastructure spend into industry-standard leverage.\n\n**Station F's F/ai Expansion:**\nStation F, the world's largest startup campus run by Xavier Nielsen, launched a new F/ai accelerator cohort that pairs European AI startups with technology partners ElevenLabs, Nebius, Rippling, OpenRouter, HubSpot and GitHub, per TechCrunch. Eight of the previous cohort's AI startups have already crossed €1 million in revenue.\n\n**Why Both Matter Together:**\nEach is a supply-side response to the same gap: European AI startups raised roughly $21.8 billion in 2025 compared with $119.8 billion in the United States, a nearly six-to-one ratio, per Dealroom data, with European founders half-expecting an acquisition as their eventual exit. Both moves race to close the usage-and-commercialization gap before the end of 2026."
+      },
+      "zh": {
+        "title": "美团开源 LongCat-2.0，Station F 加速欧洲 AI 商业化竞赛",
+        "excerpt": "中国模型开发商美团将 LongCat-2.0模型权重、推理引擎和核心技术文档同日开源；法国 Station F 同日启动 F/ai 加速器第二期，携手 ElevenLabs、Nebius、GitHub 等伙伴。",
+        "content": "东西方同一日的两个 AI 供应链信号：中国模型开发商美团将 LongCat-2.0 模型权重、推理引擎和核心技术文档同步开源，同日法国 Station F 启动了迄今最雄心勃勃的一批欧洲 AI 商业化加速项目。\n\n**美团 LongCat-2.0 开源：**\n美团周一宣布开源 LongCat-2.0，完整开放模型权重、推理引擎和核心技术文档。华为昇腾、摩尔线程和 MetaX 等国产芯片厂商同日宣布 Day-0 推理适配——这是中国 AI 国产替代的一个新高，也是美团将其基础设施投入转化为行业标准话语权的尝试。\n\n**Station F 的 F/ai 二期：**\n由 Xavier Nielsen 运营的世界最大创业园区 Station F 启动了 F/ai 加速器第二期（据 TechCrunch），将欧洲 AI 创业公司与 ElevenLabs、Nebius、Rippling、OpenRouter、HubSpot、GitHub 等科技合作伙伴配对。上一批次中已有八家 AI 创业公司突破 100 万欧元收入。\n\n**为何两者同样重要：**\n两者都是对同一差距的供给侧回应：据 Dealroom 数据，2025 年欧洲 AI 创业公司融资额约 218 亿美元，而美国为 1198 亿美元，差距接近六分之一。欧洲创始人半数料想收购会成为其最终退出路径。两件事都在争夺在 2026 年底之前缩小使用和商业化的差距。"
+      }
+    },
+    {
+      "id": 20,
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e8e5b?w=600&h=400&fit=crop",
+      "category": "products",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-07",
+      "en": {
+        "title": "WAIC 2026 Highlights AI for Science Push as China Targets Autonomous Discovery",
+        "excerpt": "As the 2026 World Artificial Intelligence Conference (WAIC) approaches in Shanghai, China's AI4S agenda is shifting from 'assisted computing' to 'autonomous discovery,' with NVIDIA listing the area as one of three key AI directions alongside LLMs and embodied intelligence.",
+        "content": "The 2026 World Artificial Intelligence Conference (WAIC), set for July 17–20 in Shanghai, is positioning AI-for-science as a centerpiece agenda as China pushes its AI4S push from \"assisted computing\" toward \"autonomous discovery.\"\n\n**Three Bottlenecks Identified:**\nIndustry and academic hosts say AI4S still faces three core bottlenecks: fragmented computing architectures yielding insufficient scientific-computing efficiency; isolated research data that cannot support AI training; and immature end-to-end integration between AI models and real-world scientific workflows.\n\n**NVIDIA's Framing:**\nNVIDIA lists AI-for-science as one of three key AI directions alongside large language models and embodied intelligence, with the market expected to reach tens of billions of dollars long-term. NVIDIA's own scientific-computing push already plays alongside the AlphaFold lineage in structural biology.\n\n**WAIC Headliners:**\nShanghai AI Lab's Zhou Bowen and Geoffrey Hinton are set to reprise their cross-disciplinary dialogue this year; MIT physicist and Future of Life Institute president Max Tegmark will address AI-safety and governance in the frontier-science track.\n\n**The Bigger AI-for-Science Push:**\nFrom defect-free arrangement of 2400 qubits in sixty milliseconds to autonomously discovering new cancer therapeutic targets, China is pushing to let an AI layer take on the role previously reserved for senior research scientists — at a moment when OpenAI, Google and Anthropic are framing scientific research as their next great competition arena."
+      },
+      "zh": {
+        "title": "WAIC 2026 聚焦 AI for Science：中国瞄向「自主发现」",
+        "excerpt": "2026 世界人工智能大会（即将在上海举行）将AI4S设为大会中心议题之一，中国的 AI-Core-Science 正从「辅助计算」转向「自主发现」——英伟达将 AI4S 列为与大语言模型、具身智能并列的三大关键方向。",
+        "content": "即将于 7 月 17-20 日在上海举行的 2026 世界人工智能大会（WAIC），将 AI for Science 设为中心议题，推动中国的 AI4S 从「辅助计算」迈向「自主发现」。\n\n**三大核心瓶颈：**\n业界和学术界认为 AI4S 仍面临三大核心瓶颈：碎片化计算架构导致科学计算效率不足；孤立研究数据无法支撑 AI 训练；AI 模型与真实科研流之间的端到端集成尚不成熟。\n\n**英伟达的框架定位：**\n英伟达将 AI-for-science 列为与大语言模型、具身智能并列的三大关键 AI 方向之一，长期市场规模预计达数百亿美元。英伟达自身的科学计算推进已在结构生物学领域与 AlphaFold 比肩。\n\n**WAIC 主要看点：**\n上海 AI 实验室主任周伯文与「深度学习教父」Geoffrey Hinton 今年将再度展开跨学科对话；MIT 物理学家、生命未来研究所主席 Max Tegmark 将在前沿科学专场讨论 AI 安全与治理。\n\n**更广泛的 AI-for-Science 推进：**\n从 60 毫秒内完成 2400 个量子比特的无缺陷排列，到自主发现新的癌症治疗靶点，中国正推动 AI 层承担此前留给资深研究科学家的角色——与此同时，OpenAI、谷歌和 Anthropic 正将科研定义为下一个重大竞争领域。"
+      }
+    },
+    {
+      "id": 21,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 6,
+      "timeAgo": 4,
+      "date": "2026-07-07",
+      "en": {
+        "title": "Japan Backs SoftBank-Led AI Models With Up to $6.2 Billion Chase of US, China",
+        "excerpt": "The Japanese government is preparing up to $6.2 billion in fresh public funding for SoftBank-led AI model development, according to the Nikkei — a sovereign bid to close the gap with the two leading AI superpowers.",
+        "content": "The Japanese government is preparing up to $6.2 billion in fresh public funding directed at SoftBank-led AI model development, according to the Nikkei — a sovereign bid to close a capability and investment gap with the two leading AI superpowers.\n\n**Why Now:**\nJapan's AI startup ecosystem has trailed both the United States and China on capital deployment, domestic foundation-model capability and physical compute infrastructure. Tokyo's new funding push is designed to anchor a credible Japanese national champion around SoftBank, one of the few entities with both the capital and the Arm-based chip-design expertise to make a run at frontier capability.\n\n**The Scale Problem:**\nEven at $6.2 billion, Japan's new commitment sits far below the hundreds of billions of dollars the United States deploys annually through private channels alone, not to mention China's national AI fund and state-level subsidy layers. Policymakers are betting that this round anchors private follow-on rather than funding the gap alone.\n\n**The Bigger Picture:**\nJapan's public-private AI push arrives as SoftBank separately expands its neocloud business into the U.S., and as Anthropic's Claude reportedly runs ahead of France's own Mistral inside Paris's Station F campus — a reminder of how aggressive the market-share competition has become even in countries trying to build sovereign alternatives."
+      },
+      "zh": {
+        "title": "日本注资最高 62 亿美元支持软银主导 AI 模型——追赶中美",
+        "excerpt": "日本政府正准备向软银主导的最高 62 亿美元 AI 模型开发公共资金，据日经报道——这是一国家层面的一次追赶两大 AI 超级大国的尝试。",
+        "content": "据《日本经济新闻》报道，日本政府正准备向 SoftBank 主导的人工智能模型开发注入最高 62 亿美元新公共资金——这是国家层面对中美两大 AI 超级大国的一次追赶尝试。\n\n**为何现在：**\n日本的 AI 创业生态系统在资本部署、国内基础模型能力和物理算力基础设施上均落后于美国和中国。东京此轮新的资金推动旨在围绕 SoftBank 构建一个可信的国产国家队——SoftBank 是为数不多同时拥有资本和 Arm 芯片设计能力挑战前沿的公司之一。\n\n**规模困局：**\n即使达到 62 亿美元，日本的新承诺仍远低于美国仅通过私人渠道每年投入的数百亿美金，更遑提及中国国家 AI 基金和地方补贴层。政策制定者希望此轮资金撬动私人跟进而非单独弥补差距。\n\n**更广泛背景：**\n日本的公私 AI 推进正值 SoftBank 单独将其新云业务扩展至美国国内之际；Anthropic 的 Claude 据报在法国 Station F 创业园区的使用量已领先于法国自家的 Mistral——这提醒人们市场竞争份额即使在国家试图建设主权替代方案的情况下也变得激烈。"
       }
     }
   ]
