@@ -599,6 +599,8 @@ document.addEventListener("DOMContentLoaded", () => {
   initTheme();
   updateThemeIcon();
   updateLangButton();
+  // Apply i18n immediately so nav text is correct before data loads
+  updateContent();
   loadNews();
   watchSystemTheme();
   initMobileMenu();
@@ -627,4 +629,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Hash-based routing
   window.addEventListener("hashchange", handleRoute);
+
+  // Also listen for clicks on the History nav link as a fallback
+  const historyLink = document.querySelector('.nav-links a[href="#/history"]');
+  if (historyLink) {
+    historyLink.addEventListener("click", function (e) {
+      e.preventDefault();
+      renderHistoryPage();
+      window.location.hash = "#/history";
+    });
+  }
 });
