@@ -6,6 +6,7 @@ const translations = {
       home: "Home",
       latest: "Latest",
       categories: "Categories",
+      history: "History",
       about: "About",
     },
     hero: {
@@ -55,6 +56,18 @@ const translations = {
       hoursAgo: "hours ago",
       daysAgo: "days ago",
     },
+    history: {
+      title: "History",
+      pastEditions: "Past Editions",
+      recentlyRead: "Recently Read",
+      emptyHistory: "No articles read yet.",
+      emptyEditions: "No archived editions yet.",
+      viewEdition: "View Edition",
+      editionArticles: "{n} articles",
+      backToLatest: "Back to Latest",
+      viewingEdition: "Viewing edition",
+      clearHistory: "Clear History",
+    },
   },
   zh: {
     siteName: "AI 新闻",
@@ -63,6 +76,7 @@ const translations = {
       home: "首页",
       latest: "最新",
       categories: "分类",
+      history: "历史",
       about: "关于",
     },
     hero: {
@@ -110,6 +124,18 @@ const translations = {
       minRead: "分钟阅读",
       hoursAgo: "小时前",
       daysAgo: "天前",
+    },
+    history: {
+      title: "历史记录",
+      pastEditions: "往期日报",
+      recentlyRead: "最近读过",
+      emptyHistory: "还没有读过文章",
+      emptyEditions: "暂无往期归档",
+      viewEdition: "查看该期",
+      editionArticles: "{n} 篇文章",
+      backToLatest: "返回最新",
+      viewingEdition: "正在查看",
+      clearHistory: "清空历史",
     },
   },
 };

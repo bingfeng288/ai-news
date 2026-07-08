@@ -1,0 +1,32 @@
+{
+  "name": "ai-news",
+  "version": "1.0.0",
+  "description": "AI News - Your daily source for artificial intelligence news and insights",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test --ui",
+    "test:chromium": "npx playwright test --project=chromium",
+    "test:mobile": "npx playwright test --project=mobile-chrome",
+    "test:report": "npx playwright show-report",
+    "serve": "npx serve . -l 3456 -s"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bingfeng288/ai-news.git"
+  },
+  "keywords": [
+    "ai",
+    "news",
+    "static-site"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bingfeng288/ai-news/issues"
+  },
+  "homepage": "https://github.com/bingfeng288/ai-news#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "serve": "^14.2.6"
+  }
+}

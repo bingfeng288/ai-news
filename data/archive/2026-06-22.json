@@ -1,0 +1,130 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&h=600&fit=crop",
+    "category": "business",
+    "readTime": 9,
+    "timeAgo": 2,
+    "date": "2026-06-22",
+    "en": {
+      "title": "Anthropic Files Confidential IPO, Eyes $1 Trillion Valuation as Revenue Surpasses OpenAI",
+      "excerpt": "The Claude maker filed with the SEC on June 1 with a $965B valuation and $44B+ annualized revenue, potentially becoming the first trillion-dollar AI startup.",
+      "content": "Anthropic has officially filed for a confidential IPO with the U.S. Securities and Exchange Commission, potentially becoming the first AI startup to achieve a trillion-dollar valuation. The filing, made on June 1, 2026, comes as the company's valuation has skyrocketed from $61.5 billion in March 2025 to approximately $965 billion.\n\nThe company's financial trajectory has been extraordinary:\n- **April 2026**: Annualized revenue surpassed $30 billion, overtaking OpenAI\n- **May 2026**: Annualized revenue exceeded $44 billion\n- **February 2026**: Valuation jumped from $60 billion to $380 billion in Series G\n- **May 2026**: Series H-1 funding pushed valuation to $965 billion\n\nAnthropic was co-founded in 2021 by former OpenAI Vice President of Research Dario Amodei, his sister Daniela Amodei, and several former OpenAI core members. Its flagship Claude series — including Claude 3/4, the programming-specific Claude Code, and enterprise APIs — has become ChatGPT's primary competitor, renowned for its low hallucination rate and ultra-long context windows.\n\nThe company's enterprise market share has surpassed OpenAI's, driven by strong adoption among Fortune 500 companies. Major investors include Google, Amazon, and leading venture capital firms.\n\nAnthropic is expected to officially list on the Nasdaq or NYSE as early as October 2026. However, risks remain: computing power bottlenecks, supply chain scrutiny from the Department of Defense, and concerns about a potential AI sector bubble given its extraordinary valuation.\n\nThe IPO comes at a complex moment — Anthropic is simultaneously negotiating with the Trump administration over the Fable 5 model shutdown, hiring top talent like Nobel laureate John Jumper, and commanding 95% odds on Polymarket for having the best AI model."
+    },
+    "zh": {
+      "title": "Anthropic 提交保密 IPO 申请，营收超越 OpenAI，目标万亿美元估值",
+      "excerpt": "Claude 的创造者于 6 月 1 日向 SEC 提交文件，估值 9650 亿美元，年化营收超 440 亿美元，有望成为首家万亿美元 AI 初创公司。",
+      "content": "Anthropic 已正式向美国证券交易委员会提交保密 IPO 申请，有望成为首家达到万亿美元估值的 AI 初创公司。该申请于 2026 年 6 月 1 日提交，公司估值已从 2025 年 3 月的 615 亿美元飙升至约 9650 亿美元。\n\n公司的财务轨迹令人瞩目：\n- **2026 年 4 月**：年化营收突破 300 亿美元，超越 OpenAI\n- **2026 年 5 月**：年化营收超过 440 亿美元\n- **2026 年 2 月**：G 轮融资将估值从 600 亿推至 3800 亿美元\n- **2026 年 5 月**：H-1 轮融资将估值推至 9650 亿美元\n\nAnthropic 由前 OpenAI 研究副总裁 Dario Amodei、其姐姐 Daniela Amodei 和多位前 OpenAI 核心成员于 2021 年联合创立。其旗舰 Claude 系列——包括 Claude 3/4、编程专用的 Claude Code 和企业 API——已成为 ChatGPT 的主要竞争对手，以低幻觉率和超长上下文窗口著称。\n\n公司的企业市场份额已超越 OpenAI，由财富 500 强企业的强劲采用推动。主要投资者包括谷歌、亚马逊和顶级风投公司。\n\nAnthropic 预计最早于 2026 年 10 月在纳斯达克或纽交所正式上市。然而，风险依然存在：算力瓶颈、国防部对供应链的审查，以及对其惊人估值可能面临的 AI 泡沫担忧。\n\nIPO 来临之际正值复杂时刻——Anthropic 同时在就 Fable 5 模型关停与特朗普政府谈判，招揽诺贝尔奖得主 John Jumper 等顶尖人才，并在 Polymarket 上以 95% 的概率领先最佳 AI 模型预测。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 7,
+      "timeAgo": 4,
+      "date": "2026-06-22",
+      "en": {
+        "title": "Trump Administration Escalates Crackdown on Anthropic, Raising Questions About AI Industry Winners",
+        "excerpt": "Targeted regulatory enforcement against the Claude maker — rather than broad sector rules — has Silicon Valley scrambling to understand the political calculus.",
+        "content": "The Trump administration has made its most aggressive move yet against a leading AI company, with Anthropic squarely in the crosshairs. The crackdown, first detailed on TechCrunch's Equity podcast, marks a sharp escalation in Washington's approach to AI regulation.\n\nUnlike broad policy frameworks targeting the entire AI sector, this appears to be targeted enforcement against a single company that has positioned itself as the responsible alternative to more aggressive competitors. The timing is critical: Anthropic has raised billions from investors including Google and is preparing for a potential IPO.\n\nIndustry observers are asking who benefits:\n- **OpenAI**: Having cultivated closer ties to political figures and maintaining a more commercially aggressive stance, reduced competition from Anthropic would directly benefit OpenAI\n- **Microsoft**: As OpenAI's largest investor, Microsoft stands to gain from anything that hampers rivals\n- **Google**: Despite investing in Anthropic, Google also competes through Gemini — a weakened Anthropic could benefit Google's first-party AI ambitions\n\nThe selective nature of the enforcement raises uncomfortable questions about political motivations. Some industry observers wonder whether Anthropic's emphasis on AI safety and ethical development put it at odds with an administration prioritizing rapid commercialization and American AI dominance.\n\nThe crackdown comes just days after Anthropic's Fable 5 model was forced offline by an export control directive, and as the company negotiates with the White House. Trump told reporters at the G7 that negotiations were \"going fine.\""
+      },
+      "zh": {
+        "title": "特朗普政府加大对 Anthropic 的打击力度，引发对 AI 行业赢家的质疑",
+        "excerpt": "针对 Claude 创造者的定向监管执法——而非广泛的行业规则——让硅谷争相解读政治意图。",
+        "content": "特朗普政府对一家领先 AI 公司采取了迄今最强硬的行动，Anthropic 成为重点目标。这一打击行动首先在 TechCrunch 的 Equity 播客中详述，标志着华盛顿在 AI 监管方面的急剧升级。\n\n与针对整个 AI 行业的广泛政策框架不同，这似乎是针对单一公司的定向执法——该公司将自己定位为更负责任的替代方案。时机十分关键：Anthropic 已从包括谷歌在内的投资者那里筹集了数十亿美元，并正准备 IPO。\n\n行业观察者在追问谁将受益：\n- **OpenAI**：与政治人物建立了更密切关系，且采取更激进的商业策略，来自 Anthropic 的竞争减少将直接有利于 OpenAI\n- **微软**：作为 OpenAI 最大的投资者，任何削弱竞争对手的事情都有利于微软\n- **谷歌**：尽管投资了 Anthropic，但谷歌也通过 Gemini 直接竞争——一个被削弱的 Anthropic 可能有利于谷歌的自有 AI 业务\n\n执法的选择性引发了关于政治动机的不安质疑。一些行业观察者想知道 Anthropic 对 AI 安全和道德开发的重视是否使其与优先考虑快速商业化和美国 AI 主导地位的政府产生了分歧。\n\n这一打击发生在 Anthropic 的 Fable 5 模型被出口管制指令强制下线数天之后，公司正在与白宫谈判。特朗普在 G7 上告诉记者谈判\"进展顺利\"。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 3,
+      "date": "2026-06-22",
+      "en": {
+        "title": "Brands Quietly Deploying AI-Generated Influencers on Social Media, Investigation Reveals",
+        "excerpt": "An investigation finds companies using fake AI influencers to promote products without disclosure, with some creators signing NDAs to hide the practice.",
+        "content": "Brands promoting their products online are quietly deploying AI-generated influencers on social media, according to an investigation by The Guardian, prompting calls for greater transparency.\n\nThe investigation found companies are increasingly turning to AI-generated content that purports to show genuine customer experiences while giving no obvious indication that the people featured are not real. Some content creators making AI influencer content are being asked to sign non-disclosure agreements (NDAs) so they cannot talk about their work.\n\nKey findings:\n- Reality Defenders, a cybersecurity company specializing in deepfake detection, confirmed multiple brands are using AI-generated influencers on Instagram\n- One example: a photo app called Once appears to use AI-generated influencers showing fake brides endorsing the product\n- There are no specific UK rules requiring brands to disclose when content features AI-generated influencers\n- The EU's Artificial Intelligence Act will require AI-generated content to be clearly labeled starting August 2026, but this won't apply in the UK\n\nThe consumer group Which? said customers should be clearly informed when promotional content features AI-generated influencers. \"Companies must be transparent when content has been created using AI, particularly if AI-generated influencers are appearing,\" the group stated.\n\nThe investigation highlights a growing tension between AI capabilities and consumer protection, as deepfake technology becomes sophisticated enough to create convincing fake endorsements that are increasingly difficult to distinguish from genuine content."
+      },
+      "zh": {
+        "title": "调查揭示品牌在社交媒体上悄然使用 AI 生成的虚拟网红",
+        "excerpt": "调查发现公司使用 AI 生成的虚假网红推广产品却不披露，部分创作者被要求签署保密协议。",
+        "content": "据《卫报》的一项调查，在线推广产品的品牌正在社交媒体上悄然部署 AI 生成的虚拟网红，引发了对更大透明度的呼吁。\n\n调查发现，公司越来越多地使用看似展示真实客户体验的 AI 生成内容，却没有明显标识这些人并非真实存在。一些制作 AI 网红内容的创作者被要求签署保密协议（NDA），以隐藏其工作内容。\n\n主要发现：\n- 专注于深度伪造检测的网络安全公司 Reality Defenders 确认多个品牌在 Instagram 上使用 AI 生成的网红\n- 一个案例：名为 Once 的照片应用似乎使用 AI 生成的网红假扮新娘为产品背书\n- 英国目前没有特定规则要求品牌披露内容是否使用了 AI 生成的网红\n- 欧盟《人工智能法案》将于 2026 年 8 月起要求 AI 生成内容必须清晰标注，但不适用于英国\n\n消费者组织 Which? 表示，客户应该在推广内容使用 AI 生成网红时得到明确告知。\"公司在使用 AI 创建内容时必须保持透明，特别是当 AI 生成的网红出现时，\"该组织表示。\n\n这项调查凸显了 AI 能力与消费者保护之间日益加剧的张力，深度伪造技术已足够精密，能创建令人信服的虚假背书，越来越难以与真实内容区分。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 6,
+      "date": "2026-06-22",
+      "en": {
+        "title": "Poll: 70% of Americans Concerned AI Will Take Their Jobs",
+        "excerpt": "A new Center Square poll reveals widespread anxiety about AI-driven job displacement, cutting across party lines and demographics.",
+        "content": "A new Center Square Voters' Voice Poll finds that 70% of Americans are \"concerned\" that artificial intelligence will take their jobs, revealing widespread anxiety about AI-driven workforce displacement.\n\nThe poll, conducted in June 2026, shows that concerns about AI replacing workers cut across party lines and demographics, with majorities in every measured group expressing worry about the technology's impact on employment.\n\nThe findings align with broader data on AI's workforce impact:\n- Employment among US software developers aged 22-25 dropped nearly 20% from 2024 levels, according to Stanford's AI Index Report\n- One-third of organizations expect AI to reduce workforce size, concentrated in service operations, supply chain, and software engineering\n- Job postings mentioning generative AI skills surged 111% from 2024 to 2025, suggesting rapid skill reorientation\n\nThe poll results come as the AI industry debates the pace and scope of job displacement. While some economists argue AI will create more jobs than it destroys, the poll suggests most Americans aren't convinced. The anxiety spans industries and education levels.\n\nThe findings add political pressure on lawmakers already grappling with AI regulation. A Johns Hopkins survey recently found 70% of Americans want the legal right to interact with humans rather than AI in medical, legal, and government settings — a sign that public concern extends beyond employment to broader questions about AI's role in society."
+      },
+      "zh": {
+        "title": "民调：70% 的美国人担心 AI 会抢走他们的工作",
+        "excerpt": "一项新的 Center Square 民调显示，对 AI 驱动的工作岗位流失的焦虑跨越了党派和人口统计界限。",
+        "content": "一项新的 Center Square 选民之声民调发现，70% 的美国人\"担心\"人工智能会抢走他们的工作，揭示了对 AI 驱动的劳动力替代的广泛焦虑。\n\n这项于 2026 年 6 月进行的民调显示，对 AI 取代工作者的担忧跨越了党派和人口统计界限，每个被测量群体中的多数人都对该技术对就业的影响表示担忧。\n\n这些发现与 AI 劳动力影响的更广泛数据一致：\n- 根据斯坦福 AI 指数报告，22-25 岁美国软件开发者的就业人数比 2024 年下降了近 20%\n- 三分之一的组织预计 AI 将减少员工规模，集中在服务运营、供应链和软件工程领域\n- 提及生成式 AI 技能的职位发布从 2024 年到 2025 年激增 111%\n\n民调结果出台之际，AI 行业正在辩论工作岗位流失的速度和范围。虽然一些经济学家认为 AI 创造的就业机会将超过其消灭的，但民调显示大多数美国人并不信服。\n\n这些发现给已经在应对 AI 监管的立法者增加了政治压力。约翰·霍普金斯大学最近的一项调查发现，70% 的美国人希望在医疗、法律和政府服务中拥有与人类而非 AI 互动的合法权利。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 8,
+      "date": "2026-06-22",
+      "en": {
+        "title": "Google's AI Brain Drain: A Stress Test or a Prelude to Decline?",
+        "excerpt": "As Nobel laureate John Jumper and other top researchers leave DeepMind, analysts debate whether Google's talent exodus signals a deeper structural problem.",
+        "content": "Google DeepMind's loss of Nobel laureate John Jumper to Anthropic has reignited debate about whether Google's AI brain drain represents a temporary talent market adjustment or signals a deeper structural problem at the search giant's AI division.\n\nJumper's departure — the most high-profile in a string of exits — follows a pattern of senior researchers leaving Google for Anthropic, OpenAI, and AI startups. The question isn't just about individual departures but about what they reveal:\n\n**The case for a stress test:**\n- Google still has the largest AI research organization in the world\n- DeepMind continues to publish groundbreaking research\n- The company's compute resources remain unmatched\n- Talent cycling is normal in fast-growing industries\n\n**The case for structural decline:**\n- Multiple reports describe a \"product-culture problem\" at Google that frustrates researchers\n- Bureaucratic processes slow the path from research to product\n- Researchers increasingly value mission alignment over compensation\n- Google's 3.2% Polymarket odds for best AI model suggest the market sees a capability gap\n\nIndustry analysts note that Google possesses the most compute, data, researchers, and revenue among AI companies — yet prediction markets give it just a 3% chance of having the best model. This disconnect between resources and results is what concerns observers most.\n\n\"You can't buy your way out of a product-culture problem,\" wrote one analyst. The question for Google is whether it can retain and motivate talent when researchers see more compelling missions at smaller, more focused companies."
+      },
+      "zh": {
+        "title": "Google 的 AI 人才流失：压力测试还是衰落前兆？",
+        "excerpt": "随着诺贝尔奖得主 John Jumper 等顶尖研究人员离开 DeepMind，分析师争论 Google 的人才外流是否预示着更深层的结构性问题。",
+        "content": "Google DeepMind 失去诺贝尔奖得主 John Jumper 到 Anthropic，重新引发了关于 Google AI 人才流失是暂时的人才市场调整还是预示着这家搜索巨头 AI 部门更深层结构性问题的辩论。\n\nJumper 的离开——一连串离职中最高级别的一次——延续了资深研究人员离开 Google 前往 Anthropic、OpenAI 和 AI 初创公司的模式。问题不仅在于个别离职，更在于它们揭示了什么：\n\n**压力测试的论据：**\n- Google 仍拥有全球最大的 AI 研究组织\n- DeepMind 继续发表突破性研究\n- 公司的计算资源仍然无可匹敌\n- 人才流动在快速增长的行业中是正常的\n\n**结构性衰退的论据：**\n- 多份报告描述了 Google 的\"产品文化问题\"令研究人员感到沮丧\n- 官僚流程拖慢了从研究到产品的路径\n- 研究人员越来越重视使命认同而非薪酬\n- Google 在 Polymarket 上仅有 3.2% 的最佳 AI 模型概率\n\n行业分析师指出，谷歌拥有 AI 公司中最多的算力、数据、研究人员和收入——但预测市场仅给予其 3% 的概率拥有最佳模型。资源与结果之间的脱节最令观察者担忧。\n\n\"你无法用钱解决产品文化问题，\"一位分析师写道。谷歌面临的问题是，当研究人员在更小、更专注的公司中看到更引人注目的使命时，它能否留住并激励人才。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&h=400&fit=crop",
+      "category": "healthcare",
+      "readTime": 5,
+      "timeAgo": 10,
+      "date": "2026-06-22",
+      "en": {
+        "title": "AI Reshaping Pharmacy: McKesson Showcases Automated Dispensing at ideaShare 2026",
+        "excerpt": "AI-powered pharmacy automation is reducing medication errors and freeing pharmacists for clinical work, as McKesson demonstrates next-generation dispensing systems.",
+        "content": "At McKesson's ideaShare 2026 conference, the healthcare giant showcased how AI and automation are fundamentally reshaping the pharmacy dispensing experience, with systems that reduce medication errors and free pharmacists to focus on patient care.\n\nThe AI-powered systems demonstrated at the event include:\n- **Automated prescription verification**: AI cross-references prescriptions against patient histories, flagging potential drug interactions and dosage errors before dispensing\n- **Robotic dispensing systems**: Physical robots that handle medication counting, labeling, and packaging with near-zero error rates\n- **Predictive inventory management**: AI that forecasts medication demand and automates ordering to prevent stockouts\n- **Clinical decision support**: Tools that help pharmacists identify patients who could benefit from medication therapy management\n\nEarly adopters report significant improvements:\n- 40% reduction in dispensing errors\n- Pharmacists spending 60% more time on direct patient care\n- 30% improvement in inventory efficiency\n- Reduced wait times for prescription fulfillment\n\n\"The pharmacy of the future is one where AI handles the routine so pharmacists can focus on what they do best — counseling patients and optimizing therapy,\" said a McKesson executive. \"We're seeing this transformation happen faster than anyone expected.\"\n\nThe showcase comes as healthcare AI adoption accelerates globally, with hospitals and pharmacies increasingly turning to automation to address staffing shortages and improve patient outcomes."
+      },
+      "zh": {
+        "title": "AI 重塑药房：McKesson 在 ideaShare 2026 展示自动化配药系统",
+        "excerpt": "AI 驱动的药房自动化正在减少用药错误，让药剂师专注于临床工作。McKesson 展示了下一代配药系统。",
+        "content": "在 McKesson 的 ideaShare 2026 大会上，这家医疗巨头展示了 AI 和自动化如何从根本上重塑药房配药体验，其系统能减少用药错误并让药剂师专注于患者护理。\n\n活动中展示的 AI 驱动系统包括：\n- **自动处方验证**：AI 将处方与患者病史交叉核对，在配药前标记潜在的药物相互作用和剂量错误\n- **机器人配药系统**：处理药物计数、贴标和包装的物理机器人，错误率接近零\n- **预测性库存管理**：预测药物需求并自动化订购以防止缺货的 AI\n- **临床决策支持**：帮助药剂师识别可从药物治疗管理中受益的患者的工具\n\n早期采用者报告了显著改善：\n- 配药错误减少 40%\n- 药剂师将 60% 更多的时间用于直接患者护理\n- 库存效率提高 30%\n- 处方配药等待时间缩短\n\n\"未来的药房是 AI 处理常规工作，让药剂师专注于最擅长的事情——咨询患者和优化治疗，\"McKesson 高管表示。\"我们看到这一转型比任何人预期的都更快。\"\n\n这一展示正值全球医疗 AI 采用加速之际，医院和药房越来越多地转向自动化以解决人员短缺问题并改善患者治疗效果。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 4,
+      "timeAgo": 14,
+      "date": "2026-06-22",
+      "en": {
+        "title": "Nvidia CEO Jensen Huang: AI Can Dramatically Improve People's Lives",
+        "excerpt": "The Nvidia chief makes an optimistic case for AI's potential to enhance human capabilities across industries, urging focus on augmentation rather than replacement.",
+        "content": "Nvidia CEO Jensen Huang made a forceful case for AI's potential to improve people's lives during public remarks this week, pushing back against growing fears about the technology's impact on employment and society.\n\n\"AI can dramatically improve people's lives,\" Huang said, urging the industry and public to focus on AI as a tool for human augmentation rather than replacement. His comments come amid a backdrop of rising public anxiety about AI's societal impact, with 70% of Americans expressing concern about job displacement.\n\nHuang's optimistic framing contrasts with the more cautious tone struck by other AI leaders:\n- Anthropic's Dario Amodei has focused on AI safety and the risks of rapid capability advancement\n- OpenAI's Sam Altman has acknowledged the need for safety guardrails while pushing for faster deployment\n- Google DeepMind has published extensively on AI alignment challenges\n\nNvidia occupies a unique position in the AI ecosystem as the dominant provider of GPU hardware that powers virtually all major AI training and inference workloads. The company's revenue has surged alongside the AI boom, making it one of the world's most valuable companies.\n\nHuang's remarks reflect Nvidia's interest in shaping the narrative around AI positively, as the company's growth is directly tied to continued AI adoption and investment across industries."
+      },
+      "zh": {
+        "title": "英伟达 CEO 黄仁勋：AI 能极大改善人们的生活",
+        "excerpt": "英伟达掌门人对 AI 增强各行业人类能力的潜力做出乐观表态，呼吁关注增强而非替代。",
+        "content": "英伟达 CEO 黄仁勋本周在公开讲话中有力地阐述了 AI 改善人们生活的潜力，对关于该技术对就业和社会影响日益增长的担忧进行了回应。\n\n\"AI 能极大地改善人们的生活，\"黄仁勋表示，敦促行业和公众将 AI 视为增强人类能力的工具而非替代品。他的讲话正值公众对 AI 社会影响焦虑上升之际——70% 的美国人对工作岗位流失表示担忧。\n\n黄仁勋的乐观表态与其他 AI 领导者的谨慎基调形成对比：\n- Anthropic 的 Dario Amodei 关注 AI 安全和快速能力进步的风险\n- OpenAI 的 Sam Altman 在推动更快部署的同时承认需要安全防护\n- Google DeepMind 在 AI 对齐挑战方面发表了大量研究\n\n英伟达在 AI 生态系统中占据独特地位，作为驱动几乎所有主要 AI 训练和推理工作负载的 GPU 硬件主导供应商。公司收入随 AI 热潮激增，使其成为全球最有价值的公司之一。\n\n黄仁勋的言论反映了英伟达对积极塑造 AI 叙事的兴趣，因为公司的增长与各行业持续的 AI 采用和投资直接挂钩。"
+      }
+    }
+  ]
+}

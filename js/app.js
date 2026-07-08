@@ -1,6 +1,8 @@
 // ===== State Management =====
 let currentLang = localStorage.getItem("lang") || "en";
 let newsData = null;
+let latestData = null; // always the most recent edition
+let viewingEdition = null; // date string of edition being viewed, or null
 
 // ===== Theme Management =====
 function initTheme() {
@@ -60,6 +62,48 @@ function t(key) {
   return value || key;
 }
 
+// ===== Reading History (localStorage) =====
+const HISTORY_KEY = "ai-news-history";
+const HISTORY_MAX = 20;
+
+function getReadHistory() {
+  try {
+    const raw = localStorage.getItem(HISTORY_KEY);
+    const arr = raw ? JSON.parse(raw) : [];
+    return Array.isArray(arr) ? arr : [];
+  } catch (e) {
+    return [];
+  }
+}
+
+function recordRead(article) {
+  if (!article) return;
+  const lang = currentLang;
+  const title = article[lang]?.title || article.en?.title || "";
+  const excerpt = article[lang]?.excerpt || article.en?.excerpt || "";
+  const entry = {
+    id: article.id,
+    category: article.category,
+    image: article.image,
+    date: article.date,
+    title,
+    excerpt,
+    ts: Date.now(),
+  };
+  let hist = getReadHistory().filter((h) => h.id !== article.id);
+  hist.unshift(entry);
+  if (hist.length > HISTORY_MAX) hist = hist.slice(0, HISTORY_MAX);
+  try {
+    localStorage.setItem(HISTORY_KEY, JSON.stringify(hist));
+  } catch (e) {}
+}
+
+function clearReadHistory() {
+  try {
+    localStorage.removeItem(HISTORY_KEY);
+  } catch (e) {}
+}
+
 // ===== Content Rendering =====
 function updateContent() {
   document.querySelectorAll("[data-i18n]").forEach((el) => {
@@ -87,6 +131,12 @@ function updateContent() {
     if (!isNaN(id)) {
       renderDetailPage(id);
     }
+  }
+
+  // Re-render history page if visible
+  const historyPage = document.getElementById("history-page");
+  if (historyPage && historyPage.style.display !== "none") {
+    renderHistoryPage();
   }
 }
 
@@ -121,7 +171,13 @@ function renderNewsGrid(articles) {
   const grid = document.getElementById("news-grid");
   if (!grid) return;
 
-  grid.innerHTML = articles
+  // Only show today's articles (matching the featured date)
+  const today = newsData && newsData.featured && newsData.featured.date;
+  const todaysArticles = today
+    ? articles.filter((a) => a.date === today)
+    : articles;
+
+  grid.innerHTML = todaysArticles
     .map((article) => {
       const data = article[currentLang];
       return `
@@ -194,6 +250,8 @@ function renderDetailPage(id) {
     showHomePage();
     return;
   }
+
+  recordRead(article);
 
   const data = article[currentLang];
   const homeSections = document.getElementById("home-sections");
@@ -309,9 +367,22 @@ function renderDetailPage(id) {
 function showHomePage() {
   const homeSections = document.getElementById("home-sections");
   const detailPage = document.getElementById("detail-page");
+  const historyPage = document.getElementById("history-page");
+  const editionBanner = document.querySelector(".edition-banner");
 
   if (homeSections) homeSections.style.display = "block";
   if (detailPage) detailPage.style.display = "none";
+  if (historyPage) historyPage.style.display = "none";
+  if (editionBanner) editionBanner.remove();
+
+  // Reset to latest edition
+  if (latestData) {
+    newsData = latestData;
+    viewingEdition = null;
+    renderHero(newsData.featured);
+    renderNewsGrid(newsData.articles);
+    renderCategories();
+  }
 
   // Clear the hash without triggering a new hashchange
   history.pushState("", document.title, window.location.pathname + window.location.search);
@@ -329,7 +400,145 @@ function handleRoute() {
     }
   }
 
+  if (hash === "#/history") {
+    renderHistoryPage();
+    return;
+  }
+
   showHomePage();
+}
+
+// ===== Edition Viewing =====
+async function loadEdition(date) {
+  try {
+    const response = await fetch("data/archive/" + date + ".json");
+    if (!response.ok) throw new Error("Failed to load edition " + date);
+    newsData = await response.json();
+    viewingEdition = date;
+
+    const homeSections = document.getElementById("home-sections");
+    const detailPage = document.getElementById("detail-page");
+    const historyPage = document.getElementById("history-page");
+    if (homeSections) homeSections.style.display = "block";
+    if (detailPage) detailPage.style.display = "none";
+    if (historyPage) historyPage.style.display = "none";
+
+    renderHero(newsData.featured);
+    renderNewsGrid(newsData.articles);
+    renderCategories();
+
+    // Add banner
+    const hero = document.getElementById("hero-content");
+    if (hero) {
+      const banner = document.createElement("div");
+      banner.className = "edition-banner";
+      banner.innerHTML = `
+        <span>${t("history.viewingEdition")} ${date}</span>
+        <button class="edition-banner-btn" onclick="backToLatest()">${t("history.backToLatest")}</button>
+      `;
+      hero.parentNode.insertBefore(banner, hero);
+    }
+
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  } catch (error) {
+    console.error("Failed to load edition:", error);
+  }
+}
+
+function backToLatest() {
+  if (!latestData) return;
+  newsData = latestData;
+  viewingEdition = null;
+
+  // Remove banner
+  const banner = document.querySelector(".edition-banner");
+  if (banner) banner.remove();
+
+  renderHero(newsData.featured);
+  renderNewsGrid(newsData.articles);
+  renderCategories();
+}
+
+// ===== History Page =====
+async function renderHistoryPage() {
+  const historyPage = document.getElementById("history-page");
+  if (!historyPage) return;
+
+  const homeSections = document.getElementById("home-sections");
+  const detailPage = document.getElementById("detail-page");
+  if (homeSections) homeSections.style.display = "none";
+  if (detailPage) detailPage.style.display = "none";
+  historyPage.style.display = "block";
+
+  // Load archive index
+  let editions = [];
+  try {
+    const response = await fetch("data/archive/index.json");
+    if (response.ok) editions = await response.json();
+  } catch (e) {}
+
+  const readHistory = getReadHistory();
+
+  historyPage.innerHTML = `
+    <div class="history-page">
+      <div class="section">
+        <div class="section-header">
+          <h2 class="section-title">${t("history.title")}</h2>
+        </div>
+
+        <div class="history-section">
+          <h3 class="history-section-title">${t("history.pastEditions")}</h3>
+          ${
+            editions.length > 0
+              ? `<div class="edition-grid">
+                  ${editions
+                    .map(
+                      (ed) => `
+                    <div class="edition-card" onclick="loadEdition('${ed.date}')">
+                      <div class="edition-card-header">
+                        <span class="edition-date">${ed.date}</span>
+                        <span class="edition-count">${t("history.editionArticles").replace("{n}", ed.count)}</span>
+                      </div>
+                      <button class="edition-view-btn">${t("history.viewEdition")}</button>
+                    </div>
+                  `
+                    )
+                    .join("")}
+                </div>`
+              : `<p class="history-empty">${t("history.emptyEditions")}</p>`
+          }
+        </div>
+
+        <div class="history-section">
+          <h3 class="history-section-title">${t("history.recentlyRead")}</h3>
+          ${
+            readHistory.length > 0
+              ? `<div class="history-grid">
+                  ${readHistory
+                    .map(
+                      (h) => `
+                    <div class="history-card" onclick="navigateToArticle(${h.id})">
+                      <img src="${h.image}" alt="${h.title}" class="history-card-image" loading="lazy">
+                      <div class="history-card-content">
+                        <span class="card-category">${t("categories." + h.category)}</span>
+                        <h4>${h.title}</h4>
+                        <p>${h.excerpt}</p>
+                        <span class="history-card-date">${h.date || ""}</span>
+                      </div>
+                    </div>
+                  `
+                    )
+                    .join("")}
+                </div>
+                <button class="history-clear-btn" onclick="clearReadHistory(); renderHistoryPage();">${t("history.clearHistory")}</button>`
+              : `<p class="history-empty">${t("history.emptyHistory")}</p>`
+          }
+        </div>
+      </div>
+    </div>
+  `;
+
+  window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
 // ===== Data Loading =====
@@ -337,6 +546,7 @@ async function loadNews() {
   try {
     const response = await fetch("data/news.json");
     newsData = await response.json();
+    latestData = newsData;
     renderHero(newsData.featured);
     renderNewsGrid(newsData.articles);
     renderCategories();

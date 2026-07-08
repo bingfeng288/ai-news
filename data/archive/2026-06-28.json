@@ -1,0 +1,130 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d6c?w=1200&h=600&fit=crop",
+    "category": "policy",
+    "readTime": 8,
+    "timeAgo": 2,
+    "date": "2026-06-28",
+    "en": {
+      "title": "US Government Restricts Frontier AI Models: OpenAI and Anthropic Forced to Limit Access",
+      "excerpt": "The Trump administration has ordered OpenAI and Anthropic to restrict their most advanced AI models to government-approved partners, marking an unprecedented federal intervention in commercial AI deployment.",
+      "content": "In an unprecedented move, the Trump administration has ordered the nation's two leading AI companies to restrict access to their most advanced models, signaling a dramatic shift in how the federal government oversees frontier AI technology.\n\nThe dual restrictions — on Anthropic's Mythos 5 and Fable 5, and OpenAI's GPT-5.6 \"Sol\" — represent the most aggressive federal intervention in commercial AI deployment to date:\n\n**Anthropic's Situation:**\n- Mythos 5, the company's strongest cybersecurity model, was ordered taken offline on June 12 over fears it could be exploited by foreign military intelligence\n- After two weeks of negotiations, the Commerce Department approved a limited re-release to approximately 100 trusted US organizations focused on cybersecurity and critical infrastructure defense\n- Fable 5, the consumer-facing model, remains restricted with no timeline for restoration\n\n**OpenAI's Situation:**\n- GPT-5.6 Sol was launched on June 26 but only to roughly 20 government-approved \"trusted partners\"\n- CEO Sam Altman called the staggered rollout \"bad news\" and said the company had planned a broader release\n- Altman publicly criticized the approach: \"Massive security testing is not a bad thing. I just don't like the government picking customers\"\n\n**The Policy Framework:**\n- President Trump signed an executive order on June 2 creating a voluntary framework for pre-release review of \"frontier AI models\"\n- The framework allows up to 30 days of government review before public release\n- While technically voluntary, the administration has strong levers to encourage compliance\n\n**Industry Reaction:**\nTech lobbyists are scrambling for clarity while being wary of pushing too hard. Former White House AI adviser Dean Ball described the system as a de facto \"involuntary licensing regime\" without clearly defined safety standards, warning it could harm US competitiveness against China.\n\n**Global Implications:**\nChinese AI companies are reportedly pursuing a \"good enough for less\" strategy — prioritizing lower costs and open-source availability. Experts warn that US overregulation could cede global AI influence to China, with Chinese models gaining traction in Southeast Asia, Gulf states, and among organizations concerned about the reliability of US AI products."
+    },
+    "zh": {
+      "title": "美国政府限制前沿 AI 模型：OpenAI 和 Anthropic 被迫限制访问权限",
+      "excerpt": "特朗普政府下令 OpenAI 和 Anthropic 将最先进的 AI 模型限制给政府批准的合作伙伴，标志着联邦对商业 AI 部署的前所未有的干预。",
+      "content": "特朗普政府采取前所未有的行动，下令美国两家领先 AI 公司限制对其最先进模型的访问，标志着联邦政府监督前沿 AI 技术的方式发生了戏剧性转变。\n\n对 Anthropic 的 Mythos 5 和 Fable 5，以及 OpenAI 的 GPT-5.6 \"Sol\" 的双重限制，代表了迄今为止联邦政府对商业 AI 部署最激进的干预：\n\n**Anthropic 的情况：**\n- Mythos 5——该公司最强的网络安全模型——于 6 月 12 日被下令下线，原因是被担心可能被外国军事情报机构利用\n- 经过两周的谈判，商务部批准了有限的重新发布，仅限于约 100 个专注于网络安全和关键基础设施防御的美国可信组织\n- 面向消费者的 Fable 5 仍然受限，没有恢复时间表\n\n**OpenAI 的情况：**\n- GPT-5.6 Sol 于 6 月 26 日发布，但仅限于约 20 个政府批准的\"可信合作伙伴\"\n- CEO Sam Altman 称分阶段推出是\"坏消息\"，表示公司原计划更广泛的发布\n- Altman 公开批评这种做法：\"大规模安全测试不是坏事。我只是不喜欢政府挑选客户\"\n\n**政策框架：**\n- 特朗普总统于 6 月 2 日签署行政命令，创建了\"前沿 AI 模型\"发布前政府审查的自愿框架\n- 该框架允许在公开发布前进行最多 30 天的政府审查\n- 虽然技术上是自愿的，但政府有强大的杠杆来鼓励合规\n\n**行业反应：**\n科技游说者正在寻求清晰度，同时谨慎不要过于强硬。前白宫 AI 顾问 Dean Ball 将这一体系描述为没有明确定义安全标准的 de facto \"非自愿许可制度\"，警告这可能损害美国对中国的竞争力。\n\n**全球影响：**\n据报道，中国 AI 公司正在追求\"够用就好、成本更低\"的策略——优先考虑低成本、开源可用性和更广泛的全球采用。专家警告称，美国过度监管可能将全球 AI 影响力拱手让给中国，中国模型在东南亚、海湾国家以及关注美国 AI 产品可靠性的组织中获得了增长动力。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 6,
+      "timeAgo": 4,
+      "date": "2026-06-28",
+      "en": {
+        "title": "Anthropic's Mythos 5 Gets Partial Reprieve: Limited Access Restored to 100 US Organizations",
+        "excerpt": "Two weeks after the Commerce Department ordered Mythos 5 offline, the advanced cybersecurity AI model is being re-deployed — but only to vetted government and critical infrastructure partners.",
+        "content": "The US Commerce Department has partially lifted its ban on Anthropic's Claude Mythos 5 model, allowing the company to restore access to approximately 100 trusted organizations focused on cybersecurity and critical infrastructure defense.\n\nThe decision, conveyed in a letter from Commerce Secretary Howard Lutnick on June 26, comes two weeks after the Trump administration's dramatic 90-minute takedown order that forced Anthropic to pull both Mythos 5 and its consumer model Fable 5 offline.\n\n**What changed:**\n- Anthropic worked intensively with the Commerce Department and national security agencies to implement additional safeguards\n- The company demonstrated enhanced access controls, monitoring systems, and foreign entity detection capabilities\n- Secretary Lutnick concluded that \"appropriate safeguards are in place to permit certain trusted partners to access the Claude Mythos 5 Model\"\n\n**Who gets access:**\n- Federal cybersecurity agencies\n- Critical infrastructure operators (power grids, water systems, financial networks)\n- Select cybersecurity defense contractors\n- Academic research institutions with security clearances\n\n**What hasn't changed:**\n- Fable 5, Anthropic's consumer-facing model launched on June 9, remains unavailable to the general public\n- No timeline has been provided for its potential return\n- Negotiations between Anthropic and the White House continue, which President Trump described at the G7 as \"going fine\"\n\nThe partial restoration is significant for Anthropic, which filed confidentially for an IPO on June 1 at a $965 billion valuation. The company's enterprise customer base, heavily reliant on Mythos for security applications, has been pressing for restored access. However, the broader restriction on Fable 5 continues to limit Anthropic's consumer market presence at a critical moment."
+      },
+      "zh": {
+        "title": "Anthropic 的 Mythos 5 部分解禁：向 100 个美国组织恢复有限访问",
+        "excerpt": "商务部下令 Mythos 5 下线两周后，这一先进的网络安全 AI 模型正在重新部署——但仅限于经过审查的政府和关键基础设施合作伙伴。",
+        "content": "美国商务部部分解除了对 Anthropic 的 Claude Mythos 5 模型的禁令，允许公司向约 100 个专注于网络安全和关键基础设施防御的可信组织恢复访问。\n\n这一决定于 6 月 26 日由商务部长 Howard Lutnick 在信中传达，距特朗普政府发出戏剧性的 90 分钟下架命令已过去两周，当时强行要求 Anthropic 将 Mythos 5 和消费者模型 Fable 5 同时下线。\n\n**变化了什么：**\n- Anthropic 与商务部和国家安全机构密集合作，实施了额外的安全措施\n- 公司展示了增强的访问控制、监控系统和外国实体检测能力\n- Lutnick 部长得出结论：\"适当的安全措施已就位，可允许某些可信合作伙伴访问 Claude Mythos 5 模型\"\n\n**谁获得访问权限：**\n- 联邦网络安全机构\n- 关键基础设施运营商（电网、供水系统、金融网络）\n- 选定的网络安全防御承包商\n- 具有安全许可的学术研究机构\n\n**什么没有变化：**\n- Fable 5——Anthropic 于 6 月 9 日推出的面向消费者的模型——仍然不对公众开放\n- 没有提供其可能恢复的时间表\n- Anthropic 与白宫的谈判仍在继续，特朗普总统在 G7 峰会上告诉记者谈判\"进展顺利\"\n\n部分恢复对 Anthropic 意义重大——该公司于 6 月 1 日以 9650 亿美元估值秘密提交了 IPO 申请。公司的企业客户群严重依赖 Mythos 进行安全应用，一直在施压要求恢复访问。然而，对 Fable 5 的更广泛限制继续限制着 Anthropic 在关键时刻的消费者市场存在。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 6,
+      "timeAgo": 6,
+      "date": "2026-06-28",
+      "en": {
+        "title": "OpenAI Defers GPT-5.6 Public Rollout Under Government Pressure, Unveils Three-Tier Model Family",
+        "excerpt": "GPT-5.6 Sol launches only to 20 approved partners as OpenAI introduces tiered pricing with Terra and Luna variants, with Sam Altman warning restrictions shouldn't become 'the long-term default.'",
+        "content": "OpenAI launched its most advanced model family yet — GPT-5.6 — on June 26, but under a cloud of government-imposed restrictions that CEO Sam Altman publicly criticized.\n\nThe launch introduces three tiers:\n- **Sol**: The flagship model with advanced agentic capabilities in coding, biology, and cybersecurity, priced at $5/million input tokens and $30/million output tokens. Currently limited to ~20 government-approved partners\n- **Terra**: A mid-tier model balancing capability and cost for broader enterprise use\n- **Luna**: A lower-cost variant optimized for efficiency\n\n**The restriction:**\nAt the Trump administration's request, Sol is being released only to a \"small group of trusted partners\" for what the government describes as a cybersecurity and national security review period. OpenAI complied but expressed clear reservations.\n\n\"We don't believe this kind of government access process should become the long-term default,\" OpenAI stated. Altman was more pointed on X: \"Massive security testing is not a bad thing. I just don't like the government picking customers.\"\n\nInternally, Altman told staff the government was approving access \"customer by customer\" — a level of granular control that has Silicon Valley alarmed.\n\n**Technical highlights:**\n- Features \"max\" reasoning mode and \"ultra\" mode using coordinated subagents\n- Outperforms Anthropic's Claude Mythos 5 on coding benchmarks while using one-third of the output tokens\n- Safety guardrails are built into the core model behavior rather than relying on separate filters\n\n**What's next:**\nOpenAI has not provided a timeline for broader Sol availability. The company stressed that this staggered approach was a temporary risk-assessment measure, not a permanent policy shift. The broader GPT-5.6 family (Terra and Luna) is not subject to the same restrictions."
+      },
+      "zh": {
+        "title": "OpenAI 在政府压力下推迟 GPT-5.6 公开发布，推出三级模型家族",
+        "excerpt": "GPT-5.6 Sol 仅向 20 个获批合作伙伴发布，OpenAI 同步推出 Terra 和 Luna 变体。Sam Altman 警告限制不应成为\"长期默认做法\"。",
+        "content": "OpenAI 于 6 月 26 日发布了迄今最强的模型家族——GPT-5.6，但笼罩在政府实施限制的阴影之下，CEO Sam Altman 公开批评了这一做法。\n\n此次发布推出三个层级：\n- **Sol**：旗舰模型，在编程、生物学和网络安全方面具有先进的智能体能力，定价 5 美元/百万输入 token，30 美元/百万输出 token。目前仅限于约 20 个政府批准的合作伙伴\n- **Terra**：中等层级模型，平衡能力与成本，面向更广泛的企业使用\n- **Luna**：低成本变体，为效率而优化\n\n**限制措施：**\n应特朗普政府要求，Sol 仅面向\"一小群可信合作伙伴\"发布，政府称这是网络安全和国家安全审查期。OpenAI 配合了这一要求，但表达了明确的保留意见。\n\n\"我们不认为这种政府接入流程应该成为长期默认做法，\"OpenAI 在声明中表示。Altman 在 X 平台上更为尖锐：\"大规模安全测试不是坏事。我只是不喜欢政府挑选客户。\"\n\n在内部，Altman 告诉员工政府正在\"逐客户\"批准访问——这种精细控制级别令硅谷警惕。\n\n**技术亮点：**\n- 具有\"max\"推理模式和\"ultra\"模式，使用协调的子智能体\n- 在编码基准测试上超越 Anthropic 的 Claude Mythos 5，同时仅使用三分之一的输出 token\n- 安全防护内置在核心模型行为中，而非依赖单独的过滤器\n\n**下一步：**\nOpenAI 尚未提供 Sol 更广泛可用的时间表。公司强调这种分阶段方法是临时的风险评估措施，而非永久性政策转变。更广泛的 GPT-5.6 家族（Terra 和 Luna）不受相同限制。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 8,
+      "date": "2026-06-28",
+      "en": {
+        "title": "Qualcomm Acquires AI Startup Modular for $4 Billion, Taking Aim at Nvidia's CUDA Dominance",
+        "excerpt": "The all-stock deal gives Qualcomm a hardware-neutral AI software platform that lets developers write code once and deploy across any chip architecture — a direct challenge to Nvidia's ecosystem.",
+        "content": "Qualcomm announced on June 24 that it will acquire AI software startup Modular Inc. in an all-stock deal valued at approximately $3.92 billion, marking a significant push into the AI infrastructure market and a direct challenge to Nvidia's dominant CUDA platform.\n\n**What Modular brings:**\n- The Mojo programming language and MAX compilation platform\n- Technology that allows developers to write AI code once and deploy it across CPUs, GPUs, NPUs, and custom chips without rewriting — a \"write once, run anywhere\" approach\n- Founded in 2022 by Chris Lattner (creator of the Swift and LLVM compiler projects) and Tim Davis\n- Previously valued at $1.6 billion in a September 2025 round; had raised $380 million total\n\n**Strategic significance:**\n- Modular's platform is a direct alternative to Nvidia's proprietary CUDA, which has been a key competitive moat\n- Combined with Qualcomm's earlier $2.3 billion acquisition of Alphawave Semiconductor, the deal creates a vertically integrated AI infrastructure stack\n- Qualcomm is also reportedly in talks to acquire AI chip startup Tenstorrent for $8-10 billion\n\n**The bigger picture:**\nCEO Cristiano Amon framed the acquisition as a bet on open, multi-platform AI: \"We believe the future belongs to developer-friendly, horizontal platforms that can run across diverse compute environments and give customers real choice in how and where they deploy AI.\"\n\nQualcomm's board authorized a $20 billion share buyback program to offset the ~1.8% dilution from the all-stock deal. The transaction is expected to close in the second half of 2026, subject to regulatory approvals.\n\nThe acquisition signals that the battle for AI infrastructure is moving beyond chips alone — to the software layer that determines which chips developers actually use."
+      },
+      "zh": {
+        "title": "高通以 40 亿美元收购 AI 初创公司 Modular，瞄准英伟达 CUDA 主导地位",
+        "excerpt": "这笔全股票交易为高通提供了一个硬件中立的 AI 软件平台，让开发者编写一次代码即可在任何芯片架构上部署——直接挑战英伟达生态系统。",
+        "content": "高通于 6 月 24 日宣布将以约 39.2 亿美元的全股票交易收购 AI 软件初创公司 Modular Inc.，标志着其在 AI 基础设施市场的重大推进，也是对英伟达主导的 CUDA 平台的直接挑战。\n\n**Modular 带来的技术：**\n- Mojo 编程语言和 MAX 编译平台\n- 允许开发者编写一次 AI 代码并在 CPU、GPU、NPU 和定制芯片上部署无需重写的技术——\"编写一次，随处运行\"\n- 由 Chris Lattner（Swift 和 LLVM 编译器项目创建者）和 Tim Davis 于 2022 年创立\n- 在 2025 年 9 月的一轮融资中估值为 16 亿美元；总共筹集了 3.8 亿美元\n\n**战略意义：**\n- Modular 的平台是英伟达专有 CUDA 的直接替代品，后者一直是关键的竞争壁垒\n- 结合高通此前以 23 亿美元收购 Alphawave Semiconductor 的交易，形成垂直整合的 AI 基础设施堆栈\n- 据报道高通还在洽谈以 80-100 亿美元收购 AI 芯片初创公司 Tenstorrent\n\n**更大的图景：**\nCEO Cristiano Amon 将此次收购描述为押注开放、多平台 AI：\"我们相信未来属于开发者友好、水平化的平台，能够在多样化计算环境中运行，让客户真正选择如何以及在哪里部署 AI。\"\n\n高通董事会授权了 200 亿美元的股票回购计划，以抵消全股票交易带来的约 1.8% 稀释。该交易预计将在 2026 年下半年完成，需获得监管批准。\n\n此次收购标志着 AI 基础设施的争夺已超越芯片本身——延伸至决定开发者实际使用哪些芯片的软件层。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 10,
+      "date": "2026-06-28",
+      "en": {
+        "title": "OpenAI and Broadcom Unveil 'Jalapeño': First Custom AI Chip Built for LLM Inference",
+        "excerpt": "OpenAI's first in-house chip, co-designed with Broadcom, matches Nvidia Blackwell performance and is already running GPT-5.3-Codex-Spark in the lab. Full deployment targeted by end of 2026.",
+        "content": "OpenAI and Broadcom officially unveiled \"Jalapeño\" on June 24 — OpenAI's first custom AI chip, purpose-built from scratch for large language model inference — marking a pivotal moment in the AI hardware landscape.\n\nThe chip represents OpenAI's bid to reduce dependence on Nvidia GPUs and gain more control over its full technology stack:\n\n**Technical details:**\n- An ASIC designed specifically for LLM inference, not training — optimized to serve already-trained models at scale\n- Architecture reduces data movement and balances compute, memory, and networking to achieve utilization closer to theoretical peak performance\n- Uses Broadcom's Tomahawk networking silicon for large-scale production connectivity\n- Performance per watt described as \"substantially better than the current state-of-the-art\"\n- Broadcom CEO Hock Tan told Reuters the chip is \"as good as Nvidia's Blackwell chips\"\n\n**Remarkable development speed:**\n- Completed a 9-month design-to-tape-out cycle — one of the fastest ASIC development cycles in advanced semiconductor history\n- OpenAI used its own AI models to accelerate parts of the chip design and optimization process\n\n**Deployment timeline:**\n- Engineering samples already running in OpenAI's lab at production frequency, running GPT-5.3-Codex-Spark\n- Initial deployment planned by end of 2026\n- Ramping through 2027, going \"full tilt\" in first half of 2028\n- Gigawatt-scale datacenter deployment with Microsoft and other partners\n- Chips will be used exclusively by OpenAI\n\n**Strategic implications:**\nThe chip positions OpenAI to vertically integrate its AI stack — from model design through hardware — similar to Apple's strategy in mobile. President Greg Brockman said the company \"cannot get compute fast enough,\" while Broadcom's Tan described AI chip demand as \"simply insatiable\" through 2028."
+      },
+      "zh": {
+        "title": "OpenAI 与 Broadcom 发布首款专为大模型推理设计的定制 AI 芯片",
+        "excerpt": "OpenAI 的首款自研芯片与 Broadcom 联合设计，性能匹敌英伟达 Blackwell，已在实验室运行 GPT-5.3-Codex-Spark。计划于 2026 年底全面部署。",
+        "content": "OpenAI 和 Broadcom 于 6 月 24 日正式发布了\"Jalapeño\"——OpenAI 的首款定制 AI 芯片，从零开始专为大语言模型推理而建——标志着 AI 硬件格局的关键时刻。\n\n该芯片代表了 OpenAI 减少对英伟达 GPU 依赖、获得对其全技术栈更多控制权的努力：\n\n**技术细节：**\n- 专为 LLM 推理而非训练设计的 ASIC——优化大规模服务已训练模型\n- 架构减少数据移动，平衡计算、内存和网络，以达到更接近理论峰值性能的利用率\n- 使用 Broadcom 的 Tomahawk 网络芯片实现大规模生产连接\n- 每瓦性能被描述为\"显著优于当前业界最佳水平\"\n- Broadcom CEO Hock Tan 告诉路透社，该芯片\"与英伟达 Blackwell 芯片一样好\"\n\n**令人瞩目的开发速度：**\n- 完成了 9 个月的设计到流片周期——先进半导体史上最快的 ASIC 开发周期之一\n- OpenAI 使用自己的 AI 模型加速了芯片设计和优化过程的部分环节\n\n**部署时间表：**\n- 工程样品已在 OpenAI 实验室以生产频率运行，运行 GPT-5.3-Codex-Spark\n- 初步部署计划于 2026 年底\n- 2027 年加速部署，2028 年上半年\"全速\"运行\n- 与微软和其他合作伙伴进行吉瓦级数据中心部署\n- 芯片将由 OpenAI 独家使用\n\n**战略意义：**\n该芯片使 OpenAI 能够垂直整合其 AI 堆栈——从模型设计到硬件——类似于苹果在移动领域的策略。总裁 Greg Brockman 表示公司\"无法足够快地获得算力\"，而 Broadcom 的 Tan 将 AI 芯片需求描述为到 2028 年\"根本无法满足\"。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 12,
+      "date": "2026-06-28",
+      "en": {
+        "title": "Jeff Bezos' Prometheus Raises $12 Billion to Build an 'Artificial General Engineer' for Manufacturing",
+        "excerpt": "The industrial AI startup, now valued at $41 billion, aims to compress the design-to-manufacturing cycle by 10x — targeting aerospace, semiconductors, and medical devices.",
+        "content": "Jeff Bezos' industrial AI startup Prometheus has raised $12 billion in Series B funding at a $41 billion valuation, bringing its total funding to over $18 billion and positioning it as one of the most ambitious bets on AI for physical industry.\n\nThe company, co-founded by Bezos and former Google executive Vik Bajaj, emerged from stealth mode in June 2026 with a contrarian thesis: AI won't cause mass unemployment — it will create a labor shortage by enabling smaller teams to do vastly more.\n\n**What Prometheus is building:**\nBezos calls it an \"artificial general engineer\" — AI tools designed to dramatically accelerate the design-to-manufacturing cycle for complex physical products:\n- Pre-production optimization: prototyping, simulation, equipment tuning, workflow design\n- Target industries: aerospace (jet engines), semiconductors, medical devices, batteries, solar equipment, consumer electronics\n- Goal: compress the \"dream-build loop\" by 10x or more\n\n**Why it's different:**\nUnlike LLMs trained on public internet text, Prometheus faces a fundamental challenge: there is no \"internet of manufacturing data\" to train on. The company must build its training datasets from scratch, working directly with industrial partners.\n\n**The scale of the bet:**\n- ~150 employees across San Francisco, London, and Zurich\n- Investors include JPMorgan Chase, Goldman Sachs, BlackRock, DST Global, and Arch Venture Partners\n- Reports of a potential $100 billion affiliated holding company to acquire legacy industrial businesses for their manufacturing data (unconfirmed)\n- No corporate ties to Amazon or Blue Origin\n\nBezos framed the mission at VivaTech in Paris: \"The cycle from dream, to manufacturing at rate, to having it out in the world can be very long. What we're doing is building tools that will empower engineers to compress that cycle time.\"\n\nBajaj added: \"The pace of our physical creation right now is nowhere near the pace of human imagination.\""
+      },
+      "zh": {
+        "title": "贝佐斯的 Prometheus 融资 120 亿美元，打造制造业的\"通用 AI 工程师\"",
+        "excerpt": "这家工业 AI 初创公司估值达 410 亿美元，旨在将设计到制造的周期压缩 10 倍——瞄准航空航天、半导体和医疗设备领域。",
+        "content": "杰夫·贝佐斯的工业 AI 初创公司 Prometheus 在 B 轮融资中筹集了 120 亿美元，估值达 410 亿美元，使其总融资额超过 180 亿美元，成为对 AI 赋能实体工业最雄心勃勃的押注之一。\n\n该公司由贝佐斯和前 Google 高管 Vik Bajaj 联合创立，于 2026 年 6 月走出隐身模式，提出了一个逆势观点：AI 不会造成大规模失业——它将通过让更小的团队完成更多工作来创造劳动力短缺。\n\n**Prometheus 正在构建什么：**\n贝佐斯称之为\"通用 AI 工程师\"——旨在大幅加速复杂物理产品从设计到制造周期的 AI 工具：\n- 预生产优化：原型设计、仿真、设备调试、工作流设计\n- 目标行业：航空航天（喷气发动机）、半导体、医疗器械、电池、太阳能设备、消费电子\n- 目标：将\"梦想-构建循环\"压缩 10 倍或更多\n\n**为何不同：**\n与在公共互联网文本上训练的 LLM 不同，Prometheus 面临根本性挑战：没有\"制造业数据互联网\"可供训练。公司必须从头构建训练数据集，直接与工业合作伙伴协作。\n\n**赌注的规模：**\n- 约 150 名员工分布在旧金山、伦敦和苏黎世\n- 投资者包括摩根大通、高盛、贝莱德、DST Global 和 Arch Venture Partners\n- 有报道称可能成立 1000 亿美元的关联控股公司，收购传统工业企业以获取其制造数据（未经证实）\n- 与亚马逊或蓝色起源无公司关联\n\n贝佐斯在巴黎 VivaTech 大会上阐述了使命：\"从梦想到规模化制造、再到将其推向世界的周期可能非常漫长。我们正在构建的工具将赋予工程师压缩这一周期时间的能力。\"\n\nBajaj 补充道：\"我们当前物理创造的速度远不及人类想象的速度。\""
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 4,
+      "timeAgo": 14,
+      "date": "2026-06-28",
+      "en": {
+        "title": "AI Chip Stocks See Wild Swings as Micron Posts 346% Revenue Jump and South Korea Triggers Circuit Breakers",
+        "excerpt": "AI semiconductor stocks experienced extreme volatility this week. Micron's record results sparked a rebound, but the broader chip index still finished down 7.9%.",
+        "content": "The AI semiconductor sector experienced one of its most volatile weeks on record, as staggering earnings from memory chip makers collided with broader market anxiety about AI infrastructure spending sustainability.\n\n**The highs:**\n- Micron Technology reported a 346% year-over-year revenue jump and record gross margins, driven by insatiable demand for high-bandwidth memory (HBM) used in AI accelerators\n- The results triggered a sharp rebound in AI chip stocks mid-week, with analysts calling it a validation of continued AI infrastructure investment\n- Broadcom shares surged after the OpenAI Jalapeño chip announcement and confirmation of custom AI chip deals with multiple hyperscalers\n\n**The lows:**\n- The broader semiconductor index finished the week down 7.9%\n- South Korea's Kospi index triggered circuit breakers twice in a single week due to extreme concentration in Samsung and SK Hynix, both heavily exposed to AI memory demand\n- Goldman Sachs analysts described the turmoil as an \"AI rebalancing\" — not a washout but a rotation as investors reassess valuations\n\n**What's driving the volatility:**\n- Concerns that AI chip demand, while enormous, may be peaking as hyperscalers begin deploying their own custom silicon (like OpenAI's Jalapeño and Broadcom's multiple custom ASIC programs)\n- Questions about whether memory chip pricing can sustain current levels given massive capacity expansion underway\n- The Trump administration's AI export controls introducing regulatory uncertainty into chip demand forecasts\n\n**Looking ahead:**\nAnalysts remain divided. Bulls point to Broadcom CEO Hock Tan's description of AI chip demand as \"simply insatiable\" through 2028 and the gigawatt-scale datacenter buildouts underway. Bears warn that custom ASIC adoption by major AI labs could erode GPU volumes and that memory pricing is cyclical by nature.\n\nThe near-term focus is on the upcoming earnings from Samsung, SK Hynix, and TSMC for further signals about the trajectory of AI infrastructure spending."
+      },
+      "zh": {
+        "title": "AI 芯片股剧烈震荡：美光营收暴增 346%，韩国两度触发熔断",
+        "excerpt": "AI 半导体板块本周经历了历史性波动。美光创纪录业绩引发反弹，但芯片指数全周仍下跌 7.9%。",
+        "content": "AI 半导体板块经历了有记录以来最动荡的一周，存储芯片制造商的惊人业绩与市场对 AI 基础设施支出可持续性的更广泛焦虑相互碰撞。\n\n**高光时刻：**\n- 美光科技报告营收同比增长 346% 和创纪录的毛利率，由对 AI 加速器中使用的高带宽内存（HBM）的无法满足的需求推动\n- 业绩发布引发 AI 芯片股周中出现急剧反弹，分析师称其验证了持续的 AI 基础设施投资\n- 在 OpenAI Jalapeño 芯片公告及与多家超大规模客户确认定制 AI 芯片交易后，Broadcom 股价飙升\n\n**低谷时刻：**\n- 更广泛的半导体指数全周下跌 7.9%\n- 韩国 Kospi 指数一周内两次触发熔断机制，因三星和 SK 海力士极度集中，两者均深度暴露于 AI 内存需求\n- 高盛分析师将动荡描述为\"AI 再平衡\"——不是崩盘，而是投资者重新评估估值时的轮动\n\n**波动驱动因素：**\n- 担忧 AI 芯片需求虽然巨大，但随着超大规模客户开始部署自己的定制芯片（如 OpenAI 的 Jalapeño 和 Broadcom 的多个定制 ASIC 项目），可能正在见顶\n- 对内存芯片定价能否在大量产能扩张进行中的情况下维持当前水平存疑\n- 特朗普政府的 AI 出口管制为芯片需求预测引入了监管不确定性\n\n**展望：**\n分析师意见分歧。多头指向 Broadcom CEO Hock Tan 将 AI 芯片需求描述为到 2028 年\"根本无法满足\"，以及正在进行的吉瓦级数据中心建设。空头警告称，主要 AI 实验室采用定制 ASIC 可能侵蚀 GPU 销量，且内存定价本质上是周期性的。\n\n近期焦点在于即将公布的三星、SK 海力士和台积电财报，以获取 AI 基础设施支出轨迹的进一步信号。"
+      }
+    }
+  ]
+}

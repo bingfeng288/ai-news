@@ -1,0 +1,130 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=600&fit=crop",
+    "category": "llm",
+    "readTime": 9,
+    "timeAgo": 2,
+    "date": "2026-06-20",
+    "en": {
+      "title": "Fable 5 Beat GPT 5.5 on Every Benchmark — Then the U.S. Government Shut It Down",
+      "excerpt": "Anthropic's Fable 5 held the #1 spot for three days before an export control directive forced the model offline, igniting a global debate over AI governance.",
+      "content": "Anthropic's Fable 5 became the most capable public AI model on June 9, 2026, outperforming OpenAI's GPT 5.5 on every major benchmark before being forced offline by a U.S. government directive just three days later.\n\nBenchmark results showed a decisive lead:\n- **SWE-Bench Pro**: Fable 5 scored 80.3% vs GPT 5.5's 58.6%\n- **Arena Ranking**: Fable 5 held the #1 spot; GPT 5.5 ranked #4\n- **FrontierCode Diamond**: 29.3% vs 5.7%\n- **Code Arena**: 1,665 vs ~1,567\n\nOn June 12, the U.S. government issued an export control directive ordering Anthropic to disable the model, citing a jailbreak vulnerability in the Mythos 5 model family. Anthropic pushed back, arguing the vulnerability was \"minor, already known and also achievable on GPT 5.5 without special bypass methods.\"\n\nThe shutdown has triggered an international backlash. At the G7 summit in France, French President Macron said he expected progress on broadening access to Anthropic's Mythos models, while other world leaders expressed concern about dependence on U.S.-controlled AI infrastructure.\n\nOpenAI, Anthropic, and Google DeepMind CEOs met with Trump and G7 leaders to discuss establishing a U.S.-led coalition for AI standards. Trump told reporters that negotiations with Anthropic were \"going fine,\" but offered no timeline for restoring Fable 5 access.\n\nWith Fable 5 offline, GPT 5.5 has become the strongest available model by default — \"not because it surpassed Fable 5, but because its competitor was removed.\" The incident has become a defining test case for the intersection of AI capability and government regulation."
+    },
+    "zh": {
+      "title": "Fable 5 在所有基准测试中击败 GPT 5.5 —— 然后被美国政府强制下线",
+      "excerpt": "Anthropic 的 Fable 5 仅保持第一名三天就被出口管制指令强制下线，引发全球对 AI 治理的激烈辩论。",
+      "content": "Anthropic 的 Fable 5 于 2026 年 6 月 9 日成为最强大的公开 AI 模型，在所有主要基准测试中超越 OpenAI 的 GPT 5.5，但仅三天后就被美国政府指令强制下线。\n\n基准测试结果显示出决定性领先：\n- **SWE-Bench Pro**：Fable 5 得分 80.3%，GPT 5.5 为 58.6%\n- **竞技场排名**：Fable 5 位居第一，GPT 5.5 排名第四\n- **FrontierCode Diamond**：29.3% 对比 5.7%\n- **Code Arena**：1,665 对比 ~1,567\n\n6 月 12 日，美国政府发布出口管制指令，要求 Anthropic 禁用该模型，理由是 Mythos 5 模型家族存在越狱漏洞。Anthropic 对此表示反对，称该漏洞\"轻微、已知，且在 GPT 5.5 上无需特殊绕过方法也可实现\"。\n\n此举引发了国际社会的强烈反弹。在法国 G7 峰会上，法国总统马克龙表示希望在扩大 Anthropic Mythos 模型访问权限方面取得进展，而其他国家领导人则对依赖美国控制的 AI 基础设施表示担忧。\n\nOpenAI、Anthropic 和 Google DeepMind 的 CEO 与特朗普及 G7 领导人会面，讨论建立以美国为主导的 AI 标准联盟。特朗普告诉记者与 Anthropic 的谈判\"进展顺利\"，但未给出恢复 Fable 5 访问的时间表。\n\nFable 5 下线后，GPT 5.5 默认成为最强模型——\"并非因为它超越了 Fable 5，而是因为竞争对手被移除了\"。这一事件已成为 AI 能力与政府监管交汇的标志性案例。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 7,
+      "timeAgo": 4,
+      "date": "2026-06-20",
+      "en": {
+        "title": "G7 Summit: AI CEOs Meet World Leaders to Forge Global AI Standards",
+        "excerpt": "OpenAI's Sam Altman, Anthropic's Dario Amodei, and Google DeepMind's Demis Hassabis join G7 leaders in France to discuss AI governance, safety, and international cooperation.",
+        "content": "The 2026 G7 summit in France marked a watershed moment for AI governance as CEOs from OpenAI, Anthropic, Google DeepMind, and Mistral joined world leaders for an unprecedented dialogue on artificial intelligence.\n\nFrench President Emmanuel Macron said he expected progress on broadening access to Anthropic's Mythos models, which have been at the center of a U.S. export control dispute. Other leaders expressed concern about dependence on American AI infrastructure.\n\nKey topics discussed included:\n- **Frontier AI safety**: Establishing shared standards for evaluating and deploying the most capable models\n- **AI sovereignty**: Allowing allied nations access to top-tier U.S. AI systems while maintaining security\n- **Infrastructure**: Coordinating investment in AI compute, data centers, and energy supply\n- **Regulation**: Balancing innovation with safety guardrails across jurisdictions\n\nThe CEOs called for a U.S.-led coalition to create enforceable international AI standards. Trump told reporters that negotiations with Anthropic were \"going fine,\" but offered no timeline for restoring Fable 5 access.\n\nCNBC described the AI executives' presence as \"a signal of where power sits,\" noting that technology leaders now have direct access to the highest levels of international diplomacy. The summit concluded with a joint declaration on \"trusted AI partnerships,\" though enforcement mechanisms remain undefined."
+      },
+      "zh": {
+        "title": "G7 峰会：AI CEO 与各国领导人会面，共商全球 AI 标准",
+        "excerpt": "OpenAI 的 Sam Altman、Anthropic 的 Dario Amodei 和 Google DeepMind 的 Demis Hassabis 与 G7 领导人在法国会面，讨论 AI 治理、安全和国际合作。",
+        "content": "2026 年法国 G7 峰会标志着 AI 治理的分水岭时刻，OpenAI、Anthropic、Google DeepMind 和 Mistral 的 CEO 与各国领导人就人工智能展开了前所未有的对话。\n\n法国总统马克龙表示，他预期在扩大 Anthropic Mythos 模型访问权限方面将取得进展，该模型系列一直处于美国出口管制争议的中心。其他国家领导人则对依赖美国 AI 基础设施表示担忧。\n\n讨论的主要议题包括：\n- **前沿 AI 安全**：建立评估和部署最强模型的共同标准\n- **AI 主权**：在维护安全的同时允许盟国访问美国顶级 AI 系统\n- **基础设施**：协调 AI 计算、数据中心和能源供应方面的投资\n- **监管**：在各司法管辖区平衡创新与安全防护\n\nCEO 们呼吁建立以美国为主导的联盟来创建可执行的国际 AI 标准。特朗普告诉记者与 Anthropic 的谈判\"进展顺利\"，但未给出恢复 Fable 5 访问的时间表。\n\nCNBC 将 AI 高管的出席描述为\"权力所在之处的信号\"，指出科技领袖现在能够直接接触到最高级别的国际外交。峰会以一份关于\"可信 AI 伙伴关系\"的联合声明结束，但执行机制仍未明确。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 5,
+      "timeAgo": 3,
+      "date": "2026-06-20",
+      "en": {
+        "title": "Meta Signs New AI Computing Deals With Data Center Firm Crusoe",
+        "excerpt": "Meta secures new agreements for AI compute power from Crusoe, the clean-energy data center developer, as the race for AI infrastructure intensifies.",
+        "content": "Meta Platforms has secured new agreements to obtain artificial intelligence computing power from data center developer Crusoe, according to Bloomberg News. The deal underscores the intensifying competition among tech giants to secure AI infrastructure capacity.\n\nCrusoe, which specializes in building data centers powered by clean energy sources, has become an increasingly important player in the AI compute landscape. The company's approach of using stranded natural gas and renewable energy to power GPU clusters appeals to companies seeking both capacity and sustainability commitments.\n\nThe agreement comes as Meta continues its aggressive AI investment strategy. The company has been rapidly expanding its data center footprint to support training and inference workloads for its Llama model family and Meta AI products across its social media platforms.\n\nMeta's move follows similar infrastructure deals by other tech giants:\n- Microsoft has expanded its partnership with various data center providers\n- Google continues to build out its own custom TPU infrastructure\n- Amazon Web Services is scaling its AI chip offerings through its Trainium line\n\nThe deal signals that even companies building their own data centers need third-party capacity to meet surging AI demand. Industry analysts estimate that AI-related data center capacity will need to triple by 2028 to keep pace with current demand trajectories."
+      },
+      "zh": {
+        "title": "Meta 与数据中心公司 Crusoe 签署新的 AI 计算协议",
+        "excerpt": "Meta 与清洁能源数据中心开发商 Crusoe 签署新协议获取 AI 算力，AI 基础设施竞赛日趋白热化。",
+        "content": "据彭博社报道，Meta Platforms 已与数据中心开发商 Crusoe 签署了新的 AI 计算能力获取协议。这笔交易凸显了科技巨头之间争夺 AI 基础设施能力的激烈竞争。\n\nCrusoe 专注于建设由清洁能源驱动的数据中心，已成为 AI 计算领域日益重要的参与者。该公司利用搁浅天然气和可再生能源为 GPU 集群供电的方式，吸引了那些既追求算力又注重可持续发展承诺的公司。\n\n该协议签订之际，Meta 继续推进其积极的 AI 投资战略。公司一直在快速扩大数据中心版图，以支持其 Llama 模型家族和跨社交媒体平台的 Meta AI 产品的训练和推理工作负载。\n\nMeta 的举措紧随其他科技巨头的类似基础设施交易：\n- 微软扩大了与多家数据中心提供商的合作\n- 谷歌继续建设其自研 TPU 基础设施\n- 亚马逊网络服务通过 Trainium 系列扩展其 AI 芯片产品\n\n这笔交易表明，即使是自建数据中心的公司也需要第三方产能来满足激增的 AI 需求。行业分析师估计，到 2028 年，AI 相关的数据中心产能需要增长三倍才能跟上当前的需求轨迹。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 6,
+      "timeAgo": 6,
+      "date": "2026-06-20",
+      "en": {
+        "title": "AI's Free-for-All Era Is Over: Companies Start Counting the Cost",
+        "excerpt": "After years of unchecked AI spending, enterprises are demanding ROI as costs spiral — Uber blew its entire 2026 AI budget in just four months.",
+        "content": "The era of unconstrained AI experimentation is coming to an end. After roughly two years of broadly deploying AI across enterprises, companies are now confronting ballooning costs and demanding measurable returns on their investments.\n\nThe most striking example: Uber exhausted its entire 2026 AI budget in just four months, according to reporting from Fortune's VivaTech newsletter. An unnamed company reportedly went through half a billion dollars in a single month after failing to implement usage caps.\n\nKey shifts emerging across the industry:\n\n- **Model tiering**: Not every task requires frontier models. Companies like Schneider Electric are deliberately matching tasks to cheaper, fit-for-purpose models rather than defaulting to the most capable systems.\n- **License rationalization**: Organizations that liberally distributed AI access are now reconsidering broad entitlements.\n- **ROI discipline**: One executive noted that employees tend to automate what they dislike rather than what creates value — a misalignment companies are now trying to correct.\n\nPeter DeSantis, SVP at Amazon, compared the moment to early cloud adoption, when companies were surprised by bills after embracing agility. Philippe Rambach, Chief AI Officer at Schneider Electric, said organizations may be \"coming back to reality.\"\n\nMarket data reflects the shift: ChatGPT's market share has dropped below 50% to 46.4%, while Gemini holds 27.7% and Claude 10.3%. Global AI app spending is on pace to exceed $4.2 billion in the first half of 2026. A Johns Hopkins survey found 70% of Americans want the legal right to interact with humans rather than AI in medical, legal, and government settings."
+      },
+      "zh": {
+        "title": "AI 的\"自由放养\"时代结束了：企业开始计算成本",
+        "excerpt": "经过多年不受约束的 AI 支出，企业开始要求投资回报——Uber 仅用四个月就花光了 2026 年全部 AI 预算。",
+        "content": "不受约束的 AI 实验时代即将结束。在企业广泛部署 AI 约两年后，公司正面临不断膨胀的成本，并要求可衡量的投资回报。\n\n最引人注目的例子：据 Fortune 的 VivaTech 新闻通讯报道，Uber 仅用四个月就耗尽了 2026 年全部 AI 预算。据报道，一家未具名公司在未能实施使用上限后，一个月内就烧掉了 5 亿美元。\n\n行业正在出现的关键转变：\n\n- **模型分层**：并非每个任务都需要前沿模型。施耐德电气等公司正在有意识地将任务与更便宜、更合适的模型匹配，而非默认使用最强系统。\n- **许可证合理化**：大量分配 AI 使用权限的组织正在重新审视广泛的授权。\n- **ROI 纪律**：一位高管指出，员工倾向于自动化他们不喜欢的工作，而非能创造价值的工作——这是企业正在试图纠正的错位。\n\n亚马逊高级副总裁 Peter DeSantis 将这一时刻比作早期的云计算采用，当时企业拥抱灵活性后却对账单感到惊讶。施耐德电气首席 AI 官 Philippe Rambach 表示，组织可能正在\"回归现实\"。\n\n市场数据反映了这一转变：ChatGPT 的市场份额已跌破 50% 至 46.4%，Gemini 占 27.7%，Claude 占 10.3%。全球 AI 应用支出预计 2026 年上半年将超过 42 亿美元。约翰·霍普金斯大学的一项调查发现，70% 的美国人希望在医疗、法律和政府服务中拥有与人类而非 AI 互动的合法权利。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1547891654-e66ed7ebb968?w=600&h=400&fit=crop",
+      "category": "creative",
+      "readTime": 5,
+      "timeAgo": 7,
+      "date": "2026-06-20",
+      "en": {
+        "title": "Refik Anadol's AI Art Museum Opens in Los Angeles",
+        "excerpt": "The world's first dedicated AI art museum launches in LA, featuring artworks that respond to visitors' emotions in real time and dreamlike installations generated from massive datasets.",
+        "content": "Turkish-American artist Refik Anadol has opened the world's first dedicated AI art museum in Los Angeles, marking a historic moment for the intersection of artificial intelligence and creative expression.\n\nThe museum features immersive installations that respond to visitors' emotions in real time, using biometric sensors and AI systems to create personalized visual and auditory experiences. One centerpiece, described as \"data chocolate,\" transforms massive datasets into richly textured visual landscapes that evoke synesthetic responses.\n\n\"For 5,000 years humans have been emotionally moved by artworks, but the relationship has always flowed in one direction,\" Anadol said. \"Now, for the first time, the artwork can feel you back.\"\n\nKey exhibits include:\n- **Dream Realized**: AI-generated environments based on sleep data from thousands of volunteers\n- **Emotional Canvas**: Walls that shift color, texture, and sound in response to viewer emotions\n- **Data Sculptures**: Physical forms created from AI analysis of environmental and social media data\n\nThe museum represents a significant validation of AI as a legitimate artistic medium. Critics have debated whether AI-generated art constitutes \"real\" art, but the museum's opening drew thousands of visitors and widespread media attention.\n\nAnadol has been a pioneer in data sculpture and AI art since 2016, using machine learning to transform vast datasets into sensory experiences. His previous works have been exhibited at the Museum of Modern Art in New York and the Venice Biennale."
+      },
+      "zh": {
+        "title": "Refik Anadol 的 AI 艺术博物馆在洛杉矶开业",
+        "excerpt": "全球首座 AI 艺术专属博物馆在洛杉矶开业，展出能够实时回应访客情感的艺术品和从海量数据集生成的梦幻装置。",
+        "content": "土耳其裔美国艺术家 Refik Anadol 在洛杉矶开设了全球首座专属 AI 艺术博物馆，标志着人工智能与创意表达交汇的历史性时刻。\n\n博物馆展出的沉浸式装置能够实时回应访客的情感，利用生物传感器和 AI 系统创造个性化的视听体验。一件核心展品被描述为\"数据巧克力\"，将海量数据集转化为纹理丰富的视觉景观，引发联觉反应。\n\n\"五千年来，人类一直被艺术品所感动，但这种关系一直是单向的，\"Anadol 说。\"现在，艺术品第一次能够感受你。\"\n\n主要展品包括：\n- **梦想成真**：基于数千名志愿者睡眠数据生成的 AI 环境\n- **情感画布**：根据观者情感变化色彩、纹理和声音的墙壁\n- **数据雕塑**：由 AI 分析环境和社交媒体数据创作的实体形态\n\n该博物馆代表了 AI 作为一种合法艺术媒介的重大认可。批评家们一直在争论 AI 生成的艺术是否构成\"真正的\"艺术，但博物馆的开业吸引了数千名参观者和广泛的媒体报道。\n\nAnadol 自 2016 年以来一直是数据雕塑和 AI 艺术的先驱，利用机器学习将庞大数据集转化为感官体验。他之前的作品曾在纽约现代艺术博物馆和威尼斯双年展展出。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 5,
+      "timeAgo": 10,
+      "date": "2026-06-20",
+      "en": {
+        "title": "OpenAI, DeepMind, and Anthropic Jointly Call for U.S.-Led AI Standards Coalition",
+        "excerpt": "CEOs of the three leading AI companies publish a rare joint statement urging Congress to establish enforceable international AI safety standards.",
+        "content": "In a rare show of unity, the CEOs of OpenAI, Anthropic, and Google DeepMind published a joint statement calling for a U.S.-led international coalition to establish enforceable AI safety standards.\n\nThe statement, released during the G7 summit, came as the Trump administration's directive to suspend Anthropic's Fable 5 model raised concerns among allied nations about losing access to top-tier U.S. AI tools.\n\nThe CEOs outlined five priority areas:\n1. Shared evaluation frameworks for frontier AI models\n2. Common safety thresholds that trigger mandatory review before deployment\n3. International cooperation on AI compute governance\n4. Reciprocal access agreements for allied nations\n5. Joint investment in AI safety research\n\n\"The risks of AI are global, and so must be the solutions,\" the statement reads. \"No single company or country can manage this alone.\"\n\nThe move signals a shift in the AI industry's approach to regulation. Previously resistant to government oversight, leading AI companies are now actively seeking structured international frameworks — partly driven by the Fable 5 shutdown, which demonstrated the unpredictable consequences of ad-hoc government intervention.\n\nTech industry analysts note the joint statement is also a strategic play: by advocating for U.S.-led standards, the companies aim to shape the regulatory landscape before other nations impose their own, potentially more restrictive, frameworks."
+      },
+      "zh": {
+        "title": "OpenAI、DeepMind 和 Anthropic 联合呼吁建立以美国为主导的 AI 标准联盟",
+        "excerpt": "三大 AI 公司 CEO 发表罕见联合声明，敦促美国国会建立可执行的国际 AI 安全标准。",
+        "content": "OpenAI、Anthropic 和 Google DeepMind 的 CEO 在罕见的团结姿态中发表联合声明，呼吁建立以美国为主导的国际联盟来制定可执行的 AI 安全标准。\n\n这份在 G7 峰会期间发布的声明出台之际，特朗普政府暂停 Anthropic Fable 5 模型的指令已引发盟国对失去美国顶级 AI 工具访问权的担忧。\n\nCEO 们概述了五个优先领域：\n1. 前沿 AI 模型的共享评估框架\n2. 部署前触发强制审查的共同安全阈值\n3. AI 计算治理方面的国际合作\n4. 盟国之间的互惠访问协议\n5. AI 安全研究的联合投资\n\n\"AI 的风险是全球性的，解决方案也必须如此，\"声明写道。\"没有任何单一公司或国家能够独自应对。\"\n\n此举标志着 AI 行业在监管方面态度的转变。此前抵制政府监督的领先 AI 公司现在正在积极寻求结构化的国际框架——部分原因是 Fable 5 下线事件表明了临时政府干预带来的不可预测后果。\n\n科技行业分析师指出，这份联合声明也是一次战略行动：通过倡导以美国为主导的标准，这些公司旨在在其他国家施加可能更具限制性的框架之前塑造监管格局。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 4,
+      "timeAgo": 12,
+      "date": "2026-06-20",
+      "en": {
+        "title": "U.S. Senate Judiciary Committee Advances AI Bills Alongside Judicial Nominations",
+        "excerpt": "The committee processes multiple AI-related bills in a compressed session, signaling congressional momentum on AI regulation ahead of the 2026 midterm elections.",
+        "content": "The U.S. Senate Judiciary Committee convened on June 18 for a compressed business meeting that advanced multiple AI-related bills alongside eight judicial and executive nominations.\n\nThe legislative package includes measures addressing:\n- **AI transparency**: Requiring disclosure when AI systems are used in consumer-facing decisions\n- **Deepfake accountability**: Establishing liability for creation and distribution of harmful AI-generated content\n- **Algorithmic bias**: Mandating bias audits for AI systems used in hiring, lending, and law enforcement\n- **Data privacy**: Strengthening protections for personal data used in AI training\n\nThe advancement of these bills comes amid growing public concern about AI's societal impact. A recent Johns Hopkins survey found that 70% of Americans want the legal right to interact with humans rather than AI in critical settings, and three-quarters want mandatory disclosure when communicating with AI systems.\n\nThe bipartisan support for the legislative package reflects a rare area of agreement in a politically divided Congress. Both parties have expressed interest in establishing guardrails around AI, though they differ on the specific mechanisms.\n\n\"This is about getting ahead of the technology rather than catching up after the fact,\" said one committee member. \"The pace of AI development demands proactive legislation.\"\n\nThe bills now advance to the full Senate for consideration, where they face additional debate and potential amendment."
+      },
+      "zh": {
+        "title": "美国参议院司法委员会推进 AI 法案",
+        "excerpt": "委员会在压缩会议中处理多项 AI 相关法案，表明国会在 2026 年中期选举前对 AI 监管的立法动力。",
+        "content": "美国参议院司法委员会于 6 月 18 日召开压缩工作会议，在推进八项司法和行政提名的同时，还推进了多项 AI 相关法案。\n\n立法方案包括以下措施：\n- **AI 透明度**：要求在面向消费者的决策中使用 AI 系统时进行披露\n- **深度伪造问责**：为有害 AI 生成内容的创建和分发建立责任机制\n- **算法偏见**：强制对用于招聘、贷款和执法的 AI 系统进行偏见审计\n- **数据隐私**：加强对用于 AI 训练的个人数据的保护\n\n这些法案的推进正值公众对 AI 社会影响日益担忧之际。约翰·霍普金斯大学最近的一项调查发现，70% 的美国人希望在关键场景中拥有与人类而非 AI 互动的合法权利，四分之三的人希望在与 AI 系统通信时强制披露。\n\n该立法方案获得两党支持，反映了政治分裂的国会中一个罕见的共识领域。两党都表示有兴趣围绕 AI 建立防护机制，尽管在具体机制上存在分歧。\n\n\"这是关于走在技术前面，而不是事后追赶，\"一位委员会成员表示。\"AI 发展的速度要求主动立法。\"\n\n这些法案现已提交参议院全体审议，将面临进一步辩论和潜在修正。"
+      }
+    }
+  ]
+}

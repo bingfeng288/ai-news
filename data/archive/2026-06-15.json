@@ -1,0 +1,184 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?w=1200&h=600&fit=crop",
+    "category": "llm",
+    "readTime": 8,
+    "timeAgo": 3,
+    "date": "2026-06-15",
+    "en": {
+      "title": "Anthropic Launches Claude Corps: $150M National Fellowship to Bring AI to Nonprofits",
+      "excerpt": "Anthropic commits $150 million to train 1,000 fellows and deploy Claude across 400+ nonprofits nationwide, marking the largest corporate AI workforce initiative to date.",
+      "content": "Anthropic has announced Claude Corps, a national fellowship program committing $150 million to deploy AI capabilities across communities in America. The program will train 1,000 fellows and place them with over 400 nonprofits across the country.\n\nThe fellowship is structured as a partnership between three organizations:\n\n- **Anthropic** will fund the program, lead overall strategy, and provide Claude expertise\n- **CodePath**, America's largest provider of collegiate computer science education, will serve as the fellows' employer of record and lead training\n- **Social Finance**, a nonprofit investment advisor, will lead measurement and evaluation\n\nEach fellowship lasts 12 months. Fellows receive intensive training on using Claude in nonprofit settings, followed by five hours of ongoing weekly training. They receive a full-time salary of $85,000 with benefits, a generous Claude token budget, and mentorship from both CodePath and Anthropic.\n\n\"The benefits of transformative AI systems could come at the cost of significant disruption,\" Anthropic stated. \"The companies building this technology have a responsibility to make sure the benefits are fully realized and widely shared.\"\n\nHost organizations span education, healthcare, environmental conservation, and social services. The program represents the largest corporate initiative focused on distributing AI's benefits to underserved communities.\n\nAnthropic also released a companion policy framework addressing AI's impact on work, signaling a broader commitment to responsible AI deployment."
+    },
+    "zh": {
+      "title": "Anthropic 推出 Claude Corps：1.5 亿美元国家计划将 AI 带入非营利组织",
+      "excerpt": "Anthropic 投入 1.5 亿美元培训 1000 名研究员，将 Claude 部署到全美 400 多家非营利组织，成为迄今为止最大的企业 AI 劳动力计划。",
+      "content": "Anthropic 宣布推出 Claude Corps，一项投入 1.5 亿美元的国家研究金计划，旨在将 AI 能力部署到美国各地社区。该计划将培训 1000 名研究员，并将他们分配到全国 400 多家非营利组织。\n\n该研究金计划由三个组织合作构建：\n\n- **Anthropic** 提供资金、领导整体战略并提供 Claude 专业知识\n- **CodePath**（美国最大的大学计算机科学教育提供商）作为研究员的正式雇主并负责培训\n- **Social Finance**（非营利投资顾问机构）负责测量和评估\n\n每期研究金为期 12 个月。研究员首先接受在非营利环境中使用 Claude 的强化培训，之后每周接受 5 小时的持续培训。他们获得 85,000 美元的全职薪资和福利、充裕的 Claude 代币预算，以及来自 CodePath 和 Anthropic 的导师指导。\n\n\"变革性 AI 系统的好处可能以重大颠覆为代价，\"Anthropic 表示。\"构建这项技术的公司有责任确保其好处得到充分实现和广泛分享。\"\n\n参与组织涵盖教育、医疗、环境保护和社会服务领域。该计划是迄今为止最大的企业级 AI 惠及弱势社区计划。Anthropic 还发布了关于 AI 对工作影响的配套政策框架，表明了对负责任 AI 部署的更广泛承诺。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 7,
+      "timeAgo": 5,
+      "date": "2026-06-15",
+      "en": {
+        "title": "Z.ai Launches GLM-5.2 With 1M-Token Context Window and Two Thinking Levels",
+        "excerpt": "The latest GLM model supports a usable 1,000,000-token context window — 5x larger than its predecessor — and introduces configurable thinking-effort levels for complex coding tasks.",
+        "content": "Z.ai has launched GLM-5.2, the fourth flagship release in its GLM-5 model line in just four months. The standout feature is a usable 1,000,000-token context window — roughly 5x larger than GLM-5.1's 200,000-token window.\n\nA 1M-token context window fundamentally changes how coding agents work. The model can hold an entire mid-sized codebase in working memory, including source files, tests, configuration, and conversation history. This eliminates the constant summarization that smaller context windows force on developers.\n\nKey specifications:\n- **Context Window**: 1,000,000 tokens (labeled glm-5.2[1m])\n- **Output**: Up to 131,072 tokens per response\n- **Architecture**: Based on a 744-billion-parameter Mixture-of-Experts model that activates 40 billion parameters per token\n- **Thinking Levels**: New \"High\" and \"Max\" effort modes for complex, multi-step reasoning\n\nThe release also introduces two thinking-effort levels: High and Max. Z.ai recommends Max effort for complex, multi-step coding work, where the model takes more time to reason through problems before responding.\n\nGLM-5.2 follows GLM-5 (February), GLM-5-Turbo (March), and GLM-5.1 (April), demonstrating Z.ai's aggressive release cadence in the competitive Chinese AI market."
+      },
+      "zh": {
+        "title": "Z.ai 发布 GLM-5.2：100 万 Token 上下文窗口和两种思考级别",
+        "excerpt": "最新 GLM 模型支持可用的 100 万 token 上下文窗口——是前代的 5 倍——并引入可配置的思考努力级别，适用于复杂编程任务。",
+        "content": "Z.ai 发布了 GLM-5.2，这是其 GLM-5 模型系列在短短四个月内的第四次旗舰版本。最突出的特色是可用的 100 万 token 上下文窗口——大约是 GLM-5.1 的 20 万 token 窗口的 5 倍。\n\n100 万 token 上下文窗口从根本上改变了编程代理的工作方式。该模型可以将整个中等规模的代码库保持在工作记忆中，包括源文件、测试、配置和对话历史。这消除了较小上下文窗口对开发者施加的持续总结需求。\n\n主要规格：\n- **上下文窗口**：100 万 token（标记为 glm-5.2[1m]）\n- **输出**：每次响应最多 131,072 token\n- **架构**：基于 7440 亿参数的混合专家模型，每个 token 激活 400 亿参数\n- **思考级别**：新的\"高\"和\"最大\"努力模式，用于复杂的多步骤推理\n\n此次发布还引入了两种思考努力级别：高和最大。Z.ai 推荐对复杂的多步骤编程工作使用最大努力模式，模型会在响应前花更多时间推理问题。\n\nGLM-5.2 继 GLM-5（2 月）、GLM-5-Turbo（3 月）和 GLM-5.1（4 月）之后发布，展示了 Z.ai 在竞争激烈的中国 AI 市场中的积极发布节奏。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f2?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 6,
+      "timeAgo": 8,
+      "date": "2026-06-15",
+      "en": {
+        "title": "Apple Reveals New AI Architecture Built Around Google Gemini Models",
+        "excerpt": "Apple announces a major overhaul of Apple Intelligence with foundation models co-developed with Google, bringing state-of-the-art multimodal capabilities to its ecosystem.",
+        "content": "Apple has announced a major overhaul of its Apple Intelligence platform, revealing a new architecture built on foundation models developed in collaboration with Google using technologies behind the Gemini family.\n\nThe new architecture centers on Apple Foundation Models co-developed with Google, adapted to run both on-device and on servers through Apple's Private Cloud Compute infrastructure. Apple described the collaboration as a \"deep\" one that unlocks a \"huge upgrade\" for Apple Intelligence.\n\nKey capabilities of the new architecture:\n- State-of-the-art understanding and reasoning capabilities\n- Multimodal support including image understanding and generation\n- Realistic image creation and advanced photo editing\n- Visual question answering across Apple's ecosystem\n- Speech generation and improved dictation accuracy on supported devices\n\nA new system orchestrator coordinates Apple Intelligence features securely across all Apple platforms, tailoring responses based on the active app and user's current task.\n\nApple emphasized its privacy-first approach: all processing relies on on-device computation and Private Cloud Compute, with user data only used to execute immediate requests and never accessible to Apple or third parties.\n\nThe move positions Apple as a serious competitor in the AI space while maintaining its distinctive focus on user privacy and on-device processing."
+      },
+      "zh": {
+        "title": "苹果发布全新 AI 架构，基于 Google Gemini 模型构建",
+        "excerpt": "苹果宣布对 Apple Intelligence 进行重大改革，采用与 Google 联合开发的基础模型，为其生态系统带来最先进的多模态能力。",
+        "content": "苹果宣布对 Apple Intelligence 平台进行重大改革，揭示了基于与 Google 合作开发的 Gemini 系列技术构建的新基础模型架构。\n\n新架构的核心是与 Google 联合开发的 Apple Foundation Models，已适配为可在设备端和通过 Private Cloud Compute 基础设施在服务器端运行。苹果将此次合作描述为\"深度\"合作，为 Apple Intelligence 带来\"巨大升级\"。\n\n新架构的主要能力：\n- 最先进的理解和推理能力\n- 包括图像理解和生成在内的多模态支持\n- 逼真的图像创建和高级照片编辑\n- 跨 Apple 生态系统的视觉问答\n- 在支持的设备上实现语音生成和改进的听写准确性\n\n一个新的系统协调器安全地协调跨所有 Apple 平台的 Apple Intelligence 功能，根据当前活跃的应用和用户的任务定制响应。\n\n苹果强调了其隐私优先的方法：所有处理依赖于设备端计算和 Private Cloud Compute，用户数据仅用于执行即时请求，苹果或第三方无法访问。\n\n此举使苹果成为 AI 领域的有力竞争者，同时保持了其对用户隐私和设备端处理的独特关注。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 5,
+      "timeAgo": 10,
+      "date": "2026-06-15",
+      "en": {
+        "title": "Salesforce Signs Definitive Agreement to Acquire AI Startup Fin",
+        "excerpt": "Salesforce enters into a definitive agreement to acquire Fin, an AI agent startup, as the CRM giant doubles down on autonomous AI capabilities for enterprise workflows.",
+        "content": "Salesforce has signed a definitive agreement to acquire Fin, an AI agent startup, marking a significant move in the enterprise AI agent space. The acquisition underscores Salesforce's commitment to embedding autonomous AI capabilities into its platform.\n\nFin has been building AI agents capable of handling complex customer service and operational workflows autonomously. The technology allows AI agents to navigate multi-step processes, make decisions, and take actions across various enterprise systems without human intervention.\n\nThe acquisition is expected to:\n- Accelerate Salesforce's Agentforce platform capabilities\n- Bring advanced autonomous agent technology to Salesforce's enterprise customer base\n- Enhance customer service automation with more sophisticated AI decision-making\n- Integrate Fin's agent orchestration technology into Salesforce's existing ecosystem\n\n\"The future of enterprise software is agents that can think, decide, and act autonomously,\" said a Salesforce spokesperson. \"Fin's technology perfectly complements our vision for Agentforce.\"\n\nThe deal is expected to close in the second half of 2026, subject to regulatory approval. Financial terms were not disclosed.\n\nThis acquisition follows a wave of AI agent company purchases by major tech firms, as the industry shifts from conversational AI to autonomous agent systems."
+      },
+      "zh": {
+        "title": "Salesforce 签署最终协议收购 AI 初创公司 Fin",
+        "excerpt": "Salesforce 与 AI 代理初创公司 Fin 签署最终协议，这家 CRM 巨头加码企业工作流的自主 AI 能力。",
+        "content": "Salesforce 已与 AI 代理初创公司 Fin 签署最终收购协议，标志着企业 AI 代理领域的重大举措。此次收购突显了 Salesforce 将自主 AI 能力嵌入其平台的承诺。\n\nFin 一直在构建能够自主处理复杂客户服务和运营工作流的 AI 代理。该技术允许 AI 代理导航多步骤流程、做出决策，并在各种企业系统中无需人工干预即可采取行动。\n\n此次收购预计将：\n- 加速 Salesforce Agentforce 平台能力\n- 为 Salesforce 的企业客户群带来先进的自主代理技术\n- 用更复杂的 AI 决策增强客户服务自动化\n- 将 Fin 的代理编排技术集成到 Salesforce 现有生态系统中\n\n\"企业软件的未来是能够自主思考、决策和行动的代理，\"Salesforce 发言人表示。\"Fin 的技术完美补充了我们对 Agentforce 的愿景。\"\n\n该交易预计于 2026 年下半年完成，需经监管部门批准。财务条款未披露。\n\n此次收购紧随主要科技公司对 AI 代理公司的一波收购潮，行业正从对话式 AI 转向自主代理系统。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 7,
+      "timeAgo": 12,
+      "date": "2026-06-15",
+      "en": {
+        "title": "Anthropic Sounds Alarm on Recursive Self-Improvement Risks in AI Systems",
+        "excerpt": "Anthropic's research team publishes urgent findings on the dangers of AI systems capable of improving their own code, calling for industry-wide safeguards.",
+        "content": "Anthropic's research team has published urgent findings highlighting the potential dangers of AI systems capable of recursive self-improvement — the ability to modify and enhance their own underlying code and algorithms.\n\nThe research paper details how current AI architectures are approaching a threshold where they could potentially begin optimizing their own training processes, raising unprecedented safety concerns.\n\nKey findings include:\n- Current large language models show nascent ability to suggest improvements to their own training code\n- Recursive improvement could lead to rapid capability gains that outpace safety research\n- Existing alignment techniques may not remain effective through multiple self-improvement cycles\n- The company recommends establishing hard computational limits and mandatory human oversight\n\nAnthropic's CEO Dario Amodei called the findings \"a wake-up call for the entire industry,\" urging competitors and regulators to take the threat seriously.\n\nThe paper has sparked intense debate in the AI safety community, with some researchers arguing the risks are overstated while others praise Anthropic for raising the alarm early. The findings come at a critical time as AI capabilities are advancing faster than safety frameworks can adapt."
+      },
+      "zh": {
+        "title": "Anthropic 就 AI 系统递归自我改进风险发出警告",
+        "excerpt": "Anthropic 研究团队发布了关于能够改进自身代码的 AI 系统危险性的紧急发现，呼吁全行业建立安全防护措施。",
+        "content": "Anthropic 研究团队发布了紧急发现，强调了具有递归自我改进能力的 AI 系统的潜在危险——即修改和增强自身底层代码和算法的能力。\n\n该研究论文详细说明了当前 AI 架构如何正在接近一个临界点，在这个点上它们可能开始优化自己的训练过程，引发前所未有的安全担忧。\n\n主要发现包括：\n- 当前的大语言模型已显示出为自身训练代码提出改进建议的初始能力\n- 递归改进可能导致快速的能力增长，超过安全研究的速度\n- 现有的对齐技术在多次自我改进循环后可能不再有效\n- 公司建议建立硬性计算限制和强制性人工监督\n\nAnthropic CEO Dario Amodei 称这些发现\"是给整个行业的警钟\"，敦促竞争对手和监管机构认真对待这一威胁。\n\n该论文在 AI 安全社区引发了激烈辩论，一些研究人员认为风险被夸大，而另一些人则赞扬 Anthropic 及早发出警告。这些发现正值 AI 能力发展速度快于安全框架适应能力的关键时刻。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 5,
+      "timeAgo": 14,
+      "date": "2026-06-15",
+      "en": {
+        "title": "The AI Price War Is Here: Mounting Pressure on OpenAI and Anthropic",
+        "excerpt": "Intensifying competition from open-source models and aggressive pricing from rivals is squeezing margins for leading AI companies, reshaping the economics of the AI industry.",
+        "content": "The AI industry is entering a full-blown price war as competition intensifies from open-source models and aggressive pricing strategies from rivals, putting increasing pressure on leading companies like OpenAI and Anthropic.\n\nThe price compression is being driven by several factors:\n- Open-source models from Meta, Z.ai, and others approaching proprietary model quality\n- Chinese AI companies offering API access at a fraction of Western prices\n- Cloud providers subsidizing AI inference costs to attract developers\n- Increasing efficiency in model architecture reducing compute requirements\n\nThe impact is already visible: API prices for top-tier models have dropped by over 70% in the past year, while the cost of running inference continues to fall. This is forcing companies to reconsider their business models.\n\nFor OpenAI, which is preparing for its IPO, the price war raises questions about revenue sustainability. For Anthropic, which has focused on premium enterprise customers, the pressure comes as competitors offer \"good enough\" alternatives at dramatically lower prices.\n\n\"The moat around proprietary AI models is shrinking rapidly,\" said one industry analyst. \"Companies need to find new sources of differentiation beyond just model quality.\"\n\nThe trend is expected to accelerate as open-source models continue to improve and new players enter the market with innovative pricing structures."
+      },
+      "zh": {
+        "title": "AI 价格战已经到来：OpenAI 和 Anthropic 面临越来越大压力",
+        "excerpt": "来自开源模型和竞争对手激进定价的加剧竞争正在挤压领先 AI 公司的利润率，重塑 AI 行业的经济格局。",
+        "content": "AI 行业正在进入一场全面的价格战，来自开源模型和竞争对手激进定价策略的竞争加剧，给 OpenAI 和 Anthropic 等领先公司带来越来越大的压力。\n\n价格压缩由几个因素驱动：\n- Meta、Z.ai 等的开源模型接近专有模型的质量\n- 中国 AI 公司以西方价格的一小部分提供 API 访问\n- 云服务提供商补贴 AI 推理成本以吸引开发者\n- 模型架构效率提高降低了计算需求\n\n影响已经显现：顶级模型的 API 价格在过去一年下降了超过 70%，而推理运行成本持续下降。这迫使公司重新考虑其商业模式。\n\n对于正在准备 IPO 的 OpenAI 来说，价格战引发了关于收入可持续性的问题。对于专注于高端企业客户的 Anthropic 来说，压力来自竞争对手以大幅降低的价格提供\"足够好\"的替代品。\n\n\"围绕专有 AI 模型的护城河正在迅速缩小，\"一位行业分析师表示。\"公司需要在模型质量之外找到新的差异化来源。\"\n\n随着开源模型持续改进和新参与者以创新的定价结构进入市场，这一趋势预计将加速。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 6,
+      "timeAgo": 18,
+      "date": "2026-06-15",
+      "en": {
+        "title": "OpenCV 5 Released: The Biggest Leap in Years for Computer Vision",
+        "excerpt": "OpenCV 5 brings up to 3x faster inference, native AI model integration from PyTorch and TensorFlow, and a modernized API for the world's most-used computer vision library.",
+        "content": "The OpenCV project has released version 5 of its widely-used open source computer vision library, marking the biggest update in years for the foundational tool used by millions of developers worldwide.\n\nOpenCV 5 brings significant improvements:\n\n- **Performance**: Up to 3x faster inference on modern hardware through optimized memory management and GPU acceleration\n- **AI Integration**: Native support for loading and running models from PyTorch, TensorFlow, and ONNX Runtime without conversion\n- **Modernized API**: A cleaner, more Pythonic API design while maintaining full backward compatibility\n- **Edge Deployment**: New lightweight modules for edge devices, mobile platforms, and embedded systems\n- **3D Vision**: Enhanced stereo vision, depth estimation, and point cloud processing\n\nThe release comes at a critical time as computer vision applications are booming across industries from autonomous driving to medical imaging, industrial inspection, and augmented reality.\n\n\"OpenCV 5 represents years of work from our global community of contributors,\" said the project's lead maintainer. \"We've focused on making cutting-edge computer vision accessible to everyone.\"\n\nThe library is used in over 10 million projects worldwide and is a core dependency for many commercial AI products."
+      },
+      "zh": {
+        "title": "OpenCV 5 发布：计算机视觉领域多年来最大飞跃",
+        "excerpt": "OpenCV 5 带来高达 3 倍的推理加速、来自 PyTorch 和 TensorFlow 的原生 AI 模型集成，以及全球使用最广泛的计算机视觉库的现代化 API。",
+        "content": "OpenCV 项目发布了其广泛使用的开源计算机视觉库的第 5 版，标志着这一被全球数百万开发者使用的基础工具多年来最大规模的更新。\n\nOpenCV 5 带来显著改进：\n\n- **性能**：通过优化的内存管理和 GPU 加速，在现代硬件上推理速度提升高达 3 倍\n- **AI 集成**：原生支持加载和运行来自 PyTorch、TensorFlow 和 ONNX Runtime 的模型，无需转换\n- **现代化 API**：更简洁、更 Python 化的 API 设计，同时保持完全向后兼容\n- **边缘部署**：专为边缘设备、移动平台和嵌入式系统设计的轻量级模块\n- **3D 视觉**：增强的立体视觉、深度估计和点云处理能力\n\n此次发布正值计算机视觉应用在自动驾驶、医学成像、工业检测和增强现实等行业蓬勃发展的关键时刻。\n\n\"OpenCV 5 代表了我们全球贡献者社区多年的工作成果，\"项目首席维护者表示。\"我们专注于让前沿计算机视觉技术对每个人都可及。\"\n\n该库在全球超过 1000 万个项目中使用，是许多商业 AI 产品的核心依赖。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=600&h=400&fit=crop",
+      "category": "healthcare",
+      "readTime": 5,
+      "timeAgo": 20,
+      "date": "2026-06-15",
+      "en": {
+        "title": "Foxconn Deploys AI Systems Across Taiwan Hospitals",
+        "excerpt": "Foxconn partners with major Taiwan hospitals to deploy AI-powered diagnostic and workflow systems, marking the manufacturing giant's aggressive push into healthcare AI.",
+        "content": "Foxconn, the world's largest electronics manufacturer, has announced a major partnership with several leading hospitals across Taiwan to deploy AI-powered diagnostic and clinical workflow systems.\n\nThe deployment covers three key areas:\n\n- **Medical Imaging AI**: Automated analysis of X-rays, CT scans, and MRIs to assist radiologists in detecting abnormalities, with initial results showing a 40% reduction in diagnostic turnaround time\n- **Clinical Workflow Optimization**: AI-powered scheduling, resource allocation, and patient flow management to reduce wait times and improve hospital efficiency\n- **Drug Interaction Monitoring**: Real-time AI analysis of prescription combinations to flag potential adverse drug interactions before they reach patients\n\nFoxconn's healthcare AI division has been developing these systems using the company's expertise in hardware-software integration and large-scale manufacturing processes.\n\n\"Our strength is in building reliable systems at scale,\" said Foxconn's healthcare division lead. \"Healthcare AI needs the same rigor and reliability we bring to manufacturing — lives depend on it.\"\n\nThe initiative is part of Foxconn's broader strategy to diversify beyond electronics manufacturing into high-growth technology sectors, including AI, electric vehicles, and healthcare."
+      },
+      "zh": {
+        "title": "富士康在台湾多家医院部署 AI 系统",
+        "excerpt": "富士康与台湾多家主要医院合作，部署 AI 驱动的诊断和工作流程系统，标志着这家制造业巨头大举进军医疗 AI。",
+        "content": "全球最大的电子制造商富士康宣布与台湾多家领先医院建立重大合作伙伴关系，部署 AI 驱动的诊断和临床工作流程系统。\n\n此次部署涵盖三个关键领域：\n\n- **医学影像 AI**：自动分析 X 光、CT 扫描和 MRI，协助放射科医生检测异常，初步结果显示诊断周转时间缩短了 40%\n- **临床工作流优化**：AI 驱动的排班、资源分配和患者流程管理，减少等待时间并提高医院效率\n- **药物相互作用监测**：实时 AI 分析处方组合，在药物到达患者手中之前标记潜在的不良药物相互作用\n\n富士康的医疗 AI 部门一直在利用公司在硬件软件集成和大规模制造流程方面的专业知识开发这些系统。\n\n\"我们的优势在于大规模构建可靠的系统，\"富士康医疗部门负责人表示。\"医疗 AI 需要我们为制造业带来的同样严谨和可靠性——因为生命取决于此。\"\n\n该计划是富士康在电子制造之外向包括 AI、电动汽车和医疗保健在内的高增长科技领域多元化战略的一部分。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 6,
+      "timeAgo": 22,
+      "date": "2026-06-15",
+      "en": {
+        "title": "Tech Giants Warn AI Safety Gaps Could Enable Bioweapons Development",
+        "excerpt": "Leading AI and biotech companies jointly call for new US DNA screening legislation, warning that current AI systems could be misused to design dangerous biological agents.",
+        "content": "In an unprecedented joint statement, leaders from major AI companies and biotechnology firms have called on the U.S. government to enact new legislation requiring mandatory DNA synthesis screening.\n\nThe group warns that advanced AI models now possess sufficient biological knowledge to potentially design novel harmful biological agents. Key concerns include:\n\n- Current AI models can generate plausible sequences for dangerous pathogens\n- Existing screening tools for DNA synthesis orders are inconsistent and easily circumvented\n- The rapid pace of AI capability growth is outstripping biological safety measures\n- Open-source models lack the safety guardrails present in commercial systems\n\nThe coalition proposes a five-point plan:\n1. Mandatory screening of all DNA synthesis orders through certified platforms\n2. Real-time monitoring of AI queries related to dangerous biological knowledge\n3. International cooperation on biological AI safety standards\n4. Funding for research into AI-enabled biological threat detection\n5. Regular red-teaming exercises to test AI systems for biological misuse potential\n\n\"This is not a hypothetical risk,\" the statement reads. \"The convergence of AI capabilities and biotechnology requires immediate, coordinated action.\"\n\nThe call comes as AI models continue to rapidly advance in their understanding of biology and chemistry, raising the stakes for safety measures."
+      },
+      "zh": {
+        "title": "科技巨头警告 AI 安全漏洞可能助长生物武器开发",
+        "excerpt": "主要 AI 和生物技术公司联合呼吁美国出台 DNA 筛查新立法，警告当前 AI 系统可能被滥用于设计危险的生物制剂。",
+        "content": "在一个前所未有的联合声明中，主要 AI 公司和生物技术公司的领导人呼吁美国政府制定新的立法，要求强制进行 DNA 合成筛查。\n\n该团体警告说，先进的 AI 模型现在拥有足够的生物学知识，有可能设计出新型有害生物制剂。主要关切包括：\n\n- 当前 AI 模型能够为危险病原体生成合理的序列\n- 现有的 DNA 合成订单筛查工具不一致且容易被绕过\n- AI 能力增长的快速步伐正在超过生物安全措施\n- 开源模型缺乏商业系统中存在的安全防护栏\n\n该联盟提出了五点计划：\n1. 强制通过认证平台筛查所有 DNA 合成订单\n2. 实时监控与危险生物学知识相关的 AI 查询\n3. 在生物 AI 安全标准方面进行国际合作\n4. 资助 AI 驱动的生物威胁检测研究\n5. 定期进行红队演练，测试 AI 系统的生物滥用潜力\n\n\"这不是假设性的风险，\"声明写道。\"AI 能力与生物技术的融合需要立即采取协调行动。\"\n\n这一呼吁正值 AI 模型在生物学和化学理解方面持续快速进步之际，提高了安全措施的紧迫性。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 5,
+      "timeAgo": 24,
+      "date": "2026-06-15",
+      "en": {
+        "title": "AI and Robots: Cairns Hospital Enters New Era of Surgery",
+        "excerpt": "An Australian hospital pioneers AI-guided robotic surgery with real-time precision guidance, achieving 35% faster surgeries and 50% fewer complications.",
+        "content": "Cairns Hospital in Queensland, Australia, has become a pioneer in the integration of AI-guided robotic surgery, marking a new era of surgical precision and patient care.\n\nThe hospital has deployed a new generation of surgical robots that use real-time AI analysis during complex procedures. The system combines:\n\n- **AI-powered surgical planning**: Pre-operative analysis of patient imaging to create optimal surgical pathways\n- **Real-time guidance**: Live AI analysis providing sub-millimeter precision guidance to robotic instruments\n- **Predictive monitoring**: AI systems that monitor patient vitals and predict potential complications\n\nEarly results have been remarkable:\n- 35% reduction in average surgery duration\n- 50% fewer post-operative complications\n- Average hospital stays reduced by 2 days\n- Surgeon fatigue reduced through AI-assisted tremor filtering\n\n\"The combination of AI and robotics doesn't replace our surgeons — it amplifies their capabilities,\" said the hospital's chief of surgery. \"We're seeing outcomes that weren't possible even five years ago.\"\n\nThe success at Cairns Hospital is being closely watched by healthcare systems worldwide as they evaluate similar technologies."
+      },
+      "zh": {
+        "title": "AI 与机器人：凯恩斯医院开启手术新时代",
+        "excerpt": "澳大利亚一家医院率先整合 AI 引导的机器人手术系统，实现手术速度提升 35%、并发症减少 50%。",
+        "content": "澳大利亚昆士兰州凯恩斯医院已成为 AI 引导机器人手术整合的先驱，标志着该地区外科手术精度和患者护理的新时代。\n\n该医院部署了新一代手术机器人，在复杂手术过程中使用实时 AI 分析。该系统结合了：\n\n- **AI 驱动的手术规划**：术前分析患者影像以创建最佳手术路径\n- **实时引导**：为机器人器械提供亚毫米级精度的实时 AI 分析引导\n- **预测性监测**：监测患者生命体征并预测潜在并发症的 AI 系统\n\n早期结果非常显著：\n- 平均手术时间缩短 35%\n- 术后并发症减少 50%\n- 平均住院时间减少 2 天\n- 通过 AI 辅助的震颤过滤降低外科医生疲劳度\n\n\"AI 和机器人的结合不是取代我们的外科医生——而是增强他们的能力，\"该医院外科主任表示。\"我们看到了甚至五年前都不可能实现的治疗效果。\"\n\n凯恩斯医院的成功正受到全球医疗系统的密切关注，它们正在评估采用类似技术的可行性。"
+      }
+    }
+  ]
+}
