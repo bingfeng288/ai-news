@@ -20,7 +20,7 @@ test.describe("Homepage", () => {
     await expect(logo).toContainText("AI News");
 
     const navLinks = page.locator(".nav-links a");
-    await expect(navLinks).toHaveCount(4);
+    await expect(navLinks).toHaveCount(5);
   });
 
   test("should display the hero section with featured article", async ({

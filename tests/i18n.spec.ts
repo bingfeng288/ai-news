@@ -50,7 +50,8 @@ test.describe("Internationalization (i18n)", () => {
     await expect(navLinks.nth(0)).toContainText("首页");
     await expect(navLinks.nth(1)).toContainText("最新");
     await expect(navLinks.nth(2)).toContainText("分类");
-    await expect(navLinks.nth(3)).toContainText("关于");
+    await expect(navLinks.nth(3)).toContainText("历史");
+    await expect(navLinks.nth(4)).toContainText("关于");
   });
 
   test("should switch categories to Chinese", async ({ page }) => {

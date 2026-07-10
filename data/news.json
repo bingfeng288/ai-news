@@ -1,327 +1,237 @@
 {
   "featured": {
     "id": 0,
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=600&fit=crop",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop",
     "category": "llm",
     "readTime": 7,
-    "timeAgo": 1,
-    "date": "2026-07-08",
+    "timeAgo": 3,
+    "date": "2026-07-10",
     "en": {
-      "title": "Microsoft Starts Replacing OpenAI and Anthropic Models with In-House AI in Office Apps",
-      "excerpt": "Microsoft has begun routing AI prompts in Excel and Outlook to its own MAI models instead of OpenAI and Anthropic, Bloomberg reports. MSFT stock jumped 2% as the move signals a strategic shift toward AI cost reduction and independence from external vendors.",
-      "content": "Microsoft Corp. has quietly initiated a major shift in its AI strategy, starting to replace OpenAI and Anthropic models with its own in-house AI in core productivity applications including Excel and Outlook, according to a Bloomberg report published July 7. MSFT shares rose 2% on the news.\n\n**What's Changing:**\n- Microsoft is routing an increasing share of AI prompts in Office apps to its internally developed MAI (Microsoft AI) models\n- The shift affects Excel and Outlook first, with potential expansion to Word, PowerPoint, and Teams\n- Microsoft remains OpenAI's largest investor and customer, and has also invested in Anthropic\n- The company spent billions on external AI model APIs in 2025, and insiders say cost reduction is a primary motivator\n\n**Why It Matters:**\n- This is the first concrete signal that Microsoft — the single largest customer for both OpenAI and Anthropic — is building a path to AI independence\n- Microsoft has been developing its own MAI model family for over a year, reportedly matching GPT-5 class performance on internal benchmarks\n- The shift mirrors a broader industry trend: enterprises are increasingly hedging their AI bets, adopting multi-model strategies to avoid vendor lock-in\n\n**The Competitive Landscape:**\n- OpenAI and Anthropic still power the most advanced Copilot features and Azure AI services\n- Microsoft's MAI models are being positioned as cost-efficient alternatives for standard productivity tasks, not as replacements for frontier reasoning workloads\n- This graduated approach — in-house for routine, external for cutting-edge — may become the default enterprise AI architecture\n\n**Broader Implications:**\nThe move raises questions about the durability of AI lab valuations when their largest customers are simultaneously building alternatives. With NVIDIA signaling it may slow its pre-IPO investments and Microsoft now demonstrating a path to self-sufficiency, the AI vendor landscape is entering a more competitive chapter."
+      "title": "OpenAI Declares GPT-5.6 the 'Preferred Model' for Microsoft Copilot 365 as Partnership Speculation Swirls",
+      "excerpt": "OpenAI publicly positioned GPT-5.6 as the top choice for Microsoft's Copilot 365 suite on July 10, a notable move amid partnership chatter.",
+      "content": "OpenAI publicly designated GPT-5.6 as the preferred model for Microsoft Copilot 365 on July 10, a striking signal as the tech giants navigate questions about their partnership's long-term stability.\n\n**Designation:**\n- OpenAI said GPT-5.6 is the top-recommended model for Copilot 365 enterprise workflows\n- The language implies an endorsement not made so explicitly before\n- Comes <24h after GPT-5.6 global launch on July 9\n\n**Tensions:**\n- Microsoft recently disclosed it is replacing OpenAI and Anthropic models with its own MAI in Excel and Outlook\n- Microsoft remains OpenAI's largest investor, but its in-house AI signals a more competitive stance\n- OpenAI's public preferred-model language could be a bid to re-anchor enterprise trust\n\n**Context:**\n- GPT-5.6 released July 9 after voluntary U.S. government safety review\n- Microsoft expected to announce compute and deployment details later this week\n\n**Market:**\n- MSFT held steady after-hours\n- OpenAI privately signaled to enterprise clients that additional model routing options are under review"
     },
     "zh": {
-      "title": "微软开始在 Office 应用中以自研 AI 替换 OpenAI 和 Anthropic 模型",
-      "excerpt": "据彭博社报道，微软已开始将 Excel 和 Outlook 中的 AI 提示路由到自研 MAI 模型，而非 OpenAI 和 Anthropic。MSFT 股价上涨 2%，此举标志着 AI 成本削减和对外部供应商依赖的战略转变。",
-      "content": "据彭博社 7 月 7 日报道，微软公司已悄然启动 AI 战略重大调整，开始在 Excel 和 Outlook 等核心生产力应用中以自研 AI 替换 OpenAI 和 Anthropic 模型。该消息推动 MSFT 股价上涨 2%。\n\n**变化内容：**\n- 微软正将 Office 应用中越来越多的 AI 提示流量路由到内部开发的 MAI（Microsoft AI）模型\n- 此轮调整首先影响 Excel 和 Outlook，后续可能扩展至 Word、PowerPoint 和 Teams\n- 微软仍是 OpenAI 的最大投资者和客户，同时也投资了 Anthropic\n- 公司在 2025 年为外部 AI 模型 API 支出了数十亿美元，内部人士称成本削减是主要驱动力\n\n**为何重要：**\n- 这是微软——OpenAI 和 Anthropic 共同的最大单一客户——正在建设 AI 独立路径的首个具体信号\n- 微软已开发自有 MAI 模型系列超过一年，据称在内部基准测试中达到 GPT-5 级别性能\n- 此举反映了更广泛的行业趋势：企业日益进行 AI 对冲，采用多模型策略以避免供应商锁定\n\n**竞争格局：**\n- OpenAI 和 Anthropic 仍为最先进的 Copilot 功能和 Azure AI 服务提供算力支撑\n- 微软将 MAI 模型定位为标准生产力任务的经济高效替代方案，而非替代前沿推理工作负载\n- 这种分层方法——常规任务用自家模型，尖端任务用外部模型——或将成为企业 AI 架构的默认范式\n\n**更广泛影响：**\n当最大客户同时也在构建替代方案时，此举引发了对 AI 实验室估值持久性的质疑。英伟达已暗示可能放缓 IPO 前投资，微软现在展示了自力更生的路径，AI 供应商格局正进入一个更具竞争性的新篇章。"
+      "title": "OpenAI 宣称 GPT-5.6 为微软 Copilot 365「首选模型」，合作伙伴猜测升温",
+      "excerpt": "7 月 10 日，OpenAI 公开将 GPT-5.6 定位为微软 Copilot 365 套件的首选模型，在两家科技巨头合作关系面临越来越多问题的背景下意义重大。",
+      "content": "OpenAI 于 7 月 10 日公开指定 GPT-5.6 为微软 Copilot 365 首选模型，在两家公司合作关系面临长期稳定性问题之际发出引人注目的信号。\n\n**指定：**\n- GPT-5.6 被推荐为 Copilot 365 企业工作流的首选\n- 此前从未如此明确背书\n- 在 GPT-5.6 7 月 9 日发布后不到 24 小时内\n\n**紧张：**\n- 微软近期披露以自研 MAI 替换 Excel/Outlook 中的 OpenAI 和 Anthropic 模型\n- 微软仍是 OpenAI 最大投资者但走向更竞争姿态\n- OpenAI 公开背书措辞意在重新锚定企业信任\n\n**背景：**\n- GPT-5.6 于 7 月 9 日在自愿政府安全审查后发布\n- 微软拟于本周晚些时候宣布计算和部署细节\n\n**市场：**\n- MSFT 盘后交易保持稳定\n- OpenAI 私下向企业客户表示正在评估其他模型路由选项"
     }
   },
   "articles": [
     {
       "id": 1,
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
-      "category": "business",
-      "readTime": 5,
-      "timeAgo": 3,
-      "date": "2026-07-08",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 6,
+      "timeAgo": 5,
+      "date": "2026-07-10",
       "en": {
-        "title": "Samsung Expects 1,800% Operating Profit Surge Driven by AI Chip Demand",
-        "excerpt": "Samsung Electronics forecasts an eye-popping 1,800% year-on-year increase in operating profit for Q2 2026, fueled by explosive demand for high-bandwidth memory and AI server SSDs. The company also began mass production of PCIe 6.0 enterprise SSDs for AI workloads.",
-        "content": "Samsung Electronics is forecasting a staggering 1,800% year-on-year surge in operating profit for the second quarter of 2026, driven overwhelmingly by the AI industry's insatiable demand for memory chips and storage solutions.\n\n**The Numbers:**\n- Q2 2026 operating profit expected to reach approximately 17.5 trillion won (~$13 billion)\n- Year-on-year growth of roughly 1,800%, with the semiconductor division contributing the lion's share\n- High-bandwidth memory (HBM) sales alone are projected to triple year-on-year\n\n**New AI Storage Product:**\nSeparately on July 8, Samsung announced mass production of the PM1763, the industry's first PCIe 6.0 enterprise SSD purpose-built for AI servers. The drive delivers double the bandwidth of PCIe 5.0 SSDs and is designed to feed data to GPUs at rates that reduce training idle time.\n\n**The Bigger Picture:**\n- Samsung's foundry business is separately in talks with Anthropic to manufacture custom AI chips on its 2-nanometer process\n- The profit surge underscores how the AI infrastructure buildout has created a multi-year super-cycle for memory and storage suppliers\n- SK Hynix, Samsung's domestic rival, has similarly reported record earnings on HBM demand\n\n**What's Next:**\nAnalysts expect the memory boom to continue through at least 2027, with AI server deployments still in the early innings of the current buildout cycle. The risk: any slowdown in hyperscaler capex could expose overcapacity, though demand signals remain robust for now."
+        "title": "OpenAI Launches New Frontier Model Family With GPT-5.6 at the Center",
+        "excerpt": "OpenAI rolled out its most capable generation of models on July 9, with GPT-5.6 as the flagship, supported by smaller, faster, and cheaper variants aimed at scaling deployment across price points.",
+        "content": "OpenAI formally launched its newest frontier model family on July 9, with GPT-5.6 as the flagship and smaller siblings scaling deployment from enterprise to edge.\n\n**The Lineup:**\n- GPT-5.6 as the flagship multimodal model with state-of-the-art reasoning\n- Smaller variants optimized for latency- and cost-sensitive workloads\n- Availability in both API and enterprise tiers from launch day\n\n**Performance:**\n- Materially better multi-step reasoning and tool use\n- Gains especially on programming, math, and long-document retrieval\n- Internal red-teaming and external safety board review preceded release\n\n**Rollout:**\n- July 9 general availability across all major cloud regions\n- Microsoft, Salesforce, sovereign wealth lab agreements go live this week\n- Pricing in line with prior generation; smaller variants up to 60% cheaper per token\n\n**Competition:**\n- Lands one week before Google DeepMind Gemini 3.5 Pro (July 17)\n- Anthropic next major update tipped for late July\n- SpaceX launched Grok 4.5 on July 9, intensifying the model war"
       },
       "zh": {
-        "title": "三星预计营业利润暴增 1800%，AI 芯片需求成核心引擎",
-        "excerpt": "三星电子预计 2026 年 Q2 营业利润同比增长 1800%，由 AI 行业对高带宽内存和服务器 SSD 的爆炸性需求推动。公司同日宣布量产专为 AI 服务器设计的 PCIe 6.0 企业级 SSD。",
-        "content": "三星电子预计 2026 年第二季度营业利润将同比暴增约 1800%，主要受 AI 行业对内存芯片和存储解决方案的旺盛需求驱动。\n\n**核心数据：**\n- Q2 2026 营业利润预计约 17.5 万亿韩元（约 130 亿美元）\n- 同比增长约 1800%，半导体部门贡献最大份额\n- 仅高带宽内存（HBM）销售额预计同比增长三倍\n\n**新产品：AI 存储：**\n7 月 8 日，三星还宣布量产 PM1763——业界首款专为 AI 服务器打造的 PCIe 6.0 企业级 SSD。该产品带宽是 PCIe 5.0 SSD 的两倍，旨在以更快速率向 GPU 输送数据，减少训练空闲时间。\n\n**更广泛背景：**\n- 三星代工业务另与 Anthropic 洽谈使用 2 纳米工艺制造定制 AI 芯片\n- 利润暴增强化了 AI 基础设施扩建为内存和存储供应商创造了多年超级周期的判断\n- 三星国内竞争对手 SK 海力士同样因 HBM 需求录得创纪录收益\n\n**展望：**\n分析师预计内存繁荣至少延续至 2027 年，AI 服务器部署仍处于当前建设周期的早期阶段。风险在于：超大规模客户资本开支的任何放缓都可能暴露产能过剩，不过目前需求信号依然强劲。"
+        "title": "OpenAI 发布新一代前沿模型家族，GPT-5.6 成为核心",
+        "excerpt": "OpenAI 于 7 月正式发布其能力最强的新一代模型，GPT-5.6 作为旗舰，并推出更小更快更便宜的变体，覆盖不同价格点。",
+        "content": "OpenAI 于 7 月 9 日正式发布其最新前沿模型家族，GPT-5.6 作为旗舰，搭配更小的姊妹型号，将部署规模从企业级扩展到边缘。\n\n**产品线：**\n- GPT-5.6 作为旗舰多模态模型，具备最先进的推理能力\n- 多款更小变体针对延迟敏感和成本敏感的工作负载进行了优化\n- 发布当日即在 API 和企业版双通道上线\n\n**性能：**\n- 多步骤推理和工具调用方面显著提升\n- 在编程、数学和长文档检索方面表现出优势\n- 发布前进行了内部红队测试和外部安全委员会审查\n\n**发布计划：**\n- 7 月 9 日全球主流云区域同步上线\n- 与微软、Salesforce 及多个主权财富实验室的企业协议本周生效\n- 定价与前代基线基本一致，小型变体每 token 成本最多降低 60%\n\n**竞争格局：**\n- 比 Google DeepMind 的 Gemini 3.5 Pro（7 月 17 日）早一周\n- Anthropic 预计于 7 月下旬发布下一个重大模型更新\n- SpaceX 于 7 月 9 日同期发布 Grok 4.5，加剧「模型大战」"
       }
     },
     {
       "id": 2,
-      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
-      "category": "robotics",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=600&h=400&fit=crop",
+      "category": "llm",
       "readTime": 6,
-      "timeAgo": 4,
-      "date": "2026-07-08",
+      "timeAgo": 6,
+      "date": "2026-07-10",
       "en": {
-        "title": "LG and NVIDIA Join Forces to Build Massive AI Robot Factory in Seoul",
-        "excerpt": "LG Electronics is consolidating its robotics and AI operations into a new business unit and forming a deep alliance with NVIDIA to build a large-scale AI robot manufacturing facility in Seoul, targeting both industrial and service robotics markets.",
-        "content": "LG Electronics is consolidating its robotics and artificial intelligence operations into a new standalone business unit and forming a far-reaching alliance with NVIDIA to build a massive AI robot factory in Seoul, in one of the most ambitious industrial robotics bets by a major consumer electronics company.\n\n**The Partnership:**\n- LG will consolidate its scattered robotics operations under a new dedicated business unit\n- NVIDIA will provide the AI training and simulation infrastructure, leveraging its Isaac robotics platform and Omniverse digital twin technology\n- The Seoul factory will produce both industrial robots and service/humanoid robots\n- Initial production capacity and investment figures have not been disclosed\n\n**The Strategic Rationale:**\n- LG already has deep manufacturing expertise through its home appliance and electronics businesses\n- The company sees robotics as the natural convergence of its AI, sensor, motor, and battery technologies\n- NVIDIA gains another major OEM partner to deploy its robotics software stack at scale\n\n**Competitive Context:**\n- The announcement comes as venture capital floods into industrial automation globally\n- Humanoid robot pilots are scaling across factories in China, the US, and Korea\n- Faraday Future separately announced plans to bring rental humanoid robots to the UAE market\n- WAIC 2026 in Shanghai (July 17-20) will feature humanoid robot volunteers, highlighting how quickly the technology is moving from lab to real world\n\n**The Bigger Picture:**\nThe LG-NVIDIA partnership signals that consumer electronics giants are pivoting hard toward robotics as their next growth frontier, betting that AI is finally mature enough to make general-purpose robots commercially viable."
+        "title": "OpenAI Shuts Down Atlas Browser, but Its AI Browser Ambitions Are Far From Over",
+        "excerpt": "OpenAI discontinued Atlas browser on July 10 but retained the broader browser-based AI roadmap, signaling a pivot in how it surfaces AI inside everyday web workflows.",
+        "content": "OpenAI announced July 10 it is sunsetting Atlas, its standalone AI browser, while making clear the decision does not reflect a retreat from web-layer AI ambitions.\n\n**Was:**\n- Chromium-based browser with deep ChatGPT integration\n- Limited release, faced stiff competition from Chrome, Edge, Brave\n\n**Why Pull Back:**\n- Limited sustained engagement after initial spike\n- Engineering better spent inside existing browsers\n- Distribution advantages of Chrome/Edge hard to overcome\n\n**What Remains:**\n- Browser AI via extensions and integrations\n- Web-agent research and infrastructure investment intact\n- Refocus, not retreat\n\n**Industry:**\n- Standalone AI browsers face fundamental go-to-market challenges\n- Google continues to push Gemini inside Chrome\n- Smaller AI browser startups face similar strategic questions"
       },
       "zh": {
-        "title": "LG 与英伟达联手在首尔建设大型 AI 机器人工厂",
-        "excerpt": "LG 电子将机器人和 AI 业务整合为独立事业部，并与英伟达组建深度联盟，在首尔建设大型 AI 机器人制造工厂，同时瞄准工业和服务机器人市场。",
-        "content": "LG 电子正在将其机器人和人工智能业务整合为新的独立事业部，并与英伟达组建深度联盟，在首尔建设大型 AI 机器人制造工厂——这是主流消费电子公司在工业机器人领域最雄心勃勃的押注之一。\n\n**合作详情：**\n- LG 将分散的机器人业务整合至新的专属事业部\n- 英伟达将提供 AI 训练和仿真基础设施，利用其 Isaac 机器人平台和 Omniverse 数字孪生技术\n- 首尔工厂将生产工业机器人和服务/人形机器人\n- 初始产能和投资金额尚未披露\n\n**战略逻辑：**\n- LG 已通过家电和电子业务积累了深厚的制造专业知识\n- 公司将机器人视为 AI、传感器、电机和电池技术的自然交汇点\n- 英伟达获得又一个大型 OEM 合作伙伴，以规模化部署其机器人软件栈\n\n**竞争背景：**\n- 该消息发布之际，全球工业自动化正吸引大量风险资本涌入\n- 人形机器人试点在中国、美国和韩国的工厂中逐步扩大规模\n- Faraday Future 另宣布计划向阿联酋市场引入租赁人形机器人\n- 上海 WAIC 2026（7 月 17-20 日）将启用人形机器人志愿者，彰显技术从实验室走向现实的速度\n\n**更广泛的图景：**\nLG 与英伟达的合作标志着消费电子巨头正加速向机器人领域转型，视其为下一个增长前沿，押注 AI 终于成熟到足以让通用机器人实现商业可行性。"
+        "title": "OpenAI 关闭 Atlas 浏览器，但其 AI 浏览器雄心并未消退",
+        "excerpt": "OpenAI 于 7 月 10 日终止独立 AI 浏览器 Atlas，但保留了更宏大的浏览器 AI 路线图，表明其在 Web 工作流中呈现 AI 的策略转向。",
+        "content": "OpenAI 于 7 月 10 日宣布停止独立 AI 浏览器 Atlas，同时明确表示并不代表要从 Web 层 AI 战略中撤退。\n\n**Atlas 是什么：**\n- 基于 Chromium 的浏览器，深度整合 ChatGPT\n- 面临 Google Chrome、Microsoft Edge 和 Brave 的强力竞争\n\n**为何收缩：**\n- 下载高峰之外用户粘性有限\n- 工程投入更适合用于现有浏览器内部\n- Chrome 和 Edge 的渠道优势被证明难以撼动\n\n**仍保留的方向：**\n- AI 浏览器能力将通过扩展和集成呈现\n- 维持 Web 智能体研究和检索基础设施的投资\n- 内部人士称此举是战略再聚焦，而非撤退\n\n**行业：**\n- 独立 AI 浏览器面临根本性市场准入挑战\n- Google 继续在 Chrome 内积极推送 Gemini\n- 多家 AI 浏览器初创公司将面临类似抉择"
       }
     },
     {
       "id": 3,
-      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
-      "category": "business",
+      "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=600&h=400&fit=crop",
+      "category": "creative",
       "readTime": 5,
-      "timeAgo": 5,
-      "date": "2026-07-08",
+      "timeAgo": 4,
+      "date": "2026-07-10",
       "en": {
-        "title": "83 New Unicorns Born in H1 2026 — 60% Are AI Companies",
-        "excerpt": "According to TechCrunch and 36Kr, 83 venture-backed startups crossed the $1 billion valuation mark in the first half of 2026, with approximately 60% being AI-focused companies spanning enterprise automation, vertical SaaS, and specialized foundation models.",
-        "content": "The unicorn factory is running at unprecedented speed. According to TechCrunch tracking reported by 36Kr, 83 venture-backed startups reached unicorn status ($1 billion+ valuation) in the first six months of 2026 — and roughly 60% of them are AI companies.\n\n**By the Numbers:**\n- 83 new unicorns in H1 2026, roughly double the ~43 from H1 2025\n- AI companies account for approximately 60% of the new cohort\n- Median time from founding to unicorn status has compressed to as little as 18 months for AI startups\n- The figures cover U.S. venture-backed startups specifically\n\n**AI Dominance Categories:**\n- Enterprise AI automation and agents\n- Vertical AI SaaS (legal, healthcare, finance)\n- Foundation model and infrastructure companies\n- AI-native cybersecurity platforms\n- Robotics and embodied AI\n\n**What's Different This Time:**\nVeteran investors are divided. Bears point to the speed of valuation expansion as reminiscent of the 2021 bubble. Bulls argue this cycle is underpinned by measurable revenue growth: many AI unicorns are already generating $50-100 million in annual recurring revenue, far ahead of where SaaS unicorns were at equivalent stages in prior cycles.\n\n**The Geographic Shift:**\nWhile Silicon Valley still dominates, the unicorn map is broadening. European AI startups are breaking through in increasing numbers, and Asian AI companies — particularly from China, Korea, and Southeast Asia — are contributing a growing share of the new billion-dollar club."
+        "title": "Meta Enters the Crowded AI Coding Battle With Muse Spark 1.1",
+        "excerpt": "Meta shipped Muse Spark 1.1 on July 10, stepping into an AI coding tool market already populated by OpenAI, Anthropic, Google, and unicorn startups.",
+        "content": "Meta pushed Muse Spark 1.1 into general availability July 10, marking its most aggressive move yet into the fast-growing AI developer tools segment.\n\n**What It Brings:**\n- Code-gen model fine-tuned on Meta proprietary codebases + open-source\n- Real-time multi-developer collaboration\n- Native VS Code, JetBrains, internal toolchain integration\n- 40+ programming languages out of the box\n\n**Competition:**\n- GitHub Copilot, Cursor, Anthropic agents, Gemini Code Assist already serve tens of millions\n- Meta bets Llama-family scale and in-house distribution\n- Pricing set below incumbents as customer-acquisition tactic\n\n**GTM:**\n- Free for individuals; paid enterprise tiers planned Q3 2026\n- Packaged with Workplace and Ray-Ban Meta features\n- Available via company AI studio July 10\n\n**Response:**\n- Early testers praised multi-file reasoning speed, flagged prompt differences vs Cursor\n- Some enterprise customers cautious given Meta's spotty developer-tools record"
       },
       "zh": {
-        "title": "2026 上半年诞生 83 家新独角兽，六成为 AI 公司",
-        "excerpt": "据 TechCrunch 和 36Kr 报道，2026 年上半年有 83 家风投支持的初创公司突破 10 亿美元估值，其中约 60% 为 AI 公司，横跨企业自动化、垂直 SaaS 和专业基础模型等领域。",
-        "content": "独角兽工厂正以前所未有的速度运转。据 36Kr 引述 TechCrunch 数据，2026 年上半年有 83 家风投支持的初创公司达到独角兽地位（估值超 10 亿美元），其中约 60% 为 AI 公司。\n\n**核心数字：**\n- 2026 上半年 83 家新独角兽，约为 2025 上半年的两倍（约 43 家）\n- AI 公司占新晋独角兽约 60%\n- AI 初创公司从创立到独角兽的最短时间压缩至约 18 个月\n- 数据专门针对美国风投支持的初创公司\n\n**AI 主导领域：**\n- 企业 AI 自动化与智能体\n- 垂直 AI SaaS（法律、医疗、金融）\n- 基础模型和基础设施公司\n- AI 原生网络安全平台\n- 机器人与具身 AI\n\n**这次有何不同：**\n资深投资者意见分歧。看空者指出估值扩张速度令人想起 2021 年泡沫。看多者认为本轮有可衡量的收入增长支撑：许多 AI 独角兽已产生 5000 万至 1 亿美元的年经常性收入，远超此前周期中 SaaS 独角兽同阶段水平。\n\n**地理版图变化：**\n虽然硅谷仍占主导，独角兽版图正在扩大。欧洲 AI 初创公司突破的数量日益增加，亚洲 AI 公司——尤其中韩和东南亚——正为新的十亿俱乐部贡献越来越大的份额。"
+        "title": "Meta 发布 Muse Spark 1.1，加入已经拥挤的 AI 编程战场",
+        "excerpt": "Meta 于 7 月 10 日推出 Muse Spark 1.1，在被 OpenAI、Anthropic、Google 和一系列独角兽占据的 AI 编程工具市场中入局。",
+        "content": "Meta 于 7 月 10 日正式推出 Muse Spark 1.1，在快速增长的 AI 辅助开发者工具市场迈进最积极的一步。\n\n**带来什么：**\n- 基于 Meta 专有代码库和开源仓库微调的代码生成模型\n- 多开发者实时协作\n- 原生集成 VS Code、JetBrains 和 Meta 内部工具链\n- 开箱支持 40+ 编程语言\n\n**竞争格局：**\n- GitHub Copilot、Cursor、Anthropic 智能体和 Gemini Code Assist 已服务数千万开发者\n- Meta 押注 Llama 系列规模与内部渠道\n- 定价低于多个在位者\n\n**市场推广：**\n- 个人免费，企业版计划 Q3 2026\n- 与 Workplace 和 Ray-Ban Meta 功能打包\n- 7 月 10 日起通过 AI 工作室访问\n\n**反馈：**\n- 早期测试者称赞多文件推理速度\n- 部分企业客户对 Meta 在开发者工具领域参差不齐的历史持谨慎"
       }
     },
     {
       "id": 4,
-      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
-      "category": "policy",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+      "category": "research",
       "readTime": 5,
-      "timeAgo": 6,
-      "date": "2026-07-08",
+      "timeAgo": 3,
+      "date": "2026-07-10",
       "en": {
-        "title": "U.S. Senate Panel Approves AI and Autonomous Weapons Regulatory Framework",
-        "excerpt": "A key U.S. Senate committee has recommended imposing a regulatory framework for autonomous weapons and military AI systems, marking the most significant congressional action on AI-enabled warfare to date.",
-        "content": "A key U.S. Senate committee has approved a regulatory framework governing the military use of autonomous weapons and artificial intelligence, according to Arms Control Today, representing the most significant congressional action on AI-enabled warfare since the technology began proliferating through defense systems.\n\n**What the Framework Includes:**\n- Mandatory human-on-the-loop requirements for lethal autonomous weapons\n- Safety verification and testing protocols for AI systems deployed in military contexts\n- Reporting requirements for autonomous weapons incidents\n- Interoperability standards with allied forces\n\n**Why Now:**\n- Multiple nations are rapidly integrating AI into weapons systems, creating an arms-race dynamic\n- The UN's Independent International Scientific Panel on AI recently warned that AI capabilities are outpacing governments' ability to regulate them\n- The framework arrives the same week the UN AI for Good Global Commission holds its first session in Geneva (July 8)\n\n**The International Dimension:**\n- The U.S. framework may serve as a template for NATO allies\n- China, Russia, and other powers are developing their own autonomous weapons capabilities without equivalent transparency requirements\n- The Arms Control Association notes that the Senate action is a first step — the framework still needs full congressional approval and presidential signature\n\n**The Broader Context:**\nThe Senate action parallels state-level AI regulation, including Illinois' landmark AI safety audit law signed this week, suggesting 2026 is becoming a turning point for AI governance on multiple fronts simultaneously."
+        "title": "Prime Intellect Raises $130M Series A for Enterprise AI Agent Platforms",
+        "excerpt": "Prime Intellect closed a $130M Series A on July 10 as enterprises seek internal AI agent platforms rather than relying only on closed model APIs.",
+        "content": "San Francisco-based Prime Intellect announced a $130 million Series A on July 10, reflecting surging corporate appetite to build and operate custom AI agents.\n\n**Round:**\n- Co-led by Andreessen Horowitz plus strategic corporate investors\n- ~$700M post-money; ~$170M total raised\n\n**Platform:**\n- Design, deploy, manage agent fleets at scale\n- Custom tool use, permissioning, observability across model backends\n- Model-agnostic: swap between OpenAI, Anthropic, open-source\n\n**Demand:**\n- Fortune 500 pilots underway\n- Data-sovereignty cited as primary driver\n- Agentic workflows increasingly central to CIO roadmaps\n\n**Market:**\n- Wave of agent-foundry rounds in 2025-2026\n- Front-end orchestration a distinct layer alongside models and infra"
       },
       "zh": {
-        "title": "美国参议院委员会批准 AI 及自主武器监管框架",
-        "excerpt": "美国参议院关键委员会通过了对军事自主武器和 AI 系统的监管框架，这是迄今为止国会在 AI 赋能战争领域采取的最重要行动。",
-        "content": "据《今日军控》报道，美国参议院一个关键委员会已批准了对军事自主武器和人工智能使用的监管框架，这是自 AI 技术开始在国防系统中扩散以来，国会在 AI 赋能战争领域采取的最重要行动。\n\n**框架内容：**\n- 对致命性自主武器的强制人工在环要求\n- 军事 AI 系统的安全验证和测试协议\n- 自主武器事件报告要求\n- 与盟军的互操作性标准\n\n**时机背景：**\n- 多国正加速将 AI 集成到武器系统中，形成军备竞赛态势\n- 联合国 AI 独立国际科学小组近期警告，AI 能力正在超越政府监管能力\n- 该框架与联合国 AI for Good 全球委员会在日内瓦首次会议（7 月 8 日）同周推进\n\n**国际维度：**\n- 美国框架可能成为北约盟国的模板\n- 中国、俄罗斯等大国正发展自主武器能力，但缺乏同等的透明度要求\n- 军控协会指出，参议院行动只是第一步——该框架仍需国会全面批准和总统签署\n\n**更广泛背景：**\n参议院行动与州级 AI 监管并行推进，包括伊利诺伊州本周签署的里程碑式 AI 安全审计法案，显示 2026 年正成为多战线 AI 治理的转折点。"
+        "title": "Prime Intellect 完成 1.3 亿美元 A 轮融资，助力企业自建 AI 智能体",
+        "excerpt": "Prime Intellect 于 7 月 10 日完成 1.3 亿美元 A 轮融资，表明企业正寻求自建内部 AI 智能体平台，而非只依赖封闭模型 API。",
+        "content": "旧金山初创公司 Prime Intellect 完成 1.3 亿美元 A 轮融资，反映企业自建定制 AI 智能体需求激增。\n\n**融资：**\n- 由 Andreessen Horowitz 联合领投\n- 投后约 7 亿美元\n\n**平台：**\n- 大规模设计、部署和管理智能体集群\n- 自定义工具调用、权限管控、观测能力\n- 模型无关，可灵活切换不同模型后端\n\n**需求：**\n- 多家财富 500 强试点\n- 数据主权为主要驱动力\n- 智能体工作流正成 CIO 路线图核心"
       }
     },
     {
       "id": 5,
-      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=600&h=400&fit=crop",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=400&fit=crop",
       "category": "business",
-      "readTime": 4,
-      "timeAgo": 6,
-      "date": "2026-07-08",
+      "readTime": 5,
+      "timeAgo": 4,
+      "date": "2026-07-10",
       "en": {
-        "title": "Norm AI Raises $120 Million Series C to Expand Legal-Focused AI Platform",
-        "excerpt": "Norm Ai, an AI startup specializing in regulatory compliance and legal workflow automation, has raised $120 million in Series C funding, reflecting surging enterprise demand for AI tools that navigate complex legal and regulatory landscapes.",
-        "content": "Norm Ai, an artificial intelligence startup focused on automating legal and regulatory compliance workflows, has raised $120 million in a Series C funding round, according to PYMNTS — the latest sign that enterprise demand for specialized vertical AI is accelerating rapidly.\n\n**The Deal:**\n- $120 million Series C round, led by a top-tier venture firm (investor details pending)\n- The company builds AI agents that parse regulations, draft compliance documents, and flag legal risks in real time\n- Norm Ai targets heavily regulated industries including financial services, healthcare, and energy\n\n**Why It Matters:**\n- Legal and compliance AI is emerging as one of the fastest-growing vertical AI categories\n- The addressable market is enormous: global corporations spend an estimated $200 billion annually on regulatory compliance\n- Norm Ai's growth reflects a broader enterprise shift from general-purpose AI chatbots to specialized AI agents that understand domain-specific rules and workflows\n\n**The Competitive Landscape:**\nNorm Ai competes with a growing field of legal AI startups, including Harvey, Casetext (acquired by Thomson Reuters), and Ironclad. The large funding round suggests investors see room for multiple winners in a market where different verticals (regulatory compliance, contract review, litigation support) require specialized approaches.\n\n**The Bigger Picture:**\nNorm Ai's raise is part of a broader wave of vertical AI funding. The 83 unicorns minted in H1 2026 are disproportionately in specialized enterprise AI categories — suggesting investors believe the next phase of AI adoption will be driven not by horizontal platforms but by deep vertical expertise."
+        "title": "Paris AI Voice Startup Gradium Raises $100M Seed, Backed by Nvidia",
+        "excerpt": "Gradium closed a $100M seed round on July 10 with Nvidia among its backers, highlighting investor conviction around next-generation voice AI.",
+        "content": "Paris-based Gradium announced a $100 million seed on July 10, Nvidia participating.\n\n**Round:**\n- Unusually large for the stage\n- Nvidia joined alongside European deep-tech, U.S. generalist VCs\n\n**Product:**\n- Ultra-low-latency generative voice for customer service, call-center, hands-free\n- Focus on accent preservation and speaker emotion\n- Cloud and on-device support\n\n**Why Voice Now:**\n- Call-center economics being rethought post-GPT-5.6 and Grok 4.5\n- Voice inference costs dropped sharply in 12 months\n- Apple, Amazon, Google all eyeing voice AI stack\n\n**Investors:**\n- Nvidia participation flags voice as major AI horizontal\n- Seen as flagship deep-tech bet from Paris AI scene"
       },
       "zh": {
-        "title": "法律 AI 公司 Norm Ai 完成 1.2 亿美元 C 轮融资",
-        "excerpt": "专注于监管合规和法律工作流自动化的 AI 初创公司 Norm Ai 完成 1.2 亿美元 C 轮融资，反映企业对能驾驭复杂法律法规的 AI 工具需求激增。",
-        "content": "据 PYMNTS 报道，专注于法律和监管合规工作流自动化的人工智能初创公司 Norm Ai 已完成 1.2 亿美元 C 轮融资，成为垂直专业 AI 需求加速增长的最新信号。\n\n**交易详情：**\n- 1.2 亿美元 C 轮融资，由顶级风投机构领投（投资方详情待披露）\n- 公司构建能解析法规、起草合规文件并实时标记法律风险的 AI 智能体\n- Norm Ai 瞄准金融服务、医疗和能源等重监管行业\n\n**为何重要：**\n- 法律与合规 AI 正成为增长最快的垂直 AI 类别之一\n- 可寻址市场庞大：全球企业每年在监管合规上的支出估计约 2000 亿美元\n- Norm Ai 的增长反映了更广泛的企业趋势：从通用 AI 聊天机器人转向能理解行业专属规则和工作流的专业 AI 智能体\n\n**竞争格局：**\nNorm Ai 与日益增多的法律 AI 初创公司竞争，包括 Harvey、Casetext（已被汤森路透收购）和 Ironclad。大额融资暗示投资者认为该市场可以容纳多个赢家，因为不同细分领域（监管合规、合同审查、诉讼支持）需要专业化方案。\n\n**更广泛背景：**\nNorm Ai 的融资是垂直 AI 融资浪潮的一部分。2026 上半年诞生的 83 家独角兽中，专业化企业 AI 类别占比极高——投资者似乎在押注，AI 普及的下一阶段驱动因素将不是横向平台，而是深度的垂直专业知识。"
+        "title": "巴黎语音 AI 初创公司 Gradium 完成 1 亿美元种子轮，英伟达参投",
+        "excerpt": "巴黎 AI 语音公司 Gradium 于 7 月 10 日完成 1 亿美元种子轮，英伟达参投，反映投资者对下一代语音 AI 界面的信心。",
+        "content": "巴黎 AI 语音初创公司 Gradium 宣布完成 1 亿美元种子轮，英伟达参投。\n\n**产品：**\n- 超低延迟生成式语音模型，面向客服、呼叫中心\n- 重点保证口音保留和情感建模\n- 云端和边缘端协同部署\n\n**为何现在：**\n- GPT-5.6 和 Grok 4.5 后重新审视呼叫中心经济性\n- 语音推理算力成本一年内大幅下降\n- 巨头均在布局语音 AI 栈"
       }
     },
     {
       "id": 6,
-      "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=600&h=400&fit=crop",
-      "category": "ethics",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "business",
       "readTime": 5,
-      "timeAgo": 7,
-      "date": "2026-07-08",
+      "timeAgo": 4,
+      "date": "2026-07-10",
       "en": {
-        "title": "UN Leaders Call for Urgent AI Child Safety Action as Risks Outpace Protections",
-        "excerpt": "Two senior UN officials issued an urgent call for faster action to protect children from AI risks, warning that existing safeguards are failing to keep pace with the speed at which AI systems are reaching and affecting minors globally.",
-        "content": "Two senior United Nations officials have issued an urgent joint call for accelerated action to protect children from the risks of artificial intelligence, warning that governments and technology companies are moving too slowly as AI systems increasingly shape the online and offline experiences of minors.\n\n**The Warning:**\n- AI-powered recommendation systems are amplifying harmful content exposure for children\n- Generative AI tools are being misused to create convincing deepfake imagery of minors\n- AI-driven platforms collect vast amounts of children's data without adequate consent frameworks\n- Existing child safety regulations were designed for a pre-generative-AI internet and are now obsolete\n\n**The Call to Action:**\n- Mandatory AI safety impact assessments specifically addressing child protection\n- Age-appropriate design requirements for AI systems accessible to minors\n- International coordination on cross-border AI child safety standards\n- Faster development of AI content moderation tools that can operate at platform scale\n\n**The Timing:**\nThe UN call comes during a week dense with AI governance activity: the AI for Good Global Commission holds its inaugural session in Geneva on July 8, and the UN Global Dialogue on AI Governance convenes all 193 member states. Child safety advocates hope the concentrated diplomatic attention will produce concrete commitments rather than general statements of principle.\n\n**The Bigger Challenge:**\nAI child safety sits at the intersection of multiple complex regulatory domains — data privacy, content moderation, platform liability, and AI model safety — making coordinated action extraordinarily difficult. The UN officials acknowledged this complexity but argued that the cost of inaction, measured in harm to children, is rising daily."
+        "title": "Meta Custom AI Chips to Enter Volume Production in September",
+        "excerpt": "Meta confirmed July 10 that next-gen custom AI silicon enters volume production in September 2026, a milestone in reducing Nvidia dependence.",
+        "content": "Meta disclosed July 10 its next-gen custom AI accelerator chips will begin volume production September 2026.\n\n**Silicon:**\n- Successor to MTIA family\n- Training large models + high-throughput inference\n- TSMC advanced node, Samsung secondary\n\n**Strategy:**\n- One of handful of hyperscalers (with Google, Amazon, Microsoft) designing at scale\n- In-house silicon to materially cut compute costs by 2027\n\n**Volume:**\n- Initial deployments: recommendation, ranking, GenAI services\n- Material data-center scale only by 2028\n- Supplement, not replace, Nvidia GPUs near-term\n\n**Market:**\n- Nvidia shares dipped slightly in early trading\n- Analysts called timeline credible; yield curves a risk"
       },
       "zh": {
-        "title": "联合国领导人呼吁加快 AI 儿童安全行动，风险速度超越保护措施",
-        "excerpt": "两位联合国高级官员紧急呼吁加快保护儿童免受 AI 风险影响，警告现有防护措施未能跟上 AI 系统触及和影响全球未成年人的速度。",
-        "content": "两位联合国高级官员发出紧急联合呼吁，要求加快保护儿童免受人工智能风险影响，警告政府和科技公司行动过慢，而 AI 系统正日益影响未成年人的线上和线下体验。\n\n**警告要点：**\n- AI 推荐系统正在放大有害内容对儿童的曝光\n- 生成式 AI 工具被滥用于制作逼真的未成年人深度伪造图像\n- AI 驱动的平台在缺乏充分同意框架的情况下收集大量儿童数据\n- 现有儿童安全法规是为前生成式 AI 时代的互联网设计的，现已经过时\n\n**行动呼吁：**\n- 强制执行专门针对儿童保护的 AI 安全影响评估\n- 对未成年人可访问的 AI 系统提出适龄设计要求\n- 跨境 AI 儿童安全标准的国际协调\n- 加快开发能在平台规模运行的 AI 内容审核工具\n\n**时机背景：**\n联合国呼吁发布之际正值 AI 治理活动密集的一周：AI for Good 全球委员会于 7 月 8 日在日内瓦召开首次会议，联合国 AI 治理全球对话召集全部 193 个成员国。儿童安全倡导者希望集中外交关注能产生具体承诺而非一般原则声明。\n\n**更大挑战：**\nAI 儿童安全处于多个复杂监管领域的交汇点——数据隐私、内容审核、平台责任和 AI 模型安全——使协调行动极为困难。联合国官员承认这一复杂性，但认为不行动的代价（以对儿童的伤害衡量）每天都在增加。"
+        "title": "Meta 自研 AI 芯片将于 2026 年 9 月量产",
+        "excerpt": "Meta 7 月 10 日确认其下一代自研 AI 加速芯片将于 9 月进入量产，在减少对英伟达依赖方面迈出重要一步。",
+        "content": "Meta 于 7 月 10 日披露下一代自研 AI 加速芯片将于 2026 年 9 月量产。\n\n**芯片：**\n- MTIA 家族后继产品\n- 台积电先进制程代工\n\n**战略：**\n- 少数几家大规模自研 AI 芯片的超大规模企业之一\n- 自研芯片预计 2027 年显著降低单位算力成本\n\n**量产：**\n- 初期面向推荐、排序和 GenAI\n- 短期内补充而非替代英伟达 GPU"
       }
     },
     {
       "id": 7,
-      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
-      "category": "research",
-      "readTime": 5,
-      "timeAgo": 8,
-      "date": "2026-07-07",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 4,
+      "timeAgo": 5,
+      "date": "2026-07-10",
       "en": {
-        "title": "Enterprise AI Adoption Gap: 86% Raising Budgets but Only 32% Seeing Sustained Impact",
-        "excerpt": "A new industry survey reveals a striking gap in enterprise AI adoption: while 86% of executives are increasing AI budgets, only 32% report sustained measurable impact, with security, data quality, and accountability cited as the top barriers.",
-        "content": "A new industry survey has quantified a paradox at the heart of enterprise AI adoption: 86% of executives report raising their AI budgets for 2026, yet only 32% say they are seeing sustained, measurable business impact from those investments, according to research covered by MarketScale.\n\n**The Adoption Gap, by the Numbers:**\n- 86% of executives increasing AI budgets\n- Only 32% reporting sustained measurable impact\n- Top barriers: data quality (cited by 67%), security concerns including prompt injection (61%), and lack of clear accountability frameworks (54%)\n- Shadow AI — employees using unsanctioned AI tools — reported by 71% of organizations\n\n**What's Blocking ROI:**\n- **Data quality**: AI models are only as good as the data they're trained on, and most enterprises struggle with fragmented, inconsistent data estates\n- **Security**: prompt injection attacks and data leakage risks are undermining trust in AI outputs for regulated workflows\n- **Accountability**: when an AI agent makes a decision that costs money or violates a rule, who is responsible? Most organizations lack clear governance\n\n**The Shadow AI Problem:**\n71% of organizations report employees using unsanctioned AI tools — ChatGPT, Claude, or specialized AI SaaS — without IT oversight. This creates security blind spots and makes it impossible to measure actual AI ROI at the organizational level.\n\n**What High-Impact Organizations Do Differently:**\nThe 32% reporting sustained impact share common practices: they focus on narrow, high-value use cases rather than broad deployment; they invest in data infrastructure before AI; and they establish clear AI governance with named accountable owners for each AI workflow."
+        "title": "Ollama Raises $65M, Reaches Nearly 9M Users as Local AI Goes Mainstream",
+        "excerpt": "Ollama closed $65M on July 10 and disclosed ~9M users, a striking signal local AI is moving from niche to mainstream.",
+        "content": "Ollama, the popular tool for running LLMs on local hardware, announced July 10 it closed a $65M round and reached nearly 9 million users.\n\n**Round & Users:**\n- $65M led by AI-focused investor consortium\n- ~9M users, up from ~4M at start of year\n- Most-used: Llama, Mistral, Gemma\n\n**Why Local Now:**\n- Smaller models make local inference practical on consumer hardware\n- Privacy/sovereignty concerns push on-prem\n- Cloud API costs at scale can exceed local hardware\n\n**Competition:**\n- LM Studio, Jan, and others\n- Open-source model + simple CLI differentiators\n- Cloud providers now offer Ollama-compatible APIs"
       },
       "zh": {
-        "title": "企业 AI 落地鸿沟：86% 增加预算，仅 32% 看到持续成效",
-        "excerpt": "一项新的行业调查量化了企业 AI 落地的核心悖论：86% 的高管在增加 AI 预算，但仅 32% 看到持续可衡量的业务成效，安全、数据质量和问责制被列为三大障碍。",
-        "content": "一项新行业调查量化了企业 AI 落地核心矛盾：86% 的高管报告正在增加 2026 年 AI 预算，但仅 32% 表示从这些投资中看到了持续可衡量的业务成效，据 MarketScale 报道。\n\n**落地鸿沟量化数据：**\n- 86% 的高管增加 AI 预算\n- 仅 32% 报告持续可衡量的成效\n- 主要障碍：数据质量（67% 提及）、包括提示注入在内的安全担忧（61%）、缺乏清晰的问责框架（54%）\n- 影子 AI——员工使用未经批准的 AI 工具——71% 的组织报告存在该问题\n\n**阻碍 ROI 的因素：**\n- **数据质量**：AI 模型的效果完全取决于训练数据的质量，而大多数企业面临碎片化、不一致的数据资产\n- **安全**：提示注入攻击和数据泄露风险正在削弱对 AI 输出在受监管工作流中的信任\n- **问责制**：当 AI 智能体做出导致金钱损失或违规的决策时，谁该负责？大多数组织缺乏明确的治理\n\n**影子 AI 问题：**\n71% 的组织报告员工在使用未经批准的 AI 工具——ChatGPT、Claude 或专业 AI SaaS——没有 IT 监督。这产生了安全盲点，使组织层面无法衡量真实的 AI 投资回报率。\n\n**高成效组织做对了什么：**\n报告持续成效的 32% 组织有共同做法：聚焦狭窄、高价值的用例而非广泛铺开；在 AI 之前先投资数据基础设施；建立清晰的 AI 治理，为每个 AI 工作流指定具名的负责人。"
+        "title": "Ollama 完成 6500 万美元融资，用户近 900 万，本地 AI 走向主流",
+        "excerpt": "Ollama 于 7 月 10 日宣布完成 6500 万美元融资，用户近 900 万，表明本地 AI 从小众走向主流。",
+        "content": "本地运行大语言模型的开源工具 Ollama 宣布完成 6500 万美元融资，用户近 900 万。\n\n**用户增长：**\n- 较年初约 400 万大幅增长\n- 最常用模型包括 Llama、Mistral、Gemma\n\n**为何现在：**\n- 更小的模型使本地推理在消费级硬件上变得实用\n- 隐私和数据主权问题推动本地部署\n- 大规模云 API 成本可能超过本地硬件\n\n**竞争：**\n- 与 LM Studio、Jan 等工具竞争\n- 开源模式和简洁 CLI 是关键差异化"
       }
     },
     {
       "id": 8,
-      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
-      "category": "llm",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
+      "category": "policy",
       "readTime": 5,
       "timeAgo": 3,
-      "date": "2026-07-08",
+      "date": "2026-07-10",
       "en": {
-        "title": "OpenAI to Launch GPT-5.6 on Thursday After Government Review Delay",
-        "excerpt": "OpenAI will release GPT-5.6, its most advanced AI model to date, on Thursday July 9, Reuters reports. The launch was delayed for a U.S. government safety review, marking continued coordination between frontier labs and Washington.",
-        "content": "OpenAI will launch GPT-5.6, its most advanced AI model, on Thursday July 9 after a delay prompted by U.S. government concerns over the potential for misuse, according to a Reuters report published July 8.\n\n**The Delay:**\n- GPT-5.6 was originally expected to ship earlier this summer\n- The U.S. government requested additional review time under the voluntary pre-release assessment framework encouraged by President Trump's executive order\n- Both OpenAI and Anthropic have confirmed slower, government-coordinated rollout schedules for their newest model classes\n\n**What to Expect:**\n- GPT-5.6 is expected to set new benchmarks in reasoning, coding, and multilingual capabilities\n- The model family includes variants Sol (cybersecurity-specialized), Terra, and Luna, previewed in limited release earlier this month\n- Industry analysts anticipate the launch will intensify the pricing war with open-source Chinese models like DeepSeek V4 and GLM-5.2\n\n**The Competitive Context:**\n- The launch comes as DeepSeek V4 has been gaining share with 85% lower pricing than GPT-5.5\n- Anthropic's Claude Sonnet 5 recently launched targeting cost-conscious agentic workloads\n- Google DeepMind's Gemini 3.5 Pro is separately targeting a July 17 release\n- The convergence of multiple frontier model launches in July could reshape the competitive landscape within weeks\n\n**What's at Stake:**\nOpenAI's valuation of $852 billion depends heavily on maintaining a perceived capability lead. A successful GPT-5.6 launch would reinforce that lead; a modest improvement would accelerate the narrative that the gap between frontier and open-source is closing fast."
+        "title": "Google Will Now Disclose Which Ads Are Made With AI",
+        "excerpt": "Google introduced a requirement on July 10 that AI-generated ads be clearly labeled, reshaping how brands deploy generative AI in marketing.",
+        "content": "Google announced July 10 it will require clear labels on advertisements created using AI tools.\n\n**Policy:**\n- Advertisers must disclose AI in ad creative\n- Labels on ad units across Google's ad network\n- Covers search and display advertising\n\n**Why Now:**\n- Consumer groups: AI-generated ads misleading buyers\n- Regulatory scrutiny intensifying in U.S. and EU\n- Comes after AI ad controversies in late 2025\n\n**Impact:**\n- Brands using Imagen/Veo will adjust workflows\n- Template for Meta and TikTok ad policies\n\n**Broader Trend:**\n- Extends Google's AI labeling in YouTube and Search\n- EU AI Act pushing similar requirements\n- Ad-supported internet faces AI-human line-drawing pressure"
       },
       "zh": {
-        "title": "OpenAI 将于周四发布 GPT-5.6，此前因政府安全审查延期",
-        "excerpt": "据路透社报道，OpenAI 将于 7 月 9 日（周四）发布其迄今最先进的 AI 模型 GPT-5.6。此次发布因美国政府安全审查而延期，显示了前沿实验室与华盛顿之间持续的协调关系。",
-        "content": "据路透社 7 月 8 日报道，OpenAI 将于 7 月 9 日（周四）发布其最先进的 AI 模型 GPT-5.6，此前因美国政府对其潜在滥用风险的担忧而延期。\n\n**延期原因：**\n- GPT-5.6 原计划今年夏初发布\n- 美国政府要求在特朗普总统行政令鼓励的自愿性发布前评估框架下进行额外审查\n- OpenAI 和 Anthropic 均已确认其最新模型系列的推出节奏将更缓，并与政府协调\n\n**预期看点：**\n- GPT-5.6 预计将在推理、编码和多语言能力等方面刷新基准测试记录\n- 该模型系列包含 Sol（网络安全专精）、Terra 和 Luna 等变体，本月早些时候已限量预览\n- 行业分析师预计此次发布将加剧与 DeepSeek V4、GLM-5.2 等中国开源模型的价格战\n\n**竞争背景：**\n- 发布正值 DeepSeek V4 以比 GPT-5.5 低 85% 的价格持续扩大份额\n- Anthropic 的 Claude Sonnet 5 近期发布，瞄准成本敏感的智能体工作负载\n- Google DeepMind 的 Gemini 3.5 Pro 目标 7 月 17 日发布\n- 多款前沿模型在 7 月密集发布可能在数周内重塑竞争格局\n\n**关键利害：**\nOpenAI 8520 亿美元的估值高度依赖其保持能力领先地位。GPT-5.6 的成功发布将强化这一领先优势；若提升有限，则将加速「前沿与开源差距正在迅速缩小」的叙事。"
+        "title": "Google 将要求标注 AI 生成的广告",
+        "excerpt": "Google 于 7 月 10 日宣布将要求对使用 AI 工具创建的广告进行明确标注，可能重塑品牌在营销中部署生成式 AI 的方式。",
+        "content": "Google 于 7 月 10 日宣布要求对 AI 生成广告进行明确标注。\n\n**政策：**\n- 广告主必须披露 AI 使用情况\n- 标注将出现在 Google 广告网络中的广告单元上\n- 覆盖搜索和展示广告\n\n**为何现在：**\n- 消费者团体担忧 AI 生成广告误导买家\n- 美欧监管审查趋严\n- 此前发生多起 AI 广告争议\n\n**影响：**\n- 品牌需要调整创意工作流\n- 可能成为 Meta 和 TikTok 广告政策的模板\n\n**大趋势：**\n- 延伸 Google 在 YouTube 和 Search 的 AI 标注\n- 欧盟 AI 法案推动类似要求"
       }
     },
     {
       "id": 9,
-      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
-      "category": "business",
+      "image": "https://images.unsplash.com/photo-1611534735037-9f43c1b06f70?w=600&h=400&fit=crop",
+      "category": "llm",
       "readTime": 5,
-      "timeAgo": 3,
-      "date": "2026-07-08",
+      "timeAgo": 2,
+      "date": "2026-07-10",
       "en": {
-        "title": "Paradigm Raises $1.2 Billion in Major Shift From Crypto to AI",
-        "excerpt": "Crypto-focused venture capital firm Paradigm has raised $1.2 billion in a new fund, signaling a dramatic pivot toward AI and robotics investments as the venture landscape reshapes around artificial intelligence.",
-        "content": "Paradigm, one of the most prominent venture capital firms in the cryptocurrency space, has raised $1.2 billion for a new fund that will invest in artificial intelligence and robotics, according to PYMNTS — marking a dramatic strategic pivot that reflects the broader venture capital migration from crypto to AI.\n\n**The Shift:**\n- Paradigm was historically known for leading rounds in major crypto projects including Uniswap, Flashbots, and Phantom\n- The new fund explicitly targets AI infrastructure, foundation models, AI agents, and robotics\n- The move signals that even the most committed crypto-native investors are reallocating capital toward AI\n\n**The Bigger Context:**\n- 83 venture-backed startups reached unicorn status in H1 2026, with 60% in AI\n- AI startup funding has dwarfed crypto funding since mid-2025\n- Several formerly crypto-focused funds (a16z crypto, Pantera, Multicoin) have expanded mandates to include AI\n\n**What It Means:**\nParadigm's pivot is particularly notable because the firm was co-founded by Coinbase co-founder Fred Ehrsam and former Sequoia partner Matt Huang — two figures deeply embedded in the crypto ecosystem. Their decision to raise fresh capital for AI signals that the venture industry's center of gravity has decisively shifted."
+        "title": "SpaceX Pushes Forward With Expansion of Grok AI Model",
+        "excerpt": "SpaceX advanced plans on July 10 to expand access and deployment of Grok, after its July 9 Grok 4.5 release scaled xAI's consumer AI ambitions.",
+        "content": "SpaceX moved July 10 to expand deployment of the Grok AI family, a day after releasing Grok 4.5 publicly in a major escalation of xAI's consumer push.\n\n**Grok 4.5 Launch:**\n- Public release July 9 alongside OpenAI GPT-5.6\n- Musk called the model \"Opus-class\"\n- Availability through X Premium and enterprise tiers\n\n**SpaceX Involvement:**\n- Elon Musk announced SpaceX will make Grok available to public July 9\n- Expansion planned for Starlink consumer devices\n- Infrastructure linking satellites, data centers, X platform\n\n**Consumer AI Push:**\n- Direct competition with OpenAI, Anthropic, Gemini\n- X platform as core distribution and data flywheel\n- Subscription bundles with X Premium+ and Grok tiers"
       },
       "zh": {
-        "title": "Paradigm 完成 12 亿美元融资，从加密基金大举转向 AI",
-        "excerpt": "知名加密风投 Paradigm 已完成 12 亿美元新基金募资，将大举转向 AI 和机器人投资，反映风投行业从加密向 AI 的结构性转移。",
-        "content": "据 PYMNTS 报道，加密领域最知名的风投机构之一 Paradigm 已完成 12 亿美元新基金募资，将投资人工智能和机器人——这一戏剧性的战略转向反映了风投资本从加密向 AI 的更广泛迁移。\n\n**转向细节：**\n- Paradigm 此前以领投 Uniswap、Flashbots 和 Phantom 等大型加密项目而闻名\n- 新基金明确瞄准 AI 基础设施、基础模型、AI 智能体和机器人\n- 此举表明即便最坚定的加密原生投资机构也在将资本重新配置到 AI 领域\n\n**更广泛背景：**\n- 2026 上半年 83 家风投支持的初创公司达独角兽地位，其中 60% 为 AI 公司\n- 自 2025 年年中以来，AI 初创公司融资已大幅超越加密融资\n- 多家原专注于加密的基金（a16z crypto、Pantera、Multicoin）已扩展投资范围至 AI\n\n**意义：**\nParadigm 的转向尤为引人注目，因为该公司由 Coinbase 联合创始人 Fred Ehrsam 和前红杉合伙人 Matt Huang 共同创立——两位深度嵌入加密生态的人物。他们为 AI 筹集新资本的决定，标志着风投行业重心已决定性地转移。"
+        "title": "SpaceX 推进 Grok AI 模型扩展计划",
+        "excerpt": "SpaceX 于 7 月 10 日宣布推进 Grok 系列 AI 扩展部署，在前一天公开发布 Grok 4.5 后大幅升级消费者 AI 野心。",
+        "content": "SpaceX 于 7 月 10 日宣布扩展 Grok AI 模型部署，在公开发布 Grok 4.5 之后加码消费者 AI 攻势。\n\n**Grok 4.5 发布：**\n- 7 月 9 日同时上线 GPT-5.6 的同级产品\n- 马斯克称达到 Opus 级别\n- 通过 X 付费和企业渠道提供\n\n**SpaceX 角色：**\n- 马斯克宣布 SpaceX 将向公众提供 Grok\n- 计划在 Starlink 消费端设备扩展\n- 星链+数据中心+X 平台的基础设施联动\n\n**消费者攻势：**\n- 与 OpenAI、Anthropic、Gemini 直接竞争\n- X 平台作为核心分发和数据飞轮"
       }
     },
     {
       "id": 10,
-      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&h=400&fit=crop",
-      "category": "creative",
-      "readTime": 5,
+      "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 4,
       "timeAgo": 4,
-      "date": "2026-07-08",
+      "date": "2026-07-10",
       "en": {
-        "title": "Meta Launches Muse Image Generator, Ranks 2nd on Image Arena on Debut",
-        "excerpt": "Meta has launched Muse Image, a new AI image generation model, across Meta AI, Instagram and WhatsApp. It debuted at #2 on the Image Arena leaderboard, with Muse Video ranking 3rd on Video Arena — signaling Meta's strongest AI media generation push yet.",
-        "content": "Meta Platforms has launched Muse Image, a new artificial intelligence image-generation model powering image creation across Meta AI, Instagram, and WhatsApp — and debuted at #2 on the Image Arena community leaderboard, according to multiple reports.\n\n**The Launch:**\n- Muse Image is now available across Meta's entire consumer ecosystem — Meta AI chatbot, Instagram, and WhatsApp\n- Muse Video was also previewed, ranking 3rd on the Video Arena benchmark\n- The launch signals Meta's most serious push into AI media generation after years of building infrastructure\n\n**Competitive Positioning:**\n- #2 on Image Arena puts Muse Image among the top-tier image generation models, competing with Midjourney, DALL-E, and Stable Diffusion descendants\n- Meta's distribution advantage is enormous: billions of users across Instagram and WhatsApp can access the model natively\n- The dual image+video launch mirrors the industry trend toward unified multimodal generation\n\n**Meta's AI Resurgence:**\nAfter being perceived as lagging behind OpenAI and Google in consumer-facing AI products, Meta has accelerated its AI rollout. The company's open-source Llama models have gained significant developer traction, and Muse represents a push into the proprietary consumer AI experience layer.\n\n**Strategic Implications:**\nMeta's AI strategy combines open-source foundation models (Llama) with proprietary consumer applications (Muse). If successful, it creates a model where Meta captures value at the application layer while commoditizing the infrastructure layer — a playbook that mirrors its historical approach to open-source software."
+        "title": "New York Times Accuses OpenAI of Hiding Evidence in ChatGPT Copyright Trial",
+        "excerpt": "The New York Times accused OpenAI on July 10 of concealing evidence in the long-running copyright litigation, raising the stakes of one of AI's highest-profile courtroom battles.",
+        "content": "The New York Times accused OpenAI on July 10 of hiding evidence in their ongoing copyright lawsuit over ChatGPT training data, escalating one of the most closely watched legal fights in AI.\n\n**The Allegation:**\n- NYT claims OpenAI withheld internal documents about training data composition\n- Manuscript suggests millions of articles were ingested beyond public disclosures\n- NYT seeks sanctions or adverse inference instruction from the judge\n\n**OpenAI's Response:**\n- Disputes characterization of any document production\n- Asserts it has complied with discovery rules\n- Argues fair use shields training on publicly available web content\n\n**Broader Stakes:**\n- Outcome may set precedent for AI training and copyright industry-wide\n- Other media groups watching closely\n- Publishing industry increasingly regulated AI scrapers in EU and U.S."
       },
       "zh": {
-        "title": "Meta 发布 Muse Image 图像生成器，首秀即登 Image Arena 第二",
-        "excerpt": "Meta 推出 Muse Image AI 图像生成模型，已覆盖 Meta AI、Instagram 和 WhatsApp。其在 Image Arena 排行榜首秀排名第二，Muse Video 在 Video Arena 排名第三——标志着 Meta 迄今最强 AI 媒体生成攻势。",
-        "content": "据多方报道，Meta Platforms 已推出 Muse Image——一款新的人工智能图像生成模型，支持在 Meta AI、Instagram 和 WhatsApp 上的图像创作——并在 Image Arena 社区排行榜上首秀排名第二。\n\n**发布详情：**\n- Muse Image 现已在 Meta 的整个消费者生态中可用——Meta AI 聊天机器人、Instagram 和 WhatsApp\n- Muse Video 也同步预览，在 Video Arena 基准测试中排名第三\n- 此次发布标志着 Meta 经过多年基础设施建设后，在 AI 媒体生成领域发起的最大一次攻势\n\n**竞争定位：**\n- Image Arena 排名第二，将 Muse Image 置于顶级图像生成模型之列，与 Midjourney、DALL-E 和 Stable Diffusion 后继者竞争\n- Meta 的分发优势巨大：Instagram 和 WhatsApp 上数十亿用户可原生使用该模型\n- 图像+视频双线发布呼应了行业向统一多模态生成的趋势\n\n**Meta 的 AI 复兴：**\n在此前被认为在面向消费者的 AI 产品方面落后于 OpenAI 和 Google 之后，Meta 已加速其 AI 部署。公司的开源 Llama 模型已获得显著开发者吸引力，而 Muse 代表了向专有消费者 AI 体验层的推进。\n\n**战略意义：**\nMeta 的 AI 战略将开源基础模型（Llama）与专有消费者应用（Muse）相结合。若成功，将创造一种模式：Meta 在应用层捕获价值，同时商品化基础设施层——这一打法与其历史上对开源软件的做法一脉相承。"
+        "title": "纽约时报指控 OpenAI 在 ChatGPT 版权案中隐瞒证据",
+        "excerpt": "纽约时报于 7 月 10 日指控 OpenAI 在持续已久的版权诉讼中隐瞒证据，将这场 AI 最引人注目的法庭争斗推向新高。",
+        "content": "纽约时报指控 OpenAI 在有关 ChatGPT 训练数据的版权诉讼中隐瞒证据。\n\n**指控：**\n- NYT 称 OpenAI 隐瞒了有关训练数据组成的内部文件\n- 暗示 OpenAI 摄入了远超公开披露的数百万篇文章\n- 要求法院制裁或做出不利推定\n\n**OpenAI 回应：**\n- 否认隐瞒任何文件\n- 主张已遵守证据开示规则\n- 主张对公开网络内容的使用属于合理使用\n\n**更广泛影响：**\n- 结果可能为 AI 训练与版权关系设定行业先例\n- 多家媒体集团密切关注\n- 出版行业在欧美日益对 AI 抓取行为实施监管"
       }
     },
     {
       "id": 11,
-      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&h=400&fit=crop",
-      "category": "llm",
-      "readTime": 5,
-      "timeAgo": 5,
-      "date": "2026-07-08",
+      "image": "https://images.unsplash.com/photo-1460454414544-c46e4fa0a3b8?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 4,
+      "timeAgo": 6,
+      "date": "2026-07-10",
       "en": {
-        "title": "Google DeepMind's Gemini 3.5 Pro Targets July 17 as Model Launch War Heats Up",
-        "excerpt": "Google DeepMind is preparing Gemini 3.5 Pro for a July 17 launch, creating an unprecedented convergence of frontier model releases: GPT-5.6 on July 9, Gemini 3.5 Pro on July 17, and DeepSeek's next model by July 24.",
-        "content": "Google DeepMind is targeting July 17 for the launch of Gemini 3.5 Pro, according to Tech Times, setting up an extraordinary two-week window in which three of the world's most anticipated AI models will ship within days of each other.\n\n**The July Launch Convergence:**\n- July 9: OpenAI GPT-5.6 (confirmed, per Reuters)\n- July 17: Google DeepMind Gemini 3.5 Pro (targeted, per Tech Times)\n- July 24: DeepSeek's next model deadline (self-imposed)\n- This density is unprecedented in AI history — three frontier model releases in two weeks\n\n**What Gemini 3.5 Pro Brings:**\n- Expected to significantly advance Google's multimodal capabilities, building on Gemini's native text+image+video architecture\n- DeepMind integration means the model may feature advanced reasoning capabilities from Google's research pipeline\n- Likely to emphasize long-context performance, a historical Google strength\n\n**The Developer Perspective:**\nFor developers, the convergence creates both opportunity and complexity. The cost of switching between providers has never been lower, and the rapid release cadence means model evaluation cycles are compressing from months to weeks. The winner will be determined not just by benchmark scores but by real-world reliability, pricing, and ecosystem integration.\n\n**The Bigger Picture:**\nJuly 2026 may be remembered as the month the AI model market tipped from oligopoly to genuine competition. With Chinese models capturing share on OpenRouter, Microsoft hedging with in-house models, and three frontier labs shipping simultaneously, the era of any single model dominating the market may be ending."
+        "title": "OpenAI's No. 2 Exec Fidji Simo Steps Down",
+        "excerpt": "Fidji Simo, formerly of Instacart, stepped down from her high-ranking role at OpenAI on July 10, adding leadership turbulence at a pivotal moment.",
+        "content": "Fidji Simo stepped down from her high-ranking role at OpenAI on July 10, the former Instacart CEO exiting during a pivotal stretch of frontier launches and partnership questions.\n\n**Departure Context:**\n- Former Instacart CEO leading application and consumer products\n- Exit amid GPT-5.6 launch and Atlas shutdown\n- Timing raises questions about internal strategic alignment\n\n**Impact:**\n- Sam Altman thanked Simo in a brief internal memo\n- Successor not named; responsibilities distributed across product leadership\n\n**Why It Matters:**\n- Loss of seasoned consumer operator during critical execution window\n- OpenAI pushes deeper into consumer products, hardware, browser, voice"
       },
       "zh": {
-        "title": "Google DeepMind Gemini 3.5 Pro 目标 7 月 17 日发布，模型大战白热化",
-        "excerpt": "Google DeepMind 准备于 7 月 17 日发布 Gemini 3.5 Pro，造就前所未有的前沿模型发布密集期：GPT-5.6（7/9）、Gemini 3.5 Pro（7/17）、DeepSeek 新模型（7/24 前）。",
-        "content": "据 Tech Times 报道，Google DeepMind 目标于 7 月 17 日发布 Gemini 3.5 Pro，这将在两周内上演三款全球最受期待的 AI 模型密集发布的罕见景象。\n\n**七月发布潮：**\n- 7 月 9 日：OpenAI GPT-5.6（路透社已确认）\n- 7 月 17 日：Google DeepMind Gemini 3.5 Pro（据 Tech Times 目标日期）\n- 7 月 24 日：DeepSeek 新模型截止日期（自我设定）\n- 这种密集程度在 AI 历史上前所未有——两周内三款前沿模型发布\n\n**Gemini 3.5 Pro 看点：**\n- 预计将在 Gemini 原生文本+图像+视频架构基础上大幅提升多模态能力\n- DeepMind 整合意味着模型可能搭载来自 Google 研究管线的高级推理能力\n- 可能重点强调长上下文性能，这是 Google 的传统优势\n\n**开发者视角：**\n对开发者而言，发布潮同时创造了机会和复杂性。切换供应商的成本从未如此之低，快速发布节奏意味着模型评估周期从数月压缩至数周。最终赢家不仅取决于基准测试分数，还取决于真实世界的可靠性、定价和生态整合。\n\n**更广泛意义：**\n2026 年 7 月或将被铭记为 AI 模型市场从寡头垄断转向真正竞争的转折月。随着中国模型在 OpenRouter 上不断扩大份额、微软以自研模型对冲、三大前沿实验室同步发布，单一模型主导市场的时代可能正在终结。"
+        "title": "OpenAI 二号人物 Fidji Simo 离职",
+        "excerpt": "7 月 10 日，前 Instacart CEO、OpenAI 高管 Fidji Simo 离职，在这个关键时刻为公司管理层增添了动荡。",
+        "content": "前 Instacart CEO Fidji Simo 于 7 月 10 日从 OpenAI 高管职位离职，正值公司面临前沿发布和合作伙伴关系的关键时期。\n\n**离职背景：**\n- 曾负责 OpenAI 应用和消费者产品\n- 离职发生在 GPT-5.6 发布和 Atlas 关闭之际\n\n**影响：**\n- 阿特曼发表内部备忘录致谢\n- 继任者尚未任命\n\n**意义：**\n- 在关键执行窗口失去资深消费者互联网运营者\n- OpenAI 正大力进军消费者产品、硬件、浏览器和语音"
       }
     },
     {
       "id": 12,
-      "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=600&h=400&fit=crop",
-      "category": "ethics",
-      "readTime": 4,
-      "timeAgo": 6,
-      "date": "2026-07-08",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 5,
+      "timeAgo": 3,
+      "date": "2026-07-10",
       "en": {
-        "title": "Global AI Industry Falls Short on Safety, Think Tank Warns — Anthropic Tops Ranking",
-        "excerpt": "A semiannual AI safety ranking found that while Anthropic scored highest, the global AI industry as a whole fails to adequately combat risks including bias, misuse, and lack of transparency, according to a new think tank report.",
-        "content": "The global artificial intelligence industry is falling short on safety, with even the highest-scoring lab — Anthropic — leaving significant gaps in addressing bias, misuse potential, and transparency, according to a semiannual safety ranking published by a think tank and covered by the Manila Times.\n\n**The Ranking:**\n- Anthropic scored highest among evaluated AI labs\n- However, the report emphasizes that 'highest' does not mean 'sufficient' — no lab received a clean bill of health\n- Key gaps identified across all labs: bias mitigation, pre-deployment risk testing transparency, and post-deployment monitoring\n\n**What's Missing:**\n- Independent third-party safety evaluations remain voluntary for most companies\n- Public documentation of safety testing results is inconsistent across labs\n- Few companies disclose detailed post-deployment incident reports\n\n**The Context:**\n- The report arrives the same week the UN AI for Good Global Commission holds its first session in Geneva (July 8)\n- Illinois just became the first U.S. state to mandate independent AI safety audits\n- The U.S. Senate is separately advancing autonomous weapons regulations\n- Pope Leo XIV addressed the UN summit, calling for AI governance that promotes human dignity\n\n**The Challenge:**\nSafety evaluation methodologies themselves are struggling to keep pace with model capabilities. As models become more capable, the tests designed to evaluate them become obsolete faster — creating a persistent gap between what we can measure and what we should be measuring."
+        "title": "Robotics Startup Says the Sector Is About to Have Its ChatGPT Moment",
+        "excerpt": "A well-funded robotics startup declared July 10 that the sector stands at an inflection point comparable to the moment ChatGPT made generative AI mainstream.",
+        "content": "On July 10, a high-profile robotics startup declared the sector on the verge of a 'ChatGPT moment' — a tipping point where general-purpose robotics goes from lab demos to mass deployment.\n\n**Thesis:**\n- Humanoid and mobile robots now have the models and compute to generalize across diverse real-world tasks\n- The GPT-5.6 generation of foundation models is enabling more capable \"robot brains\"\n- Unit economics are approaching parity with human labor for several warehouse and logistics scenarios\n\n**Evidence Cited:**\n- Scaling pilot programs in China, U.S., and Korean factories\n- Tesla, Figure, Agility, Agibot pushing production-ready humanoids in 2026\n- Nvidia and LG partnering on massive AI robot factory\n\n**Cautions:**\n- Hardware reliability and repair logistics still lag AI software progress\n- 2026 unit shipments remain modest relative to automotive-scale ambitions\n- \"ChatGPT moment\" proclamations have preceded hype-cycle corrections before"
       },
       "zh": {
-        "title": "智库警告全球 AI 行业安全表现不足——Anthropic 排名居首",
-        "excerpt": "一份半年期 AI 安全排名报告发现，尽管 Anthropic 得分最高，但全球 AI 行业整体未能有效应对偏见、滥用风险和缺乏透明度等问题。",
-        "content": "据《马尼拉时报》报道，一家智库发布的半年期安全排名显示，全球人工智能行业在安全方面表现不足——即便得分最高的 Anthropic 在应对偏见、滥用风险和透明度方面仍存在显著差距。\n\n**排名情况：**\n- Anthropic 在接受评估的 AI 实验室中得分最高\n- 然而报告强调，「最高」不等于「足够」——没有一家实验室获得安全合格认证\n- 所有实验室共同面临的关键缺口：偏见缓解、发布前风险测试透明度、以及发布后监控\n\n**缺失环节：**\n- 对大多数公司而言，独立的第三方安全评估仍为自愿性质\n- 安全测试结果公开文件在实验室之间缺乏一致性\n- 鲜有公司披露详细的发布后事件报告\n\n**背景：**\n- 报告发布同周，联合国 AI for Good 全球委员会在日内瓦召开首次会议（7 月 8 日）\n- 伊利诺伊州刚刚成为美国首个强制进行独立 AI 安全审计的州\n- 美国参议院正在推进自主武器监管法规\n- 教皇利奥十四世在联合国峰会上致辞，呼吁建立促进人类尊严的 AI 治理\n\n**挑战：**\n安全评估方法本身正艰难追赶模型能力的提升速度。随着模型变得越来越强大，用于评估它们的测试也更快过时——造成了「我们能测量什么」与「我们应该测量什么」之间持续存在的鸿沟。"
-      }
-    },
-    {
-      "id": 13,
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
-      "category": "business",
-      "readTime": 4,
-      "timeAgo": 7,
-      "date": "2026-07-08",
-      "en": {
-        "title": "Memory Stocks Enter Bear Market Despite Samsung's Record AI-Driven Quarter",
-        "excerpt": "Micron, SK Hynix, and Samsung shares have fallen 20% from recent highs into bear market territory — even as Samsung reported its best quarter ever on AI chip demand. The divergence raises questions about whether AI hardware growth is already priced in.",
-        "content": "The three largest global memory chip manufacturers — Micron, SK Hynix, and Samsung Electronics — have officially entered bear market territory, each falling more than 20% from recent highs, according to Opening Bell Daily. The decline is striking because it coincides with Samsung reporting its best quarterly results in history, driven overwhelmingly by AI demand.\n\n**The Paradox:**\n- Samsung expects 1,800% year-on-year operating profit growth in Q2 2026\n- SK Hynix has similarly reported record HBM (high-bandwidth memory) sales\n- Yet all three stocks are in bear market territory — down 20%+ from peaks\n\n**What's Driving the Sell-off:**\n- **Peak cycle fears**: investors worry that the AI infrastructure buildout may have reached peak spending velocity\n- **Valuation reset**: memory stocks had rallied 300-500% from AI boom lows, and some multiple compression is natural\n- **Geopolitical risk**: U.S.-Iran tensions and potential trade restrictions on chip exports to China are weighing on the sector\n- **Commoditization concerns**: as more suppliers ramp HBM production, margins may compress\n\n**The Bull Case:**\n- AI server deployments are still in early innings relative to projected 2027-2028 demand\n- HBM supply remains tight, with lead times still measured in quarters\n- The next generation of AI models (GPT-5.6, Gemini 3.5 Pro, DeepSeek V4) will require even more memory bandwidth\n\n**What Analysts Are Saying:**\nThe divergence between fundamentals (record profits) and stock prices (bear market) is either a classic buying opportunity or a warning that the market is pricing in a slowdown that the companies haven't yet acknowledged. The next earnings season will be critical in resolving which narrative is correct."
-      },
-      "zh": {
-        "title": "内存股跌入熊市——尽管三星 AI 驱动季度利润创历史新高",
-        "excerpt": "美光、SK 海力士和三星股价已从近期高点下跌 20% 进入熊市——即便三星刚交出 AI 芯片需求驱动的史上最佳季度业绩。这一背离引发对 AI 硬件增长是否已被充分定价的质疑。",
-        "content": "据 Opening Bell Daily 报道，全球三大内存芯片制造商——美光、SK 海力士和三星电子——已正式进入熊市区域，各自较近期高点下跌超过 20%。这一下跌令人费解，因为它与三星交出 AI 需求驱动的史上最佳季度业绩同时发生。\n\n**悖论：**\n- 三星预计 2026 年 Q2 营业利润同比增长 1800%\n- SK 海力士同样报告了创纪录的 HBM（高带宽内存）销售\n- 但三家股票均处于熊市——从峰值下跌 20% 以上\n\n**抛售驱动因素：**\n- **周期见顶担忧**：投资者担心 AI 基础设施建设可能已达到支出增速峰值\n- **估值重置**：内存股从 AI 热潮低点已上涨 300-500%，部分估值压缩属于正常\n- **地缘政治风险**：美伊紧张局势以及潜在的对华芯片出口限制正拖累板块\n- **商品化担忧**：随着更多供应商扩大 HBM 产能，利润率或将压缩\n\n**看多逻辑：**\n- 相对于 2027-2028 年预期需求，AI 服务器部署仍处于早期阶段\n- HBM 供应仍然紧张，交付周期仍以季度计\n- 下一代 AI 模型（GPT-5.6、Gemini 3.5 Pro、DeepSeek V4）将需要更大的内存带宽\n\n**分析师观点：**\n基本面（创纪录利润）与股价（熊市）之间的背离，要么是经典买入机会，要么是市场正在定价公司尚未承认的放缓。下一轮财报季将是判断哪种叙事正确的关键。"
-      }
-    },
-    {
-      "id": 14,
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
-      "category": "llm",
-      "readTime": 4,
-      "timeAgo": 1,
-      "date": "2026-07-08",
-      "en": {
-        "title": "SpaceX to Release Grok 4.5 to Public on Thursday, Expanding xAI Consumer Push",
-        "excerpt": "Elon Musk announced that SpaceX will make Grok 4.5, xAI's latest AI model, available to the public on Thursday July 9 — escalating the consumer AI race on the same day OpenAI launches GPT-5.6.",
-        "content": "SpaceX CEO Elon Musk announced that Grok 4.5, the latest AI model from xAI, will become available to the public on Thursday July 9 — the same day OpenAI is scheduled to launch GPT-5.6, creating a head-to-head consumer AI showdown.\n\n**The Launch:**\n- Grok 4.5 is xAI's most advanced model, reportedly featuring improved reasoning and real-time information access via the X platform\n- The public release marks xAI's most aggressive consumer push since Grok's initial launch\n- Musk has positioned Grok as an 'anti-woke' alternative to ChatGPT and Claude, emphasizing unfiltered responses\n\n**The Competitive Context:**\n- July 9 will see two major model releases: GPT-5.6 from OpenAI and Grok 4.5 from xAI\n- This follows a week in which Microsoft began replacing OpenAI models with in-house AI, Meta launched Muse Image, and Gemini 3.5 Pro set a July 17 target\n- The simultaneous launches underscore how crowded the frontier AI consumer market has become\n\n**xAI's Trajectory:**\n- xAI has been rapidly scaling its compute infrastructure, with Musk recently highlighting a supercomputer cluster built for Grok training\n- The company has differentiated by deep integration with X (formerly Twitter) for real-time data access\n- Musk has framed Grok as part of a broader 'truth-seeking AI' mission that contrasts with what he describes as the politically correct guardrails of competitors\n\n**What to Watch:**\nThe July 9 dual launch will be an unusual real-time test of consumer AI preference: two very different models, two very different philosophical approaches, released on the same day."
-      },
-      "zh": {
-        "title": "SpaceX 将于周四向公众发布 Grok 4.5，消费者AI竞赛升级",
-        "excerpt": "马斯克宣布 SpaceX 将于 7 月 9 日（周四）向公众开放 Grok 4.5，与 OpenAI 同日发布 GPT-5.6——消费者 AI 市场正面交锋。",
-        "content": "SpaceX CEO 马斯克宣布，xAI 最新 AI 模型 Grok 4.5 将于 7 月 9 日（周四）向公众开放——与 OpenAI 计划发布 GPT-5.6 同一天，消费者 AI 市场将迎来正面交锋。\n\n**发布详情：**\n- Grok 4.5 是 xAI 最先进的模型，据称在推理和通过 X 平台获取实时信息方面有显著提升\n- 此次公开发布标志着 xAI 自 Grok 首次推出以来最具进攻性的消费者市场攻势\n- 马斯克将 Grok 定位为 ChatGPT 和 Claude 的「反觉醒」替代品，强调无过滤回复\n\n**竞争背景：**\n- 7 月 9 日将有两款重要模型发布：OpenAI 的 GPT-5.6 和 xAI 的 Grok 4.5\n- 此前一周微软开始以自研 AI 替换 OpenAI 模型、Meta 推出 Muse Image、Gemini 3.5 Pro 目标 7/17 发布\n- 密集发布凸显了前沿 AI 消费市场的拥挤程度\n\n**xAI 发展轨迹：**\n- xAI 一直在快速扩展其计算基础设施，马斯克近期重点展示了为 Grok 训练的超级计算机集群\n- 公司通过与 X 平台的深度整合实现实时数据访问的差异化优势\n- 马斯克将 Grok 描述为更广泛的「求索真理 AI」使命的一部分，与其所称竞争对手的政治正确护栏形成对比\n\n**关注点：**\n7 月 9 日的双重发布将是一次罕见的消费者 AI 偏好实时测试：两款截然不同的模型，两种不同的哲学路径，同一天发布。"
-      }
-    },
-    {
-      "id": 15,
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
-      "category": "business",
-      "readTime": 4,
-      "timeAgo": 2,
-      "date": "2026-07-08",
-      "en": {
-        "title": "China's Zhipu AI Launches $4 Billion Hong Kong Share Sale as Stock Surges",
-        "excerpt": "Zhipu AI, the developer behind the GLM model family, is seeking to raise approximately $4 billion via a Hong Kong share sale, Reuters reports — capitalizing on surging demand for its models as Chinese AI companies gain global market share.",
-        "content": "Knowledge Atlas Technology JSC, known as Zhipu AI, is seeking to raise approximately $4 billion via a share sale in Hong Kong, according to Reuters — the latest in a string of major capital raises by Chinese AI companies riding a wave of global adoption.\n\n**The Deal:**\n- Zhipu AI is pursuing a ~$4 billion share sale in Hong Kong\n- The move comes as the company's stock has surged on the back of strong adoption of its GLM model family\n- GLM-5.2 was recently described by analysts as a 'mini DeepSeek moment,' matching frontier U.S. models on software engineering benchmarks at a fraction of the cost\n\n**Why Now:**\n- Chinese AI models have captured significant share on OpenRouter, the neutral model marketplace, with U.S. model share falling from ~70% to ~30% in twelve months\n- Zhipu's GLM and DeepSeek's V4 are among the six Chinese models now reportedly ahead of Anthropic's Claude on usage metrics\n- Major U.S. companies including Coinbase and Uber have moved workloads onto Chinese models\n\n**The Bigger Picture:**\nZhipu's capital raise underscores a structural shift in AI funding: Chinese AI labs are increasingly accessing public markets to fund their expansion, while U.S. labs like OpenAI and Anthropic remain private (though both are expected to IPO in 2026). The contrasting paths may shape how each ecosystem funds the next generation of model development.\n\n**Competitive Implications:**\nWith $4 billion in fresh capital, Zhipu can accelerate its model development cycle — potentially narrowing the capability gap with U.S. frontier labs at a time when pricing pressure is already intensifying across the industry."
-      },
-      "zh": {
-        "title": "智谱 AI 在港启动 40 亿美元股票发行，股价持续攀升",
-        "excerpt": "据路透社报道，GLM 模型开发商智谱 AI 正寻求通过香港股票发行募集约 40 亿美元——趁着中国 AI 公司全球份额增长之势进行大规模融资。",
-        "content": "据路透社报道，以智谱 AI 闻名的 Knowledge Atlas Technology JSC 正寻求通过香港股票发行募集约 40 亿美元——这是中国 AI 公司趁全球采用浪潮进行的一系列大规模融资中的最新一笔。\n\n**交易详情：**\n- 智谱 AI 正推进约 40 亿美元的香港股票发行\n- 此举正值公司股价因 GLM 模型系列强劲采用而大幅上涨\n- GLM-5.2 近期被分析师称为「迷你 DeepSeek 时刻」，在软件工程基准上以极小成本匹敌美国前沿模型\n\n**时机背景：**\n- 中国 AI 模型在中立平台 OpenRouter 上已占据显著份额，美国模型份额在 12 个月内从约 70% 降至约 30%\n- 智谱的 GLM 和 DeepSeek 的 V4 位列六款据报在使用指标上领先于 Anthropic Claude 的中国模型之中\n- Coinbase 和 Uber 等美国大型企业已将工作负载迁移至中国模型\n\n**更广泛的图景：**\n智谱的资本募集凸显了 AI 融资的结构性转变：中国 AI 实验室日益通过公开市场获取资金支持扩张，而 OpenAI 和 Anthropic 等美国实验室仍保持私有（尽管两者均预计 2026 年 IPO）。截然不同的路径或将影响各方生态如何为下一代模型研发融资。\n\n**竞争影响：**\n拥有 40 亿美元新资本，智谱可加速模型研发周期——在全行业定价压力已然加剧之际，进一步缩小与美国前沿实验室的能力差距。"
-      }
-    },
-    {
-      "id": 16,
-      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
-      "category": "business",
-      "readTime": 4,
-      "timeAgo": 2,
-      "date": "2026-07-08",
-      "en": {
-        "title": "Anthropic Leases Entire Hudson Square Building as AI Fuels NYC Real Estate Boom",
-        "excerpt": "Anthropic has signed a lease to occupy an entire office building in Manhattan's Hudson Square, joining a wave of AI companies driving a commercial real estate resurgence in New York City.",
-        "content": "Anthropic has signed a lease to occupy the entirety of an office building in Manhattan's Hudson Square neighborhood, according to New York real estate reports — the latest sign that AI companies are becoming a dominant force in commercial real estate even as traditional office demand remains subdued.\n\n**The Deal:**\n- Anthropic will occupy an entire building in Hudson Square, a neighborhood that has become a hub for tech and media companies including Google and Disney\n- The lease adds significant Manhattan headcount capacity as Anthropic scales its operations\n- Terms of the lease were not disclosed, but Hudson Square office space commands premium rents\n\n**The AI Real Estate Trend:**\n- AI companies are among the few sectors actively expanding physical office footprints in major cities\n- OpenAI, Google DeepMind, and Meta have all added significant office space in New York, San Francisco, and London over the past year\n- The trend contrasts with broader commercial real estate weakness, where vacancy rates remain elevated post-pandemic\n\n**Anthropic's Expansion:**\n- The Hudson Square lease comes as Anthropic scales rapidly: the company recently raised $65 billion, launched Claude Sonnet 5, initiated drug discovery programs, and began custom chip discussions with Samsung\n- Headcount growth has been aggressive, with the company hiring across research, safety, policy, and business functions\n\n**The Bigger Picture:**\nThe AI industry's appetite for premium office space suggests these companies expect sustained in-person collaboration to remain central to their research and development culture — a bet that contrasts with the remote-first approach adopted by many tech firms post-pandemic."
-      },
-      "zh": {
-        "title": "Anthropic 租下整栋 Hudson Square 大楼，AI 推动纽约房地产热潮",
-        "excerpt": "Anthropic 已签约租下曼哈顿 Hudson Square 一整栋办公楼，加入正在推动纽约商业地产复苏的 AI 公司浪潮。",
-        "content": "据纽约房地产业内报道，Anthropic 已签约租下曼哈顿 Hudson Square 社区一整栋办公楼——这是 AI 公司正成为商业地产主导力量的最新信号，尽管传统办公需求依然低迷。\n\n**交易详情：**\n- Anthropic 将占用 Hudson Square 一整栋建筑，该社区已成为 Google 和 Disney 等科技媒体公司的聚集地\n- 该租赁显著扩大了公司在曼哈顿的人员容量，伴随 Anthropic 业务规模的快速增长\n- 租赁条款未予披露，但 Hudson Square 办公空间租金处于溢价水平\n\n**AI 房地产趋势：**\n- AI 公司是少数在主要城市积极扩大实体办公面积的行业之一\n- OpenAI、Google DeepMind 和 Meta 过去一年均在纽约、旧金山和伦敦增加了显著办公空间\n- 这一趋势与传统商业地产的疲软形成对比，后者空置率在疫情后仍居高不下\n\n**Anthropic 的扩张：**\n- Hudson Square 租赁正值 Anthropic 快速扩张之际：公司近期完成 650 亿美元融资、发布 Claude Sonnet 5、启动药物发现项目、与三星洽谈定制芯片\n- 人员增长迅猛，公司在研究、安全、政策和业务职能全线扩招\n\n**更广泛的启示：**\nAI 行业对优质办公空间的需求表明，这些公司预期持续的线下协作仍将是其研发文化的核心——这一赌注与许多科技公司疫情后采用的远程优先模式形成对比。"
-      }
-    },
-    {
-      "id": 17,
-      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
-      "category": "policy",
-      "readTime": 4,
-      "timeAgo": 1,
-      "date": "2026-07-08",
-      "en": {
-        "title": "White House Denies Giving OpenAI 'Green Light' for GPT-5.6 Release",
-        "excerpt": "The Trump administration insists the power to release new AI models rests entirely with the companies, even as it wraps OpenAI and Anthropic in voluntary pre-release reviews — adding a layer of political tension ahead of GPT-5.6's Thursday launch.",
-        "content": "The White House has publicly denied giving OpenAI explicit approval to release GPT-5.6, insisting that the decision to launch new AI models rests entirely with the companies — even as both OpenAI and Anthropic operate under a voluntary government pre-release assessment framework.\n\n**The Political Messaging:**\n- White House officials emphasized that the U.S. government does not have formal authority to approve or block AI model releases\n- This contrasts with the perception that Washington has been effectively gatekeeping frontier model launches through the voluntary review process\n- The denial comes one day before GPT-5.6's scheduled July 9 launch\n\n**The Reality on the Ground:**\n- Both OpenAI and Anthropic have confirmed slower, government-coordinated rollout schedules for their newest models\n- The voluntary framework, encouraged by a Trump executive order, allows up to 30 days of government assessment\n- Industry observers note the administration is walking a careful line: maintaining influence over frontier AI deployment without creating the appearance of a formal regulatory apparatus\n\n**Why It Matters:**\n- The political sensitivity reflects the broader debate over AI governance: should the government have a formal role in model release decisions?\n- The U.S. has resisted creating a dedicated AI regulator — former White House adviser Sriram Krishnan called the prospect 'never, never going to happen'\n- Illinois just became the first state to mandate independent AI safety audits, filling a void left by federal inaction\n\n**The Context for Thursday:**\nGPT-5.6's launch on July 9 will be closely watched not just for its technical capabilities but for the political dynamics surrounding its release. The White House's careful distancing signals that the administration wants credit for engaging with safety without accepting responsibility for the consequences of deployment."
-      },
-      "zh": {
-        "title": "白宫否认给 OpenAI 发布 GPT-5.6「开绿灯」",
-        "excerpt": "特朗普政府坚称发布新 AI 模型的决定权完全在公司一方，尽管 OpenAI 和 Anthropic 均在自愿性发布前审查框架下运作——为 GPT-5.6 周四发布增添政治张力。",
-        "content": "白宫公开否认给予 OpenAI 发布 GPT-5.6 的明确批准，坚称推出新 AI 模型的决定完全由公司自主——尽管 OpenAI 和 Anthropic 均在政府自愿性发布前评估框架下运作。\n\n**政治表态：**\n- 白宫官员强调，美国政府并无正式权力批准或阻止 AI 模型发布\n- 这与外界认为华盛顿通过自愿审查程序事实上把关前沿模型发布的认知形成对比\n- 这一否认发布于 GPT-5.6 计划 7 月 9 日发布前一天\n\n**实际情况：**\n- OpenAI 和 Anthropic 均已确认其最新模型推出节奏更缓，且与政府协调\n- 由特朗普行政令鼓励的自愿框架允许长达 30 天的政府评估\n- 行业观察者指出，政府在走一条精心平衡的道路：维持对前沿 AI 部署的影响力，同时不建立表面上的正式监管机构\n\n**为何重要：**\n- 政治敏感度反映了更广泛 AI 治理辩论：政府是否应在模型发布决策中拥有正式角色？\n- 美国一直抵制设立专门 AI 监管机构——前白宫顾问 Sriram Krishnan 称这种前景「永远、永远不会发生」\n- 伊利诺伊州刚成为首个强制独立 AI 安全审计的州，填补了联邦不作为留下的空白\n\n**周四背景：**\nGPT-5.6 于 7 月 9 日发布将不仅因其技术能力而受到密切关注，也因围绕其发布的政治动态。白宫的谨慎距离开表态，表明政府在参与安全问题讨论的同时不愿承担部署后果的责任。"
+        "title": "机器人初创公司称该行业即将迎来 ChatGPT 时刻",
+        "excerpt": "一家知名机器人初创公司于 7 月 10 日宣布，机器人行业正处在一个可与 ChatGPT 让生成式 AI 主流化的时刻相媲美的拐点。",
+        "content": "7 月 10 日，一家知名机器人初创公司宣布，通用机器人正从实验室走向大规模部署的拐点。\n\n**论点：**\n- 人形和移动机器人现已具备足够的模型和算力，可泛化到多样现实任务\n- GPT-5.6 一代基础模型正在催生更强大的「机器人大脑」\n- 劳动单元经济性正接近与人工持平\n\n**证据：**\n- 中美韩工厂试点项目规模化推进\n- Tesla、Figure、Agility、Agibot 在 2026 年推进量产人形机器人\n- 英伟达与 LG 合作建设 AI 机器人工厂\n\n**谨慎声音：**\n- 硬件可靠性和维修物流仍落后于 AI 软件进展\n- 2026 年出货量仍远低于汽车级野心"
       }
     }
   ]
