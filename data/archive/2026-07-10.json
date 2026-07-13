@@ -1,0 +1,238 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop",
+    "category": "llm",
+    "readTime": 7,
+    "timeAgo": 3,
+    "date": "2026-07-10",
+    "en": {
+      "title": "OpenAI Declares GPT-5.6 the 'Preferred Model' for Microsoft Copilot 365 as Partnership Speculation Swirls",
+      "excerpt": "OpenAI publicly positioned GPT-5.6 as the top choice for Microsoft's Copilot 365 suite on July 10, a notable move amid partnership chatter.",
+      "content": "OpenAI publicly designated GPT-5.6 as the preferred model for Microsoft Copilot 365 on July 10, a striking signal as the tech giants navigate questions about their partnership's long-term stability.\n\n**Designation:**\n- OpenAI said GPT-5.6 is the top-recommended model for Copilot 365 enterprise workflows\n- The language implies an endorsement not made so explicitly before\n- Comes <24h after GPT-5.6 global launch on July 9\n\n**Tensions:**\n- Microsoft recently disclosed it is replacing OpenAI and Anthropic models with its own MAI in Excel and Outlook\n- Microsoft remains OpenAI's largest investor, but its in-house AI signals a more competitive stance\n- OpenAI's public preferred-model language could be a bid to re-anchor enterprise trust\n\n**Context:**\n- GPT-5.6 released July 9 after voluntary U.S. government safety review\n- Microsoft expected to announce compute and deployment details later this week\n\n**Market:**\n- MSFT held steady after-hours\n- OpenAI privately signaled to enterprise clients that additional model routing options are under review"
+    },
+    "zh": {
+      "title": "OpenAI 宣称 GPT-5.6 为微软 Copilot 365「首选模型」，合作伙伴猜测升温",
+      "excerpt": "7 月 10 日，OpenAI 公开将 GPT-5.6 定位为微软 Copilot 365 套件的首选模型，在两家科技巨头合作关系面临越来越多问题的背景下意义重大。",
+      "content": "OpenAI 于 7 月 10 日公开指定 GPT-5.6 为微软 Copilot 365 首选模型，在两家公司合作关系面临长期稳定性问题之际发出引人注目的信号。\n\n**指定：**\n- GPT-5.6 被推荐为 Copilot 365 企业工作流的首选\n- 此前从未如此明确背书\n- 在 GPT-5.6 7 月 9 日发布后不到 24 小时内\n\n**紧张：**\n- 微软近期披露以自研 MAI 替换 Excel/Outlook 中的 OpenAI 和 Anthropic 模型\n- 微软仍是 OpenAI 最大投资者但走向更竞争姿态\n- OpenAI 公开背书措辞意在重新锚定企业信任\n\n**背景：**\n- GPT-5.6 于 7 月 9 日在自愿政府安全审查后发布\n- 微软拟于本周晚些时候宣布计算和部署细节\n\n**市场：**\n- MSFT 盘后交易保持稳定\n- OpenAI 私下向企业客户表示正在评估其他模型路由选项"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 6,
+      "timeAgo": 5,
+      "date": "2026-07-10",
+      "en": {
+        "title": "OpenAI Launches New Frontier Model Family With GPT-5.6 at the Center",
+        "excerpt": "OpenAI rolled out its most capable generation of models on July 9, with GPT-5.6 as the flagship, supported by smaller, faster, and cheaper variants aimed at scaling deployment across price points.",
+        "content": "OpenAI formally launched its newest frontier model family on July 9, with GPT-5.6 as the flagship and smaller siblings scaling deployment from enterprise to edge.\n\n**The Lineup:**\n- GPT-5.6 as the flagship multimodal model with state-of-the-art reasoning\n- Smaller variants optimized for latency- and cost-sensitive workloads\n- Availability in both API and enterprise tiers from launch day\n\n**Performance:**\n- Materially better multi-step reasoning and tool use\n- Gains especially on programming, math, and long-document retrieval\n- Internal red-teaming and external safety board review preceded release\n\n**Rollout:**\n- July 9 general availability across all major cloud regions\n- Microsoft, Salesforce, sovereign wealth lab agreements go live this week\n- Pricing in line with prior generation; smaller variants up to 60% cheaper per token\n\n**Competition:**\n- Lands one week before Google DeepMind Gemini 3.5 Pro (July 17)\n- Anthropic next major update tipped for late July\n- SpaceX launched Grok 4.5 on July 9, intensifying the model war"
+      },
+      "zh": {
+        "title": "OpenAI 发布新一代前沿模型家族，GPT-5.6 成为核心",
+        "excerpt": "OpenAI 于 7 月正式发布其能力最强的新一代模型，GPT-5.6 作为旗舰，并推出更小更快更便宜的变体，覆盖不同价格点。",
+        "content": "OpenAI 于 7 月 9 日正式发布其最新前沿模型家族，GPT-5.6 作为旗舰，搭配更小的姊妹型号，将部署规模从企业级扩展到边缘。\n\n**产品线：**\n- GPT-5.6 作为旗舰多模态模型，具备最先进的推理能力\n- 多款更小变体针对延迟敏感和成本敏感的工作负载进行了优化\n- 发布当日即在 API 和企业版双通道上线\n\n**性能：**\n- 多步骤推理和工具调用方面显著提升\n- 在编程、数学和长文档检索方面表现出优势\n- 发布前进行了内部红队测试和外部安全委员会审查\n\n**发布计划：**\n- 7 月 9 日全球主流云区域同步上线\n- 与微软、Salesforce 及多个主权财富实验室的企业协议本周生效\n- 定价与前代基线基本一致，小型变体每 token 成本最多降低 60%\n\n**竞争格局：**\n- 比 Google DeepMind 的 Gemini 3.5 Pro（7 月 17 日）早一周\n- Anthropic 预计于 7 月下旬发布下一个重大模型更新\n- SpaceX 于 7 月 9 日同期发布 Grok 4.5，加剧「模型大战」"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 6,
+      "timeAgo": 6,
+      "date": "2026-07-10",
+      "en": {
+        "title": "OpenAI Shuts Down Atlas Browser, but Its AI Browser Ambitions Are Far From Over",
+        "excerpt": "OpenAI discontinued Atlas browser on July 10 but retained the broader browser-based AI roadmap, signaling a pivot in how it surfaces AI inside everyday web workflows.",
+        "content": "OpenAI announced July 10 it is sunsetting Atlas, its standalone AI browser, while making clear the decision does not reflect a retreat from web-layer AI ambitions.\n\n**Was:**\n- Chromium-based browser with deep ChatGPT integration\n- Limited release, faced stiff competition from Chrome, Edge, Brave\n\n**Why Pull Back:**\n- Limited sustained engagement after initial spike\n- Engineering better spent inside existing browsers\n- Distribution advantages of Chrome/Edge hard to overcome\n\n**What Remains:**\n- Browser AI via extensions and integrations\n- Web-agent research and infrastructure investment intact\n- Refocus, not retreat\n\n**Industry:**\n- Standalone AI browsers face fundamental go-to-market challenges\n- Google continues to push Gemini inside Chrome\n- Smaller AI browser startups face similar strategic questions"
+      },
+      "zh": {
+        "title": "OpenAI 关闭 Atlas 浏览器，但其 AI 浏览器雄心并未消退",
+        "excerpt": "OpenAI 于 7 月 10 日终止独立 AI 浏览器 Atlas，但保留了更宏大的浏览器 AI 路线图，表明其在 Web 工作流中呈现 AI 的策略转向。",
+        "content": "OpenAI 于 7 月 10 日宣布停止独立 AI 浏览器 Atlas，同时明确表示并不代表要从 Web 层 AI 战略中撤退。\n\n**Atlas 是什么：**\n- 基于 Chromium 的浏览器，深度整合 ChatGPT\n- 面临 Google Chrome、Microsoft Edge 和 Brave 的强力竞争\n\n**为何收缩：**\n- 下载高峰之外用户粘性有限\n- 工程投入更适合用于现有浏览器内部\n- Chrome 和 Edge 的渠道优势被证明难以撼动\n\n**仍保留的方向：**\n- AI 浏览器能力将通过扩展和集成呈现\n- 维持 Web 智能体研究和检索基础设施的投资\n- 内部人士称此举是战略再聚焦，而非撤退\n\n**行业：**\n- 独立 AI 浏览器面临根本性市场准入挑战\n- Google 继续在 Chrome 内积极推送 Gemini\n- 多家 AI 浏览器初创公司将面临类似抉择"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=600&h=400&fit=crop",
+      "category": "creative",
+      "readTime": 5,
+      "timeAgo": 4,
+      "date": "2026-07-10",
+      "en": {
+        "title": "Meta Enters the Crowded AI Coding Battle With Muse Spark 1.1",
+        "excerpt": "Meta shipped Muse Spark 1.1 on July 10, stepping into an AI coding tool market already populated by OpenAI, Anthropic, Google, and unicorn startups.",
+        "content": "Meta pushed Muse Spark 1.1 into general availability July 10, marking its most aggressive move yet into the fast-growing AI developer tools segment.\n\n**What It Brings:**\n- Code-gen model fine-tuned on Meta proprietary codebases + open-source\n- Real-time multi-developer collaboration\n- Native VS Code, JetBrains, internal toolchain integration\n- 40+ programming languages out of the box\n\n**Competition:**\n- GitHub Copilot, Cursor, Anthropic agents, Gemini Code Assist already serve tens of millions\n- Meta bets Llama-family scale and in-house distribution\n- Pricing set below incumbents as customer-acquisition tactic\n\n**GTM:**\n- Free for individuals; paid enterprise tiers planned Q3 2026\n- Packaged with Workplace and Ray-Ban Meta features\n- Available via company AI studio July 10\n\n**Response:**\n- Early testers praised multi-file reasoning speed, flagged prompt differences vs Cursor\n- Some enterprise customers cautious given Meta's spotty developer-tools record"
+      },
+      "zh": {
+        "title": "Meta 发布 Muse Spark 1.1，加入已经拥挤的 AI 编程战场",
+        "excerpt": "Meta 于 7 月 10 日推出 Muse Spark 1.1，在被 OpenAI、Anthropic、Google 和一系列独角兽占据的 AI 编程工具市场中入局。",
+        "content": "Meta 于 7 月 10 日正式推出 Muse Spark 1.1，在快速增长的 AI 辅助开发者工具市场迈进最积极的一步。\n\n**带来什么：**\n- 基于 Meta 专有代码库和开源仓库微调的代码生成模型\n- 多开发者实时协作\n- 原生集成 VS Code、JetBrains 和 Meta 内部工具链\n- 开箱支持 40+ 编程语言\n\n**竞争格局：**\n- GitHub Copilot、Cursor、Anthropic 智能体和 Gemini Code Assist 已服务数千万开发者\n- Meta 押注 Llama 系列规模与内部渠道\n- 定价低于多个在位者\n\n**市场推广：**\n- 个人免费，企业版计划 Q3 2026\n- 与 Workplace 和 Ray-Ban Meta 功能打包\n- 7 月 10 日起通过 AI 工作室访问\n\n**反馈：**\n- 早期测试者称赞多文件推理速度\n- 部分企业客户对 Meta 在开发者工具领域参差不齐的历史持谨慎"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 5,
+      "timeAgo": 3,
+      "date": "2026-07-10",
+      "en": {
+        "title": "Prime Intellect Raises $130M Series A for Enterprise AI Agent Platforms",
+        "excerpt": "Prime Intellect closed a $130M Series A on July 10 as enterprises seek internal AI agent platforms rather than relying only on closed model APIs.",
+        "content": "San Francisco-based Prime Intellect announced a $130 million Series A on July 10, reflecting surging corporate appetite to build and operate custom AI agents.\n\n**Round:**\n- Co-led by Andreessen Horowitz plus strategic corporate investors\n- ~$700M post-money; ~$170M total raised\n\n**Platform:**\n- Design, deploy, manage agent fleets at scale\n- Custom tool use, permissioning, observability across model backends\n- Model-agnostic: swap between OpenAI, Anthropic, open-source\n\n**Demand:**\n- Fortune 500 pilots underway\n- Data-sovereignty cited as primary driver\n- Agentic workflows increasingly central to CIO roadmaps\n\n**Market:**\n- Wave of agent-foundry rounds in 2025-2026\n- Front-end orchestration a distinct layer alongside models and infra"
+      },
+      "zh": {
+        "title": "Prime Intellect 完成 1.3 亿美元 A 轮融资，助力企业自建 AI 智能体",
+        "excerpt": "Prime Intellect 于 7 月 10 日完成 1.3 亿美元 A 轮融资，表明企业正寻求自建内部 AI 智能体平台，而非只依赖封闭模型 API。",
+        "content": "旧金山初创公司 Prime Intellect 完成 1.3 亿美元 A 轮融资，反映企业自建定制 AI 智能体需求激增。\n\n**融资：**\n- 由 Andreessen Horowitz 联合领投\n- 投后约 7 亿美元\n\n**平台：**\n- 大规模设计、部署和管理智能体集群\n- 自定义工具调用、权限管控、观测能力\n- 模型无关，可灵活切换不同模型后端\n\n**需求：**\n- 多家财富 500 强试点\n- 数据主权为主要驱动力\n- 智能体工作流正成 CIO 路线图核心"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 4,
+      "date": "2026-07-10",
+      "en": {
+        "title": "Paris AI Voice Startup Gradium Raises $100M Seed, Backed by Nvidia",
+        "excerpt": "Gradium closed a $100M seed round on July 10 with Nvidia among its backers, highlighting investor conviction around next-generation voice AI.",
+        "content": "Paris-based Gradium announced a $100 million seed on July 10, Nvidia participating.\n\n**Round:**\n- Unusually large for the stage\n- Nvidia joined alongside European deep-tech, U.S. generalist VCs\n\n**Product:**\n- Ultra-low-latency generative voice for customer service, call-center, hands-free\n- Focus on accent preservation and speaker emotion\n- Cloud and on-device support\n\n**Why Voice Now:**\n- Call-center economics being rethought post-GPT-5.6 and Grok 4.5\n- Voice inference costs dropped sharply in 12 months\n- Apple, Amazon, Google all eyeing voice AI stack\n\n**Investors:**\n- Nvidia participation flags voice as major AI horizontal\n- Seen as flagship deep-tech bet from Paris AI scene"
+      },
+      "zh": {
+        "title": "巴黎语音 AI 初创公司 Gradium 完成 1 亿美元种子轮，英伟达参投",
+        "excerpt": "巴黎 AI 语音公司 Gradium 于 7 月 10 日完成 1 亿美元种子轮，英伟达参投，反映投资者对下一代语音 AI 界面的信心。",
+        "content": "巴黎 AI 语音初创公司 Gradium 宣布完成 1 亿美元种子轮，英伟达参投。\n\n**产品：**\n- 超低延迟生成式语音模型，面向客服、呼叫中心\n- 重点保证口音保留和情感建模\n- 云端和边缘端协同部署\n\n**为何现在：**\n- GPT-5.6 和 Grok 4.5 后重新审视呼叫中心经济性\n- 语音推理算力成本一年内大幅下降\n- 巨头均在布局语音 AI 栈"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 4,
+      "date": "2026-07-10",
+      "en": {
+        "title": "Meta Custom AI Chips to Enter Volume Production in September",
+        "excerpt": "Meta confirmed July 10 that next-gen custom AI silicon enters volume production in September 2026, a milestone in reducing Nvidia dependence.",
+        "content": "Meta disclosed July 10 its next-gen custom AI accelerator chips will begin volume production September 2026.\n\n**Silicon:**\n- Successor to MTIA family\n- Training large models + high-throughput inference\n- TSMC advanced node, Samsung secondary\n\n**Strategy:**\n- One of handful of hyperscalers (with Google, Amazon, Microsoft) designing at scale\n- In-house silicon to materially cut compute costs by 2027\n\n**Volume:**\n- Initial deployments: recommendation, ranking, GenAI services\n- Material data-center scale only by 2028\n- Supplement, not replace, Nvidia GPUs near-term\n\n**Market:**\n- Nvidia shares dipped slightly in early trading\n- Analysts called timeline credible; yield curves a risk"
+      },
+      "zh": {
+        "title": "Meta 自研 AI 芯片将于 2026 年 9 月量产",
+        "excerpt": "Meta 7 月 10 日确认其下一代自研 AI 加速芯片将于 9 月进入量产，在减少对英伟达依赖方面迈出重要一步。",
+        "content": "Meta 于 7 月 10 日披露下一代自研 AI 加速芯片将于 2026 年 9 月量产。\n\n**芯片：**\n- MTIA 家族后继产品\n- 台积电先进制程代工\n\n**战略：**\n- 少数几家大规模自研 AI 芯片的超大规模企业之一\n- 自研芯片预计 2027 年显著降低单位算力成本\n\n**量产：**\n- 初期面向推荐、排序和 GenAI\n- 短期内补充而非替代英伟达 GPU"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 4,
+      "timeAgo": 5,
+      "date": "2026-07-10",
+      "en": {
+        "title": "Ollama Raises $65M, Reaches Nearly 9M Users as Local AI Goes Mainstream",
+        "excerpt": "Ollama closed $65M on July 10 and disclosed ~9M users, a striking signal local AI is moving from niche to mainstream.",
+        "content": "Ollama, the popular tool for running LLMs on local hardware, announced July 10 it closed a $65M round and reached nearly 9 million users.\n\n**Round & Users:**\n- $65M led by AI-focused investor consortium\n- ~9M users, up from ~4M at start of year\n- Most-used: Llama, Mistral, Gemma\n\n**Why Local Now:**\n- Smaller models make local inference practical on consumer hardware\n- Privacy/sovereignty concerns push on-prem\n- Cloud API costs at scale can exceed local hardware\n\n**Competition:**\n- LM Studio, Jan, and others\n- Open-source model + simple CLI differentiators\n- Cloud providers now offer Ollama-compatible APIs"
+      },
+      "zh": {
+        "title": "Ollama 完成 6500 万美元融资，用户近 900 万，本地 AI 走向主流",
+        "excerpt": "Ollama 于 7 月 10 日宣布完成 6500 万美元融资，用户近 900 万，表明本地 AI 从小众走向主流。",
+        "content": "本地运行大语言模型的开源工具 Ollama 宣布完成 6500 万美元融资，用户近 900 万。\n\n**用户增长：**\n- 较年初约 400 万大幅增长\n- 最常用模型包括 Llama、Mistral、Gemma\n\n**为何现在：**\n- 更小的模型使本地推理在消费级硬件上变得实用\n- 隐私和数据主权问题推动本地部署\n- 大规模云 API 成本可能超过本地硬件\n\n**竞争：**\n- 与 LM Studio、Jan 等工具竞争\n- 开源模式和简洁 CLI 是关键差异化"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 5,
+      "timeAgo": 3,
+      "date": "2026-07-10",
+      "en": {
+        "title": "Google Will Now Disclose Which Ads Are Made With AI",
+        "excerpt": "Google introduced a requirement on July 10 that AI-generated ads be clearly labeled, reshaping how brands deploy generative AI in marketing.",
+        "content": "Google announced July 10 it will require clear labels on advertisements created using AI tools.\n\n**Policy:**\n- Advertisers must disclose AI in ad creative\n- Labels on ad units across Google's ad network\n- Covers search and display advertising\n\n**Why Now:**\n- Consumer groups: AI-generated ads misleading buyers\n- Regulatory scrutiny intensifying in U.S. and EU\n- Comes after AI ad controversies in late 2025\n\n**Impact:**\n- Brands using Imagen/Veo will adjust workflows\n- Template for Meta and TikTok ad policies\n\n**Broader Trend:**\n- Extends Google's AI labeling in YouTube and Search\n- EU AI Act pushing similar requirements\n- Ad-supported internet faces AI-human line-drawing pressure"
+      },
+      "zh": {
+        "title": "Google 将要求标注 AI 生成的广告",
+        "excerpt": "Google 于 7 月 10 日宣布将要求对使用 AI 工具创建的广告进行明确标注，可能重塑品牌在营销中部署生成式 AI 的方式。",
+        "content": "Google 于 7 月 10 日宣布要求对 AI 生成广告进行明确标注。\n\n**政策：**\n- 广告主必须披露 AI 使用情况\n- 标注将出现在 Google 广告网络中的广告单元上\n- 覆盖搜索和展示广告\n\n**为何现在：**\n- 消费者团体担忧 AI 生成广告误导买家\n- 美欧监管审查趋严\n- 此前发生多起 AI 广告争议\n\n**影响：**\n- 品牌需要调整创意工作流\n- 可能成为 Meta 和 TikTok 广告政策的模板\n\n**大趋势：**\n- 延伸 Google 在 YouTube 和 Search 的 AI 标注\n- 欧盟 AI 法案推动类似要求"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1611534735037-9f43c1b06f70?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-10",
+      "en": {
+        "title": "SpaceX Pushes Forward With Expansion of Grok AI Model",
+        "excerpt": "SpaceX advanced plans on July 10 to expand access and deployment of Grok, after its July 9 Grok 4.5 release scaled xAI's consumer AI ambitions.",
+        "content": "SpaceX moved July 10 to expand deployment of the Grok AI family, a day after releasing Grok 4.5 publicly in a major escalation of xAI's consumer push.\n\n**Grok 4.5 Launch:**\n- Public release July 9 alongside OpenAI GPT-5.6\n- Musk called the model \"Opus-class\"\n- Availability through X Premium and enterprise tiers\n\n**SpaceX Involvement:**\n- Elon Musk announced SpaceX will make Grok available to public July 9\n- Expansion planned for Starlink consumer devices\n- Infrastructure linking satellites, data centers, X platform\n\n**Consumer AI Push:**\n- Direct competition with OpenAI, Anthropic, Gemini\n- X platform as core distribution and data flywheel\n- Subscription bundles with X Premium+ and Grok tiers"
+      },
+      "zh": {
+        "title": "SpaceX 推进 Grok AI 模型扩展计划",
+        "excerpt": "SpaceX 于 7 月 10 日宣布推进 Grok 系列 AI 扩展部署，在前一天公开发布 Grok 4.5 后大幅升级消费者 AI 野心。",
+        "content": "SpaceX 于 7 月 10 日宣布扩展 Grok AI 模型部署，在公开发布 Grok 4.5 之后加码消费者 AI 攻势。\n\n**Grok 4.5 发布：**\n- 7 月 9 日同时上线 GPT-5.6 的同级产品\n- 马斯克称达到 Opus 级别\n- 通过 X 付费和企业渠道提供\n\n**SpaceX 角色：**\n- 马斯克宣布 SpaceX 将向公众提供 Grok\n- 计划在 Starlink 消费端设备扩展\n- 星链+数据中心+X 平台的基础设施联动\n\n**消费者攻势：**\n- 与 OpenAI、Anthropic、Gemini 直接竞争\n- X 平台作为核心分发和数据飞轮"
+      }
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 4,
+      "timeAgo": 4,
+      "date": "2026-07-10",
+      "en": {
+        "title": "New York Times Accuses OpenAI of Hiding Evidence in ChatGPT Copyright Trial",
+        "excerpt": "The New York Times accused OpenAI on July 10 of concealing evidence in the long-running copyright litigation, raising the stakes of one of AI's highest-profile courtroom battles.",
+        "content": "The New York Times accused OpenAI on July 10 of hiding evidence in their ongoing copyright lawsuit over ChatGPT training data, escalating one of the most closely watched legal fights in AI.\n\n**The Allegation:**\n- NYT claims OpenAI withheld internal documents about training data composition\n- Manuscript suggests millions of articles were ingested beyond public disclosures\n- NYT seeks sanctions or adverse inference instruction from the judge\n\n**OpenAI's Response:**\n- Disputes characterization of any document production\n- Asserts it has complied with discovery rules\n- Argues fair use shields training on publicly available web content\n\n**Broader Stakes:**\n- Outcome may set precedent for AI training and copyright industry-wide\n- Other media groups watching closely\n- Publishing industry increasingly regulated AI scrapers in EU and U.S."
+      },
+      "zh": {
+        "title": "纽约时报指控 OpenAI 在 ChatGPT 版权案中隐瞒证据",
+        "excerpt": "纽约时报于 7 月 10 日指控 OpenAI 在持续已久的版权诉讼中隐瞒证据，将这场 AI 最引人注目的法庭争斗推向新高。",
+        "content": "纽约时报指控 OpenAI 在有关 ChatGPT 训练数据的版权诉讼中隐瞒证据。\n\n**指控：**\n- NYT 称 OpenAI 隐瞒了有关训练数据组成的内部文件\n- 暗示 OpenAI 摄入了远超公开披露的数百万篇文章\n- 要求法院制裁或做出不利推定\n\n**OpenAI 回应：**\n- 否认隐瞒任何文件\n- 主张已遵守证据开示规则\n- 主张对公开网络内容的使用属于合理使用\n\n**更广泛影响：**\n- 结果可能为 AI 训练与版权关系设定行业先例\n- 多家媒体集团密切关注\n- 出版行业在欧美日益对 AI 抓取行为实施监管"
+      }
+    },
+    {
+      "id": 11,
+      "image": "https://images.unsplash.com/photo-1460454414544-c46e4fa0a3b8?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 4,
+      "timeAgo": 6,
+      "date": "2026-07-10",
+      "en": {
+        "title": "OpenAI's No. 2 Exec Fidji Simo Steps Down",
+        "excerpt": "Fidji Simo, formerly of Instacart, stepped down from her high-ranking role at OpenAI on July 10, adding leadership turbulence at a pivotal moment.",
+        "content": "Fidji Simo stepped down from her high-ranking role at OpenAI on July 10, the former Instacart CEO exiting during a pivotal stretch of frontier launches and partnership questions.\n\n**Departure Context:**\n- Former Instacart CEO leading application and consumer products\n- Exit amid GPT-5.6 launch and Atlas shutdown\n- Timing raises questions about internal strategic alignment\n\n**Impact:**\n- Sam Altman thanked Simo in a brief internal memo\n- Successor not named; responsibilities distributed across product leadership\n\n**Why It Matters:**\n- Loss of seasoned consumer operator during critical execution window\n- OpenAI pushes deeper into consumer products, hardware, browser, voice"
+      },
+      "zh": {
+        "title": "OpenAI 二号人物 Fidji Simo 离职",
+        "excerpt": "7 月 10 日，前 Instacart CEO、OpenAI 高管 Fidji Simo 离职，在这个关键时刻为公司管理层增添了动荡。",
+        "content": "前 Instacart CEO Fidji Simo 于 7 月 10 日从 OpenAI 高管职位离职，正值公司面临前沿发布和合作伙伴关系的关键时期。\n\n**离职背景：**\n- 曾负责 OpenAI 应用和消费者产品\n- 离职发生在 GPT-5.6 发布和 Atlas 关闭之际\n\n**影响：**\n- 阿特曼发表内部备忘录致谢\n- 继任者尚未任命\n\n**意义：**\n- 在关键执行窗口失去资深消费者互联网运营者\n- OpenAI 正大力进军消费者产品、硬件、浏览器和语音"
+      }
+    },
+    {
+      "id": 12,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 5,
+      "timeAgo": 3,
+      "date": "2026-07-10",
+      "en": {
+        "title": "Robotics Startup Says the Sector Is About to Have Its ChatGPT Moment",
+        "excerpt": "A well-funded robotics startup declared July 10 that the sector stands at an inflection point comparable to the moment ChatGPT made generative AI mainstream.",
+        "content": "On July 10, a high-profile robotics startup declared the sector on the verge of a 'ChatGPT moment' — a tipping point where general-purpose robotics goes from lab demos to mass deployment.\n\n**Thesis:**\n- Humanoid and mobile robots now have the models and compute to generalize across diverse real-world tasks\n- The GPT-5.6 generation of foundation models is enabling more capable \"robot brains\"\n- Unit economics are approaching parity with human labor for several warehouse and logistics scenarios\n\n**Evidence Cited:**\n- Scaling pilot programs in China, U.S., and Korean factories\n- Tesla, Figure, Agility, Agibot pushing production-ready humanoids in 2026\n- Nvidia and LG partnering on massive AI robot factory\n\n**Cautions:**\n- Hardware reliability and repair logistics still lag AI software progress\n- 2026 unit shipments remain modest relative to automotive-scale ambitions\n- \"ChatGPT moment\" proclamations have preceded hype-cycle corrections before"
+      },
+      "zh": {
+        "title": "机器人初创公司称该行业即将迎来 ChatGPT 时刻",
+        "excerpt": "一家知名机器人初创公司于 7 月 10 日宣布，机器人行业正处在一个可与 ChatGPT 让生成式 AI 主流化的时刻相媲美的拐点。",
+        "content": "7 月 10 日，一家知名机器人初创公司宣布，通用机器人正从实验室走向大规模部署的拐点。\n\n**论点：**\n- 人形和移动机器人现已具备足够的模型和算力，可泛化到多样现实任务\n- GPT-5.6 一代基础模型正在催生更强大的「机器人大脑」\n- 劳动单元经济性正接近与人工持平\n\n**证据：**\n- 中美韩工厂试点项目规模化推进\n- Tesla、Figure、Agility、Agibot 在 2026 年推进量产人形机器人\n- 英伟达与 LG 合作建设 AI 机器人工厂\n\n**谨慎声音：**\n- 硬件可靠性和维修物流仍落后于 AI 软件进展\n- 2026 年出货量仍远低于汽车级野心"
+      }
+    }
+  ]
+}
