@@ -1,237 +1,224 @@
 {
   "featured": {
     "id": 0,
-    "image": "https://images.unsplash.com/photo-1639322537504-6427a16b0a28?w=1200&h=600&fit=crop",
-    "category": "ethics",
+    "cat": "ethics",
     "readTime": 7,
     "timeAgo": 2,
-    "date": "2026-07-13",
+    "date": "2026-07-14",
     "en": {
-      "title": "Apple Sues OpenAI for Trade-Secret Theft as ChatGPT Hardware Ambitions Spark Legal Firestorm",
-      "excerpt": "Apple filed a lawsuit against OpenAI on July 12, accusing the AI company and its hardware chief of running a coordinated campaign to steal trade secrets as OpenAI builds its own ChatGPT hardware device, marking a dramatic rupture between the former partners.",
-      "content": "Apple filed a federal lawsuit on July 12 against OpenAI, accusing it of trade-secret theft tied to the recruitment of former Apple employees to build a dedicated ChatGPT hardware device.\n\nThe Lawsuit:\n- Filed in federal court, naming OpenAI, its hardware division chief, and two former Apple employees\n- Alleges coordinated campaign to misappropriate proprietary hardware design and manufacturing trade secrets\n- Apple seeks injunctive relief and damages\n\nWhat Sparked It:\n- OpenAI has been building a dedicated ChatGPT hardware device, internally codenamed \"Orb\"\n- Several former Apple hardware engineers joined OpenAI over the past 18 months\n- Apple alleges these engineers took confidential design documents and manufacturing specifications with them\n\nThe Stakes:\n- This is the first major lawsuit between Apple and OpenAI, two companies that were previously partners — Apple integrated ChatGPT into iOS 18 and Siri\n- The suit threatens to complicate that partnership at a critical moment for both companies\n- Comes as Apple itself is racing to build on-device AI capabilities and is rumored to be developing its own AI hardware\n\nIndustry Implications:\n- Trade-secret litigation in AI has been on the rise, but this case is the highest-profile yet\n- Raises questions about talent mobility in the AI hardware space\n- Could chill recruiting of engineers between AI labs and consumer hardware companies\n- Both companies declined to comment beyond their public filings"
+      "title": "Featured Jul14",
+      "excerpt": "Ex1",
+      "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
     },
     "zh": {
-      "title": "苹果起诉 OpenAI 窃取商业机密，ChatGPT 硬件野心引爆法律战",
-      "excerpt": "7 月 12 日，苹果对 OpenAI 提起诉讼，指控该公司及其硬件主管策划了一场窃取商业机密的协同行动，以建设自有 ChatGPT 硬件设备，标志着两家昔日合作伙伴关系的戏剧性破裂。",
-      "content": "苹果于 7 月 12 日向联邦法院对 OpenAI 提起诉讼，指控其通过招募前苹果员工窃取商业机密，以构建专属 ChatGPT 硬件设备。\n\n诉讼详情：\n- 在联邦法院提起，被告包括 OpenAI、其硬件部门负责人及两名前苹果员工\n- 指控存在协调一致的行动，盗用苹果专有硬件设计和制造商业机密\n- 苹果寻求禁令救济和损害赔偿\n\n导火索：\n- OpenAI 一直在开发代号为\"Orb\"的专属 ChatGPT 硬件设备\n- 过去 18 个月，多名前苹果硬件工程师加入 OpenAI\n- 苹果指控这些工程师带走了机密设计文档和制造规格\n\n利害关系：\n- 这是苹果与 OpenAI 之间的首起重大诉讼，两家公司此前是合作伙伴——苹果已将 ChatGPT 整合到 iOS 18 和 Siri 中\n- 该诉讼可能在双方的关键时刻使合作关系复杂化\n- 与此同时，苹果也在加速自研设备端 AI 能力，据传正在开发自有 AI 硬件\n\n行业影响：\n- AI 领域的商业机密诉讼呈上升趋势，但此案是迄今最高调的一起\n- 引发对 AI 硬件领域人才流动性的质疑\n- 可能对 AI 实验室与消费硬件公司之间的人才招聘产生寒蝉效应\n- 两家公司均拒绝在公开文件之外发表评论"
+      "title": "Feat 7/14",
+      "excerpt": "f",
+      "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
     }
   },
   "articles": [
     {
       "id": 1,
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
-      "category": "llm",
-      "readTime": 6,
+      "cat": "business",
+      "readTime": 5,
       "timeAgo": 2,
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "en": {
-        "title": "Google Scraps Gemini 3.5 Pro Base Model, Restarts Training From Scratch, Delays to July 17",
-        "excerpt": "Google scrapped the original Gemini 3.5 Pro base model and restarted pretraining from scratch, pushing the launch to July 17. Leaked specs point to a roughly 2-million-token context window and significant architecture changes.",
-        "content": "Google DeepMind has scrapped its original Gemini 3.5 Pro base model and restarted pretraining from scratch, pushing the launch date to July 17, according to reports emerging over the weekend.\n\nWhat Happened:\n- The initial Gemini 3.5 Pro base model failed key internal benchmarks during late-stage evaluation\n- Engineers flagged instability issues with long-context reasoning and factual consistency\n- Rather than ship a compromised product, DeepMind leadership opted to restart training with architectural revisions\n- The decision was reportedly made at the CEO level, reflecting how critical Gemini 3.5 Pro is to Google's AI strategy\n\nWhy It Was Scrapped:\n- Internal testing showed degradation on retrieval-augmented generation (RAG) tasks beyond 200,000 tokens\n- Safety red-teaming raised concerns about adversarial robustness in extended conversations\n- Competitive pressure from GPT-5.6 and Grok 4.5 intensified the need for a stronger launch\n\nNew Timeline:\n- Training restart began approximately July 7, targeting completion by July 15\n- July 17 remains the projected launch date — an aggressive 10-day turnaround\n- Industry analysts note that a full model pretraining restart in under two weeks is unprecedented and raises questions about how much the architecture actually changed\n\nLeaked Specs:\n- Context window expected to reach approximately 2 million tokens — roughly double Gemini 3.0 Pro\n- Significant architecture changes focused on mixture-of-experts routing efficiency\n- Improved multimodal fusion for image, video, and audio understanding in a single forward pass\n\nCompetitive Context:\n- The delay gives OpenAI three extra days of market exclusivity with GPT-5.6\n- Grok 4.5 is already live, and DeepSeek's next model is due by July 24\n- Google's willingness to restart training signals how seriously it takes the risk of shipping a subpar model in the current competitive environment"
+        "title": "Featured Jul14",
+        "excerpt": "Ex1",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       },
       "zh": {
-        "title": "Google 废弃 Gemini 3.5 Pro 基础模型，从零重启训练，推迟至 7 月 17 日",
-        "excerpt": "Google 废弃了最初的 Gemini 3.5 Pro 基础模型并从头重新启动预训练，将发布推迟至 7 月 17 日。泄露的规格指向约 200 万 token 的上下文窗口和重大架构变更。",
-        "content": "据周末传出的报道，Google DeepMind 已废弃最初的 Gemini 3.5 Pro 基础模型，从头重新启动预训练，将发布日期推迟至 7 月 17 日。\n\n发生了什么：\n- 最初的 Gemini 3.5 Pro 基础模型在后期评估中未能通过关键内部基准测试\n- 工程师指出长上下文推理和事实一致性方面存在不稳定问题\n- DeepMind 领导层选择重启训练并调整架构，而非发布有缺陷的产品\n- 据报道该决定是在 CEO 层面做出的，反映了 Gemini 3.5 Pro 对 Google AI 战略的关键意义\n\n为何被废弃：\n- 内部测试显示超过 20 万 token 时检索增强生成（RAG）任务性能下降\n- 安全红队测试对长对话场景下的对抗鲁棒性提出担忧\n- GPT-5.6 和 Grok 4.5 的竞争压力加剧了推出更强产品线的需求\n\n新时间表：\n- 训练重启约于 7 月 7 日开始，目标 7 月 15 日前完成\n- 7 月 17 日仍是计划发布日期——一个极为激进的 10 天周转计划\n- 行业分析师指出，在两周内完成完整模型预训练重启前所未有，由此引发对架构实际变更范围的质疑\n\n泄露规格：\n- 上下文窗口预计达到约 200 万 token——约为 Gemini 3.0 Pro 的两倍\n- 重大架构变更集中在混合专家（MoE）路由效率\n- 改进的多模态融合，支持在单次前向传播中理解图像、视频和音频\n\n竞争背景：\n- 延迟使 OpenAI 获得额外的三天 GPT-5.6 市场独占期\n- Grok 4.5 已上线，DeepSeek 的下一代模型预计 7 月 24 日前发布\n- Google 愿意重启训练，表明其对当前竞争环境中发布次优模型的风险高度重视"
+        "title": "Story1 ZH",
+        "excerpt": "摘录",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       }
     },
     {
       "id": 2,
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
-      "category": "business",
+      "cat": "policy",
       "readTime": 5,
       "timeAgo": 2,
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "en": {
-        "title": "TSMC Posts Record Q2 Revenue, Jumps 36% Year-on-Year on Surging AI Chip Demand",
-        "excerpt": "TSMC reported second-quarter revenue that jumped 36% year-over-year to a record, beating market expectations, driven by voracious demand for advanced AI chips from Nvidia and Apple.",
-        "content": "Taiwan Semiconductor Manufacturing Co. reported record second-quarter revenue on July 12, with sales jumping 36% year-over-year, beating analyst estimates handily as AI chip demand from Nvidia, Apple, and other hyperscalers continued to surge.\n\nThe Numbers:\n- Q2 2026 revenue hit approximately NT$840 billion (~$25.6 billion), a quarterly record\n- 36% year-over-year growth, surpassing the 34% analyst consensus\n- Advanced process nodes (7nm and below) accounted for over 65% of wafer revenue\n- 3nm process node utilization rates remain near 100%\n\nAI Demand Drivers:\n- Nvidia's Blackwell and successor GPU ramps continue to consume massive 3nm and 5nm wafer allocations\n- Apple's A19 and M5 chips for next-gen iPhones and Macs are in pre-production on TSMC's 2nm pilot line\n- Custom AI accelerators from Google (TPU v6), Amazon (Trainium3), and Microsoft (MAI chips) are contributing to growing non-Nvidia demand\n- TSMC noted that AI-related revenue now exceeds 45% of total revenue, up from approximately 30% a year ago\n\nCapacity Expansion:\n- TSMC confirmed its Arizona fab remains on track for 4nm volume production in H1 2027\n- Japan's Kumamoto fab is expanding to 3nm ahead of original schedule\n- Global capacity expansion capex for 2026 is expected to reach $38-42 billion\n\nCompetitive Context:\n- TSMC commands over 90% of the advanced foundry market for sub-7nm nodes\n- Intel Foundry and Samsung Foundry continue to struggle to close the technology gap\n- The company's dominance in AI chip manufacturing has made it a critical chokepoint in the global AI supply chain"
+        "title": "Story2 EN",
+        "excerpt": "Ex2",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       },
       "zh": {
-        "title": "台积电 Q2 营收创纪录，AI 芯片需求激增推动同比增长 36%",
-        "excerpt": "台积电公布第二季度营收同比增长 36% 至创纪录水平，超出市场预期，受英伟达和苹果对先进 AI 芯片的旺盛需求推动。",
-        "content": "台积电于 7 月 12 日公布创纪录的第二季度营收，销售额同比增长 36%，轻松超越分析师预期，来自英伟达、苹果和其他超大规模客户的 AI 芯片需求持续飙升。\n\n核心数据：\n- Q2 2026 营收约 8400 亿新台币（约 256 亿美元），创季度纪录\n- 同比增长 36%，超过分析师共识预期的 34%\n- 先进制程（7nm 及以下）占晶圆收入超过 65%\n- 3nm 制程产能利用率接近 100%\n\nAI 需求驱动因素：\n- 英伟达 Blackwell 及下一代 GPU 量产持续消耗大量 3nm 和 5nm 晶圆配额\n- 苹果面向下一代 iPhone 和 Mac 的 A19 和 M5 芯片已在台积电 2nm 试产线上进行预生产\n- Google（TPU v6）、Amazon（Trainium3）和微软（MAI 芯片）的定制 AI 加速器正在扩大非英伟达需求\n- 台积电指出，AI 相关收入现已超过总收入的 45%，而一年前约为 30%\n\n产能扩张：\n- 台积电确认亚利桑那州工厂仍按计划在 2027 上半年实现 4nm 量产\n- 日本熊本工厂正扩建 3nm 产能，进度快于原定计划\n- 2026 年全球产能扩张资本支出预计达到 380-420 亿美元\n\n竞争格局：\n- 台积电在 7nm 以下先进代工市场占据超过 90% 份额\n- 英特尔代工服务和三星代工持续难以缩小技术差距\n- 公司在 AI 芯片制造领域的主导地位使其成为全球 AI 供应链的关键咽喉"
+        "title": "Story2 ZH",
+        "excerpt": "摘录",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       }
     },
     {
       "id": 3,
-      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
-      "category": "business",
-      "readTime": 6,
-      "timeAgo": 3,
-      "date": "2026-07-13",
+      "cat": "llm",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-14",
       "en": {
-        "title": "Anthropic Tells Australia Its $21.6 Billion Data Center Investment Hinges on Copyright Clarity",
-        "excerpt": "Anthropic told Australian Treasurer Jim Chalmers its $21.6 billion commitment to build data centers in Australia hinges on the government clarifying copyright law for AI training, as PM Albanese says he is in no rush to change the rules.",
-        "content": "Anthropic has told Australian Treasurer Jim Chalmers that its $21.6 billion commitment to build data centers in Australia hinges on the government providing clarity on copyright law for AI training, as Prime Minister Anthony Albanese says he is in no rush to change the current rules.\n\nThe Investment:\n- Anthropic committed A$32 billion (~$21.6 billion) for data center construction across multiple Australian locations\n- The investment would be one of the largest single foreign tech investments in Australian history\n- It would create an estimated 15,000 construction jobs and 5,000 permanent tech positions\n\nThe Copyright Sticking Point:\n- Anthropic wants legal clarity that training AI on publicly available content does not constitute copyright infringement\n- Australian copyright law currently has no explicit AI training exemption or fair-use equivalent\n- Without reform, Anthropic fears legal liability for training models on Australian data hosted in local data centers\n- The demand mirrors similar concerns raised by AI companies in the EU, UK, and Japan\n\nThe Government Response:\n- Treasurer Chalmers acknowledged the scale of the opportunity but said copyright reform is complex\n- PM Albanese stated \"we are in no rush\" to change copyright rules, emphasizing the need to protect Australian creators\n- The government is balancing economic development against the interests of the local creative and media industries\n- Officials indicated negotiations are ongoing but no timeline for resolution has been set\n\nWhat's at Stake:\n- If Anthropic walks, the data center investment could go to Singapore, Japan, or other Asia-Pacific nations with clearer AI copyright regimes\n- Australia risks missing out on becoming a regional AI infrastructure hub\n- The standoff reflects a global pattern: AI infrastructure investment is increasingly flowing to jurisdictions with favorable regulatory frameworks\n- Other AI companies, including OpenAI and Google, are closely watching the Australian negotiations as a test case for Asia-Pacific AI policy"
+        "title": "Story3 EN",
+        "excerpt": "Ex3",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       },
       "zh": {
-        "title": "Anthropic 告知澳大利亚：216 亿美元数据中心投资取决于版权明确性",
-        "excerpt": "Anthropic 告知澳大利亚财长 Jim Chalmers，其 216 亿美元建设数据中心的承诺取决于政府是否明确 AI 训练的版权法，而总理 Albanese 表示不急于修改规则。",
-        "content": "Anthropic 已告知澳大利亚财长 Jim Chalmers，其 216 亿美元建设数据中心的承诺取决于政府是否明确 AI 训练的版权法，而总理 Anthony Albanese 表示不急于修改现行规则。\n\n投资规模：\n- Anthropic 承诺投入 320 亿澳元（约 216 亿美元），在澳大利亚多地建设数据中心\n- 该投资将是澳大利亚历史上最大的单一外国科技投资之一\n- 预计创造约 15,000 个建筑岗位和 5,000 个永久性技术岗位\n\n版权争议焦点：\n- Anthropic 希望获得法律明确性，确认在公开可得内容上训练 AI 不构成版权侵权\n- 澳大利亚版权法目前没有明确的 AI 训练豁免条款或合理使用等效规定\n- 没有法律改革，Anthropic 担忧在本地数据中心训练模型会面临法律责任\n- 这一要求与 AI 公司在欧盟、英国和日本提出的类似关切相呼应\n\n政府回应：\n- 财长 Chalmers 承认机遇规模巨大，但表示版权改革复杂\n- 总理 Albanese 表示\"不急于\"修改版权规则，强调保护澳大利亚创作者的必要性\n- 政府正在经济发展与本地创意和媒体行业利益之间寻求平衡\n- 官员表示谈判正在进行，但未设定解决时间表\n\n利害关系：\n- 如果 Anthropic 退出，数据中心投资可能流向新加坡、日本或其他 AI 版权制度更清晰的亚太国家\n- 澳大利亚可能错失成为区域 AI 基础设施枢纽的机会\n- 这一僵局反映了全球模式：AI 基础设施投资日益流向监管框架有利的司法管辖区\n- OpenAI 和 Google 等其他 AI 公司正密切关注澳大利亚的谈判，将其视为亚太 AI 政策的测试案例"
+        "title": "Story3 ZH",
+        "excerpt": "摘录",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       }
     },
     {
       "id": 4,
-      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
-      "category": "ethics",
+      "cat": "business",
       "readTime": 5,
       "timeAgo": 2,
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "en": {
-        "title": "China Accused of Illicit 'Distillation' Attacks to Extract AI Models From Anthropic and OpenAI",
-        "excerpt": "Anthropic and OpenAI have accused China of conducting illicit model-distillation attacks to extract and copy their cutting-edge AI technology, a trend now being framed as a US national-security threat.",
-        "content": "Anthropic and OpenAI have accused China of conducting illicit model-distillation attacks to extract and copy their cutting-edge AI technology, a trend now being framed as a US national-security threat by lawmakers and intelligence officials.\n\nThe Accusation:\n- Both Anthropic and OpenAI have separately detected systematic attempts to extract model weights and capabilities via API-based distillation\n- The technique involves sending millions of carefully crafted queries to frontier models and using the responses to train competing models\n- Chinese entities are allegedly running these operations at industrial scale through front companies and academic institutions\n- The attacks specifically target frontier reasoning and coding capabilities, the most expensive areas of model development\n\nHow Distillation Works:\n- Adversaries query a target model with diverse prompts and capture input-output pairs\n- The collected data is used to fine-tune a smaller, cheaper model that mimics the frontier model's behavior\n- Unlike direct theft of model weights, distillation operates through legitimate API endpoints, making it harder to detect and block\n- The technique is not inherently illegal, but doing it at scale with the intent to clone proprietary capabilities raises legal questions\n\nThe US Response:\n- Lawmakers are framing the attacks as economic espionage and a national-security threat\n- Proposals include requiring AI companies to implement stronger API abuse detection and mandatory reporting of suspected distillation\n- The Commerce Department is considering extending export controls to cover API access for certain foreign entities\n- Intelligence agencies have briefed Congress on the scale of the issue, though details remain classified\n\nIndustry Implications:\n- AI labs are investing heavily in anti-distillation countermeasures, including output watermarking and query-pattern detection\n- The attacks complicate the open-versus-closed AI debate: open-weight models enable innovation but also make distillation easier\n- Smaller AI companies worry that aggressive anti-distillation regulations could restrict their ability to use commercial APIs for legitimate fine-tuning"
+        "title": "Story4 EN",
+        "excerpt": "Ex4",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       },
       "zh": {
-        "title": "中国被指控通过非法的「蒸馏」攻击窃取 Anthropic 和 OpenAI 的 AI 模型",
-        "excerpt": "Anthropic 和 OpenAI 指控中国实施非法的模型蒸馏攻击，试图提取和复制其尖端 AI 技术，这一趋势正被定性为美国国家安全威胁。",
-        "content": "Anthropic 和 OpenAI 指控中国实施非法的模型蒸馏攻击，试图提取和复制其尖端 AI 技术，这一趋势正被立法者和情报官员定性为美国国家安全威胁。\n\n指控内容：\n- Anthropic 和 OpenAI 分别检测到系统性的 API 蒸馏尝试，旨在提取模型权重和能力\n- 该技术涉及向前沿模型发送数百万个精心设计的查询，使用回复来训练竞争模型\n- 中国实体据称通过空壳公司和学术机构以工业规模实施这些操作\n- 攻击专门针对前沿推理和编程能力——模型开发中最昂贵的领域\n\n蒸馏如何运作：\n- 对手用多样化的提示查询目标模型，捕获输入-输出对\n- 收集的数据用于微调一个更小更便宜的模型，模仿前沿模型的行为\n- 与直接窃取模型权重不同，蒸馏通过合法的 API 端点进行操作，更难检测和阻止\n- 该技术本身并非非法，但以克隆专有能力为目的的大规模操作引发了法律问题\n\n美国应对措施：\n- 立法者将此定性为经济间谍活动和国家安全隐患\n- 提案包括要求 AI 公司实施更强的 API 滥用检测和可疑蒸馏的强制报告\n- 商务部正在考虑将出口管制扩展至覆盖特定外国实体的 API 访问\n- 情报机构已向国会通报该问题的规模，但细节仍属机密\n\n行业影响：\n- AI 实验室正在加大对反蒸馏对策的投资，包括输出水印和查询模式检测\n- 攻击使开放与封闭 AI 辩论复杂化：开放权重模型促进创新但也降低蒸馏难度\n- 小型 AI 公司担忧激进的反蒸馏监管可能限制其使用商业 API 进行合法微调的能力"
+        "title": "Story4 ZH",
+        "excerpt": "摘录",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       }
     },
     {
       "id": 5,
-      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&h=400&fit=crop",
-      "category": "creative",
+      "cat": "policy",
       "readTime": 5,
       "timeAgo": 2,
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "en": {
-        "title": "Meta Shuts Down Muse Image AI Days After Launch Following Public Privacy Backlash",
-        "excerpt": "Meta shut down its new Muse Image AI image-generation feature just days after launch, following public backlash that it turned Instagram accounts into training fodder without adequate consent.",
-        "content": "Meta has shut down its newly launched Muse Image AI image-generation feature just days after its debut, following a fierce public backlash over privacy concerns and allegations that the tool turned Instagram users' photos into AI training data without adequate consent.\n\nThe Launch and Shutdown:\n- Muse Image launched on July 8 across Meta AI, Instagram, and WhatsApp\n- It debuted at #2 on the Image Arena leaderboard, signaling strong technical capabilities\n- By July 11, Meta announced it was \"pausing\" the feature after widespread user complaints and regulatory inquiries\n- The shutdown affects all consumer-facing Muse Image features across Meta's platforms, though enterprise API access remains\n\nWhat Went Wrong:\n- Users discovered that photos uploaded to Instagram were being used to train Muse Image's generation capabilities\n- Meta's opt-out process was buried deep in settings and not clearly communicated at launch\n- Privacy advocates in the EU filed complaints under GDPR, arguing Meta lacked a valid legal basis for processing personal images\n- Multiple US state attorneys general announced investigations into the data practices\n\nMeta's Response:\n- Meta said it would \"review\" its consent mechanisms and return with a clearer opt-in model\n- The company denied that private messages or Stories were used for training\n- Internal sources say the engineering team had flagged consent concerns before launch but was overruled by product leadership\n- No timeline was given for when Muse Image would return\n\nBroader Implications:\n- The incident highlights the tension between rapid AI product deployment and privacy compliance\n- It may accelerate regulatory action on AI training data consent, particularly in the EU and US\n- Competitors including OpenAI (DALL-E) and Google (Imagen) are watching closely, as similar consent questions apply to their products\n- The episode may become a cautionary case study in AI product management textbooks"
+        "title": "Story5 EN",
+        "excerpt": "Ex5",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       },
       "zh": {
-        "title": "Meta 在公众隐私强烈反对下关闭上线仅数日的 Muse Image AI 工具",
-        "excerpt": "Meta 在公众强烈反对下关闭了上线仅数日的新 Muse Image AI 图像生成功能，批评称其在未经充分同意的情况下将 Instagram 账户用作训练素材。",
-        "content": "Meta 在上线仅数日后即关闭了新推出的 Muse Image AI 图像生成功能，此前公众因其隐私问题和指控该工具在未经充分同意的情况下将 Instagram 用户照片用作 AI 训练数据而爆发强烈反对。\n\n发布与关闭：\n- Muse Image 于 7 月 8 日在 Meta AI、Instagram 和 WhatsApp 上推出\n- 首秀即登 Image Arena 排行榜第二名，技术能力强劲\n- 至 7 月 11 日，Meta 宣布在广泛用户投诉和监管调查后\"暂停\"该功能\n- 关闭影响 Meta 平台所有面向消费者的 Muse Image 功能，但企业 API 访问保持\n\n出了什么问题：\n- 用户发现上传到 Instagram 的照片被用于训练 Muse Image 的生成能力\n- Meta 的退出选项深藏在设置中，发布时没有明确告知\n- 欧盟隐私倡导者根据 GDPR 提出投诉，认为 Meta 缺乏处理个人图像的合法基础\n- 多个美国州检察长宣布对数据实践展开调查\n\nMeta 的回应：\n- Meta 表示将\"审查\"其同意机制并以更清晰的主动选择模式重新推出\n- 公司否认私信或 Stories 被用于训练\n- 内部消息称工程团队在发布前已标记同意问题但被产品领导层驳回\n- 未给出 Muse Image 何时回归的时间表\n\n更广泛影响：\n- 该事件凸显了快速 AI 产品部署与隐私合规之间的张力\n- 可能加速对 AI 训练数据同意的监管行动，尤其是在欧盟和美国\n- OpenAI（DALL-E）和 Google（Imagen）等竞争对手正密切关注，因为类似的同意问题也适用于其产品\n- 该事件可能成为 AI 产品管理教材中的警示案例"
+        "title": "Story5 ZH",
+        "excerpt": "摘录",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       }
     },
     {
       "id": 6,
-      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=400&fit=crop",
-      "category": "business",
-      "readTime": 6,
+      "cat": "llm",
+      "readTime": 5,
       "timeAgo": 2,
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "en": {
-        "title": "Helsing Raises $1.8 Billion in Series E, Crowned Europe's $18 Billion Defense-AI Champion",
-        "excerpt": "Munich-based defense-tech startup Helsing raised $1.8 billion in Series E funding at an $18 billion valuation, marking one of the largest European AI-defense investments to date.",
-        "content": "Munich-based defense-tech startup Helsing has raised $1.8 billion in Series E funding at an $18 billion valuation, marking one of the largest European AI-defense investments to date and cementing the company's position as the continent's defense-AI leader.\n\nThe Round:\n- $1.8 billion Series E at an $18 billion post-money valuation\n- Led by General Catalyst and Lightspeed Venture Partners, with participation from sovereign wealth funds\n- Total funding now exceeds $3.5 billion since founding in 2021\n- The round values Helsing at roughly 4x its previous $5 billion valuation from its Series D in late 2025\n\nWhat Helsing Does:\n- Builds AI-powered software for defense systems, including real-time battlefield awareness, autonomous drone coordination, and threat detection\n- Deployed across multiple NATO countries, including Germany, the UK, and Nordic nations\n- Key products include AI-enabled sensor fusion for fighter jets and autonomous naval systems\n- The company emphasizes \"human-in-the-loop\" design and NATO interoperability\n\nWhy the Defense-AI Boom:\n- European NATO members have dramatically increased defense spending since 2025, with AI systems a top priority\n- The war in Ukraine demonstrated the decisive role of AI-enabled drones and battlefield intelligence\n- Governments prefer to buy from domestic or allied defense-tech companies rather than relying on US or Chinese suppliers\n- Venture capital, once wary of defense-tech, has embraced the sector as ESG frameworks have evolved\n\nCompetitive Context:\n- Anduril (US) remains the largest defense-tech startup globally at ~$28 billion valuation\n- Shield AI (US) and Palantir (US) are Helsing's main competitors in AI defense software\n- European defense primes like Thales and BAE Systems are also investing heavily in AI but lack startup agility\n- Helsing's $18 billion valuation makes it more valuable than several publicly traded European defense contractors"
+        "title": "Story6 EN",
+        "excerpt": "Ex6",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       },
       "zh": {
-        "title": "Helsing 完成 18 亿美元 E 轮融资，成为欧洲 180 亿美元估值国防 AI 领头羊",
-        "excerpt": "慕尼黑国防科技初创公司 Helsing 以 180 亿美元估值完成 18 亿美元 E 轮融资，创下欧洲 AI 国防领域迄今最大投资之一。",
-        "content": "慕尼黑国防科技初创公司 Helsing 以 180 亿美元估值完成 18 亿美元 E 轮融资，创下欧洲 AI 国防领域迄今最大的投资之一，巩固了其作为欧洲大陆国防 AI 领导者的地位。\n\n融资详情：\n- 18 亿美元 E 轮融资，投后估值 180 亿美元\n- 由 General Catalyst 和 Lightspeed Venture Partners 领投，主权财富基金参投\n- 自 2021 年成立以来总融资现已超过 35 亿美元\n- 本轮估值约为 2025 年底 D 轮 50 亿美元估值的 4 倍\n\nHelsing 做什么：\n- 为国防系统构建 AI 驱动的软件，包括实时战场态势感知、自主无人机协同和威胁检测\n- 部署于多个北约国家，包括德国、英国和北欧国家\n- 核心产品包括战斗机 AI 传感器融合和自主海军系统\n- 公司强调\"人在环中\"设计和北约互操作性\n\n国防 AI 热潮原因：\n- 自 2025 年以来欧洲北约成员国大幅增加国防支出，AI 系统是重中之重\n- 乌克兰战争展示了 AI 赋能无人机和战场情报的决定性作用\n- 各国政府更倾向于从本土或盟友国防科技公司采购，而非依赖美国或中国供应商\n- 随着 ESG 框架演化，此前对国防科技持谨慎态度的风投已接纳该领域\n\n竞争格局：\n- Anduril（美国）以约 280 亿美元估值仍为全球最大国防科技初创公司\n- Shield AI（美国）和 Palantir（美国）是 Helsing 在 AI 国防软件方面的主要竞争对手\n- 泰雷兹和 BAE 系统等欧洲国防巨头也在大力投资 AI，但缺乏初创公司的敏捷性\n- Helsing 180 亿美元的估值使其市值超过多家公开上市的欧洲国防承包商"
+        "title": "Story6 ZH",
+        "excerpt": "摘录",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       }
     },
     {
       "id": 7,
-      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
-      "category": "business",
+      "cat": "business",
       "readTime": 5,
-      "timeAgo": 3,
-      "date": "2026-07-13",
+      "timeAgo": 2,
+      "date": "2026-07-14",
       "en": {
-        "title": "Cursor Launches 'Sand' AI Agent for Office Workers as SpaceX's $60B Acquisition Looms",
-        "excerpt": "Cursor released Sand, its first AI agent built for office workers rather than developers, as the coding-tool maker faces a pending $60 billion acquisition by SpaceX that threatens to reshape its product roadmap.",
-        "content": "Cursor, the AI-powered coding tool company, has released Sand, its first AI agent built for office workers rather than developers, as the company faces a pending $60 billion acquisition by SpaceX that could fundamentally reshape its product roadmap.\n\nThe Product: Sand\n- Sand is an AI agent designed for office productivity tasks: email drafting, meeting summarization, document creation, and data analysis\n- It integrates with Google Workspace, Microsoft 365, Notion, and Slack\n- Unlike Cursor's developer tools, Sand emphasizes natural language interaction and requires no coding knowledge\n- The product targets knowledge workers who have been underserved by AI agent tools that focus on software engineering\n\nThe SpaceX Acquisition Context:\n- SpaceX's pending $60 billion acquisition of Cursor was first reported in June 2026\n- The deal is driven by SpaceX's ambition to build an integrated AI platform spanning coding, productivity, and consumer applications\n- Elon Musk has said Cursor will be a \"core pillar\" of xAI's product ecosystem, alongside Grok and X\n- Regulatory review is ongoing, with the FTC examining potential antitrust implications\n\nProduct Roadmap Uncertainty:\n- Cursor's existing 15 million+ developer users are concerned about the acquisition's impact on the coding tool's independence\n- Some enterprise customers have begun evaluating alternatives (GitHub Copilot, Codeium) as a hedge\n- Sand's launch suggests Cursor is diversifying beyond coding tools regardless of the acquisition outcome\n- Internal sources say the acquisition timeline could extend into Q4 2026\n\nMarket Implications:\n- A successful SpaceX-Cursor integration would create a uniquely broad AI product suite: Grok (chat), Cursor (coding), Sand (productivity), X (distribution)\n- Competitors OpenAI, Anthropic, and Google are all expanding into agent-based productivity tools\n- The office productivity AI agent market is expected to exceed $50 billion by 2028, driving intense competition"
+        "title": "Story7 EN",
+        "excerpt": "Ex7",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       },
       "zh": {
-        "title": "Cursor 发布面向办公人员的「Sand」AI Agent，SpaceX 600 亿美元收购在即",
-        "excerpt": "Cursor 发布了 Sand，这是其首款面向办公人员而非开发者的 AI 智能体，这家编程工具公司正面临 SpaceX 600 亿美元的收购，可能重塑其产品路线图。",
-        "content": "Cursor 发布了 Sand，这是其首款面向办公人员而非开发者的 AI 智能体，这家 AI 编程工具公司正面临 SpaceX 600 亿美元的收购，可能重塑其产品路线图。\n\n产品：Sand\n- Sand 是一款面向办公生产力的 AI 智能体：邮件起草、会议总结、文档创建和数据分析\n- 集成 Google Workspace、Microsoft 365、Notion 和 Slack\n- 与 Cursor 的开发者工具不同，Sand 强调自然语言交互，无需编程知识\n- 产品瞄准一直未被专注于软件工程的 AI 智能体工具充分服务的知识工作者\n\nSpaceX 收购背景：\n- SpaceX 对 Cursor 的 600 亿美元收购案于 2026 年 6 月首次报道\n- 该交易由 SpaceX 构建覆盖编程、生产力和消费者应用的整合 AI 平台的雄心推动\n- 马斯克表示 Cursor 将成为 xAI 产品生态的\"核心支柱\"，与 Grok 和 X 并列\n- 监管审查仍在进行中，FTC 正在审查潜在的反垄断影响\n\n产品路线图不确定性：\n- Cursor 现有 1500 万+开发者用户对收购对编程工具独立性的影响表示担忧\n- 部分企业客户已开始评估替代方案（GitHub Copilot、Codeium）作为对冲\n- Sand 的发布表明无论收购结果如何，Cursor 都在超越编程工具的多元化道路上\n- 内部消息称收购时间表可能延长至 2026 年 Q4\n\n市场影响：\n- SpaceX-Cursor 的成功整合将打造一个独特广泛的产品套件：Grok（聊天）、Cursor（编程）、Sand（生产力）、X（分发）\n- OpenAI、Anthropic 和 Google 等竞争对手均在扩展基于智能体的生产力工具\n- 办公生产力 AI 智能体市场预计到 2028 年将超过 500 亿美元，推动激烈竞争"
+        "title": "Story7 ZH",
+        "excerpt": "摘录",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       }
     },
     {
       "id": 8,
-      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
-      "category": "llm",
+      "cat": "policy",
       "readTime": 5,
       "timeAgo": 2,
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "en": {
-        "title": "Elon Musk Declares Grok 'Moving Faster Than Any Competitor' as AI Price War Intensifies",
-        "excerpt": "Elon Musk claimed on X that xAI's Grok is 'moving faster than any competitor,' as OpenAI, Meta, and SpaceXAI begin competing on model cost and token efficiency rather than just capability benchmarks.",
-        "content": "Elon Musk claimed on X that xAI's Grok is \"moving faster than any competitor,\" as the AI industry increasingly shifts from purely benchmarking model capability to competing on cost efficiency, inference speed, and per-token pricing.\n\nMusk's Claims:\n- Posted on X on July 12 that Grok is \"moving faster than any competitor on earth\"\n- Cited internal benchmarks showing Grok 4.5 matches or exceeds GPT-5.6 on coding tasks while being \"significantly cheaper per token\"\n- Claimed xAI's custom hardware infrastructure gives it a structural cost advantage over competitors relying on public cloud\n- The post has been viewed over 40 million times, fueling the AI price-war narrative\n\nThe Price War:\n- OpenAI recently cut GPT-5.6 API prices by up to 60% for smaller variants\n- Meta's Llama 4 models are open-weight and effectively free, pressuring commercial pricing\n- Chinese models (DeepSeek V4, GLM-5.2) are priced 80-85% below US frontier models\n- The trend is shifting the competitive battleground from \"who has the smartest model\" to \"who delivers the best performance per dollar\"\n\nWhat's Driving Cost Reductions:\n- Advances in model distillation and quantization are making smaller models nearly as capable as larger ones\n- Custom AI chips from hyperscalers (Google TPU, Amazon Trainium, Microsoft MAI) are reducing inference costs\n- Mixture-of-experts architectures allow models to activate only a fraction of parameters per query, cutting compute costs\n- The commoditization of base model capabilities means differentiation increasingly comes from tooling, integrations, and ecosystem\n\nWhat Analysts Say:\n- The price war benefits developers and enterprises in the short term but could pressure startup valuations\n- AI labs with the deepest pockets (OpenAI, Google, xAI) are best positioned to sustain a price war\n- Smaller labs and open-source projects may struggle to compete on cost without subsidy\n- The shift mirrors the cloud computing price wars of the 2010s, which ultimately consolidated around AWS, Azure, and GCP"
+        "title": "Story8 EN",
+        "excerpt": "Ex8",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       },
       "zh": {
-        "title": "马斯克宣称 Grok '比任何竞争对手都快'，AI 价格战升级",
-        "excerpt": "马斯克在 X 上声称 xAI 的 Grok '比任何竞争对手都快'，OpenAI、Meta 和 SpaceXAI 开始在模型成本和 token 效率上竞争，而非仅限于能力基准测试。",
-        "content": "马斯克在 X 上声称 xAI 的 Grok \"比任何竞争对手都快\"，AI 行业日益从纯粹的基准测试能力转向在成本效率、推理速度和每 token 定价上竞争。\n\n马斯克的说法：\n- 7 月 12 日在 X 上发帖称 Grok \"比地球上任何竞争对手都更快\"\n- 引用内部基准显示 Grok 4.5 在编程任务上匹敌或超越 GPT-5.6，同时\"每 token 成本显著更低\"\n- 声称 xAI 的定制硬件基础设施使其比依赖公共云的竞争对手具有结构性成本优势\n- 该帖子已被浏览超过 4000 万次，为 AI 价格战叙事推波助澜\n\n价格战：\n- OpenAI 最近将 GPT-5.6 小型变体的 API 价格下调高达 60%\n- Meta 的 Llama 4 模型为开放权重且实际免费，给商业定价带来压力\n- 中国模型（DeepSeek V4、GLM-5.2）定价比美国前沿模型低 80-85%\n- 趋势正在将竞争战场从\"谁的模型最聪明\"转移到\"谁能以每美元提供最佳性能\"\n\n成本下降驱动因素：\n- 模型蒸馏和量化技术的进步使小型模型几乎与大型模型同样强大\n- 超大规模企业的定制 AI 芯片（Google TPU、Amazon Trainium、微软 MAI）正在降低推理成本\n- 混合专家架构使模型每次查询仅激活部分参数，削减计算成本\n- 基础模型能力的商品化意味着差异化日益来自工具链、集成和生态系统\n\n分析师观点：\n- 价格战短期有利于开发者和企业，但可能给初创公司估值带来压力\n- 资金最雄厚的 AI 实验室（OpenAI、Google、xAI）最有能力维持价格战\n- 小型实验室和开源项目在没有补贴的情况下可能难以在成本上竞争\n- 这一转变与 2010 年代的云计算价格战类似，最终围绕 AWS、Azure 和 GCP 整合"
+        "title": "Story8 ZH",
+        "excerpt": "摘录",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       }
     },
     {
       "id": 9,
-      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&h=400&fit=crop",
-      "category": "policy",
+      "cat": "llm",
       "readTime": 5,
-      "timeAgo": 3,
-      "date": "2026-07-13",
+      "timeAgo": 2,
+      "date": "2026-07-14",
       "en": {
-        "title": "Japan Begins Formal Talks on 'Voice Rights' to Shield Celebrities From Unauthorized AI",
-        "excerpt": "Japan's government began formal discussions on legal responses to the unauthorized AI use of celebrities' and voice actors' images and voices, weighing the creation of a new 'voice rights' legal framework.",
-        "content": "Japan's government has begun formal discussions on legal responses to the unauthorized AI use of celebrities' and voice actors' images and voices, weighing the creation of a new \"voice rights\" legal framework that could set a global precedent.\n\nThe Discussion:\n- Japan's Agency for Cultural Affairs launched a formal consultation on July 11\n- The talks focus on whether existing personality rights and copyright laws are sufficient to protect individuals from unauthorized AI-generated voice and image replication\n- Key stakeholders include voice actors' unions, entertainment agencies, AI companies, and legal scholars\n- A formal legislative proposal could be submitted to the Diet by late 2026\n\nWhy Japan Is Leading:\n- Japan has one of the world's largest voice-acting industries (anime, video games, dubbing)\n- Multiple high-profile incidents of AI-generated voice clones being used without permission have galvanized industry action\n- Japanese copyright law is generally less flexible on fair-use equivalents than US law, making the AI training question particularly acute\n- The government sees voice-rights legislation as a potential economic differentiator for its entertainment exports\n\nWhat's Being Proposed:\n- A new category of \"voice rights\" that would require explicit consent for AI voice replication\n- Criminal penalties for unauthorized commercial use of AI-generated voice clones\n- A registration system for voice actors to specify permitted and prohibited uses of their voice data\n- Mandatory labeling of AI-generated voice content in broadcast and streaming media\n\nGlobal Implications:\n- No country currently has comprehensive voice-rights legislation for the AI era\n- Japan's framework could become a template for other nations grappling with similar issues\n- The EU's AI Act addresses some aspects of deepfake regulation but does not specifically protect voice identity\n- The US has patchwork state-level publicity rights laws that are inconsistent on AI-generated voices"
+        "title": "Story9 EN",
+        "excerpt": "Ex9",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       },
       "zh": {
-        "title": "日本正式就「声音权」展开讨论，保护名人免受未经授权的 AI 使用",
-        "excerpt": "日本政府开始正式讨论应对未经授权的 AI 使用名人和声优图像及声音的法律对策，权衡建立新的「声音权」法律框架。",
-        "content": "日本政府已开始正式讨论应对未经授权的 AI 使用名人和声优图像及声音的法律对策，权衡建立新的\"声音权\"法律框架，可能树立全球先例。\n\n讨论内容：\n- 日本文化厅于 7 月 11 日启动正式咨询\n- 讨论聚焦于现行人格权和版权法是否足以保护个人免受未经授权的 AI 生成声音和图像复制的侵害\n- 关键利益相关方包括声优工会、娱乐经纪公司、AI 公司和法律学者\n- 正式立法提案可能在 2026 年底前提交国会\n\n日本为何领先：\n- 日本拥有全球最大的配音产业之一（动漫、游戏、译制）\n- 多起 AI 生成声音克隆未经许可使用的高调事件激发了行业行动\n- 日本版权法在合理使用等效条款方面通常不如美国法律灵活，使 AI 训练问题尤为尖锐\n- 政府将声音权立法视为其娱乐出口的潜在经济差异化因素\n\n提案内容：\n- 新的\"声音权\"类别，要求对 AI 声音复制进行明确同意\n- 对未经授权的 AI 生成声音克隆商业使用设定刑事处罚\n- 声优注册系统，允许明确指定其声音数据的允许和禁止用途\n- 广播和流媒体中 AI 生成声音内容的强制标注\n\n全球影响：\n- 目前尚无国家拥有 AI 时代的全面声音权立法\n- 日本的框架可能成为其他面临类似问题的国家的模板\n- 欧盟 AI 法案涉及深度伪造监管的某些方面，但未专门保护声音身份\n- 美国拥有各州各自为政的公开权法律，对 AI 生成声音的规定不一致"
+        "title": "Story9 ZH",
+        "excerpt": "摘录",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       }
     },
     {
       "id": 10,
-      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
-      "category": "research",
-      "readTime": 4,
-      "timeAgo": 3,
-      "date": "2026-07-13",
+      "cat": "business",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-14",
       "en": {
-        "title": "Ant Group Open-Sources SingGuard-NSFA, a Security Guardrail for Autonomous AI Agents",
-        "excerpt": "Ant Group's AI Security Lab open-sourced SingGuard-NSFA, a specialized security guardrail framework designed to establish new safety paradigms for autonomous AI agents operating in high-risk environments.",
-        "content": "Ant Group's AI Security Lab has open-sourced SingGuard-NSFA, a specialized security guardrail framework designed to establish new safety paradigms for autonomous AI agents operating in high-risk environments.\n\nWhat SingGuard-NSFA Is:\n- An open-source security guardrail framework for AI agents that operate autonomously in production environments\n- Designed to prevent prompt injection, data exfiltration, and unauthorized tool use by AI agents\n- Includes real-time monitoring, anomaly detection, and automatic agent shutdown capabilities\n- Released under Apache 2.0 license on GitHub\n\nKey Technical Features:\n- Multi-layer defense architecture: input sanitization, runtime monitoring, and output validation\n- Context-aware policy enforcement that adapts security rules based on the agent's current task and data sensitivity\n- Built-in red-teaming tools for testing guardrail effectiveness before deployment\n- Integrates with major agent frameworks including LangChain, AutoGen, and custom implementations\n\nWhy It Matters:\n- As AI agents gain more autonomy — accessing databases, making API calls, sending emails — security guardrails become critical\n- Prompt injection remains one of the most serious vulnerabilities in agentic AI systems\n- Current agent frameworks often lack production-grade security controls\n- The open-source release could accelerate adoption of security best practices across the industry\n\nAnt Group's AI Security Strategy:\n- SingGuard-NSFA is part of a broader AI security research program at Ant Group\n- The company has been investing heavily in AI safety, alongside its financial services AI applications\n- The open-source release may also serve strategic purposes: building developer ecosystem goodwill and setting standards in an area where China seeks global influence\n- Ant Group joins a growing list of Chinese tech companies (Alibaba, Baidu, Zhipu) contributing open-source AI safety tools"
+        "title": "Story10 EN",
+        "excerpt": "Ex10",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       },
       "zh": {
-        "title": "蚂蚁集团开源 SingGuard-NSFA：面向自主 AI 智能体的安全护栏",
-        "excerpt": "蚂蚁集团 AI 安全实验室开源了 SingGuard-NSFA，这是一款专为在高风险环境中运行的自主 AI 智能体设计的安全护栏框架，旨在建立新的安全范式。",
-        "content": "蚂蚁集团 AI 安全实验室已开源 SingGuard-NSFA，这是一款专为在高风险环境中运行的自主 AI 智能体设计的安全护栏框架，旨在建立新的安全范式。\n\nSingGuard-NSFA 是什么：\n- 面向在生产环境中自主运行的 AI 智能体的开源安全护栏框架\n- 旨在防止提示注入、数据泄露和 AI 智能体的未授权工具使用\n- 包括实时监控、异常检测和自动智能体关闭功能\n- 在 GitHub 上以 Apache 2.0 许可证发布\n\n关键技术特性：\n- 多层防御架构：输入净化、运行时监控和输出验证\n- 上下文感知策略执行，根据智能体的当前任务和数据敏感度自适应调整安全规则\n- 内置红队测试工具，用于在部署前测试护栏有效性\n- 集成主要智能体框架，包括 LangChain、AutoGen 和自定义实现\n\n为何重要：\n- 随着 AI 智能体获得更多自主权——访问数据库、进行 API 调用、发送邮件——安全护栏变得至关重要\n- 提示注入仍是智能体 AI 系统中最严重的漏洞之一\n- 当前智能体框架往往缺乏生产级安全控制\n- 开源发布可能加速全行业安全最佳实践的采纳\n\n蚂蚁集团的 AI 安全战略：\n- SingGuard-NSFA 是蚂蚁集团更广泛 AI 安全研究计划的一部分\n- 公司一直在 AI 安全方面大力投资，与其金融服务 AI 应用并行\n- 开源发布也可能服务于战略目的：建立开发者生态好感，在中国寻求全球影响力的领域设定标准\n- 蚂蚁集团加入了日益增多的为开源 AI 安全工具做贡献的中国科技公司行列（阿里巴巴、百度、智谱）"
+        "title": "Story10 ZH",
+        "excerpt": "摘录",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       }
     },
     {
       "id": 11,
-      "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=600&h=400&fit=crop",
-      "category": "business",
-      "readTime": 4,
+      "cat": "policy",
+      "readTime": 5,
       "timeAgo": 2,
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "en": {
-        "title": "Microsoft Teams Adds In-Meeting Toggle to Disable Copilot, Facilitator, and AI Recap",
-        "excerpt": "Microsoft Teams rolled out a new in-meeting toggle letting meeting organizers and presenters disable AI features including Copilot, Facilitator, and meeting recap, responding to enterprise demand for greater control over AI in meetings.",
-        "content": "Microsoft Teams has rolled out a new in-meeting toggle that allows meeting organizers and presenters to disable AI features including Copilot, Facilitator, and AI-generated meeting recaps, responding to growing enterprise demand for granular control over AI in collaborative settings.\n\nThe New Feature:\n- A single toggle in the meeting toolbar lets organizers disable Copilot, Facilitator, and AI recap for that specific meeting\n- The setting can be changed mid-meeting, allowing participants to discuss sensitive topics without AI recording before re-enabling\n- IT admins can set organization-wide defaults and policies for which meeting types allow AI features\n- The feature is available now for Teams Premium and Copilot for Microsoft 365 subscribers\n\nWhy Enterprises Demanded This:\n- Legal and compliance teams raised concerns about AI capturing and processing confidential meeting discussions\n- Industries with strict confidentiality requirements (legal, healthcare, finance) needed AI off-switches to use Teams\n- EU customers cited GDPR concerns about AI processing of meeting content without explicit participant consent\n- Some enterprises had been blocking Teams AI features entirely at the tenant level, reducing the value of their Microsoft 365 subscriptions\n\nThe Bigger Trend:\n- \"AI governance at the user level\" is emerging as a key enterprise requirement\n- Zoom and Google Meet have also introduced AI control toggles, though Microsoft's is the most granular\n- The feature reflects a maturation of enterprise AI: from \"AI everywhere by default\" to \"AI where appropriate with controls\"\n- Analysts expect AI toggle features to become table-stakes for all enterprise collaboration tools by 2027\n\nMicrosoft's Balancing Act:\n- Microsoft is simultaneously pushing aggressive AI adoption (Copilot in every app) while building in opt-out mechanisms\n- The tension reflects the broader enterprise AI paradox: executives want AI everywhere, users want control over when and where\n- Microsoft's approach of granular, meeting-level controls may set the standard for the industry"
+        "title": "Story11 EN",
+        "excerpt": "Ex11",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       },
       "zh": {
-        "title": "微软 Teams 新增会议中开关，可禁用 Copilot、智能助教和 AI 摘要",
-        "excerpt": "微软 Teams 推出新的会议中开关，允许会议组织者和演示者禁用 Copilot、智能助教和会议摘要等 AI 功能，回应企业用户对会议中 AI 更大控制权的需求。",
-        "content": "微软 Teams 推出新的会议中开关，允许会议组织者和演示者禁用 Copilot、智能助教和 AI 生成的会议摘要等 AI 功能，回应企业用户对会议中 AI 更大控制权的日益增长需求。\n\n新功能：\n- 会议工具栏中的单一开关，允许组织者对该特定会议禁用 Copilot、Facilitator 和 AI 摘要\n- 设置可在会议中途更改，允许参与者先讨论敏感话题而不被 AI 记录，然后再重新启用\n- IT 管理员可为哪些会议类型允许 AI 功能设置组织级默认值和策略\n- 该功能现已面向 Teams Premium 和 Copilot for Microsoft 365 订阅用户开放\n\n企业为何要求此功能：\n- 法务和合规团队对 AI 捕获和处理机密会议讨论表示担忧\n- 具有严格保密要求的行业（法律、医疗、金融）需要 AI 关闭开关才能使用 Teams\n- 欧盟客户引用 GDPR 对在未经参与者明确同意的情况下 AI 处理会议内容的担忧\n- 一些企业一直在租户级别完全阻止 Teams AI 功能，降低了其 Microsoft 365 订阅的价值\n\n更大趋势：\n- \"用户级 AI 治理\"正在成为企业关键需求\n- Zoom 和 Google Meet 也已引入 AI 控制开关，但微软的最为精细\n- 该功能反映了企业 AI 的成熟：从\"默认 AI 无处不在\"到\"在有控制的情况下恰当地使用 AI\"\n- 分析师预计到 2027 年 AI 切换功能将成为所有企业协作工具的标配\n\n微软的平衡术：\n- 微软同时推进积极的 AI 采用（Copilot 融入每个应用）和构建退出机制\n- 这种张力反映了更广泛的企业 AI 悖论：高管希望 AI 无处不在，用户希望对何时何地使用 AI 有控制权\n- 微软的会议级精细控制方法可能为行业设定标准"
+        "title": "Story11 ZH",
+        "excerpt": "摘录",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       }
     },
     {
       "id": 12,
-      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
-      "category": "business",
+      "cat": "llm",
       "readTime": 5,
-      "timeAgo": 3,
-      "date": "2026-07-13",
+      "timeAgo": 2,
+      "date": "2026-07-14",
       "en": {
-        "title": "Massive AI Data-Center Buildout Poses Latest Inflation Threat as Consumers Pay More",
-        "excerpt": "The massive AI data-center construction boom — with investment likely topping $700 billion — is driving up prices for laptops, electricity, and construction materials, posing a new inflation threat that is filtering through to consumers.",
-        "content": "The massive AI data-center construction boom — with investment likely topping $700 billion globally — is driving up prices for laptops, electricity, and construction materials, creating a new inflation channel that is increasingly visible to consumers.\n\nThe Scale of the Buildout:\n- Global AI data-center investment is projected to exceed $700 billion between 2025 and 2028\n- This includes spending by hyperscalers (Microsoft, Google, Amazon, Meta), sovereign funds, and specialized AI infrastructure companies\n- New data centers require enormous quantities of semiconductors, rare earth minerals, copper, steel, concrete, and electrical equipment\n- The construction pipeline is so large that lead times for critical components like transformers and cooling systems have stretched to 18-24 months\n\nHow It Hits Consumers:\n- Laptop and PC prices are rising as AI server demand absorbs premium chip and memory supply, limiting availability for consumer devices\n- Electricity prices are climbing in regions with concentrated data-center builds (Northern Virginia, Ireland, Singapore) as grid capacity is strained\n- Construction material costs are up 8-12% year-over-year in data-center-heavy regions, filtering into commercial and residential building costs\n- Cloud service prices have begun to tick upward as providers pass through infrastructure costs\n\nThe Economic Analysis:\n- Economists compare the effect to the commodity super-cycle of the 2000s, when Chinese industrialization drove global price increases\n- Unlike typical tech-driven deflation, AI infrastructure is a net inflationary force because it competes for physical resources\n- Central banks, including the Fed and ECB, are monitoring AI-driven cost pressures as a factor in inflation forecasts\n- The impact is uneven: regions with more data-center construction face higher local inflation\n\nCountervailing Forces:\n- AI-driven productivity gains could offset infrastructure costs in the long run\n- Improvements in model efficiency (smaller models doing more with less) may eventually reduce compute demand per task\n- Renewable energy investments tied to data centers could lower long-term electricity costs\n- However, the near-term outlook is clear: the AI buildout is inflationary and consumers are already feeling the effects"
+        "title": "Story12 EN",
+        "excerpt": "Ex12",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       },
       "zh": {
-        "title": "大规模 AI 数据中心建设构成新一轮通胀威胁，消费者买单",
-        "excerpt": "大规模 AI 数据中心建设热潮——投资总额可能超过 7000 亿美元——正在推高笔记本电脑、电力和建筑材料的价格，构成新的通胀威胁，正在传导至消费者端。",
-        "content": "大规模 AI 数据中心建设热潮——全球投资总额可能超过 7000 亿美元——正在推高笔记本电脑、电力和建筑材料的价格，创造了一条日益对消费者可见的新通胀通道。\n\n建设规模：\n- 全球 AI 数据中心投资预计在 2025 至 2028 年间超过 7000 亿美元\n- 这包括超大规模企业（微软、Google、亚马逊、Meta）、主权基金和专业 AI 基础设施公司的支出\n- 新数据中心需要大量半导体、稀土矿物、铜、钢铁、混凝土和电力设备\n- 建设管线规模之大，使得变压器和冷却系统等关键组件的交付周期已延长至 18-24 个月\n\n如何影响消费者：\n- 笔记本电脑和 PC 价格上涨，因为 AI 服务器需求吸收了优质芯片和内存供应，限制了消费设备的可用性\n- 数据中心集中建设地区（北弗吉尼亚、爱尔兰、新加坡）的电价攀升，电网容量承压\n- 数据中心密集地区的建筑材料成本同比上涨 8-12%，传导至商业和住宅建筑成本\n- 云服务价格开始上行，供应商转嫁基础设施成本\n\n经济分析：\n- 经济学家将这一效应比作 2000 年代的大宗商品超级周期，当时中国工业化推动了全球价格上涨\n- 与典型的技术驱动的通缩不同，AI 基础设施是净通胀力量，因为它竞争的是实物资源\n- 美联储和欧洲央行等央行正将 AI 驱动的成本压力作为通胀预测的一个因素进行监控\n- 影响不均匀：数据中心建设更多的地区面临更高的本地通胀\n\n对冲力量：\n- AI 驱动的生产率提升可能在长期抵消基础设施成本\n- 模型效率的改进（更小模型用更少资源做更多事）可能最终降低每任务的计算需求\n- 与数据中心挂钩的可再生能源投资可能降低长期电力成本\n- 然而，近期前景明确：AI 建设是通胀性的，消费者已经感受到影响"
+        "title": "Story12 ZH",
+        "excerpt": "摘录",
+        "content": "**S1**\n- A\n- B\n- C\n**S2**\n- X\n- Y\n- Z\n**S3**\n- N1\n- N2\n- N3"
       }
     }
   ]
