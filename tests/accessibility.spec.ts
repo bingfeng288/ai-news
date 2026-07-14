@@ -160,11 +160,12 @@ test.describe("Accessibility", () => {
       const hasSvg = (await link.locator("svg").count()) > 0;
 
       // Link should have some accessible content
-      const hasContent =
+      const hasContent = Boolean(
         (text && text.trim().length > 0) ||
-        ariaLabel ||
-        hasImg ||
-        hasSvg;
+          ariaLabel ||
+          hasImg ||
+          hasSvg
+      );
       expect(hasContent).toBe(true);
     }
   });

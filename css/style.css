@@ -612,6 +612,30 @@ img {
   color: white;
 }
 
+/* Focus indicators for keyboard accessibility */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+.news-card:focus-visible,
+.category-card:focus-visible,
+.edition-card:focus-visible,
+.history-card:focus-visible,
+.detail-related-card:focus-visible,
+.social-link:focus-visible,
+.nav-logo:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* Keep interactive cards keyboard-focusable */
+.news-card,
+.category-card,
+.edition-card,
+.history-card,
+.detail-related-card {
+  cursor: pointer;
+}
+
 .footer-bottom {
   max-width: 1200px;
   margin: 3rem auto 0;
@@ -897,7 +921,7 @@ img {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .navbar {
     padding: 0 1rem;
   }
@@ -1222,7 +1246,7 @@ img {
 }
 
 /* History page mobile */
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .history-page {
     padding: 80px 1rem 3rem;
   }

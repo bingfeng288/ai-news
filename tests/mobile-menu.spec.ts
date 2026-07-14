@@ -71,7 +71,7 @@ test.describe("Mobile Menu", () => {
     // All links should be visible
     const links = navLinks.locator("a");
     const count = await links.count();
-    expect(count).toBe(4);
+    expect(count).toBe(5);
 
     for (let i = 0; i < count; i++) {
       await expect(links.nth(i)).toBeVisible();

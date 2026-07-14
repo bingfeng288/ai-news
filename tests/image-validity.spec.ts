@@ -11,33 +11,37 @@ test.describe("Image Validity", () => {
     await page.evaluate(() =>
       window.scrollTo(0, document.body.scrollHeight)
     );
-    await page.waitForTimeout(2000);
+    await page.waitForTimeout(3000);
 
     const articleImages = page.locator(".hero-image, .card-image");
     const count = await articleImages.count();
     expect(count).toBe(10); // 1 hero + 9 cards
 
+    // Retry loop to handle slower image loading on emulated/mobile browsers
     const brokenImages: string[] = [];
+    await expect
+      .poll(
+        async () => {
+          brokenImages.length = 0;
+          for (let i = 0; i < count; i++) {
+            const img = articleImages.nth(i);
+            const naturalWidth = await img.evaluate(
+              (el: HTMLImageElement) => el.naturalWidth
+            );
+            const alt = await img.getAttribute("alt");
+            const src = await img.getAttribute("src");
 
-    for (let i = 0; i < count; i++) {
-      const img = articleImages.nth(i);
-      const naturalWidth = await img.evaluate(
-        (el: HTMLImageElement) => el.naturalWidth
-      );
-      const alt = await img.getAttribute("alt");
-      const src = await img.getAttribute("src");
-
-      if (naturalWidth === 0) {
-        brokenImages.push(
-          `[${alt}] src=${src?.split("?")[0].split("/").pop()}`
-        );
-      }
-    }
-
-    expect(
-      brokenImages,
-      `Broken images found:\n${brokenImages.join("\n")}`
-    ).toHaveLength(0);
+            if (naturalWidth === 0) {
+              brokenImages.push(
+                `[${alt}] src=${src?.split("?")[0].split("/").pop()}`
+              );
+            }
+          }
+          return brokenImages;
+        },
+        { timeout: 15000, intervals: [1000, 2000, 3000] }
+      )
+      .toHaveLength(0);
   });
 
   test("no image requests should fail via network", async ({ page }) => {
@@ -126,13 +130,13 @@ test.describe("Image Validity", () => {
     // Click the first article card to go to detail page
     await page.locator(".news-card").first().click();
     await page.waitForURL("**/article/**");
-    await page.waitForTimeout(1000);
+    await page.waitForTimeout(2000);
 
     // Scroll to trigger lazy images in related articles
     await page.evaluate(() =>
       window.scrollTo(0, document.body.scrollHeight)
     );
-    await page.waitForTimeout(2000);
+    await page.waitForTimeout(3000);
 
     const detailImgs = page.locator(
       ".detail-hero img, .detail-related-image"

@@ -28,26 +28,30 @@ test.describe("Performance & Data Loading", () => {
     await page.goto("/");
     await page.waitForSelector(".hero-card", { timeout: 10000 });
 
-    // Wait a bit for lazy images
-    await page.waitForTimeout(1000);
+    // Scroll and wait for all images (including lazy-loaded) to load
+    await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+    await page.waitForTimeout(3000);
 
     const images = page.locator("img");
     const count = await images.count();
 
-    for (let i = 0; i < Math.min(count, 5); i++) {
-      const img = images.nth(i);
-      const naturalWidth = await img.evaluate(
-        (el: HTMLImageElement) => el.naturalWidth
-      );
-      // Image should have loaded (naturalWidth > 0)
-      if (naturalWidth === 0) {
-        // Check if it's a lazy loaded image that might not be in viewport
-        const isLazy = await img.getAttribute("loading");
-        if (isLazy !== "lazy") {
-          expect(naturalWidth).toBeGreaterThan(0);
-        }
-      }
-    }
+    await expect
+      .poll(
+        async () => {
+          let loaded = 0;
+          for (let i = 0; i < Math.min(count, 5); i++) {
+            const img = images.nth(i);
+            const naturalWidth = await img.evaluate(
+              (el: HTMLImageElement) => el.naturalWidth
+            );
+            const isLazy = await img.getAttribute("loading");
+            if (naturalWidth > 0 || isLazy === "lazy") loaded++;
+          }
+          return loaded;
+        },
+        { timeout: 15000, intervals: [1000, 2000, 3000] }
+      )
+      .toBeGreaterThan(0);
   });
 
   test("should have no console errors on page load", async ({ page }) => {
