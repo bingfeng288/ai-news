@@ -1,0 +1,184 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=600&fit=crop",
+    "category": "policy",
+    "readTime": 6,
+    "timeAgo": 2,
+    "date": "2026-07-15",
+    "en": {
+      "title": "New York Becomes First U.S. State to Pause New AI Data Centers",
+      "excerpt": "Governor Kathy Hochul issued an executive order enacting a one-year moratorium on large, resource-intensive AI data center facilities, making New York the first state to hit pause on the buildout.",
+      "content": "**New York Pauses AI Data Center Buildout**\n\n- **The Order:** Governor Kathy Hochul issued an executive order enacting a one-year moratorium on new large AI data center facilities that consume significant energy and water resources.\n- **Scope:** Applies to data centers above a certain size threshold drawing on state power or tax incentives; colocations and retrofits may have different rules.\n- **Rationale:** Cited strain on the electrical grid, water usage, community impact, and the need for updated regulatory frameworks to keep pace with rapid AI infrastructure expansion.\n- **First-Mover:** New York is the first U.S. state to impose such a pause, signaling a potential model for other states and federal deliberations.\n- **Industry Reaction:** Tech trade groups expressed concern the pause could chill investment, while clean-energy advocates welcomed the breathing room for planning.\n- **Implications:** Could redirect buildout to neighboring states and accelerate conversations about national data center siting standards."
+    },
+    "zh": {
+      "title": "纽约州成为美国首个暂停新建 AI 数据中心的州",
+      "excerpt": "州长 Kathy Hochul 签署行政令，对占地耗能高的大型 AI 数据中心设施实施一年暂停令，成为美国首个按下暂停键的州。",
+      "content": "**纽约暂停 AI 数据中心建设**\n\n- **行政令：**州长 Kathy Hochul 签署行政令，对消耗大量能源和水资源的大型 AI 数据中心新设施实施为期一年的暂停。\n- **适用范围：**适用于超过一定规模门槛、依赖州电力或税收激励的数据中心；改建和合作设施可能有不同规则。\n- **理由：**电网压力、用水量、社区影响，以及需要更新监管框架以跟上快速扩张的 AI 基础设施。\n- **先行者：**纽约是美国首个实施此类暂停的州，可能成为其他州和联邦审议的参考范本。\n- **行业反应：**科技行业协会担忧会抑制投资，清洁能源倡导者则表示欢迎。\n- **影响：**可能将建设分流到邻近州，并加速关于数据中心选址国家标准的讨论。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-15",
+      "en": {
+        "title": "New York Becomes First U.S. State to Pause New AI Data Centers",
+        "excerpt": "Governor Kathy Hochul issued an executive order enacting a one-year moratorium on large, resource-intensive AI data center facilities, making New York the first state to hit pause on the buildout.",
+        "content": "**New York Pauses AI Data Center Buildout**\n\n- **The Order:** Governor Kathy Hochul issued an executive order enacting a one-year moratorium on new large AI data center facilities that consume significant energy and water resources.\n- **Scope:** Applies to data centers above a certain size threshold drawing on state power or tax incentives; colocations and retrofits may have different rules.\n- **Rationale:** Cited strain on the electrical grid, water usage, community impact, and the need for updated regulatory frameworks to keep pace with rapid AI infrastructure expansion.\n- **First-Mover:** New York is the first U.S. state to impose such a pause, signaling a potential model for other states and federal deliberations.\n- **Industry Reaction:** Tech trade groups expressed concern the pause could chill investment, while clean-energy advocates welcomed the breathing room for planning.\n- **Implications:** Could redirect buildout to neighboring states and accelerate conversations about national data center siting standards."
+      },
+      "zh": {
+        "title": "纽约州成为美国首个暂停新建 AI 数据中心的州",
+        "excerpt": "州长 Kathy Hochul 签署行政令，对占地耗能高的大型 AI 数据中心设施实施一年暂停令，成为美国首个按下暂停键的州。",
+        "content": "**纽约暂停 AI 数据中心建设**\n\n- **行政令：**州长 Kathy Hochul 签署行政令，对消耗大量能源和水资源的大型 AI 数据中心新设施实施为期一年的暂停。\n- **适用范围：**适用于超过一定规模门槛、依赖州电力或税收激励的数据中心；改建和合作设施可能有不同规则。\n- **理由：**电网压力、用水量、社区影响，以及需要更新监管框架以跟上快速扩张的 AI 基础设施。\n- **先行者：**纽约是美国首个实施此类暂停的州，可能成为其他州和联邦审议的参考范本。\n- **行业反应：**科技行业协会担忧会抑制投资，清洁能源倡导者则表示欢迎。\n- **影响：**可能将建设分流到邻近州，并加速关于数据中心选址国家标准的讨论。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-15",
+      "en": {
+        "title": "Meta Used AI to Tag Workers on Leave for Layoffs, Lawsuit Alleges",
+        "excerpt": "A lawsuit filed by dozens of former employees alleges Meta disproportionately selected people who took maternity or disability leave for layoffs using an AI system.",
+        "content": "**Meta AI Layoff Allegations**\n\n- **The Lawsuit:** Dozens of former employees filed a Meta lawsuit alleging the company used an AI system to identify and disproportionately select workers who took family or disability leave for layoffs.\n- **Alleged Harm:** Plaintiffs say the system penalized workers for legally protected leave, compounding the impact on vulnerable employees.\n- **Company Response:** Meta has denied the allegations, stating its layoff decisions followed lawful, fair processes reviewed by people managers.\n- **Broader Pattern:** Adds to a growing body of cases scrutinizing algorithmic and AI-driven employment decisions under labor and anti-discrimination law.\n- **Regulatory Interest:** Employment-rights agencies and lawmakers are watching closely as AI-driven HR tools face legal tests."
+      },
+      "zh": {
+        "title": "Meta 被指控利用 AI 标记休假员工进行裁员",
+        "excerpt": "数十名前员工提起诉讼，指控 Meta 使用 AI 系统识别并优先裁掉那些休产假或病假的员工。",
+        "content": "**Meta AI 裁员指控**\n\n- **诉讼：**数十名前员工提起诉讼，指控 Meta 使用 AI 系统识别并优先裁那些休家庭假或残障假的员工。\n- **所谓伤害：**原告称该系统惩罚了享受法定休假的弱势员工。\n- **公司回应：**Meta 否认指控，称裁员决策经过合法、公平的流程并由人力经理审核。\n- **更广泛趋势：**这是对算法和 AI 驱动用工决策进行法律审查的日益增多的案例之一。\n- **监管关注：**就业权利机构和立法者正密切关注 AI 驱动的人力资源工具面临的法律考验。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-15",
+      "en": {
+        "title": "Texas Power Plants for Data Centers Exploit Permitting Loophole",
+        "excerpt": "A Floodlight investigation finds many power plants built to support AI data centers are being approved under rules for smaller facilities, sidestepping tougher scrutiny.",
+        "content": "**Texas Data Center Power Plant Loophole**\n\n- **The Investigation:** A Floodlight/Dallas Morning News joint investigation found power plants built to support data centers are being approved under permitting rules typically used for smaller facilities.\n- **Loophole:** By structuring projects below certain regulatory thresholds or using specific classifications, developers can sidestep more rigorous environmental and community review.\n- **Scale:** Texas has seen a surge in data center construction, with power demands rivaling large cities, compounding scrutiny of the approvals.\n- **Community Impact:** Neighboring communities raised concerns about noise, water use, and grid strain with limited opportunities to challenge projects.\n- **Official Response:** Some state legislators have pledged to review the permitting framework to close the gap."
+      },
+      "zh": {
+        "title": "德州为数据中心供电的发电厂利用许可漏洞",
+        "excerpt": "Floodlight 调查发现，许多为数据中心供电的发电厂以更宽松的小规模设施许可规则获批，绕过了更严格的审查。",
+        "content": "**德州数据中心发电厂许可漏洞**\n\n- **调查：**Floodlight 联合调查发现，为数据中心供电的发电厂正以通常适用于小规模设施的许可规则获批。\n- **漏洞：**通过将项目结构控制在特定监管门槛以下或使用特定分类，开发商可以绕过更严格的环境和社区审查。\n- **规模：**德州数据中心建设激增，电力需求堪比大城市，引发对审批流程的审查。\n- **社区影响：**周边社区对噪音、用水和电网压力表示担忧，但质疑项目的机会有限。\n- **官方回应：**部分州立法者已承诺审查许可框架以弥补漏洞。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-15",
+      "en": {
+        "title": "Custom AI Chip Startup TYLsemi Launches With $43 Million in Funding",
+        "excerpt": "San Jose-based TYLsemi emerged from stealth to develop energy-efficient AI chiplets, announcing $43 million in early-stage funding.",
+        "content": "**TYLsemi Launches With $43M**\n\n- **The Startup:** San Jose-based TYLsemi emerged from stealth to develop custom, energy-efficient AI chiplets for data center and edge workloads.\n- **Funding:** Announced $43 million in early-stage funding to accelerate hiring and product development.\n- **Technology:** Focus on modular chiplet architectures that can be mixed and matched for different AI compute workloads, improving efficiency over monolithic designs.\n- **Use Cases:** Targets both hyperscale data centers and edge deployments requiring customizable AI acceleration.\n- **Talent:** Plans to expand its engineering team rapidly, drawing on talent frombroad semiconductor industry.\n- **Market Context:** Enters a crowded custom AI chip market but bets specialization on energy efficiency and configurability will differentiate it."
+      },
+      "zh": {
+        "title": "TYLsemi 以 4300 万美元融资推出定制 AI 芯片",
+        "excerpt": "总部位于圣何塞的 TYLsemi 走出隐身模式，开发高能效 AI 芯粒，宣布获得 4300 万美元早期融资。",
+        "content": "**TYLsemi 获 4300 万美元融资**\n\n- **初创公司：**总部位于圣何塞，TYLsemi 走向公开，为数据中心和边缘工作负载开发定制高能效 AI 芯粒。\n- **融资：**宣布 4300 万美元早期融资，以加速招聘和产品开发。\n- **技术：**专注模块化芯粒架构，可针对不同 AI 计算工作负载进行组合与匹配，相比单片设计提升效率。\n- **用例：**面向超大规模数据中心和需要定制 AI 加速的边缘部署。\n- **人才：**计划快速扩大工程团队，吸引来自半导体行业的专业人才。\n- **市场背景：**进入竞争激烈的定制 AI 芯片市场，押注能效与可配置性的差异化优势。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-15",
+      "en": {
+        "title": "South Korea Raises 2026 Growth Forecast to 5-Year High on AI Chip Boom",
+        "excerpt": "South Korea pledged to swiftly advance AI investments to bolster economic performance, raising its 2026 growth forecast on the back of strong AI chip demand.",
+        "content": "**South Korea Raises Growth Forecast**\n\n- **New Forecast:** South Korea's government raised its 2026 economic growth forecast to a five-year high, crediting strong AI chip demand.\n- **AI Investment Pledge:** Officials pledged to advance AI investments swiftly to bolster economic performance.\n- **Chip Demand:** Memory and logic chip sales to AI data centers are a key export driver as global cloud providers expand capacity.\n- **Policy Mix:** Government is combining industrial policy, tax incentives, and skills investment to capture more of the AI semiconductor value chain.\n- **Risks:** Policymakers flagged exposure to global demand swings and geopolitical supply-chain concentration as downside risks."
+      },
+      "zh": {
+        "title": "韩国因 AI 芯片热潮将 2026 年增长预期上调至 5 年高位",
+        "excerpt": "韩国政府基于强劲的 AI 芯片需求，将 2026 年经济增长预期上调至五年高位，并承诺快速推进 AI 投资。",
+        "content": "**韩国上调增长预期**\n\n- **新预期：**韩国政府将 2026 年经济增长预期上调至五年高位，归因于强劲的 AI 芯片需求。\n- **AI 投资承诺：**官员承诺快速推进 AI 投资，以提振经济表现。\n- **芯片需求：**随着全球云厂商扩大产能，面向 AI 数据中心的存储和逻辑芯片销售成为关键出口驱动力。\n- **政策组合：**政府正在结合产业、税收激励和技能投资，以抢占 AI 半导体价值链的更大份额。\n- **风险：**政策制定者将全球需求波动和地缘政治供应链集中度列为下行风险。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-15",
+      "en": {
+        "title": "U.K. Agency Finds 'Universal Jailbreaks' in OpenAI's GPT-5.6",
+        "excerpt": "A U.K. government agency found GPT-5.6 has security vulnerabilities similar to the flaw that led the Trump administration to impose export controls.",
+        "content": "**U.K. Finds GPT-5.6 Jailbreak Vulnerabilities**\n\n- **Discovery:** A U.K. government agency found OpenAI's GPT-5.6 has universal jailbreak capabilities similar to a flaw that drew U.S. export controls.\n- **Universal Jailbreaks:** Researchers demonstrated attacks that broadly bypass safety guardrails across multiple categories of harmful content.\n- **Similar to Fable 5:** The finding parallels the capability that prompted the Trump administration to impose export controls on a competitor model.\n- **Reporting:** The agency reported findings to OpenAI and relevant authorities; fixes are expected before broadergovernment deployment.\n- **Tension:** Highlights the challenge of securing frontier models against increasingly sophisticated red-team and real-world attacks."
+      },
+      "zh": {
+        "title": "英国机构发现 OpenAI GPT-5.6 存在「通用越狱」漏洞",
+        "excerpt": "英国政府机构发现 OpenAI 的 GPT-5.6 存在安全漏洞，类似于促使特朗普政府实施出口管制的缺陷。",
+        "content": "**英国发现 GPT-5.6 越狱漏洞**\n\n- **发现：**英国政府机构发现 OpenAI 的 GPT-5.6 具有通用越狱能力，类似于曾引发美国出口管制的漏洞。\n- **通用越狱：**研究人员展示了广泛绕过多类有害内容安全护栏的攻击。\n- **与 Fable 5 类似：**这一发现与促使特朗普政府对竞争对手模型实施出口管制的功能相似。\n- **报告：**该机构向 OpenAI 和相关当局报告了发现；预计在更广泛的政府部署前修复。\n- **矛盾：**凸显了保护前沿模型免受日益复杂的红队和现实攻击的挑战。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-15",
+      "en": {
+        "title": "MIT Method Aims to Keep Kids Safe From Illegal AI-Generated Content",
+        "excerpt": "MIT researchers developed an evaluation procedure that tests generative AI models for harmful capabilities without needing to generate the outputs themselves.",
+        "content": "**MIT Safety Method for Generative AI**\n\n- **The Method:** MIT researchers developed an evaluation procedure that probes generative AI models for harmful capabilities without needing to generate risky outputs.\n- **Why It Matters:** Testing for illegal or harmful AI-generated content often requires generating dangerous examples, creating a Catch-22 for safety evaluators.\n- **Approach:** Uses capability-oriented testing to determine whether a model can produce harmful content without actually synthesizing target material.\n- **Application:** Aimed at enabling safer, more scalable evaluation of child-safety risks and other sensitive content categories.\n- **Researchers:** Plans to release evaluation protocols and work with policymakers and platforms on deployment."
+      },
+      "zh": {
+        "title": "MIT 新方法旨在让儿童免受非法 AI 生成内容伤害",
+        "excerpt": "MIT 研究人员开发了一种评估程序，可测试生成式 AI 模型的有害能力而无需生成这些输出本身。",
+        "content": "**MIT 保护儿童的安全方法**\n\n- **方法：**MIT 研究人员开发了一种评估程序，无需生成有风险的输出即可探测生成式 AI 模型的有害能力。\n- **重要性：**测试非法或有害的 AI 生成内容通常需要产生危险样本，给安全评估者带来两难困境。\n- **方法：**使用能力导向的测试来确定模型是否能产生有害内容，而无需实际合成目标材料。\n- **应用：**旨在更安全、更可扩展地评估儿童安全和其他敏感内容类别的风险。\n- **研究：**计划发布评估方案，并与政策制定者和平台合作部署。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-15",
+      "en": {
+        "title": "CMU Builds AI Robotics Bridge Between Different Robots",
+        "excerpt": "CMU computer scientists developed an open-source software framework to make it easier to transfer AI capabilities across robots.",
+        "content": "**CMU Robotics AI Bridge**\n\n- **The Framework:** Carnegie Mellon University computer scientists developed an open-source software framework for transferring AI capabilities between robots.\n- **The Problem:** AI capabilities trained on one robot's body and environment rarely transfer cleanly to a different robot; most efforts are bespoke.\n- **Approach:** The framework abstracts perception and control policies into reusable modules, enabling sharing and recombination across hardware platforms.\n- **Open Source:** Researchers released the framework publicly, inviting contributions and extensions from the robotics-AI community.\n- **Use Cases:** From manufacturing cells to field robots, the infrastructure aims to accelerate deployment of shared foundation capabilities.\n- **Vision:** A platform for portable AI policies that reduces duplication across robotics research and industry."
+      },
+      "zh": {
+        "title": "CMU 构建框架让 AI 能力在不同机器人间迁移",
+        "excerpt": "CMU 计算机科学家开发了一个开源软件框架，使 AI 能力更容易在不同机器人之间迁移。",
+        "content": "**CMU AI 机器人桥梁**\n\n- **框架：**CMU 计算机科学家开发了一个开源软件框架，用于在不同机器人之间迁移 AI 能力。\n- **问题：**在一个机器人身上和环境训练的 AI 能力很少能干净地迁移到另一个机器人；大多数工作都是定制的。\n- **方法：**该框架将感知和控制策略抽象为可复用模块，支持跨硬件平台的共享和重组。\n- **开源：**研究人员公开发布该框架，邀请机器人-AI 社区的贡献和扩展。\n- **用例：**从制造单元到现场机器人，该基础设施旨在加速共享基础能力的部署。\n- **愿景：**一个可迁移 AI 政策平台，减少机器人研究和行业中的重复劳动。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-15",
+      "en": {
+        "title": "U.S. Venture Funding Hits $412.7B in First Half as AI Deals Dominate",
+        "excerpt": "U.S. venture capital deal value hit $412.7 billion in H1 2026, nearly 30% more than all of last year, driven by giant AI infrastructure deals.",
+        "content": "**US Venture Funding Surges in H1 2026**\n\n- **The Numbers:** U.S. venture capital deal value hit $412.7 billion in the first half of 2026, nearly 30% more than all of 2025.\n- **AI Dominance:** A small number of giant AI infrastructure deals drove the surge, concentrating capital in the sector.\n- **Mega Deals:** Large rounds for AI labs, chipmakers, and data center operators accounted for a disproportionate share of total value.\n- **Contrast:** Outside mega AI deals, early-stage and non-AI funding remained relatively subdued as investors crowded into the theme.\n- **Outlook:** PitchBook flagged the pace is outsized relative to historical norms and sensitive to AI sentiment shifts."
+      },
+      "zh": {
+        "title": "美国风险投资上半年达 4127 亿美元，AI 交易主导",
+        "excerpt": "2026 年上半年美国风险投资交易额达 4127 亿美元，比去年全年增长近 30%，由大型 AI 基础设施交易推动。",
+        "content": "**2026 上半年美国风险投资激增**\n\n- **数据：**2026 年上半年美国风险投资交易额达 4127 亿美元，比 2025 年全年增长近 30%。\n- **AI 主导：**少数大型 AI 基础设施交易推动了激增，资本集中在这一领域。\n- **巨额交易：**AI 实验室、芯片制造商和数据中心运营商的大轮融资占总值的超大份额。\n- **对比：**除了大型 AI 交易外，早期和非 AI 融资相对低迷，因为投资者涌入这一主题。\n- **展望：**PitchBook 指出这一速度相对于历史标准偏高，且对 AI 情绪转变敏感。"
+      }
+    }
+  ]
+}

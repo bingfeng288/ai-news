@@ -143,24 +143,28 @@ test.describe("Image Validity", () => {
     );
     const count = await detailImgs.count();
 
+    // Retry loop to handle slower image loading on emulated/mobile browsers
     const brokenImages: string[] = [];
+    await expect
+      .poll(
+        async () => {
+          brokenImages.length = 0;
+          for (let i = 0; i < count; i++) {
+            const img = detailImgs.nth(i);
+            const naturalWidth = await img.evaluate(
+              (el: HTMLImageElement) => el.naturalWidth
+            );
+            const alt = await img.getAttribute("alt");
 
-    for (let i = 0; i < count; i++) {
-      const img = detailImgs.nth(i);
-      const naturalWidth = await img.evaluate(
-        (el: HTMLImageElement) => el.naturalWidth
-      );
-      const alt = await img.getAttribute("alt");
-
-      if (naturalWidth === 0) {
-        brokenImages.push(`[${alt}]`);
-      }
-    }
-
-    expect(
-      brokenImages,
-      `Broken images on detail page:\n${brokenImages.join("\n")}`
-    ).toHaveLength(0);
+            if (naturalWidth === 0) {
+              brokenImages.push(`[${alt}]`);
+            }
+          }
+          return brokenImages;
+        },
+        { timeout: 15000, intervals: [1000, 2000, 3000] }
+      )
+      .toHaveLength(0);
   });
 
   test("all unique image URLs should return valid responses", async ({

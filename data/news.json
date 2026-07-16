@@ -1,147 +1,147 @@
 {
   "featured": {
     "id": 0,
-    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=600&fit=crop",
-    "category": "policy",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200&h=600&fit=crop",
+    "category": "llm",
     "readTime": 6,
     "timeAgo": 2,
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "en": {
-      "title": "New York Becomes First U.S. State to Pause New AI Data Centers",
-      "excerpt": "Governor Kathy Hochul issued an executive order enacting a one-year moratorium on large, resource-intensive AI data center facilities, making New York the first state to hit pause on the buildout.",
-      "content": "**New York Pauses AI Data Center Buildout**\n\n- **The Order:** Governor Kathy Hochul issued an executive order enacting a one-year moratorium on new large AI data center facilities that consume significant energy and water resources.\n- **Scope:** Applies to data centers above a certain size threshold drawing on state power or tax incentives; colocations and retrofits may have different rules.\n- **Rationale:** Cited strain on the electrical grid, water usage, community impact, and the need for updated regulatory frameworks to keep pace with rapid AI infrastructure expansion.\n- **First-Mover:** New York is the first U.S. state to impose such a pause, signaling a potential model for other states and federal deliberations.\n- **Industry Reaction:** Tech trade groups expressed concern the pause could chill investment, while clean-energy advocates welcomed the breathing room for planning.\n- **Implications:** Could redirect buildout to neighboring states and accelerate conversations about national data center siting standards."
+      "title": "German Consortium Releases Open 30B Model Soofi S on Deutsche Telekom Cloud",
+      "excerpt": "A German research consortium trained Soofi S 30B-A3B entirely on Deutsche Telekom's Munich cloud infrastructure; it tops benchmarks in both English and German.",
+      "content": "**German Consortium Releases Soofi S**\n\n- **The Model:** A German research consortium trained Soofi S 30B-A3B, an open-weight model targeting multilingual European enterprise use.\n- **Infrastructure:** Trained entirely on Deutsche Telekom's Munich cloud infrastructure, showcasing European AI sovereignty efforts.\n- **Performance:** Tops benchmarks in both English and German, positioning it as a competitive open alternative for European enterprises.\n- **Open Weights:** Released under an open-weight license to encourage adoption, research, and commercial use across the EU.\n- **Significance:** Advances Europe's push to build independent AI capabilities outside US and Chinese lab dominance."
     },
     "zh": {
-      "title": "纽约州成为美国首个暂停新建 AI 数据中心的州",
-      "excerpt": "州长 Kathy Hochul 签署行政令，对占地耗能高的大型 AI 数据中心设施实施一年暂停令，成为美国首个按下暂停键的州。",
-      "content": "**纽约暂停 AI 数据中心建设**\n\n- **行政令：**州长 Kathy Hochul 签署行政令，对消耗大量能源和水资源的大型 AI 数据中心新设施实施为期一年的暂停。\n- **适用范围：**适用于超过一定规模门槛、依赖州电力或税收激励的数据中心；改建和合作设施可能有不同规则。\n- **理由：**电网压力、用水量、社区影响，以及需要更新监管框架以跟上快速扩张的 AI 基础设施。\n- **先行者：**纽约是美国首个实施此类暂停的州，可能成为其他州和联邦审议的参考范本。\n- **行业反应：**科技行业协会担忧会抑制投资，清洁能源倡导者则表示欢迎。\n- **影响：**可能将建设分流到邻近州，并加速关于数据中心选址国家标准的讨论。"
+      "title": "德国联合团队发布开放 300 亿参数模型 Soofi S",
+      "excerpt": "德国研究联合团队在德意志慕尼黑云上训练了 Soofi S 30B-A3B，该模型在英语和德语基准测试中均名列前茅。",
+      "content": "**德国联合团队发布 Soofi S**\n\n- **模型：**德国研究联合团队训练了 Soofi S 30B-A3B，面向欧洲多语言企业应用的开放权重模型。\n- **基础设施：**完全在德意志慕尼黑云上训练，展示欧洲 AI 主权努力。\n- **性能：**在英语和德语基准测试中均名列前茅，定位为欧洲企业的有竞争力的开放替代方案。\n- **开放权重：**以开放权重许可发布，鼓励欧盟范围内的采用、研究和商业使用。\n- **意义：**推动欧洲在美国和中国实验室主导之外建立独立 AI 能力的进程。"
     }
   },
   "articles": [
     {
       "id": 1,
-      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
-      "category": "policy",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&h=400&fit=crop",
+      "category": "llm",
       "readTime": 5,
       "timeAgo": 2,
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "en": {
-        "title": "New York Becomes First U.S. State to Pause New AI Data Centers",
-        "excerpt": "Governor Kathy Hochul issued an executive order enacting a one-year moratorium on large, resource-intensive AI data center facilities, making New York the first state to hit pause on the buildout.",
-        "content": "**New York Pauses AI Data Center Buildout**\n\n- **The Order:** Governor Kathy Hochul issued an executive order enacting a one-year moratorium on new large AI data center facilities that consume significant energy and water resources.\n- **Scope:** Applies to data centers above a certain size threshold drawing on state power or tax incentives; colocations and retrofits may have different rules.\n- **Rationale:** Cited strain on the electrical grid, water usage, community impact, and the need for updated regulatory frameworks to keep pace with rapid AI infrastructure expansion.\n- **First-Mover:** New York is the first U.S. state to impose such a pause, signaling a potential model for other states and federal deliberations.\n- **Industry Reaction:** Tech trade groups expressed concern the pause could chill investment, while clean-energy advocates welcomed the breathing room for planning.\n- **Implications:** Could redirect buildout to neighboring states and accelerate conversations about national data center siting standards."
+        "title": "German Consortium Releases Open 30B Model Soofi S on Deutsche Telekom Cloud",
+        "excerpt": "A German research consortium trained Soofi S 30B-A3B entirely on Deutsche Telekom's Munich cloud infrastructure; it tops benchmarks in both English and German.",
+        "content": "**German Consortium Releases Soofi S**\n\n- **The Model:** A German research consortium trained Soofi S 30B-A3B, an open-weight model targeting multilingual European enterprise use.\n- **Infrastructure:** Trained entirely on Deutsche Telekom's Munich cloud infrastructure, showcasing European AI sovereignty efforts.\n- **Performance:** Tops benchmarks in both English and German, positioning it as a competitive open alternative for European enterprises.\n- **Open Weights:** Released under an open-weight license to encourage adoption, research, and commercial use across the EU.\n- **Significance:** Advances Europe's push to build independent AI capabilities outside US and Chinese lab dominance."
       },
       "zh": {
-        "title": "纽约州成为美国首个暂停新建 AI 数据中心的州",
-        "excerpt": "州长 Kathy Hochul 签署行政令，对占地耗能高的大型 AI 数据中心设施实施一年暂停令，成为美国首个按下暂停键的州。",
-        "content": "**纽约暂停 AI 数据中心建设**\n\n- **行政令：**州长 Kathy Hochul 签署行政令，对消耗大量能源和水资源的大型 AI 数据中心新设施实施为期一年的暂停。\n- **适用范围：**适用于超过一定规模门槛、依赖州电力或税收激励的数据中心；改建和合作设施可能有不同规则。\n- **理由：**电网压力、用水量、社区影响，以及需要更新监管框架以跟上快速扩张的 AI 基础设施。\n- **先行者：**纽约是美国首个实施此类暂停的州，可能成为其他州和联邦审议的参考范本。\n- **行业反应：**科技行业协会担忧会抑制投资，清洁能源倡导者则表示欢迎。\n- **影响：**可能将建设分流到邻近州，并加速关于数据中心选址国家标准的讨论。"
+        "title": "德国联合团队发布开放 300 亿参数模型 Soofi S",
+        "excerpt": "德国研究联合团队在德意志慕尼黑云上训练了 Soofi S 30B-A3B，该模型在英语和德语基准测试中均名列前茅。",
+        "content": "**德国联合团队发布 Soofi S**\n\n- **模型：**德国研究联合团队训练了 Soofi S 30B-A3B，面向欧洲多语言企业应用的开放权重模型。\n- **基础设施：**完全在德意志慕尼黑云上训练，展示欧洲 AI 主权努力。\n- **性能：**在英语和德语基准测试中均名列前茅，定位为欧洲企业的有竞争力的开放替代方案。\n- **开放权重：**以开放权重许可发布，鼓励欧盟范围内的采用、研究和商业使用。\n- **意义：**推动欧洲在美国和中国实验室主导之外建立独立 AI 能力的进程。"
       }
     },
     {
       "id": 2,
-      "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=600&h=400&fit=crop",
-      "category": "ethics",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
+      "category": "llm",
       "readTime": 5,
       "timeAgo": 2,
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "en": {
-        "title": "Meta Used AI to Tag Workers on Leave for Layoffs, Lawsuit Alleges",
-        "excerpt": "A lawsuit filed by dozens of former employees alleges Meta disproportionately selected people who took maternity or disability leave for layoffs using an AI system.",
-        "content": "**Meta AI Layoff Allegations**\n\n- **The Lawsuit:** Dozens of former employees filed a Meta lawsuit alleging the company used an AI system to identify and disproportionately select workers who took family or disability leave for layoffs.\n- **Alleged Harm:** Plaintiffs say the system penalized workers for legally protected leave, compounding the impact on vulnerable employees.\n- **Company Response:** Meta has denied the allegations, stating its layoff decisions followed lawful, fair processes reviewed by people managers.\n- **Broader Pattern:** Adds to a growing body of cases scrutinizing algorithmic and AI-driven employment decisions under labor and anti-discrimination law.\n- **Regulatory Interest:** Employment-rights agencies and lawmakers are watching closely as AI-driven HR tools face legal tests."
+        "title": "China Approves 7 On-Device AI Models From Apple, Xiaomi, OPPO and Others",
+        "excerpt": "China's cyberspace authorities cleared seven on-device generative AI services, including Apple Intelligence, Alibaba's Qwen, Xiaomi's MiMo, and OPPO's Andes.",
+        "content": "**China Approves 7 On-Device AI Models**\n\n- **The Approvals:** China's cyberspace authorities cleared seven on-device generative AI services for consumer devices.\n- **Who's Included:** Apple Intelligence, Alibaba's Qwen, Xiaomi's MiMo, and OPPO's Andes were among those confirmed compliant.\n- **Compliance:** Confirms the models meet Beijing's LLM filing and content-safety rules for consumer-facing deployment.\n- **Signal:** Shows China is formalizing a clear regulatory path for on-device AI after a period of uncertainty.\n- **Market Impact:** Gives global vendors clearer rules of the road for launching AI features in the Chinese market."
       },
       "zh": {
-        "title": "Meta 被指控利用 AI 标记休假员工进行裁员",
-        "excerpt": "数十名前员工提起诉讼，指控 Meta 使用 AI 系统识别并优先裁掉那些休产假或病假的员工。",
-        "content": "**Meta AI 裁员指控**\n\n- **诉讼：**数十名前员工提起诉讼，指控 Meta 使用 AI 系统识别并优先裁那些休家庭假或残障假的员工。\n- **所谓伤害：**原告称该系统惩罚了享受法定休假的弱势员工。\n- **公司回应：**Meta 否认指控，称裁员决策经过合法、公平的流程并由人力经理审核。\n- **更广泛趋势：**这是对算法和 AI 驱动用工决策进行法律审查的日益增多的案例之一。\n- **监管关注：**就业权利机构和立法者正密切关注 AI 驱动的人力资源工具面临的法律考验。"
+        "title": "中国批准 7 款设备端 AI 模型，含苹果、小米、OPPO 等",
+        "excerpt": "中国网信办批准了 7 款面向消费设备的生成式 AI 服务，包括苹果 Intelligence、阿里通义千问、小米 MiMo 和 OPPO Andes。",
+        "content": "**中国批准 7 款设备端 AI 模型**\n\n- **批准：**中国网信办批准了 7 款面向消费设备的生成式 AI 服务。\n- **入选企业：**苹果 Intelligence、阿里通义千问、小米 MiMo 和 OPPO Andes 在合规名单中。\n- **合规：**确认这些模型符合北京面向消费者的 LLM 备案和内容安全规则。\n- **信号：**表明中国在经过一段不确定期后，正在规范设备端 AI 的明确监管路径。\n- **市场影响：**为全球厂商在中国市场推出 AI 功能提供了更清晰的规则。"
       }
     },
     {
       "id": 3,
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
-      "category": "policy",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+      "category": "business",
       "readTime": 5,
       "timeAgo": 2,
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "en": {
-        "title": "Texas Power Plants for Data Centers Exploit Permitting Loophole",
-        "excerpt": "A Floodlight investigation finds many power plants built to support AI data centers are being approved under rules for smaller facilities, sidestepping tougher scrutiny.",
-        "content": "**Texas Data Center Power Plant Loophole**\n\n- **The Investigation:** A Floodlight/Dallas Morning News joint investigation found power plants built to support data centers are being approved under permitting rules typically used for smaller facilities.\n- **Loophole:** By structuring projects below certain regulatory thresholds or using specific classifications, developers can sidestep more rigorous environmental and community review.\n- **Scale:** Texas has seen a surge in data center construction, with power demands rivaling large cities, compounding scrutiny of the approvals.\n- **Community Impact:** Neighboring communities raised concerns about noise, water use, and grid strain with limited opportunities to challenge projects.\n- **Official Response:** Some state legislators have pledged to review the permitting framework to close the gap."
+        "title": "DeepSeek to Raise Fresh Capital at $74 Billion Valuation Ahead of IPO",
+        "excerpt": "Reuters reports the Chinese AI startup is planning a new fundraising round at roughly 500 billion yuan ($74B) valuation ahead of a planned onshore IPO.",
+        "content": "**DeepSeek Eyes $74B Round**\n\n- **The Round:** Reuters reports DeepSeek is planning a new fundraising round at roughly 500 billion yuan ($74B) valuation.\n- **IPO Plans:** The raise precedes a planned onshore IPO, as DeepSeek looks to tap public markets.\n- **Growth:** The valuation jump reflects surging investor appetite for Chinese frontier AI labs outside the US-listed giants.\n- **Use of Funds:** Expected to support compute, talent, and expansion of model training and product efforts.\n- **Context:** Comes as Chinese AI firms race to secure capital amid intensifying global competition."
       },
       "zh": {
-        "title": "德州为数据中心供电的发电厂利用许可漏洞",
-        "excerpt": "Floodlight 调查发现，许多为数据中心供电的发电厂以更宽松的小规模设施许可规则获批，绕过了更严格的审查。",
-        "content": "**德州数据中心发电厂许可漏洞**\n\n- **调查：**Floodlight 联合调查发现，为数据中心供电的发电厂正以通常适用于小规模设施的许可规则获批。\n- **漏洞：**通过将项目结构控制在特定监管门槛以下或使用特定分类，开发商可以绕过更严格的环境和社区审查。\n- **规模：**德州数据中心建设激增，电力需求堪比大城市，引发对审批流程的审查。\n- **社区影响：**周边社区对噪音、用水和电网压力表示担忧，但质疑项目的机会有限。\n- **官方回应：**部分州立法者已承诺审查许可框架以弥补漏洞。"
+        "title": "DeepSeek 将以约 740 亿美元估值进行新一轮融资，筹备 IPO",
+        "excerpt": "路透社报道，中国 AI 初创公司 DeepSeek 正计划以约 500 亿元人民币（约 740 亿美元）估值进行新一轮融资，筹备在岸 IPO。",
+        "content": "**DeepSeek 寻求 740 亿美元融资轮**\n\n- **融资：**路透社报道 DeepSeek 正计划以约 500 亿元人民币（约 740 亿美元）估值进行新一轮融资。\n- **IPO 计划：**此次融资先于计划的在岸 IPO，DeepSeek 寻求进入公开市场。\n- **增长：**估值飙升反映投资者对中国非美国上市前沿 AI 实验室的强烈兴趣。\n- **资金用途：**预计将支持算力、人才以及模型训练和产品扩展。\n- **背景：**在中国 AI 公司竞相在全球加剧的竞争之际寻求资本之际到来。"
       }
     },
     {
       "id": 4,
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=600&h=400&fit=crop",
       "category": "business",
       "readTime": 5,
       "timeAgo": 2,
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "en": {
-        "title": "Custom AI Chip Startup TYLsemi Launches With $43 Million in Funding",
-        "excerpt": "San Jose-based TYLsemi emerged from stealth to develop energy-efficient AI chiplets, announcing $43 million in early-stage funding.",
-        "content": "**TYLsemi Launches With $43M**\n\n- **The Startup:** San Jose-based TYLsemi emerged from stealth to develop custom, energy-efficient AI chiplets for data center and edge workloads.\n- **Funding:** Announced $43 million in early-stage funding to accelerate hiring and product development.\n- **Technology:** Focus on modular chiplet architectures that can be mixed and matched for different AI compute workloads, improving efficiency over monolithic designs.\n- **Use Cases:** Targets both hyperscale data centers and edge deployments requiring customizable AI acceleration.\n- **Talent:** Plans to expand its engineering team rapidly, drawing on talent frombroad semiconductor industry.\n- **Market Context:** Enters a crowded custom AI chip market but bets specialization on energy efficiency and configurability will differentiate it."
+        "title": "Indian AI Coding Startup Emergent Hits $1.5 Billion Unicorn With $130M Series C",
+        "excerpt": "Emergent raised $130 million at a $1.5 billion post-money valuation, a five-fold jump in just six months, barely a year after launch.",
+        "content": "**Emergent Hits $1.5B Unicorn**\n\n- **The Raise:** Emergent raised $130 million in Series C funding at a $1.5 billion post-money valuation.\n- **Rapid Jump:** A five-fold increase in just six months, barely a year after the company launched.\n- **Product:** Emergent builds AI-native coding tools that aim to automate large portions of the software development workflow.\n- **Market:** Serves a global developer customer base, with strong traction in enterprise coding automation.\n- **Investor Bet:** Reflects surging confidence in AI coding tools beyond the best-known US players."
       },
       "zh": {
-        "title": "TYLsemi 以 4300 万美元融资推出定制 AI 芯片",
-        "excerpt": "总部位于圣何塞的 TYLsemi 走出隐身模式，开发高能效 AI 芯粒，宣布获得 4300 万美元早期融资。",
-        "content": "**TYLsemi 获 4300 万美元融资**\n\n- **初创公司：**总部位于圣何塞，TYLsemi 走向公开，为数据中心和边缘工作负载开发定制高能效 AI 芯粒。\n- **融资：**宣布 4300 万美元早期融资，以加速招聘和产品开发。\n- **技术：**专注模块化芯粒架构，可针对不同 AI 计算工作负载进行组合与匹配，相比单片设计提升效率。\n- **用例：**面向超大规模数据中心和需要定制 AI 加速的边缘部署。\n- **人才：**计划快速扩大工程团队，吸引来自半导体行业的专业人才。\n- **市场背景：**进入竞争激烈的定制 AI 芯片市场，押注能效与可配置性的差异化优势。"
+        "title": "印度 AI 编程初创公司 Emergent 以 1.5 亿美元估值完成 1.3 亿美元 C 轮融资",
+        "excerpt": "Emergent 以 15 亿美元估值完成 1.3 亿美元 C 轮融资，仅六个月翻了五倍，距成立仅一年多。",
+        "content": "**Emergent 成为 15 亿美元独角兽**\n\n- **融资：**Emergent 以 15 亿美元估值完成 1.3 亿美元 C 轮融资。\n- **快速增长：**仅六个月翻了五倍，距公司成立仅一年多。\n- **产品：**Emergent 构建 AI 原生编程工具，旨在自动化软件开发工作流程的大部分环节。\n- **市场：**服务全球开发者客户群，在企业编码自动化方面势头强劲。\n- **投资者押注：**反映了对 AI 编程工具超越美国知名企业的信心高涨。"
       }
     },
     {
       "id": 5,
-      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=400&fit=crop",
-      "category": "business",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+      "category": "policy",
       "readTime": 5,
       "timeAgo": 2,
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "en": {
-        "title": "South Korea Raises 2026 Growth Forecast to 5-Year High on AI Chip Boom",
-        "excerpt": "South Korea pledged to swiftly advance AI investments to bolster economic performance, raising its 2026 growth forecast on the back of strong AI chip demand.",
-        "content": "**South Korea Raises Growth Forecast**\n\n- **New Forecast:** South Korea's government raised its 2026 economic growth forecast to a five-year high, crediting strong AI chip demand.\n- **AI Investment Pledge:** Officials pledged to advance AI investments swiftly to bolster economic performance.\n- **Chip Demand:** Memory and logic chip sales to AI data centers are a key export driver as global cloud providers expand capacity.\n- **Policy Mix:** Government is combining industrial policy, tax incentives, and skills investment to capture more of the AI semiconductor value chain.\n- **Risks:** Policymakers flagged exposure to global demand swings and geopolitical supply-chain concentration as downside risks."
+        "title": "White House Launches Gold Eagle AI Cybersecurity Clearinghouse",
+        "excerpt": "The Trump administration unveiled Gold Eagle, an AI-supported vulnerability coordination program for government and industry to rapidly detect and patch serious flaws.",
+        "content": "**White House Launches Gold Eagle**\n\n- **The Program:** The Trump administration unveiled Gold Eagle, an AI-supported vulnerability coordination program.\n- **Purpose:** Enables government and industry to rapidly detect and patch serious flaws before hackers exploit them.\n- **AI Role:** Uses AI to prioritize vulnerabilities, correlate threat intelligence, and accelerate remediation timelines.\n- **Participants:** Federal agencies and critical-infrastructure operators are expected to participate in the clearinghouse.\n- **Context:** Builds on rising concern over nation-state exploitation of unpatched software vulnerabilities."
       },
       "zh": {
-        "title": "韩国因 AI 芯片热潮将 2026 年增长预期上调至 5 年高位",
-        "excerpt": "韩国政府基于强劲的 AI 芯片需求，将 2026 年经济增长预期上调至五年高位，并承诺快速推进 AI 投资。",
-        "content": "**韩国上调增长预期**\n\n- **新预期：**韩国政府将 2026 年经济增长预期上调至五年高位，归因于强劲的 AI 芯片需求。\n- **AI 投资承诺：**官员承诺快速推进 AI 投资，以提振经济表现。\n- **芯片需求：**随着全球云厂商扩大产能，面向 AI 数据中心的存储和逻辑芯片销售成为关键出口驱动力。\n- **政策组合：**政府正在结合产业、税收激励和技能投资，以抢占 AI 半导体价值链的更大份额。\n- **风险：**政策制定者将全球需求波动和地缘政治供应链集中度列为下行风险。"
+        "title": "白宫推出 Gold Eagle AI 网络安全漏洞协调中心",
+        "excerpt": "特朗普政府推出 Gold Eagle，一项 AI 支持的漏洞协调计划，帮助政府和行业在黑客利用之前快速检测和修补严重缺陷。",
+        "content": "**白宫推出 Gold Eagle**\n\n- **计划：**特朗普政府推出 Gold Eagle，一项 AI 支持的漏洞协调计划。\n- **目的：**帮助政府和行业在黑客利用之前快速检测和修补严重缺陷。\n- **AI 作用：**利用 AI 对漏洞优先级排序、关联威胁情报并加速修复时间表。\n- **参与者：**预计联邦机构和关键基础设施运营商将参与该协调中心。\n- **背景：**建立在对国家行为者利用未修补软件漏洞日益担忧的基础上。"
       }
     },
     {
       "id": 6,
-      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
-      "category": "ethics",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=400&fit=crop",
+      "category": "policy",
       "readTime": 5,
       "timeAgo": 2,
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "en": {
-        "title": "U.K. Agency Finds 'Universal Jailbreaks' in OpenAI's GPT-5.6",
-        "excerpt": "A U.K. government agency found GPT-5.6 has security vulnerabilities similar to the flaw that led the Trump administration to impose export controls.",
-        "content": "**U.K. Finds GPT-5.6 Jailbreak Vulnerabilities**\n\n- **Discovery:** A U.K. government agency found OpenAI's GPT-5.6 has universal jailbreak capabilities similar to a flaw that drew U.S. export controls.\n- **Universal Jailbreaks:** Researchers demonstrated attacks that broadly bypass safety guardrails across multiple categories of harmful content.\n- **Similar to Fable 5:** The finding parallels the capability that prompted the Trump administration to impose export controls on a competitor model.\n- **Reporting:** The agency reported findings to OpenAI and relevant authorities; fixes are expected before broadergovernment deployment.\n- **Tension:** Highlights the challenge of securing frontier models against increasingly sophisticated red-team and real-world attacks."
+        "title": "China Rolls Out Rules to Rein In AI Companion Bots",
+        "excerpt": "Beijing issued regulations aimed at curbing emotional dependency on AI-powered companion bots, marking a new frontier in generative AI governance.",
+        "content": "**China Regulates AI Companion Bots**\n\n- **The Rules:** Beijing issued regulations aimed at curbing emotional dependency on AI-powered companion bots.\n- **Concerns:** Regulators flagged risks of emotional manipulation, over-dependency, and social isolation from prolonged AI companion use.\n- **Requirements:** Platforms must implement age verification, usage limits, and clear disclosure that users are interacting with AI.\n- **Enforcement:** Adds companion bots to Beijing's growing body of generative AI governance rules.\n- **Industry Impact:** Affects a fast-growing category of chatbot and virtual companion services popular with younger users."
       },
       "zh": {
-        "title": "英国机构发现 OpenAI GPT-5.6 存在「通用越狱」漏洞",
-        "excerpt": "英国政府机构发现 OpenAI 的 GPT-5.6 存在安全漏洞，类似于促使特朗普政府实施出口管制的缺陷。",
-        "content": "**英国发现 GPT-5.6 越狱漏洞**\n\n- **发现：**英国政府机构发现 OpenAI 的 GPT-5.6 具有通用越狱能力，类似于曾引发美国出口管制的漏洞。\n- **通用越狱：**研究人员展示了广泛绕过多类有害内容安全护栏的攻击。\n- **与 Fable 5 类似：**这一发现与促使特朗普政府对竞争对手模型实施出口管制的功能相似。\n- **报告：**该机构向 OpenAI 和相关当局报告了发现；预计在更广泛的政府部署前修复。\n- **矛盾：**凸显了保护前沿模型免受日益复杂的红队和现实攻击的挑战。"
+        "title": "中国出台规则约束 AI 伴侣机器人",
+        "excerpt": "北京发布了旨在遏制对 AI 助手机器人情感依赖的规定，标志着生成式 AI 治理的新前沿。",
+        "content": "**中国规范 AI 伴侣机器人**\n\n- **规定：**北京发布了旨在遏制对 AI 助手机器人情感依赖的规定。\n- **担忧：**监管机构指出情感操纵、过度依赖和长期使用 AI 伴侣导致社会隔离的风险。\n- **要求：**平台必须实施年龄验证、使用限制和明确告知用户正在与 AI 交互。\n- **执行：**将伴侣机器人纳入北京日益完善的生成式 AI 治理体系。\n- **行业影响：**影响受年轻用户欢迎的聊天机器人和虚拟伴侣服务的快速增长类别。"
       }
     },
     {
       "id": 7,
-      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&h=400&fit=crop",
-      "category": "research",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "business",
       "readTime": 5,
       "timeAgo": 2,
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "en": {
-        "title": "MIT Method Aims to Keep Kids Safe From Illegal AI-Generated Content",
-        "excerpt": "MIT researchers developed an evaluation procedure that tests generative AI models for harmful capabilities without needing to generate the outputs themselves.",
-        "content": "**MIT Safety Method for Generative AI**\n\n- **The Method:** MIT researchers developed an evaluation procedure that probes generative AI models for harmful capabilities without needing to generate risky outputs.\n- **Why It Matters:** Testing for illegal or harmful AI-generated content often requires generating dangerous examples, creating a Catch-22 for safety evaluators.\n- **Approach:** Uses capability-oriented testing to determine whether a model can produce harmful content without actually synthesizing target material.\n- **Application:** Aimed at enabling safer, more scalable evaluation of child-safety risks and other sensitive content categories.\n- **Researchers:** Plans to release evaluation protocols and work with policymakers and platforms on deployment."
+        "title": "ASML Lifts 2026 Sales Outlook to €45 Billion as AI Chip Demand Surges",
+        "excerpt": "ASML raised its 2026 sales forecast for the second time this year as AI-driven chip demand surges; it is expanding EUV lithography capacity.",
+        "content": "**ASML Raises 2026 Outlook**\n\n- **New Forecast:** ASML raised its 2026 sales forecast for the second time this year as AI-driven chip demand surges.\n- **AI Demand:** Logic and memory chip makers are expanding capacity to feed AI data center buildout, driving EUV lithography demand.\n- **Capacity Expansion:** ASML is expanding its EUV lithography capacity plans to keep pace with customer orders.\n- **Cyclical Recovery:** The raise also reflects a broader semiconductor cycle recovery after a post-pandemic correction.\n- **Outlook:** Management signaled confidence the AI-driven super-cycle has further to run."
       },
       "zh": {
-        "title": "MIT 新方法旨在让儿童免受非法 AI 生成内容伤害",
-        "excerpt": "MIT 研究人员开发了一种评估程序，可测试生成式 AI 模型的有害能力而无需生成这些输出本身。",
-        "content": "**MIT 保护儿童的安全方法**\n\n- **方法：**MIT 研究人员开发了一种评估程序，无需生成有风险的输出即可探测生成式 AI 模型的有害能力。\n- **重要性：**测试非法或有害的 AI 生成内容通常需要产生危险样本，给安全评估者带来两难困境。\n- **方法：**使用能力导向的测试来确定模型是否能产生有害内容，而无需实际合成目标材料。\n- **应用：**旨在更安全、更可扩展地评估儿童安全和其他敏感内容类别的风险。\n- **研究：**计划发布评估方案，并与政策制定者和平台合作部署。"
+        "title": "ASML 将 2026 年销售预期上调至 450 亿欧元，AI 芯片需求激增",
+        "excerpt": "ASML 今年第二次上调 2026 年销售预期，因 AI 芯片需求激增；同时扩大 EUV 光刻产能。",
+        "content": "**ASML 上调 2026 年展望**\n\n- **新预期：**ASML 今年第二次上调 2026 年销售预期，因 AI 芯片需求激增。\n- **AI 需求：**逻辑和存储芯片制造商正在扩大产能以满足 AI 数据中心建设，推动 EUV 光刻需求。\n- **产能扩张：**ASML 正在扩大其 EUV 光刻产能计划以跟上客户订单。\n- **周期性复苏：**此次上调也反映了疫情后更广泛的半导体周期复苏。\n- **展望：**管理层表示相信 AI 驱动的超级周期仍有进一步空间。"
       }
     },
     {
@@ -150,34 +150,34 @@
       "category": "robotics",
       "readTime": 5,
       "timeAgo": 2,
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "en": {
-        "title": "CMU Builds AI Robotics Bridge Between Different Robots",
-        "excerpt": "CMU computer scientists developed an open-source software framework to make it easier to transfer AI capabilities across robots.",
-        "content": "**CMU Robotics AI Bridge**\n\n- **The Framework:** Carnegie Mellon University computer scientists developed an open-source software framework for transferring AI capabilities between robots.\n- **The Problem:** AI capabilities trained on one robot's body and environment rarely transfer cleanly to a different robot; most efforts are bespoke.\n- **Approach:** The framework abstracts perception and control policies into reusable modules, enabling sharing and recombination across hardware platforms.\n- **Open Source:** Researchers released the framework publicly, inviting contributions and extensions from the robotics-AI community.\n- **Use Cases:** From manufacturing cells to field robots, the infrastructure aims to accelerate deployment of shared foundation capabilities.\n- **Vision:** A platform for portable AI policies that reduces duplication across robotics research and industry."
+        "title": "Toyota Spinout Walden Robotics Raises $300 Million for Humanoids",
+        "excerpt": "Walden Robotics, led by MIT professor Russ Tedrake and spun out of Toyota, raised one of the Boston area's largest-ever robotics deals to build humanoid robots.",
+        "content": "**Walden Robotics Raises $300M**\n\n- **The Startup:** Walden Robotics, led by MIT professor Russ Tedrake and spun out of Toyota, raised $300 million.\n- **Scale:** One of the Boston area's largest-ever robotics deals, signaling serious humanoid ambitions.\n- **Mission:** Builds general-purpose humanoid robots for logistics, manufacturing, and eventually home use.\n- **Backers:** Backed by investors betting Toyota's robotics heritage plus MIT research depth can deliver a viable humanoid.\n- **Context:** Adds to a flood of humanoid funding as the sector moves from pilots toward commercial production."
       },
       "zh": {
-        "title": "CMU 构建框架让 AI 能力在不同机器人间迁移",
-        "excerpt": "CMU 计算机科学家开发了一个开源软件框架，使 AI 能力更容易在不同机器人之间迁移。",
-        "content": "**CMU AI 机器人桥梁**\n\n- **框架：**CMU 计算机科学家开发了一个开源软件框架，用于在不同机器人之间迁移 AI 能力。\n- **问题：**在一个机器人身上和环境训练的 AI 能力很少能干净地迁移到另一个机器人；大多数工作都是定制的。\n- **方法：**该框架将感知和控制策略抽象为可复用模块，支持跨硬件平台的共享和重组。\n- **开源：**研究人员公开发布该框架，邀请机器人-AI 社区的贡献和扩展。\n- **用例：**从制造单元到现场机器人，该基础设施旨在加速共享基础能力的部署。\n- **愿景：**一个可迁移 AI 政策平台，减少机器人研究和行业中的重复劳动。"
+        "title": "丰田孵化的 Walden Robotics 融资 3 亿美元，开发人形机器人",
+        "excerpt": "由 MIT 教授 Russ Tedrake 领导、从丰田孵化的 Walden Robotics 融资 3 亿美元，用于开发人形机器人，是波士顿地区有史以来最大的机器人交易之一。",
+        "content": "**Walden Robotics 融资 3 亿美元**\n\n- **初创公司：**由 MIT 教授 Russ Tedrake 领导、从丰田孵化的 Walden Robotics 融资 3 亿美元。\n- **规模：**波士顿地区有史以来最大的机器人交易之一，标志着认真的人形机器人雄心。\n- **使命：**为物流、制造以及最终家用构建通用人形机器人。\n- **支持者：**押注丰田的机器人传统加上 MIT 研究深度能够交付可行的人形机器人。\n- **背景：**在人形机器人行业从试点走向商业化生产之际，加入人形机器人融资热潮。"
       }
     },
     {
       "id": 9,
-      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
-      "category": "business",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=400&fit=crop",
+      "category": "creative",
       "readTime": 5,
       "timeAgo": 2,
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "en": {
-        "title": "U.S. Venture Funding Hits $412.7B in First Half as AI Deals Dominate",
-        "excerpt": "U.S. venture capital deal value hit $412.7 billion in H1 2026, nearly 30% more than all of last year, driven by giant AI infrastructure deals.",
-        "content": "**US Venture Funding Surges in H1 2026**\n\n- **The Numbers:** U.S. venture capital deal value hit $412.7 billion in the first half of 2026, nearly 30% more than all of 2025.\n- **AI Dominance:** A small number of giant AI infrastructure deals drove the surge, concentrating capital in the sector.\n- **Mega Deals:** Large rounds for AI labs, chipmakers, and data center operators accounted for a disproportionate share of total value.\n- **Contrast:** Outside mega AI deals, early-stage and non-AI funding remained relatively subdued as investors crowded into the theme.\n- **Outlook:** PitchBook flagged the pace is outsized relative to historical norms and sensitive to AI sentiment shifts."
+        "title": "AI-Native Lost Canon Film Series Premieres at Raindance",
+        "excerpt": "Ten filmmakers used CapCut Video Studio to create AI-native short films premiering at the Raindance Film Festival in London, a collaboration with CapCut and Moonmax.",
+        "content": "**AI-Native Lost Canon Premieres**\n\n- **The Project:** Ten filmmakers used CapCut Video Studio to create AI-native short films premiering at Raindance.\n- **Collaboration:** A partnership between CapCut and Moonmax to explore AI-native filmmaking techniques.\n- **Premiere:** Debuted at the Raindance Film Festival in London, a showcase for independent and experimental film.\n- **AI-Native:** Films were conceived and produced around generative AI tools rather than using AI only in post-production.\n- **Significance:** Signals growing mainstream interest in AI-assisted filmmaking beyond the usual tech-demo fare."
       },
       "zh": {
-        "title": "美国风险投资上半年达 4127 亿美元，AI 交易主导",
-        "excerpt": "2026 年上半年美国风险投资交易额达 4127 亿美元，比去年全年增长近 30%，由大型 AI 基础设施交易推动。",
-        "content": "**2026 上半年美国风险投资激增**\n\n- **数据：**2026 年上半年美国风险投资交易额达 4127 亿美元，比 2025 年全年增长近 30%。\n- **AI 主导：**少数大型 AI 基础设施交易推动了激增，资本集中在这一领域。\n- **巨额交易：**AI 实验室、芯片制造商和数据中心运营商的大轮融资占总值的超大份额。\n- **对比：**除了大型 AI 交易外，早期和非 AI 融资相对低迷，因为投资者涌入这一主题。\n- **展望：**PitchBook 指出这一速度相对于历史标准偏高，且对 AI 情绪转变敏感。"
+        "title": "AI 原生《Lost Canon》系列电影在 Raindance 首映",
+        "excerpt": "十位创作者使用 CapCut Video Studio 创作了 AI 原生短片，在伦敦 Raindance 电影节首映，由 CapCut 与 Moonmax 合作。",
+        "content": "**AI 原生《Lost Canon》首映**\n\n- **项目：**十位创作者使用 CapCut Video Studio 创作了 AI 原生短片，在 Raindance 首映。\n- **合作：**CapCut 与 Moonmax 合作，探索 AI 原生电影制作技术。\n- **首映：**在伦敦 Raindance 电影节首映，展示独立和实验电影。\n- **AI 原生：**电影围绕生成式 AI 工具构思和制作，而非仅在后期制作中使用 AI。\n- **意义：**标志着对 AI 辅助电影制作日益增长的超越常规技术演示的主流兴趣。"
       }
     }
   ]
