@@ -1,0 +1,184 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200&h=600&fit=crop",
+    "category": "llm",
+    "readTime": 6,
+    "timeAgo": 2,
+    "date": "2026-07-16",
+    "en": {
+      "title": "German Consortium Releases Open 30B Model Soofi S on Deutsche Telekom Cloud",
+      "excerpt": "A German research consortium trained Soofi S 30B-A3B entirely on Deutsche Telekom's Munich cloud infrastructure; it tops benchmarks in both English and German.",
+      "content": "**German Consortium Releases Soofi S**\n\n- **The Model:** A German research consortium trained Soofi S 30B-A3B, an open-weight model targeting multilingual European enterprise use.\n- **Infrastructure:** Trained entirely on Deutsche Telekom's Munich cloud infrastructure, showcasing European AI sovereignty efforts.\n- **Performance:** Tops benchmarks in both English and German, positioning it as a competitive open alternative for European enterprises.\n- **Open Weights:** Released under an open-weight license to encourage adoption, research, and commercial use across the EU.\n- **Significance:** Advances Europe's push to build independent AI capabilities outside US and Chinese lab dominance."
+    },
+    "zh": {
+      "title": "德国联合团队发布开放 300 亿参数模型 Soofi S",
+      "excerpt": "德国研究联合团队在德意志慕尼黑云上训练了 Soofi S 30B-A3B，该模型在英语和德语基准测试中均名列前茅。",
+      "content": "**德国联合团队发布 Soofi S**\n\n- **模型：**德国研究联合团队训练了 Soofi S 30B-A3B，面向欧洲多语言企业应用的开放权重模型。\n- **基础设施：**完全在德意志慕尼黑云上训练，展示欧洲 AI 主权努力。\n- **性能：**在英语和德语基准测试中均名列前茅，定位为欧洲企业的有竞争力的开放替代方案。\n- **开放权重：**以开放权重许可发布，鼓励欧盟范围内的采用、研究和商业使用。\n- **意义：**推动欧洲在美国和中国实验室主导之外建立独立 AI 能力的进程。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-16",
+      "en": {
+        "title": "German Consortium Releases Open 30B Model Soofi S on Deutsche Telekom Cloud",
+        "excerpt": "A German research consortium trained Soofi S 30B-A3B entirely on Deutsche Telekom's Munich cloud infrastructure; it tops benchmarks in both English and German.",
+        "content": "**German Consortium Releases Soofi S**\n\n- **The Model:** A German research consortium trained Soofi S 30B-A3B, an open-weight model targeting multilingual European enterprise use.\n- **Infrastructure:** Trained entirely on Deutsche Telekom's Munich cloud infrastructure, showcasing European AI sovereignty efforts.\n- **Performance:** Tops benchmarks in both English and German, positioning it as a competitive open alternative for European enterprises.\n- **Open Weights:** Released under an open-weight license to encourage adoption, research, and commercial use across the EU.\n- **Significance:** Advances Europe's push to build independent AI capabilities outside US and Chinese lab dominance."
+      },
+      "zh": {
+        "title": "德国联合团队发布开放 300 亿参数模型 Soofi S",
+        "excerpt": "德国研究联合团队在德意志慕尼黑云上训练了 Soofi S 30B-A3B，该模型在英语和德语基准测试中均名列前茅。",
+        "content": "**德国联合团队发布 Soofi S**\n\n- **模型：**德国研究联合团队训练了 Soofi S 30B-A3B，面向欧洲多语言企业应用的开放权重模型。\n- **基础设施：**完全在德意志慕尼黑云上训练，展示欧洲 AI 主权努力。\n- **性能：**在英语和德语基准测试中均名列前茅，定位为欧洲企业的有竞争力的开放替代方案。\n- **开放权重：**以开放权重许可发布，鼓励欧盟范围内的采用、研究和商业使用。\n- **意义：**推动欧洲在美国和中国实验室主导之外建立独立 AI 能力的进程。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-16",
+      "en": {
+        "title": "China Approves 7 On-Device AI Models From Apple, Xiaomi, OPPO and Others",
+        "excerpt": "China's cyberspace authorities cleared seven on-device generative AI services, including Apple Intelligence, Alibaba's Qwen, Xiaomi's MiMo, and OPPO's Andes.",
+        "content": "**China Approves 7 On-Device AI Models**\n\n- **The Approvals:** China's cyberspace authorities cleared seven on-device generative AI services for consumer devices.\n- **Who's Included:** Apple Intelligence, Alibaba's Qwen, Xiaomi's MiMo, and OPPO's Andes were among those confirmed compliant.\n- **Compliance:** Confirms the models meet Beijing's LLM filing and content-safety rules for consumer-facing deployment.\n- **Signal:** Shows China is formalizing a clear regulatory path for on-device AI after a period of uncertainty.\n- **Market Impact:** Gives global vendors clearer rules of the road for launching AI features in the Chinese market."
+      },
+      "zh": {
+        "title": "中国批准 7 款设备端 AI 模型，含苹果、小米、OPPO 等",
+        "excerpt": "中国网信办批准了 7 款面向消费设备的生成式 AI 服务，包括苹果 Intelligence、阿里通义千问、小米 MiMo 和 OPPO Andes。",
+        "content": "**中国批准 7 款设备端 AI 模型**\n\n- **批准：**中国网信办批准了 7 款面向消费设备的生成式 AI 服务。\n- **入选企业：**苹果 Intelligence、阿里通义千问、小米 MiMo 和 OPPO Andes 在合规名单中。\n- **合规：**确认这些模型符合北京面向消费者的 LLM 备案和内容安全规则。\n- **信号：**表明中国在经过一段不确定期后，正在规范设备端 AI 的明确监管路径。\n- **市场影响：**为全球厂商在中国市场推出 AI 功能提供了更清晰的规则。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-16",
+      "en": {
+        "title": "DeepSeek to Raise Fresh Capital at $74 Billion Valuation Ahead of IPO",
+        "excerpt": "Reuters reports the Chinese AI startup is planning a new fundraising round at roughly 500 billion yuan ($74B) valuation ahead of a planned onshore IPO.",
+        "content": "**DeepSeek Eyes $74B Round**\n\n- **The Round:** Reuters reports DeepSeek is planning a new fundraising round at roughly 500 billion yuan ($74B) valuation.\n- **IPO Plans:** The raise precedes a planned onshore IPO, as DeepSeek looks to tap public markets.\n- **Growth:** The valuation jump reflects surging investor appetite for Chinese frontier AI labs outside the US-listed giants.\n- **Use of Funds:** Expected to support compute, talent, and expansion of model training and product efforts.\n- **Context:** Comes as Chinese AI firms race to secure capital amid intensifying global competition."
+      },
+      "zh": {
+        "title": "DeepSeek 将以约 740 亿美元估值进行新一轮融资，筹备 IPO",
+        "excerpt": "路透社报道，中国 AI 初创公司 DeepSeek 正计划以约 500 亿元人民币（约 740 亿美元）估值进行新一轮融资，筹备在岸 IPO。",
+        "content": "**DeepSeek 寻求 740 亿美元融资轮**\n\n- **融资：**路透社报道 DeepSeek 正计划以约 500 亿元人民币（约 740 亿美元）估值进行新一轮融资。\n- **IPO 计划：**此次融资先于计划的在岸 IPO，DeepSeek 寻求进入公开市场。\n- **增长：**估值飙升反映投资者对中国非美国上市前沿 AI 实验室的强烈兴趣。\n- **资金用途：**预计将支持算力、人才以及模型训练和产品扩展。\n- **背景：**在中国 AI 公司竞相在全球加剧的竞争之际寻求资本之际到来。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-16",
+      "en": {
+        "title": "Indian AI Coding Startup Emergent Hits $1.5 Billion Unicorn With $130M Series C",
+        "excerpt": "Emergent raised $130 million at a $1.5 billion post-money valuation, a five-fold jump in just six months, barely a year after launch.",
+        "content": "**Emergent Hits $1.5B Unicorn**\n\n- **The Raise:** Emergent raised $130 million in Series C funding at a $1.5 billion post-money valuation.\n- **Rapid Jump:** A five-fold increase in just six months, barely a year after the company launched.\n- **Product:** Emergent builds AI-native coding tools that aim to automate large portions of the software development workflow.\n- **Market:** Serves a global developer customer base, with strong traction in enterprise coding automation.\n- **Investor Bet:** Reflects surging confidence in AI coding tools beyond the best-known US players."
+      },
+      "zh": {
+        "title": "印度 AI 编程初创公司 Emergent 以 1.5 亿美元估值完成 1.3 亿美元 C 轮融资",
+        "excerpt": "Emergent 以 15 亿美元估值完成 1.3 亿美元 C 轮融资，仅六个月翻了五倍，距成立仅一年多。",
+        "content": "**Emergent 成为 15 亿美元独角兽**\n\n- **融资：**Emergent 以 15 亿美元估值完成 1.3 亿美元 C 轮融资。\n- **快速增长：**仅六个月翻了五倍，距公司成立仅一年多。\n- **产品：**Emergent 构建 AI 原生编程工具，旨在自动化软件开发工作流程的大部分环节。\n- **市场：**服务全球开发者客户群，在企业编码自动化方面势头强劲。\n- **投资者押注：**反映了对 AI 编程工具超越美国知名企业的信心高涨。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-16",
+      "en": {
+        "title": "White House Launches Gold Eagle AI Cybersecurity Clearinghouse",
+        "excerpt": "The Trump administration unveiled Gold Eagle, an AI-supported vulnerability coordination program for government and industry to rapidly detect and patch serious flaws.",
+        "content": "**White House Launches Gold Eagle**\n\n- **The Program:** The Trump administration unveiled Gold Eagle, an AI-supported vulnerability coordination program.\n- **Purpose:** Enables government and industry to rapidly detect and patch serious flaws before hackers exploit them.\n- **AI Role:** Uses AI to prioritize vulnerabilities, correlate threat intelligence, and accelerate remediation timelines.\n- **Participants:** Federal agencies and critical-infrastructure operators are expected to participate in the clearinghouse.\n- **Context:** Builds on rising concern over nation-state exploitation of unpatched software vulnerabilities."
+      },
+      "zh": {
+        "title": "白宫推出 Gold Eagle AI 网络安全漏洞协调中心",
+        "excerpt": "特朗普政府推出 Gold Eagle，一项 AI 支持的漏洞协调计划，帮助政府和行业在黑客利用之前快速检测和修补严重缺陷。",
+        "content": "**白宫推出 Gold Eagle**\n\n- **计划：**特朗普政府推出 Gold Eagle，一项 AI 支持的漏洞协调计划。\n- **目的：**帮助政府和行业在黑客利用之前快速检测和修补严重缺陷。\n- **AI 作用：**利用 AI 对漏洞优先级排序、关联威胁情报并加速修复时间表。\n- **参与者：**预计联邦机构和关键基础设施运营商将参与该协调中心。\n- **背景：**建立在对国家行为者利用未修补软件漏洞日益担忧的基础上。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-16",
+      "en": {
+        "title": "China Rolls Out Rules to Rein In AI Companion Bots",
+        "excerpt": "Beijing issued regulations aimed at curbing emotional dependency on AI-powered companion bots, marking a new frontier in generative AI governance.",
+        "content": "**China Regulates AI Companion Bots**\n\n- **The Rules:** Beijing issued regulations aimed at curbing emotional dependency on AI-powered companion bots.\n- **Concerns:** Regulators flagged risks of emotional manipulation, over-dependency, and social isolation from prolonged AI companion use.\n- **Requirements:** Platforms must implement age verification, usage limits, and clear disclosure that users are interacting with AI.\n- **Enforcement:** Adds companion bots to Beijing's growing body of generative AI governance rules.\n- **Industry Impact:** Affects a fast-growing category of chatbot and virtual companion services popular with younger users."
+      },
+      "zh": {
+        "title": "中国出台规则约束 AI 伴侣机器人",
+        "excerpt": "北京发布了旨在遏制对 AI 助手机器人情感依赖的规定，标志着生成式 AI 治理的新前沿。",
+        "content": "**中国规范 AI 伴侣机器人**\n\n- **规定：**北京发布了旨在遏制对 AI 助手机器人情感依赖的规定。\n- **担忧：**监管机构指出情感操纵、过度依赖和长期使用 AI 伴侣导致社会隔离的风险。\n- **要求：**平台必须实施年龄验证、使用限制和明确告知用户正在与 AI 交互。\n- **执行：**将伴侣机器人纳入北京日益完善的生成式 AI 治理体系。\n- **行业影响：**影响受年轻用户欢迎的聊天机器人和虚拟伴侣服务的快速增长类别。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-16",
+      "en": {
+        "title": "ASML Lifts 2026 Sales Outlook to €45 Billion as AI Chip Demand Surges",
+        "excerpt": "ASML raised its 2026 sales forecast for the second time this year as AI-driven chip demand surges; it is expanding EUV lithography capacity.",
+        "content": "**ASML Raises 2026 Outlook**\n\n- **New Forecast:** ASML raised its 2026 sales forecast for the second time this year as AI-driven chip demand surges.\n- **AI Demand:** Logic and memory chip makers are expanding capacity to feed AI data center buildout, driving EUV lithography demand.\n- **Capacity Expansion:** ASML is expanding its EUV lithography capacity plans to keep pace with customer orders.\n- **Cyclical Recovery:** The raise also reflects a broader semiconductor cycle recovery after a post-pandemic correction.\n- **Outlook:** Management signaled confidence the AI-driven super-cycle has further to run."
+      },
+      "zh": {
+        "title": "ASML 将 2026 年销售预期上调至 450 亿欧元，AI 芯片需求激增",
+        "excerpt": "ASML 今年第二次上调 2026 年销售预期，因 AI 芯片需求激增；同时扩大 EUV 光刻产能。",
+        "content": "**ASML 上调 2026 年展望**\n\n- **新预期：**ASML 今年第二次上调 2026 年销售预期，因 AI 芯片需求激增。\n- **AI 需求：**逻辑和存储芯片制造商正在扩大产能以满足 AI 数据中心建设，推动 EUV 光刻需求。\n- **产能扩张：**ASML 正在扩大其 EUV 光刻产能计划以跟上客户订单。\n- **周期性复苏：**此次上调也反映了疫情后更广泛的半导体周期复苏。\n- **展望：**管理层表示相信 AI 驱动的超级周期仍有进一步空间。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-16",
+      "en": {
+        "title": "Toyota Spinout Walden Robotics Raises $300 Million for Humanoids",
+        "excerpt": "Walden Robotics, led by MIT professor Russ Tedrake and spun out of Toyota, raised one of the Boston area's largest-ever robotics deals to build humanoid robots.",
+        "content": "**Walden Robotics Raises $300M**\n\n- **The Startup:** Walden Robotics, led by MIT professor Russ Tedrake and spun out of Toyota, raised $300 million.\n- **Scale:** One of the Boston area's largest-ever robotics deals, signaling serious humanoid ambitions.\n- **Mission:** Builds general-purpose humanoid robots for logistics, manufacturing, and eventually home use.\n- **Backers:** Backed by investors betting Toyota's robotics heritage plus MIT research depth can deliver a viable humanoid.\n- **Context:** Adds to a flood of humanoid funding as the sector moves from pilots toward commercial production."
+      },
+      "zh": {
+        "title": "丰田孵化的 Walden Robotics 融资 3 亿美元，开发人形机器人",
+        "excerpt": "由 MIT 教授 Russ Tedrake 领导、从丰田孵化的 Walden Robotics 融资 3 亿美元，用于开发人形机器人，是波士顿地区有史以来最大的机器人交易之一。",
+        "content": "**Walden Robotics 融资 3 亿美元**\n\n- **初创公司：**由 MIT 教授 Russ Tedrake 领导、从丰田孵化的 Walden Robotics 融资 3 亿美元。\n- **规模：**波士顿地区有史以来最大的机器人交易之一，标志着认真的人形机器人雄心。\n- **使命：**为物流、制造以及最终家用构建通用人形机器人。\n- **支持者：**押注丰田的机器人传统加上 MIT 研究深度能够交付可行的人形机器人。\n- **背景：**在人形机器人行业从试点走向商业化生产之际，加入人形机器人融资热潮。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=400&fit=crop",
+      "category": "creative",
+      "readTime": 5,
+      "timeAgo": 2,
+      "date": "2026-07-16",
+      "en": {
+        "title": "AI-Native Lost Canon Film Series Premieres at Raindance",
+        "excerpt": "Ten filmmakers used CapCut Video Studio to create AI-native short films premiering at the Raindance Film Festival in London, a collaboration with CapCut and Moonmax.",
+        "content": "**AI-Native Lost Canon Premieres**\n\n- **The Project:** Ten filmmakers used CapCut Video Studio to create AI-native short films premiering at Raindance.\n- **Collaboration:** A partnership between CapCut and Moonmax to explore AI-native filmmaking techniques.\n- **Premiere:** Debuted at the Raindance Film Festival in London, a showcase for independent and experimental film.\n- **AI-Native:** Films were conceived and produced around generative AI tools rather than using AI only in post-production.\n- **Significance:** Signals growing mainstream interest in AI-assisted filmmaking beyond the usual tech-demo fare."
+      },
+      "zh": {
+        "title": "AI 原生《Lost Canon》系列电影在 Raindance 首映",
+        "excerpt": "十位创作者使用 CapCut Video Studio 创作了 AI 原生短片，在伦敦 Raindance 电影节首映，由 CapCut 与 Moonmax 合作。",
+        "content": "**AI 原生《Lost Canon》首映**\n\n- **项目：**十位创作者使用 CapCut Video Studio 创作了 AI 原生短片，在 Raindance 首映。\n- **合作：**CapCut 与 Moonmax 合作，探索 AI 原生电影制作技术。\n- **首映：**在伦敦 Raindance 电影节首映，展示独立和实验电影。\n- **AI 原生：**电影围绕生成式 AI 工具构思和制作，而非仅在后期制作中使用 AI。\n- **意义：**标志着对 AI 辅助电影制作日益增长的超越常规技术演示的主流兴趣。"
+      }
+    }
+  ]
+}
