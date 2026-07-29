@@ -9,12 +9,16 @@ let currentUser = null;
 let currentProfile = null;
 
 async function initAuth() {
-  const {
-    data: { session },
-  } = await supabaseClient.auth.getSession();
-  if (session) {
-    currentUser = session.user;
-    await loadProfile();
+  try {
+    const {
+      data: { session },
+    } = await supabaseClient.auth.getSession();
+    if (session) {
+      currentUser = session.user;
+      await loadProfile();
+    }
+  } catch (e) {
+    console.warn("Supabase auth unavailable:", e.message);
   }
   updateAuthUI();
 

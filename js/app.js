@@ -648,7 +648,7 @@ function renderNewsletterSection() {
       <h2 class="newsletter-title">${t("sections.newsletter")}</h2>
       <p class="newsletter-desc">${t("sections.newsletterDesc")}</p>
       <form class="newsletter-form" id="newsletter-form">
-        <input type="email" class="newsletter-input" placeholder="${t("sections.emailPlaceholder")}" required />
+        <input type="email" class="newsletter-input" placeholder="${t("sections.emailPlaceholder")}" />
         <button type="submit" class="newsletter-btn">${t("sections.subscribe")}</button>
       </form>
     `;
