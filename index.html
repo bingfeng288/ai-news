@@ -41,6 +41,25 @@
           <button class="nav-btn lang-btn" id="lang-toggle" aria-label="Toggle language">
             中文
           </button>
+          <button class="nav-btn auth-btn" id="auth-btn" data-i18n="auth.login">Login</button>
+          <div class="user-menu" id="user-menu" style="display: none;">
+            <button class="user-menu-trigger" id="user-menu-trigger" aria-label="User menu">
+              <span class="user-avatar" id="user-avatar">U</span>
+            </button>
+            <div class="user-dropdown" id="user-dropdown">
+              <div class="user-dropdown-header">
+                <span class="user-email" id="user-email"></span>
+              </div>
+              <div class="user-dropdown-item subscription-item">
+                <span data-i18n="auth.subscription">Daily Newsletter</span>
+                <label class="toggle-switch">
+                  <input type="checkbox" id="subscription-checkbox" />
+                  <span class="toggle-slider"></span>
+                </label>
+              </div>
+              <button class="user-dropdown-item user-logout" id="logout-btn" data-i18n="auth.logout">Sign Out</button>
+            </div>
+          </div>
           <button class="mobile-menu-btn" id="mobile-menu" aria-label="Menu">
             <span></span>
             <span></span>
@@ -81,12 +100,12 @@
 
       <!-- Newsletter -->
       <section class="section newsletter">
-        <div class="newsletter-container">
+        <div class="newsletter-container" id="newsletter-container">
           <h2 class="newsletter-title" data-i18n="sections.newsletter">Stay Updated</h2>
           <p class="newsletter-desc" data-i18n="sections.newsletterDesc">
-            Get the latest AI news delivered to your inbox every week.
+            Get the latest AI news delivered to your inbox every day.
           </p>
-          <form class="newsletter-form" onsubmit="event.preventDefault(); alert('Thank you for subscribing!');">
+          <form class="newsletter-form" id="newsletter-form">
             <input
               type="email"
               class="newsletter-input"
@@ -110,6 +129,31 @@
     <!-- History Page -->
     <div id="history-page" style="display: none;">
       <!-- Dynamically rendered -->
+    </div>
+
+    <!-- Auth Modal -->
+    <div class="auth-modal-overlay" id="auth-modal" style="display: none;">
+      <div class="auth-modal">
+        <button class="auth-modal-close" id="auth-modal-close" aria-label="Close">&times;</button>
+        <h2 class="auth-modal-title" id="auth-modal-title">Sign In</h2>
+        <form id="auth-form">
+          <div class="auth-field">
+            <label for="auth-email" data-i18n="auth.email">Email</label>
+            <input type="email" id="auth-email" required autocomplete="email" />
+          </div>
+          <div class="auth-field">
+            <label for="auth-password" data-i18n="auth.password">Password</label>
+            <input type="password" id="auth-password" required minlength="6" autocomplete="current-password" />
+          </div>
+          <p class="auth-error" id="auth-error" style="display: none;"></p>
+          <p class="auth-success" id="auth-success" style="display: none;"></p>
+          <button type="submit" class="auth-submit-btn" id="auth-submit-btn">Sign In</button>
+        </form>
+        <p class="auth-switch">
+          <span id="auth-switch-text">Don't have an account?</span>
+          <a href="javascript:void(0)" id="auth-switch-link">Register</a>
+        </p>
+      </div>
     </div>
 
     <!-- Footer -->
@@ -185,6 +229,8 @@
     </footer>
 
     <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js" crossorigin="anonymous"></script>
+    <script src="js/auth.js"></script>
     <script src="js/i18n.js"></script>
     <script src="js/app.js"></script>
   </body>

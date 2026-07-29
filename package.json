@@ -25,6 +25,10 @@
     "url": "https://github.com/bingfeng288/ai-news/issues"
   },
   "homepage": "https://github.com/bingfeng288/ai-news#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4",
+    "resend": "^4.0.0"
+  },
   "devDependencies": {
     "@playwright/test": "^1.58.2",
     "serve": "^14.2.6"
