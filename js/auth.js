@@ -1,7 +1,6 @@
 // Supabase Auth Module
-// TODO: Replace with your actual Supabase project URL and anon key
-const SUPABASE_URL = "https://YOUR_PROJECT.supabase.co";
-const SUPABASE_ANON_KEY = "YOUR_ANON_KEY";
+const SUPABASE_URL = "https://pdocqxcnooowrymhvclb.supabase.co";
+const SUPABASE_ANON_KEY = "sb_publishable_Fkh1cyEJetS36WU1EEIZIA_2rmUBPz6";
 
 const supabaseClient = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
