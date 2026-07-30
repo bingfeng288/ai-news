@@ -1410,6 +1410,16 @@ input:focus-visible,
   transform: translateX(18px);
 }
 
+.email-lang-select {
+  padding: 0.25rem 0.5rem;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--card-bg);
+  color: var(--text);
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
 /* ===== Auth Modal ===== */
 .auth-modal-overlay {
   position: fixed;

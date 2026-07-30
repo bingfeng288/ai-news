@@ -612,6 +612,10 @@ function updateAuthUI() {
     if (checkbox && currentProfile) {
       checkbox.checked = currentProfile.is_subscribed;
     }
+    const langSelect = document.getElementById("email-lang-select");
+    if (langSelect && currentProfile) {
+      langSelect.value = currentProfile.language || "en";
+    }
   } else {
     authBtn.style.display = "block";
     userMenu.style.display = "none";
@@ -768,6 +772,11 @@ function initAuthUI() {
   document.getElementById("subscription-checkbox")?.addEventListener("change", async (e) => {
     await toggleSubscription(e.target.checked);
     renderNewsletterSection();
+  });
+
+  // Email language select in dropdown
+  document.getElementById("email-lang-select")?.addEventListener("change", async (e) => {
+    await updateEmailLanguage(e.target.value);
   });
 
   // Logout

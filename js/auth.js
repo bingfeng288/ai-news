@@ -82,3 +82,15 @@ async function toggleSubscription(subscribe) {
   if (!error) currentProfile = data;
   return { data, error };
 }
+
+async function updateEmailLanguage(lang) {
+  if (!currentUser) return { error: "Not authenticated" };
+  const { data, error } = await supabaseClient
+    .from("profiles")
+    .update({ language: lang })
+    .eq("id", currentUser.id)
+    .select()
+    .single();
+  if (!error) currentProfile = data;
+  return { data, error };
+}
