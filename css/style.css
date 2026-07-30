@@ -1279,6 +1279,10 @@ input:focus-visible,
   font-size: 0.85rem;
   cursor: pointer;
   transition: opacity 0.2s;
+  white-space: nowrap;
+  flex-shrink: 0;
+  width: auto;
+  height: auto;
 }
 
 .auth-btn:hover {
