@@ -44,7 +44,7 @@ export default async function handler(req, res) {
 
       try {
         await resend.emails.send({
-          from: "AI News <onboarding@resend.dev>",
+          from: "AI News <news@xjagent.cn>",
           to: subscriber.email,
           subject:
             lang === "zh"
