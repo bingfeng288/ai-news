@@ -1,4 +1,8 @@
 import { test, expect } from "@playwright/test";
+import newsData from "../data/news.json";
+
+// 1 hero + one card per article; keep in sync with data/news.json
+const EXPECTED_IMAGES = 1 + newsData.articles.length;
 
 test.describe("Image Validity", () => {
   test("all homepage article images should load successfully", async ({
