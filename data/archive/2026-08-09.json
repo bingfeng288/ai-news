@@ -129,7 +129,7 @@
     {
       "id": 7,
       "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop",
-      "category": "infrastructure",
+      "category": "infra",
       "readTime": 4,
       "timeAgo": 8,
       "date": "2026-08-09",
@@ -147,7 +147,7 @@
     {
       "id": 8,
       "image": "https://images.unsplash.com/photo-1591488320449-011228d68264?w=600&h=400&fit=crop",
-      "category": "infrastructure",
+      "category": "infra",
       "readTime": 4,
       "timeAgo": 9,
       "date": "2026-08-09",
