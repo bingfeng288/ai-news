@@ -1,0 +1,202 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop",
+    "category": "llm",
+    "readTime": 7,
+    "timeAgo": 3,
+    "date": "2026-10-09",
+    "en": {
+      "title": "OpenAI Puts GPT-6 in Front of 1.2 Billion People — and Turns Answers Into Working Interfaces",
+      "excerpt": "GPT-6 rolls out to every ChatGPT tier with 'Intelligent UI': replies can now contain interactive diagrams, forms, buttons and calculators instead of text. Paid tiers run GPT-6 Sol, Free and Go run Luna, and the model starts answering while it is still thinking.",
+      "content": "**From Answers to Artifacts**\n\n- **The Rollout:** OpenAI began rolling GPT-6 out across ChatGPT on October 7, 2026, reaching Plus, Pro, Business and Enterprise first and expanding to Free and Go the next day. Paid tiers are served by GPT-6 Sol; Free and Go by GPT-6 Luna, both described as tuned for everyday conversation. The company says the model is built for the more than 1.2 billion people who use ChatGPT each week.\n- **What Intelligent UI Does:** Instead of a wall of text, GPT-6 composes replies from text, visuals and interactive elements, choosing the mix based on the question. Responses can include side-by-side comparisons, interactive diagrams, a cooking timeline next to a recipe, a map with road-trip stops, tappable buttons, forms and charts. Users can also ask for small tools — a savings calculator, a bill splitter, or a game playable inside the conversation.\n- **How It Ships:** Behind the feature is a library of native, streamable components and a compiler that processes the interface while the model generates it, so the UI draws itself progressively rather than appearing only after the full response finishes.\n- **Faster First Tokens:** GPT-6 can begin answering while still thinking. OpenAI says GPT-6 Instant starts answering 44% sooner on average than GPT-5.6 Instant on questions needing web search, and that GPT-6 Extra High begins answering in the same time as GPT-5.6 Medium while scoring better than GPT-5.6 Extra High on everyday agentic tasks.\n- **Safety Position:** OpenAI says GPT-6 resists attempts to bypass safety training more strongly than GPT-5.6 Sol, particularly attacks that adapt across multiple turns, is trained to avoid unnecessary refusals of harmless requests, with alignment evaluations run throughout training and details published in a GPT-6 system card.\n- **Scope and Caveats:** The change applies to the Chat experience only; the models powering Work and Codex are unchanged, and Enterprise availability depends on admin settings. OpenAI also concedes work remains on the model's design judgment, meaning generated interfaces will not always be well chosen.\n- **Why It Matters:** This is the clearest attempt yet to turn a chatbot into a distribution surface — if answers become tools, ChatGPT competes less with search and more with app stores. It also lands days after OpenAI scrapped GPT-6.1 Astra for safety reasons, making the message emphatic: capability ships, but packaging is now the differentiator."
+    },
+    "zh": {
+      "title": "OpenAI 把 GPT-6 推到 12 亿人面前，并把答案变成「能用的界面」",
+      "excerpt": "GPT-6 面向所有 ChatGPT 套餐上线「智能 UI」：回复可以是可交互的结构图、表单、按钮与计算器，而非纯文本。付费层跑 GPT-6 Sol，免费与 Go 层跑 Luna，模型还能边思考边作答。",
+      "content": "**从答案到成品**\n\n- **上线：** OpenAI 于 2026 年 10 月 7 日开始在 ChatGPT 中全面推送 GPT-6，先覆盖 Plus、Pro、Business 与 Enterprise，次日扩展到 Free 与 Go。付费层由 GPT-6 Sol 提供服务，免费与 Go 层由 GPT-6 Luna 提供服务，两者都被描述为面向日常对话调优。公司称，该模型为每周使用 ChatGPT 的超过 12 亿人而打造。\n- **智能 UI 做什么：** 不再是整屏文字，GPT-6 会用文本、视觉与交互元素组合出回复，并依问题决定配比。回复可包含并排对比、交互式结构图、配方旁的烹饪时间轴、带停靠点的路线地图、可点击按钮、表单与图表；用户还可以要小工具——储蓄计算器、账单分账器，或者在对话里直接玩的小游戏。\n- **实现方式：** 该能力背后是一套原生、可流式传输的组件库，以及一个在模型生成的同时处理界面的编译器，因此界面是逐步「画」出来的，而不必等整段回复写完才出现。\n- **首答更快：** GPT-6 可以边思考边开始回答。OpenAI 称，在需要联网搜索的问题上，GPT-6 Instant 的平均首答时间比 GPT-5.6 Instant 提前 44%；在日常智能体任务的内部评测中，GPT-6 Extra High 的开答时间与 GPT-5.6 Medium 相同，但整体得分高于 GPT-5.6 Extra High。\n- **安全立场：** OpenAI 表示，GPT-6 比 GPT-5.6 Sol 更能抵御绕过安全训练的尝试，尤其是跨多轮对话自适应演进的攻击；同时被训练以避免对无害请求做不必要的拒答。对齐评估贯穿整个训练过程，细节公布于 GPT-6 系统卡。\n- **范围与保留意见：** 本次变更仅适用于 Chat 体验，支撑 Work 与 Codex 的模型不变，企业版可用性取决于管理员设置。OpenAI 也承认模型在「设计判断力」上仍有待改进，意味着生成的界面并不总是选得恰当。\n- **意义：** 这是迄今最明确的一次尝试——把聊天机器人变成分发平台：如果答案变成了工具，ChatGPT 竞争的就不再是搜索，而是应用商店。它也发生在 OpenAI 因安全原因砍掉 GPT-6.1 Astra 数日之后，信号因此格外强烈：能力照发，但现在差异化在于包装。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1639322537504-6427a16b0a28?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 6,
+      "timeAgo": 6,
+      "date": "2026-10-09",
+      "en": {
+        "title": "Google Ships Gemini 4 Argon to Cyber Defenders First — With a 1M-Token Output and No Public API Yet",
+        "excerpt": "Argon leads DeepSWE at 77.9% and tops the Vals Index, with output context expanded from 64K to 1M tokens. Access starts with a vetted Fairwind cohort 'without cyber guardrails'; there is still no general availability date.",
+        "content": "**Access Itself Is the Safeguard**\n\n- **The Model:** Announced September 30 and detailed this week, Gemini 4 Argon is Google's new frontier model, aimed at software engineering, enterprise knowledge work (legal, finance) and cybersecurity defense. Its output token limit jumps from 64K to an industry-leading 1M tokens, letting it sustain deep reasoning across long, multi-step trajectories.\n- **The Benchmarks:** Google reports state-of-the-art results including DeepSWE v1.1 at 77.9% (vs Claude Opus 5.5 at 74.2%), #1 on the Vals Index for economically weighted finance/coding/legal/tax work, #1 on Zapier's AutomationBench at 51.3%, LVBench long-video understanding at 91.7%, and a tie for first on CWE-bench v1 at 68%. Reuters notes Argon beats OpenAI Astra and Anthropic Opus on several benchmarks but trails on two of four coding benchmarks.\n- **The Rollout:** Rather than opening the API, Google routes initial access through DeepMind's Fairwind Program to a vetted cohort of trusted cyber defenders and internal Google security teams — delivered 'without cyber guardrails' so defenders can use its full vulnerability-discovery and patch-synthesis capability. Participants must use phishing-resistant MFA, restrict access to designated security staff, track usage and pass background checks; Google is also engaged in the US government's voluntary pre-release access process.\n- **Early Signal:** Wiz's Scan for Good initiative used Argon to uncover a previously unknown critical vulnerability exposing sensitive personal information in healthcare software used by hospitals worldwide.\n- **The Catch:** There is no published API identifier, no Vertex AI or AI Studio listing, and no GA date; paid API customers and Google AI Ultra subscribers are first in line when access expands. Introductory pricing is $2 per million input and $10 per million output tokens (standard $4/$20), with cached input at 95% off.\n- **Why It Matters:** It inverts the usual launch playbook — the most capable model goes to defenders before developers — and makes access management, not just model quality, the thing enterprise buyers have to evaluate."
+      },
+      "zh": {
+        "title": "谷歌 Gemini 4 Argon 先给网络安全防御者：1M 输出、尚无公开 API",
+        "excerpt": "Argon 以 DeepSWE 77.9% 领先、登顶 Vals 指数，输出上下文从 64K 扩到 1M token。首批访问给经审核的 Fairwind 队列，「不带网络护栏」；仍无正式可用日期。",
+        "content": "**访问本身就是护栏**\n\n- **模型：** Gemini 4 Argon 于 9 月 30 日宣布、本周披露细节，是谷歌新的前沿模型，面向软件工程、企业知识工作（法律、金融）与网络安全防御。其输出 token 上限从 64K 跃升至业界领先的 1M，使其能在长链条、多步骤的轨迹上维持深度推理。\n- **榜单：** 谷歌报告的成绩包括：DeepSWE v1.1 达 77.9%（Claude Opus 5.5 为 74.2%）；在按美国 GDP 贡献加权的 Vals 指数（金融/编程/法律/税务）上位居第一；在 Zapier 的 AutomationBench 上以 51.3% 排名第一；长视频理解 LVBench 达 91.7%；CWE-bench v1 以 68% 并列第一。路透指出，Argon 在若干基准上超过 OpenAI Astra 与 Anthropic Opus，但在四项编程基准中有两项落后。\n- **发布方式：** 谷歌没有开放 API，而是通过 DeepMind 的 Fairwind 计划把首批访问给经审核的可信网络安全防御者队列与谷歌内部安全团队——以「不带网络护栏」的形态交付，让防御方使用其完整的漏洞发现与补丁合成能力。参与方必须使用抗钓鱼的多因素认证、把访问限定在指定安全岗位、记录使用情况并通过背景审查；谷歌同时参与了美国政府的自愿性发布前访问流程。\n- **早期信号：** Wiz 的 Scan for Good 计划用 Argon 发现了一个此前未知的关键漏洞，该漏洞在全球医院使用的医疗软件中暴露了敏感个人信息。\n- **限制：** 目前没有公开的 API 标识、没有 Vertex AI 或 AI Studio 条目、也没有正式可用日期；访问扩大时，付费 API 客户与 Google AI Ultra 订阅者排在最前。首发定价为每百万输入 2 美元、输出 10 美元（标准价 4/20 美元），缓存输入优惠 95%。\n- **意义：** 它颠倒了常规的发布剧本——最有能力的模型先给防御者而非开发者——并让「访问管理」而非仅仅是模型质量，成为企业买家必须评估的东西。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 9,
+      "date": "2026-10-09",
+      "en": {
+        "title": "Anthropic Cuts Haiku 5.5 Pricing by Up to 90% as the Model Wars Move to Unit Economics",
+        "excerpt": "Claude Haiku 5.5 lands at $0.10/$0.50 per million tokens under 100K tokens — roughly 75% below Haiku 4.5 on average running cost — while Sonnet 5.5 is 30% faster and up to 30% cheaper. Both serve as sub-agents for Opus 5.5.",
+        "content": "**The Cheap Tier Gets Serious**\n\n- **Haiku 5.5:** Anthropic released Claude Haiku 5.5, its cheapest, fastest and most capable small model yet. For requests under 100,000 tokens, API pricing is $0.10 input and $0.50 output per million tokens — about 90% below Haiku 4.5 at that threshold, with average running cost down roughly 75%. It is the first Haiku with adjustable reasoning effort, and it improves on coding and computer-use tasks over Haiku 4.5.\n- **Sonnet 5.5:** The second Claude 5.5 model after Opus 5.5 is priced the same as Sonnet 5 ($2/$10 per million) with cache reads halved to $0.10, runs 30%+ faster and costs up to 30% less for most work, with thinking on by default.\n- **The Architecture Play:** Haiku 5.5 is positioned as a sub-agent for Opus 5.5 and Sonnet 5.5, letting teams route cheap high-throughput work to a small model while reserving frontier capacity for hard steps.\n- **The Context:** The pricing lands as Anthropic pushes toward a possible IPO as soon as November at a valuation of up to $2 trillion, and as OpenAI simultaneously pushed GPT-6 to free tiers. Cheap tokens are how both labs defend share against each other and against open-weight alternatives.\n- **Why It Matters:** Frontier competition has shifted from benchmark leadership to unit economics — the question for buyers is no longer which model is best, but what a task costs at acceptable quality."
+      },
+      "zh": {
+        "title": "Anthropic 将 Haiku 5.5 价格砍九成，模型战转向单位经济",
+        "excerpt": "Claude Haiku 5.5 在 10 万 token 以内定价 0.10/0.50 美元每百万——平均运行成本较 Haiku 4.5 低约 75%；Sonnet 5.5 快 30%、便宜最多 30%。两者均可作为 Opus 5.5 的子智能体。",
+        "content": "**廉价层开始认真了**\n\n- **Haiku 5.5：** Anthropic 发布 Claude Haiku 5.5，为其迄今最便宜、最快且能力最强的小模型。对不超过 10 万 token 的请求，API 定价为每百万 token 输入 0.10 美元、输出 0.50 美元——在该门槛下较 Haiku 4.5 低约 90%，平均运行成本下降约 75%。这是首个支持可调节推理强度（effort）的 Haiku，编程与电脑操作能力较 4.5 明显提升。\n- **Sonnet 5.5：** 继 Opus 5.5 之后的第二款 Claude 5.5 模型，定价与 Sonnet 5 持平（每百万 2/10 美元），缓存读取价砍半至 0.10 美元，速度提升 30% 以上，多数任务成本最多低 30%，默认开启思考。\n- **架构打法：** Haiku 5.5 被定位为 Opus 5.5 与 Sonnet 5.5 的子智能体，让团队把高吞吐的廉价工作路由给小模型，把前沿算力留给困难环节。\n- **背景：** 此定价出现在 Anthropic 冲刺最早 11 月上市、估值最高 2 万亿美元之际，同时 OpenAI 正把 GPT-6 推向免费层。廉价 token 是两家实验室互相防御份额、并对抗开源权重替代品的方式。\n- **意义：** 前沿竞争已从榜单领先转向单位经济——买家的问题不再是「哪个模型最好」，而是「一项任务在可接受质量下要花多少钱」。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 6,
+      "timeAgo": 12,
+      "date": "2026-10-09",
+      "en": {
+        "title": "RoboJEPA Gives Robotics a Scaling Law: 8B Parameters, 15,022 Hours of Robot Video, and a Compute Ladder",
+        "excerpt": "Meta FAIR and Mila open-source an 8B latent world model — the largest JEPA predictor to date — with a second-order power law that predicts capability before you spend the compute. Skills appear at thresholds, not smoothly.",
+        "content": "**From Guesswork to Forecasting**\n\n- **The Model:** RoboJEPA, from FAIR at Meta, Mila and collaborators, trains a Joint Embedding Predictive Architecture world model from 22M up to 8B parameters on 23 public manipulation datasets spanning 12 embodiments, 26 action spaces and 15,022 hours of robot video (6,692 hours action-synchronized). At 8B it is the largest JEPA predictor trained to date; all checkpoints, training code and deployment code are released.\n- **The Scaling Law:** Imagination error — the error of latent rollouts — follows a second-order power law in compute, L(C) = E + A·C^(α − γ ln C). Fits made on 22M–2B models extrapolate accurately onto held-out 4B and 8B runs, with held-out error of 0.6×10⁻³ on DROID versus 2.0×10⁻³ for a standard power law.\n- **The Capability Ladder:** Skills emerge at specific compute thresholds rather than improving smoothly: 3D end-effector control around 10^20 FLOPs, manipulating a grasped object near 3×10^20, static scene geometry near 10^21, and fine object dynamics such as pushing only past 10^22 — below which no model achieved a positive success rate regardless of size.\n- **Real Hardware:** Deployed zero-shot on a single Franka arm from one goal image, with no task-specific fine-tuning, the 8B model succeeds 67% on Grasp, 50% on Object Lift and 27% on Pick and Place. The authors stress comparisons with VLA baselines π₀-FAST and π₀.5 are contextual, not head-to-head.\n- **The Ceiling:** Irreducible error terms come in at 0.218 on DROID and 0.1709 on RoboCasa — read as near-saturation on the current data budget, suggesting more varied robot data, not just more parameters, is the next constraint.\n- **Why It Matters:** It imports the LLM scaling-law playbook into robotics: teams can now budget compute against a forecast capability curve, and gate expensive hardware trials on a cheap offline metric."
+      },
+      "zh": {
+        "title": "RoboJEPA 给机器人带来缩放定律：8B 参数、15022 小时机器人视频、一条算力阶梯",
+        "excerpt": "Meta FAIR 与 Mila 开源 8B 潜空间世界模型——迄今最大的 JEPA 预测器——并给出一个二阶幂律，能在花掉算力之前预测能力。技能是在阈值处「出现」的，而非平滑提升。",
+        "content": "**从拍脑袋到可预测**\n\n- **模型：** RoboJEPA 来自 FAIR at Meta、Mila 及合作者，采用联合嵌入预测架构（JEPA），在 23 个公开操作数据集上训练，覆盖 12 种机器人本体、26 种动作空间、15,022 小时机器人视频（其中 6,692 小时动作同步），参数规模从 2200 万扩到 80 亿。8B 版本是迄今训练过最大的 JEPA 预测器；全部检查点、训练代码与部署代码均已开源。\n- **缩放定律：** 「想象误差」（潜空间推演的误差）随算力服从二阶幂律 L(C) = E + A·C^(α − γ ln C)。在 2200 万至 20 亿模型上拟合出的曲线，能准确外推到留出验证的 40 亿与 80 亿运行，DROID 上留出误差为 0.6×10⁻³，而标准幂律为 2.0×10⁻³。\n- **能力阶梯：** 技能是在特定算力阈值处涌现的，而非平滑提升：末端执行器的三维控制在约 10^20 FLOPs，操作已抓取物体约 3×10^20，静态场景几何约 10^21，而推动等精细物体动力学要超过 10^22——在此之下无论模型多大，成功率都为零。\n- **真实硬件：** 在单臂 Franka 上以单张目标图零样本部署、无任何任务微调，8B 模型在抓取上成功 67%、物体提起 50%、取放 27%。作者强调与 VLA 基线 π₀-FAST 与 π₀.5 的比较是情境性参照，并非正面对抗。\n- **天花板：** 不可约误差项在 DROID 上为 0.218、RoboCasa 上为 0.1709——被解读为在当前数据预算下已接近饱和，说明下一步的约束是更多样的机器人数据，而不只是更多参数。\n- **意义：** 它把大语言模型的缩放定律方法论搬进了机器人领域：团队现在可以拿一条可预测的能力曲线来规划算力预算，并用廉价的离线指标来把关昂贵的硬件试验。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 5,
+      "timeAgo": 15,
+      "date": "2026-10-09",
+      "en": {
+        "title": "A Stanford PhD Student Used Generative AI to Design Virus Blueprints That Kill Bacteria in the Lab",
+        "excerpt": "Samuel King used a generative model to produce genetic blueprints for microscopic viruses, and the synthetic designs already kill bacteria in laboratory settings. AI capability has moved from digital content into biological engineering.",
+        "content": "**Design, Not Just Description**\n\n- **The Work:** A Stanford PhD student, Samuel King, used a generative AI model to create genetic blueprints for microscopic viruses. The synthetic designs already kill bacteria in laboratory settings — meaning the output is not a simulation or a paper, but a functional biological artifact.\n- **What Changed:** Generative models have been used to propose protein structures for years. The shift here is toward end-to-end design of an infectious agent's genome and the demonstrated ability of those designs to act in a wet lab, compressing the distance between a prompt and a working organism.\n- **The Dual Use:** The same capability points both ways: toward phage therapies that could address antibiotic-resistant infections, and toward automated design of pathogens. Practitioners now have to weigh the efficiency of automated protein and genome design against the heightened risk of synthetic pathogen creation.\n- **The Governance Gap:** This lands as the White House Super Intelligence Force explicitly names biosecurity as a focus area, and as Anthropic has disclosed foreign scientists using its models to research dangerous pathogens. Wet-lab access, sequence-synthesis screening and model guardrails remain governed by different, only loosely connected regimes.\n- **Why It Matters:** It is a concrete case where the bottleneck is no longer model capability but institutional screening — the question is whether oversight of synthesis providers can keep pace with design tools that are increasingly a prompt away."
+      },
+      "zh": {
+        "title": "斯坦福博士生用生成式 AI 设计出能在实验室杀死细菌的病毒蓝图",
+        "excerpt": "Samuel King 用生成模型产出微观病毒的基因蓝图，这些合成设计已在实验室中杀死细菌。AI 能力已从数字内容跨入生物工程。",
+        "content": "**是设计，不只是描述**\n\n- **这项工作：** 斯坦福博士生 Samuel King 使用生成式 AI 模型，为微观病毒创建了基因蓝图。这些合成设计已在实验室环境中杀死细菌——意味着产出不是模拟或论文，而是有功能的生物实体。\n- **变化在哪：** 生成模型用于提出蛋白质结构已有多年。此处的转变是：对一个感染性因子的基因组做端到端设计，且这些设计在湿实验室中被证实具有功能，把「一条提示词」到「一个能工作的生物体」之间的距离压缩了。\n- **双用途：** 同一能力指向两个方向：既能做噬菌体疗法、应对抗生素耐药感染，也能自动化设计病原体。从业者现在必须权衡自动化蛋白质与基因组设计的效率，与合成病原体被制造出来的更高风险。\n- **治理缺口：** 此事发生之际，白宫「超级智能工作组」明确把生物安全列为重点方向，Anthropic 也已披露有外国科学家利用其模型研究危险病原体。而湿实验室准入、序列合成筛查与模型护栏，仍受制于彼此松散耦合的不同监管体系。\n- **意义：** 这是一个具体案例，其瓶颈已不再是模型能力，而是机构筛查——问题在于合成服务商的监督能否跟上那些「只差一条提示词」的设计工具。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 5,
+      "timeAgo": 18,
+      "date": "2026-10-09",
+      "en": {
+        "title": "Meta Measures the Benchmark Illusion: Agents Score 82.4% Against a Model User, 63.6% Against a Real One",
+        "excerpt": "The same agent succeeded 63.6% of the time with real people and 82.4% or better when a frontier model played the user. Most agent benchmarks seat another LLM as the user — and LLMs are trained to cooperate.",
+        "content": "**The Gap Is the User, Not the Agent**\n\n- **The Measurement:** Meta found the same agent succeeded 63.6% of the time with real people, versus 82.4% or better when a frontier model stood in as the user. That is a nearly 19-point gap attributable entirely to who is on the other side of the conversation.\n- **Why It Happens:** Most agent benchmarks put another language model in the user's seat, and language models are trained to be cooperative. Real people change their minds mid-task, withhold details the agent needs, and keep their success criteria inside their heads rather than stating them.\n- **The Implication:** A leaderboard number earned against a simulated, agreeable user systematically overstates production performance. Teams sizing an agent rollout on benchmark numbers are budgeting against a friendlier world than the one they will ship into.\n- **The Fix Is Not Better Benchmarks:** The recommendation is to test against your own messy inputs early, and to design an explicit agent workflow that forces the ambiguity to the surface — what the agent asks for, when it confirms, and how it recovers.\n- **Why It Matters:** It reframes agent evaluation as a data-quality problem: representative user traces are worth more than another point of benchmark headroom."
+      },
+      "zh": {
+        "title": "Meta 量化了「榜单幻觉」：面对模型用户 82.4%，面对真人只有 63.6%",
+        "excerpt": "同一个智能体面对真人的成功率为 63.6%，而由前沿模型扮演用户时达 82.4% 甚至更高。多数智能体基准让另一个大模型坐在用户位上——而大模型是被训练来配合的。",
+        "content": "**差距在用户，不在智能体**\n\n- **测量：** Meta 发现，同一个智能体面对真人时成功率为 63.6%，而当由前沿模型扮演用户时达 82.4% 甚至更高。这近 19 个百分点的差距，完全来自对话另一端是谁。\n- **为何发生：** 多数智能体基准把另一个语言模型放在用户的位置上，而语言模型是被训练得乐于配合的。真人会在任务中途改主意、隐瞒智能体需要的信息，并把成功标准留在自己脑子里而不说出口。\n- **含义：** 在模拟的、配合度高用户身上取得的榜单分数，会系统性高估生产环境表现。拿榜单数字来估算智能体上线规模的团队，是在按一个比真实世界更友好的环境做预算。\n- **解法不是更好的榜单：** 建议是尽早拿自己那些混乱的真实输入来测试，并设计一套明确的智能体工作流，把歧义逼到台面上——智能体会问什么、何时确认、以及如何恢复。\n- **意义：** 它把智能体评测重新定义为一个数据质量问题：有代表性的真实用户轨迹，比榜单上再高一个点更有价值。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 6,
+      "timeAgo": 21,
+      "date": "2026-10-09",
+      "en": {
+        "title": "The Attack Surface Moved: Pwn2Own Breaks Codex and LiteLLM, LMCache Ships an Unpatched RCE",
+        "excerpt": "Researchers broke OpenAI's Codex and the LiteLLM gateway with a decades-old bug class, while an unpatched flaw sits in a widely used inference caching layer. The interesting risk is no longer what models say, but what the systems around them can be made to do.",
+        "content": "**Models Are Not the Weakest Link**\n\n- **The Contest:** At Pwn2Own, researchers broke OpenAI's Codex and the LiteLLM gateway — a hosted coding agent and a piece of middleware many teams run themselves — using a decades-old bug class rather than anything novel to AI.\n- **The Infrastructure Flaw:** An unpatched remote-code-execution flaw sits in LMCache, a widely used caching layer for LLM inference, affecting self-hosted vLLM deployments. Using a hosted API moves that particular problem onto your provider rather than removing it.\n- **The Pattern:** As labs harden model-level guardrails, attention is shifting to the surrounding stack — agent harnesses, gateways, caches, and the permissions those components hold. Autonomy amplifies the blast radius of ordinary software bugs.\n- **The Counter-Move:** Anthropic is pitching itself as infrastructure defense, expanding access programs for defensive security work; Google is routing Gemini 4 Argon to vetted cyber defenders first. Both treat access control as the product.\n- **The Practical Rule:** Know which services in your chain accept input from the outside world, and give each the narrowest permissions it can still do its job with. The relevant question is no longer whether the model is aligned, but what a compromised component around it can reach."
+      },
+      "zh": {
+        "title": "攻击面转移了：Pwn2Own 攻破 Codex 与 LiteLLM，LMCache 存在未修补 RCE",
+        "excerpt": "研究者用几十年前的漏洞类别攻破了 OpenAI 的 Codex 与 LiteLLM 网关；同时一个广泛使用的推理缓存层存在未修补漏洞。值得关注的风险已不是模型说了什么，而是它周边的系统能被用来做什么。",
+        "content": "**模型不是最弱的一环**\n\n- **赛事：** 在 Pwn2Own 上，研究者攻破了 OpenAI 的 Codex 与 LiteLLM 网关——一个是托管的编程智能体，另一个是许多团队自行部署的中间件——所用的是几十年前的漏洞类别，而非任何 AI 特有的新手法。\n- **基础设施漏洞：** LMCache 这个被广泛使用的大模型推理缓存层存在一处未修补的远程代码执行漏洞，影响自建的 vLLM 部署。改用托管 API 只是把这个特定问题转嫁给你的供应商，并未消除它。\n- **模式：** 随着实验室加固模型层护栏，注意力正转向周边的栈——智能体框架、网关、缓存，以及这些组件所持有的权限。自主性会放大普通软件漏洞的爆炸半径。\n- **反向动作：** Anthropic 正把自己定位为「基础设施防御」，扩大面向防御性安全工作的访问计划；谷歌则把 Gemini 4 Argon 先给经审核的网络安全防御者。两者都把访问控制当作产品本身。\n- **实践准则：** 弄清你这条链上哪些服务接受外部输入，并给每一个它仍能完成工作所需的最小权限。相关问题已不再是「模型是否对齐」，而是「它周边某个被攻陷的组件能触及什么」。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 5,
+      "timeAgo": 24,
+      "date": "2026-10-09",
+      "en": {
+        "title": "Claude Opus 5.5 Wrote a Rust Port of the TypeScript Compiler — All 181,711 Ported Tests Pass",
+        "excerpt": "Theo Browne published tsc-rs: the TypeScript 7 compiler, type checker and language server rewritten in Rust entirely by Claude Opus 5.5. Two weeks, about $24,000 in Claude Code usage, and every ported Go test passes.",
+        "content": "**A Verifiable Milestone**\n\n- **The Artifact:** Theo Browne published tsc-rs — a Rust port of the TypeScript 7 compiler, type checker and language server, written entirely by Claude Opus 5.5. The README reports that all 181,711 ported Go tests pass.\n- **The Cost:** The port took about two weeks and roughly $24,000 in Claude Code usage — numbers that matter because they are auditable, unlike most anecdotes about AI coding productivity.\n- **Why This One Is Different:** A compiler with an existing test suite is the rare AI-coding claim that can be checked rather than argued about. Either the ported tests pass or they do not, and here they do.\n- **The Caveat:** Passing a ported test suite demonstrates functional equivalence on covered behavior; it is not a statement about performance, maintainability, or the long-term cost of code no human author fully holds in their head.\n- **Why It Matters:** It moves the conversation from 'AI can help write code' to 'AI can complete a large, testable migration' — and it gives teams a concrete price-and-time data point for scoping similar work."
+      },
+      "zh": {
+        "title": "Claude Opus 5.5 写出 TypeScript 编译器的 Rust 移植版，18.1 万个移植测试全通过",
+        "excerpt": "Theo Browne 发布 tsc-rs：TypeScript 7 的编译器、类型检查器与语言服务器的 Rust 移植，完全由 Claude Opus 5.5 完成。耗时两周、约 2.4 万美元 Claude Code 用量，移植过来的 Go 测试全部通过。",
+        "content": "**一个可验证的里程碑**\n\n- **产物：** Theo Browne 发布了 tsc-rs——TypeScript 7 编译器、类型检查器与语言服务器的 Rust 移植版，完全由 Claude Opus 5.5 写成。README 报告称全部 181,711 个移植过来的 Go 测试通过。\n- **成本：** 这次移植耗时约两周、约 2.4 万美元的 Claude Code 用量——这些数字之所以重要，是因为它们可被审计，不同于大多数关于 AI 编程生产力的轶事。\n- **此次有何不同：** 一个自带测试套件的编译器，是少见的「可被检验而非只能争论」的 AI 编程声明。移植测试要么通过要么不通过，而这里是通过的。\n- **保留意见：** 通过移植来的测试套件，只证明在已被覆盖的行为上功能等价；它并不说明性能、可维护性，也不说明一段没有任何人类作者完全掌握的代码在长期维护上的成本。\n- **意义：** 它把讨论从「AI 能帮忙写代码」推进到「AI 能完成一次大型、可测试的迁移」，并为团队估算同类工作提供了具体的时间与价格数据点。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a761230?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 27,
+      "date": "2026-10-09",
+      "en": {
+        "title": "Manus's Parent Butterfly Effect Raises Over $500M at a Reported $4B Valuation",
+        "excerpt": "Butterfly Effect, the company behind the Manus agent, closed what is reported as a record funding round for a Chinese AI application, at a valuation of about $4 billion.",
+        "content": "**A Record for a Chinese AI Application**\n\n- **The Round:** Butterfly Effect, the parent company of the Manus AI agent, raised more than $500 million at a reported $4 billion valuation — described as a record round for a Chinese AI application company.\n- **What It Signals:** Capital is flowing to agent products rather than only to foundation-model labs. Manus is an application-layer agent, and a half-billion-dollar round at this valuation suggests investors are betting distribution and product execution matter as much as model quality.\n- **The Context:** The raise lands in the same weeks that Anthropic and OpenAI are raising or listing at valuations in the hundreds of billions to trillions, and as Chinese labs continue to ship competitive open-weight models. Application-layer agents are where the model surplus is being converted into users.\n- **The Risk:** Application-layer agents depend on model providers they do not control, compressing margins if inference prices keep falling — or expanding them, as Haiku 5.5 and GPT-6 Luna push token costs down.\n- **Why It Matters:** It is a marker that the agent layer is being capitalized as its own category, not merely as a feature of whoever owns the best model."
+      },
+      "zh": {
+        "title": "Manus 母公司蝴蝶效应融资超 5 亿美元，报道估值约 40 亿",
+        "excerpt": "Manus 智能体的母公司蝴蝶效应完成一轮超过 5 亿美元的融资，报道估值约 40 亿美元——被称中国 AI 应用公司的纪录级融资。",
+        "content": "**中国 AI 应用的纪录**\n\n- **本轮：** AI 智能体 Manus 的母公司蝴蝶效应（Butterfly Effect）完成超过 5 亿美元融资，报道估值约 40 亿美元，被称为中国 AI 应用公司的纪录级一轮。\n- **信号：** 资本正在流向智能体产品，而不只是基础模型实验室。Manus 属于应用层智能体，而以这一估值融到 5 亿美元，说明投资者在押注：分发与产品执行力和模型质量同样重要。\n- **背景：** 此轮发生在 Anthropic 与 OpenAI 正以数千亿到万亿级估值融资或上市的同一时间窗口，中国实验室也在持续发布有竞争力的开源权重模型。应用层智能体正是把模型过剩产能转化为用户的地方。\n- **风险：** 应用层智能体依赖自己无法控制的模型供应商——如果推理价格继续下行，利润会被压缩；但也可能因 Haiku 5.5 与 GPT-6 Luna 把 token 成本压低而获益。\n- **意义：** 这标志着智能体层正作为一个独立品类被资本化，而不只是「谁拥有最好模型」的一项功能。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 5,
+      "timeAgo": 30,
+      "date": "2026-10-09",
+      "en": {
+        "title": "AP-NORC Poll Finds a Bipartisan Consensus: AI Is Advancing Too Fast for Society to Manage",
+        "excerpt": "Americans across parties say AI is developing too quickly, and want the government to prioritize human control and worker protections over unchecked growth — a rare bipartisan signal with direct pressure on lawmakers.",
+        "content": "**Agreement Across the Aisle**\n\n- **The Finding:** A recent AP-NORC poll finds a bipartisan consensus that artificial intelligence is advancing too quickly for society to manage. Respondents urged the US government to prioritize human control and worker protections over unchecked growth.\n- **Why Bipartisanship Matters:** AI policy has largely been fought along partisan lines — deregulation versus guardrails. Cross-party agreement on pace removes the easiest political cover for doing nothing, and raises the cost of ignoring safety legislation.\n- **The Policy Pressure:** Public anxiety pushes lawmakers toward accelerating safety rules. It lands as the White House's Super Intelligence Force runs its 120-day clock and as states continue to layer their own AI obligations.\n- **The Tension:** The public is asking for restraint at the same moment the administration frames falling behind China as a risk on par with safety failures, and labs are shipping more capability, not less — GPT-6 to free tiers, Gemini 4 Argon to defenders, Haiku 5.5 at a fraction of prior cost.\n- **Why It Matters:** Demand-side sentiment is now measurable and bipartisan, which changes what is politically defensible when the next incident forces a vote."
+      },
+      "zh": {
+        "title": "AP-NORC 民调：两党罕见一致认为 AI 发展过快、社会难以招架",
+        "excerpt": "跨党派的美国人都认为 AI 发展过快，并希望政府把「人的控制」与劳动者保护置于无节制增长之上——这一罕见的两党信号对立法者构成直接压力。",
+        "content": "**跨党派的一致**\n\n- **发现：** 最近的 AP-NORC 民调显示，两党罕见达成一致：人工智能发展过快，社会难以招架。受访者敦促美国政府把「人的控制」与劳动者保护置于无节制增长之上。\n- **为何两党一致重要：** AI 政策长期以来沿党派线交锋——放松监管对阵设置护栏。跨党派在「发展速度」上达成一致，消除了「什么都不做」最容易找的政治挡箭牌，也提高了忽视安全立法的代价。\n- **政策压力：** 公众焦虑推动立法者加速安全规则。此时白宫「超级智能工作组」的 120 天时钟正在走动，各州也在继续叠加自己的 AI 义务。\n- **张力：** 公众要求克制的同时，政府却把「落后于中国」视为与安全失败同等的风险，而实验室在交付更多而非更少的能力——GPT-6 下放到免费层、Gemini 4 Argon 交给防御者、Haiku 5.5 以先前零头的价格出售。\n- **意义：** 需求端的情绪现在是可测量且跨党派的，这改变了下一次事件迫使投票时，什么在政治上站得住脚。"
+      }
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 6,
+      "timeAgo": 33,
+      "date": "2026-10-09",
+      "en": {
+        "title": "AI Infrastructure Hits the Grid: Oracle's 1.3GW Site Slips to 2028 as Chip Financing Runs Into the Hundreds of Billions",
+        "excerpt": "Oracle's Wisconsin data center may not get full power until 2028 or 2029 with costs up 75%, while Broadcom arranges $50B+ for OpenAI's chips and SpaceX seeks $40B for Nvidia hardware. Compute is no longer the only constraint.",
+        "content": "**The Bottleneck Moved to the Wire**\n\n- **The Delay:** Oracle's 1.3GW Wisconsin data center faces a restart of its transmission approval, pushing full-power operation to 2028 or 2029 and raising project cost by about 75%. The grid bottleneck defers roughly $900 million of monthly revenue, compounding credit-rating and margin pressures.\n- **The Pattern:** This follows a stalled Oracle project in New Mexico. Data-center buildouts are colliding with interconnection queues and transmission permitting, meaning capital alone no longer buys delivery dates.\n- **The Financing:** Broadcom is working to arrange more than $50 billion in financing for the chips OpenAI needs; Oracle is in talks with Apollo and Goldman Sachs over chip financing; SpaceX is seeking about $40 billion for Nvidia chips, split roughly as a $10 billion bank loan plus $30 billion in investment-grade bonds.\n- **What It Means:** Frontier AI is now financing-constrained and grid-constrained at once. The industry is layering vendor financing, bank debt and bond markets on top of equity to fund hardware that cannot be powered on schedule.\n- **Why It Matters:** Investors and planners should stop modeling AI capacity as a function of chip supply. Power interconnection and the cost of capital are now first-order variables in whether announced capacity ever turns into compute."
+      },
+      "zh": {
+        "title": "AI 基建撞上电网：甲骨文 1.3GW 站点推迟至 2028，芯片融资冲上数千亿",
+        "excerpt": "甲骨文威斯康星数据中心全功率供电或推迟到 2028–2029、成本涨约 75%；同时博通为 OpenAI 所需芯片安排 500 亿+ 融资，SpaceX 为英伟达硬件筹 400 亿。算力已不再是唯一约束。",
+        "content": "**瓶颈转移到了电线上**\n\n- **延期：** 甲骨文位于威斯康星州的 1.3GW 数据中心，因输电审批重启，全功率运行可能推迟到 2028 或 2029 年，项目成本上涨约 75%。电网瓶颈导致每月近 9 亿美元营收递延，并加剧信用评级与保证金压力。\n- **模式：** 此前甲骨文在新墨西哥州的项目也已受阻。数据中心建设正与并网排队、输电许可正面相撞——意味着仅靠资本已买不到交付日期。\n- **融资：** 博通正设法为 OpenAI 所需芯片安排超过 500 亿美元融资；甲骨文正与阿波罗、高盛洽谈芯片融资；SpaceX 为英伟达芯片筹措约 400 亿美元，大致拆分为 100 亿银行贷款加 300 亿投资级债券。\n- **意味着什么：** 前沿 AI 现在同时受融资约束与电网约束。行业正在股权之上叠加供应商融资、银行债务与债券市场，去为那些无法按时通电的硬件筹资。\n- **意义：** 投资者与规划者不该再把 AI 产能建模为芯片供应的函数。并网许可与资本成本，如今已成为「已宣布的产能能否真正变成算力」的一阶变量。"
+      }
+    }
+  ]
+}
