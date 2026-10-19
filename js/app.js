@@ -138,6 +138,12 @@ function updateContent() {
   if (historyPage && historyPage.style.display !== "none") {
     renderHistoryPage();
   }
+
+  // Re-render newsletter section. Its content is generated dynamically by
+  // renderNewsletterSection() (subscribe/unsubscribe state), so the
+  // [data-i18n] pass above does not touch it. Without this call the
+  // section keeps the previous language until a full page reload.
+  renderNewsletterSection();
 }
 
 function renderHero(article) {
