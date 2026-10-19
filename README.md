@@ -136,4 +136,4 @@ xjagent.cn ──── 国内可访问 / reachable in CN
 
 ## 许可证 / License
 
-ISC — 详见 [package.json](./package.json)。· See [package.json](./package.json).
+MIT — 见 [LICENSE](./LICENSE)。· See [LICENSE](./LICENSE).

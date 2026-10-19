@@ -8,7 +8,10 @@
     "test:chromium": "npx playwright test --project=chromium",
     "test:mobile": "npx playwright test --project=mobile-chrome",
     "test:report": "npx playwright show-report",
-    "serve": "npx serve . -l 3456 -s"
+    "test:unit": "vitest run",
+    "lint": "eslint js/ unit/",
+    "serve": "npx serve . -l 3456 -s",
+    "validate:schema": "node scripts/validate-news.js"
   },
   "repository": {
     "type": "git",
@@ -20,7 +23,7 @@
     "static-site"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bingfeng288/ai-news/issues"
   },
@@ -30,7 +33,10 @@
     "resend": "^4.0.0"
   },
   "devDependencies": {
+    "@eslint/js": "^10.0.1",
     "@playwright/test": "^1.58.2",
-    "serve": "^14.2.6"
+    "eslint": "^10.8.0",
+    "serve": "^14.2.6",
+    "vitest": "^4.1.10"
   }
 }
