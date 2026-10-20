@@ -1,0 +1,202 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=600&fit=crop",
+    "category": "business",
+    "readTime": 7,
+    "timeAgo": 8,
+    "date": "2026-10-21",
+    "en": {
+      "title": "Alibaba Lays Out Full-Stack AI Roadmap: Qwen 4 in Training, In-House 'Zhenwu V900' Chip, 20GW of Data Centers by 2032",
+      "excerpt": "At its Apsara Conference, Alibaba detailed a vertically integrated AI strategy spanning models, proprietary silicon and cloud, with Qwen 4 already in training and a 20GW global data-center target.",
+      "content": "**A Full-Stack Bet**\n\n- **The Announcement:** At the 2026 Apsara Conference in Hangzhou, Alibaba CEO Eddie Wu laid out a full-stack AI strategy across models, chips and cloud, stating the group will invest firmly in AI models, AI silicon and AI cloud as the three pillars of the 'Machine Intelligence' era.\n- **Models:** Alibaba confirmed **Qwen 4 is now in training**, with later versions (Qwen 4.5, Qwen 5) planned at **5-10 trillion parameters** to handle complex, long-horizon agent tasks. Qwen3.8-Max applied recursive self-improvement (RSI), completing **33 automated training cycles** that lifted its Artificial Analysis score from 40 to 45.\n- **Silicon:** T-Head unveiled the **Zhenwu V900** AI accelerator - 3x the performance of the earlier M890, with 216GB memory and 1,200GB/s inter-chip bandwidth, mass production scheduled for Q1 2027. A single cluster can scale to 500,000 cards.\n- **Infrastructure:** Wu set a quantified target: by 2032, Alibaba Cloud's global data-center capacity will **exceed 20GW**, reflecting expectations of steep, sustained AI compute demand.\n- **Why It Matters:** The move signals Chinese cloud giants are racing to own the entire AI stack - from silicon to model to deployment - rather than renting from Nvidia and U.S. hyperscalers."
+    },
+    "zh": {
+      "title": "阿里发布全栈 AI 路线图：Qwen 4 已开训、自研'真武 V900'芯片、2032 年数据中心超 20GW",
+      "excerpt": "在云栖大会上，阿里披露覆盖模型、自研芯片与云的一体化 AI 战略，Qwen 4 已进入训练，并定下 2032 年全球数据中心超 20GW 的目标。",
+      "content": "**全栈下注**\n\n- **大会发布：** 在杭州 2026 云栖大会上，阿里巴巴 CEO 吴泳铭提出覆盖模型、芯片与云的全栈 AI 战略，强调将坚定投入 AI 模型、AI 芯片与 AI 云这三大'机器智能'时代基础设施。\n- **模型侧：** 阿里确认 **Qwen 4 已进入训练**，后续 Qwen 4.5、Qwen 5 参数规模计划扩展至 **5-10 万亿**，以支撑复杂、长程智能体任务。Qwen3.8-Max 应用递归自我改进（RSI），完成 **33 轮自动化训练迭代**，将 Artificial Analysis 综合智能指数由 40 提升至 45。\n- **芯片侧：** 平头哥发布 **真武 V900** AI 训练/推理芯片，性能为上一代 M890 的 3 倍，配备 216GB 显存、1,200GB/s 片间带宽，计划 2027 年一季度量产；单一集群最高可扩展至 50 万卡。\n- **基础设施：** 吴泳铭给出量化目标——到 2032 年，阿里云运营的全球数据中心规模将 **超过 20GW**，反映其对 AI 算力需求长期高增长的判断。\n- **为何重要：** 这标志着中国云巨头正加速自研'从芯片到模型到部署'的完整 AI 技术栈，而非单纯采购英伟达与海外 hyperscaler 算力。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 4,
+      "timeAgo": 7,
+      "date": "2026-10-21",
+      "en": {
+        "title": "Tencent Releases Hunyuan Image 3.5 Preview, a Pro-Grade Text-and-Image Generator",
+        "excerpt": "Hunyuan Image 3.5 preview supports text-to-image and image-to-image with up to 5 reference images, multi-turn editing and up to 2K output.",
+        "content": "**Professional-Grade Image Model**\n\n- **Release:** Tencent's Hunyuan team officially launched **Hy Image 3.5 preview**, a cost-effective, professional-grade image generation and editing model.\n- **Capabilities:** It supports both text-to-image and image-to-image, accepts **up to 5 reference images** per request, outputs at **up to 2K resolution**, and enables multi-turn, context-aware creation and continuous editing based on conversation history.\n- **Quality:** Per Tencent, blind A/B tests by 100+ professional designers showed a **30%+ win-rate improvement** over the previous generation in text rendering, layout, realism and editing consistency.\n- **Why It Matters:** The model extends Tencent's push into production-grade creative tooling, competing with Qwen-Image, Seedream and Nano Banana in the fast-moving image-generation race."
+      },
+      "zh": {
+        "title": "腾讯发布混元图像 3.5 预览版，专业级文生图/图生图模型",
+        "excerpt": "混元图像 3.5 预览版支持文生图与图生图，单次最多 5 张参考图、最高 2K 输出，并支持多轮连续创作。",
+        "content": "**专业级图像模型**\n\n- **发布：** 腾讯混元正式发布 **Hy Image 3.5 preview**，一款高性价比的专业级图像生成与编辑模型。\n- **能力：** 支持文生图与图生图，单次最多上传 **5 张参考图**，最高 **2K 分辨率**输出，并支持基于历史上下文的多轮创作与连续编辑。\n- **质量：** 据腾讯，经上百位专业设计师 GSB 盲测，相较上一代在文字渲染、版式、真实感与编辑一致性上综合胜率提升 **30% 以上**。\n- **为何重要：** 该模型延续腾讯在生产级创意工具上的布局，与 Qwen-Image、Seedream、Nano Banana 等同场竞技，图像生成赛道竞争持续升温。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 10,
+      "date": "2026-10-21",
+      "en": {
+        "title": "Xiaomi Open-Sources MiMo-V2.6, Topping the Open-Weight Leaderboard at 46",
+        "excerpt": "MiMo-V2.6-Pro scores 46 on the Artificial Analysis Intelligence Index - the strongest open-weights model - and ships under an MIT license.",
+        "content": "**Open Weights, Closed-Gap Performance**\n\n- **Release:** Xiaomi published and open-sourced the **MiMo-V2.6** series, including the flagship **MiMo-V2.6-Pro** and the efficient **MiMo-V2.6-Flash**, alongside its RL training code and technical report.\n- **Benchmark:** On the Artificial Analysis Intelligence Index, MiMo-V2.6-Pro scored **46**, surpassing Kimi K3 and Qwen3.8 Max to become the **current #1 open-weights model**; it remains behind closed leaders such as Claude Fable 5.1 and GPT-6 Astra.\n- **Scale & Cost:** The flagship is a ~1.02-trillion-parameter sparse MoE (42B active/token, 1M context). Xiaomi kept API pricing flat, claiming **1/20 to 1/60 the cost** of overseas models at equivalent intelligence.\n- **Method:** The release is Xiaomi's bet on Recursive Self-Improvement (RSI) - a ~6-day live RL run (Pro cost ~$2.62M) raised DeepSWE v1.1 from 58.4 to 72.6.\n- **Why It Matters:** It shows Chinese open-source models closing the gap on frontier labs while aggressively competing on price and openness."
+      },
+      "zh": {
+        "title": "小米开源 MiMo-V2.6，以 46 分登顶开源权重榜",
+        "excerpt": "MiMo-V2.6-Pro 在 Artificial Analysis 综合智能指数拿下 46 分，成为当前最强开源权重模型，并以 MIT 协议开源。",
+        "content": "**开源权重，逼近闭源**\n\n- **发布：** 小米正式发布并开源 **MiMo-V2.6** 系列，包含旗舰 **MiMo-V2.6-Pro** 与高效版 **MiMo-V2.6-Flash**，同时开源 RL 训练代码与技术报告。\n- **基准：** 在 Artificial Analysis 综合智能指数上，MiMo-V2.6-Pro 取得 **46 分**，超越 Kimi K3 与 Qwen3.8 Max，成为**当前最强开源权重模型**；但仍落后于 Claude Fable 5.1、GPT-6 Astra 等闭源头部。\n- **规模与成本：** 旗舰为约 1.02 万亿参数稀疏 MoE（每 token 激活 420 亿、1M 上下文）。小米维持 API 定价不变，称同等智能水平下成本仅为海外模型的 **1/20 至 1/60**。\n- **方法：** 本次发布是小米在递归自我改进（RSI）上的关键一步——约 6 天的 Live RL 训练（Pro 成本约 262 万美元）将 DeepSWE v1.1 由 58.4 提升至 72.6。\n- **为何重要：** 体现中国开源模型在能力上逼近前沿实验室，同时在价格与开放性上积极竞争。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 5,
+      "timeAgo": 9,
+      "date": "2026-10-21",
+      "en": {
+        "title": "Vega Debuts 'Vega II', an Agentic Cyber-Defense Platform with a Purpose-Built Model",
+        "excerpt": "Vega II brings the first model built for autonomous cyber defense, running an investigation loop across an enterprise's existing security data.",
+        "content": "**Defense as an Agent**\n\n- **Launch:** On October 21, Vega introduced **Vega II**, the next generation of its agentic cyber-defense platform, headlined by the first model purpose-built for autonomous detection, triage and investigation.\n- **How It Works:** The platform runs a first-of-its-kind agentic defense loop across data lakes, object storage, cloud, SaaS and legacy SIEM, directed by Cyber Defense Engineers who read every verdict's reasoning and approve every change.\n- **Speed Claim:** Vega states its agents investigate **44x faster** than manual work in a legacy SIEM; on its own benchmark built from real cases, its in-house model outperformed both off-the-shelf frontier models and the same models inside its harness.\n- **Memory:** A new 'Memory' layer captures environment ground truth - why an account exists, what a deployment is approved to do - so the tenth alert on an asset is never worked like the first.\n- **Caveat:** The 44x figure is a **vendor benchmark**; independent validation is not yet public.\n- **Why It Matters:** As frontier models lower the cost of attacks, defenders are racing to put the same autonomy on their own side of the keyboard."
+      },
+      "zh": {
+        "title": "Vega 推出 Vega II：内置专用模型的智能体网络防御平台",
+        "excerpt": "Vega II 带来首个为自主网络防御而生的模型，可跨企业既有安全数据自动执行检测、分诊与调查闭环。",
+        "content": "**防御即智能体**\n\n- **发布：** 10 月 21 日，Vega 推出 **Vega II**——其智能体网络防御平台的次世代版本，核心亮点是首个专为自主检测、分诊与调查而构建的模型。\n- **工作方式：** 平台在企业既有数据湖、对象存储、云、SaaS 与遗留 SIEM 之上运行业内首创的智能体防御循环，由安全工程师审阅每条结论的推理并审批每一次变更。\n- **速度宣称：** Vega 表示其智能体调查速度较遗留 SIEM 的人工方式快 **44 倍**；在其基于真实案例构建的基准上，自研模型表现优于开箱即用的前沿模型及'套壳'后的同款模型。\n- **记忆：** 新增的'Memory'层记录环境真相——某账户为何存在、某部署被批准做什么——使同一资产上的第 10 次告警不再从零排查。\n- **注意：** 44 倍为**厂商基准**，尚无独立第三方公开验证。\n- **为何重要：** 当前沿模型降低攻击成本，防御方也在竞速，把同等自主性放到键盘的自己这一侧。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 4,
+      "timeAgo": 192,
+      "date": "2026-10-21",
+      "en": {
+        "title": "Chinese Robot Maker ROKAE Ships Its 10,000th Humanoid Force-Control Arm",
+        "excerpt": "ROKAE became the first domestic supplier to deliver humanoid force-control arms at 10,000-unit scale, a milestone for embodied-intelligence commercialization.",
+        "content": "**From Demo to Volume**\n\n- **Milestone:** At its Zoucheng (Shandong) smart factory, **ROKAE Robotics** shipped its **10,000th humanoid force-control arm**, the first domestic supplier to reach 10,000-unit scale in this category.\n- **Why Force Control:** As humanoid robots enter real scenarios, the industry found they lacked 'measured' arms - non-force-control limbs can see position but not force. Full-joint force control lets a robot sense friction, collision and resistance, the physical rules of the real world.\n- **Ecosystem:** ROKAE has partnered with 80+ leading enterprises and 70+ embodied-AI companies are integrating its arms into their robots.\n- **Policy Tailwind:** China's Ministry of Industry and Information Technology and SASAC launched a humanoid-robot real-scenario training initiative pushing routine deployment; the first national humanoid/embodied-intelligence standards were also published.\n- **Why It Matters:** 10,000-unit delivery signals the core actuator of embodied intelligence is moving from prototype validation to scaled, reliable supply."
+      },
+      "zh": {
+        "title": "国产机器人厂商珞石交付第 10000 台人形力控臂",
+        "excerpt": "珞石成为国内首个实现人形力控臂万台级规模交付的企业，标志着具身智能核心执行单元迈入规模化量产。",
+        "content": "**从演示到量产**\n\n- **里程碑：** 在山东邹城智能制造未来工厂，珞石机器人第 **10000 台人形力控臂**正式下线交付，成为国内人形力控臂领域首个实现万台级规模交付的企业。\n- **为何强调力控：** 当人形机器人走入真实场景，行业很快发现它缺少一双'有分寸'的手臂——非力控手臂缺乏空间直接感知，看得见位置却看不见'力'。全关节力控让机器人能感知摩擦、碰撞与阻力，直面真实世界的物理规则。\n- **生态：** 珞石已与 80 余家产业头部企业合作，70 多家具身智能公司正将其力控臂接入各自机器人系统。\n- **政策东风：** 工信部、国资委联合启动人形机器人与具身智能实景实训专项行动，推动常态化部署；国内首个人形机器人与具身智能标准体系也已发布。\n- **为何重要：** 万台级交付表明具身智能核心执行单元正从技术验证迈向规模化、可靠供给的新阶段。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&h=400&fit=crop",
+      "category": "healthcare",
+      "readTime": 4,
+      "timeAgo": 192,
+      "date": "2026-10-21",
+      "en": {
+        "title": "AI-Drug Developer Evergreen Wins FDA Fast Track for Lupus Cognitive Impairment Therapy",
+        "excerpt": "Evergreen Therapeutics' EG-501, an AI-designed candidate for cognitive impairment in lupus patients, received FDA Fast Track designation on positive Phase II data.",
+        "content": "**AI Into the Clinic**\n\n- **Designation:** Maryland-based **Evergreen Therapeutics** announced the FDA granted **Fast Track** status to **EG-501**, its investigational drug for cognitive impairment in adults with neuropsychiatric systemic lupus erythematosus (NPSLE-CI).\n- **Evidence:** The designation was supported by positive data from the 12-week, multicenter, randomized, placebo-controlled **Phase II ClearMEMory** study, which showed clinically meaningful improvements in objective neuropsychological function.\n- **Approach:** Evergreen uses artificial intelligence to address unmet medical needs; EG-501 targets a condition with few existing therapeutic options.\n- **Context:** The news lands as the broader field confronts a sobering fact - as of October 2026, **no AI-discovered drug has yet won full FDA approval**, though 117 AI-enabled assets have entered human trials.\n- **Why It Matters:** Fast Track shortens the development clock for a high-need indication and underscores how AI-native biotechs are moving candidates toward regulatory review."
+      },
+      "zh": {
+        "title": "AI 药物公司 Evergreen 获 FDA 快速通道认定，攻坚狼疮认知障碍",
+        "excerpt": "Evergreen Therapeutics 的 EG-501（用于狼疮患者认知障碍的 AI 设计候选药）凭 II 期阳性数据获 FDA 快速通道认定。",
+        "content": "**AI 走进临床**\n\n- **认定：** 总部位于马里兰的 **Evergreen Therapeutics** 宣布，FDA 授予其研究性药物 **EG-501** 快速通道（Fast Track）资格，用于成年神经精神性系统性红斑狼疮（NPSLE-CI）患者的认知障碍治疗。\n- **证据：** 该认定得到 12 周、多中心、随机、安慰剂对照的 **II 期 ClearMEMory 研究**阳性数据支持，显示患者客观神经心理功能出现临床意义的改善。\n- **路径：** Evergreen 利用人工智能应对未满足的医疗需求；EG-501 瞄准现有疗法选择极少的适应症。\n- **背景：** 此讯传出之际，行业正面对一个清醒事实——截至 2026 年 10 月，**尚无一款 AI 发现的药物获得 FDA 完整批准**，但已有 117 款 AI 参与研发的资产进入人体试验。\n- **为何重要：** 快速通道为高度未满足需求的适应症缩短研发周期，也凸显 AI 原生生物科技公司正将候选药推向监管审评。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 5,
+      "timeAgo": 28,
+      "date": "2026-10-21",
+      "en": {
+        "title": "High-Quality Data Becomes AI's 'Hard Currency' as Regulation Tightens",
+        "excerpt": "As the model race shifts from scale to data, the EU AI Act, NIST and China's data office are making clean, traceable training data a compliance requirement.",
+        "content": "**The Second Half of the Model Race**\n\n- **Shift:** The competition among large models has moved from raw compute and parameter counts to **data quality, precision and compliance** - what Xinhua describes as 'high-quality data becoming hard currency'.\n- **Regulation as Driver:** Global AI rules are pushing training data upgrade from the policy side. The **EU AI Act Article 10** requires high-risk AI training, validation and test datasets to be relevant, representative, error-free and traceable - taking effect in 2027. The **U.S. NIST** updated its AI risk-management data-quality standards, now a hard gate for government AI procurement. China's National Data Administration issued a plan to build a national AI data-resource system.\n- **Robotics Angle:** In humanoid robotics, real, fine-grained human-motion data is now a core training asset - firms like Mecka AI recruit people to record daily actions (making coffee, fixing devices) and turn them into standardized datasets.\n- **Why It Matters:** Crude web-scraping and low-quality data stacking are ending; future iteration rests on professional, compliant, traceable data systems."
+      },
+      "zh": {
+        "title": "高质量数据成 AI 领域'硬通货'，监管收紧倒逼训练数据升级",
+        "excerpt": "大模型竞争从拼算力、拼参数转向拼数据、拼精度、拼合规；欧盟《人工智能法案》、NIST 与中国国家数据局正把干净、可溯源的训练数据变成合规硬要求。",
+        "content": "**大模型竞争的下半场**\n\n- **转向：** 大模型竞争已从拼算力、拼参数，转向**拼数据、拼精度、拼合规**——正如新华社所言，'高质量数据成为 AI 领域的硬通货'。\n- **监管驱动：** 全球 AI 监管正从政策端倒逼训练数据升级。欧盟《人工智能法案》第 10 条要求高风险 AI 的训练、验证与测试数据集必须具备相关性、代表性、无错误且来源与处理可追溯，2027 年正式实施；美国 NIST 更新 AI 风险管理框架中的数据质量标准，成为政府 AI 采购的硬性门槛；中国国家数据局出台方案，完善国家级 AI 数据资源体系。\n- **机器人视角：** 在人形机器人赛道，真实、精细的人类动作数据已是核心训练资源——如 Mecka AI 招募普通人佩戴设备记录日常（冲咖啡、修理器械），转化为标准化数据集。\n- **为何重要：** 粗放爬取、无规范标注、低质堆砌的发展模式走到尽头，未来迭代必然建立在高质量、合规化、专业化的数据体系之上。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 5,
+      "timeAgo": 192,
+      "date": "2026-10-21",
+      "en": {
+        "title": "World Moves to Set 'Guardrails' for AI as US and China Signal Cooperation and Divergence",
+        "excerpt": "As geopolitical splits widen, the US 'Superintelligence Agreement' and China's AI Safety Governance Framework 3.0 reflect a shared push for guardrails - and a divided rulebook.",
+        "content": "**Guarding the Frontier**\n\n- **US Pact:** Executives from Google, Anthropic, OpenAI and Nvidia signed the **White House Superintelligence Agreement: Joint Commitments on Frontier Responsibility**, a voluntary pledge that frontier-model developers build internal processes to monitor cybersecurity, biosecurity and chemical-threat risks. U.S. media note it is **voluntary, not legally binding**.\n- **China's Framework:** In September, China's national cybersecurity standards body published the **AI Safety Governance Framework 3.0**, adding a section on 'autonomous cyberattack threats' and a dedicated 'agent risk management' framework; late September, the U.S. and China reached an 8-point consensus agreeing to establish a bilateral AI dialogue.\n- **The Divide:** Paths differ sharply - the U.S. oscillates between alliance-building and light-touch regulation; the EU pursues strict risk-tiering via its AI Act; China emphasizes 'development with safety', using filing, labeling, traceability and 'Clear Web' campaigns for scenario-based governance.\n- **Why It Matters:** Experts argue the world needs independent third-party evaluation bodies, incident-notification mechanisms and substance-based risk classification - not just parameter-count thresholds - to draw credible red lines."
+      },
+      "zh": {
+        "title": "国际社会探索为 AI 设立'护栏'，美中路径既合作又分化",
+        "excerpt": "地缘分歧加剧之下，美国《超级智能协议》与中国《人工智能安全治理框架 3.0》共同折射出'设护栏'的全球共识，却也呈现分裂的规则书。",
+        "content": "**为前沿设防**\n\n- **美国协议：** 谷歌、Anthropic、OpenAI 与英伟达等科技企业负责人在白宫签署《超级智能协议：前沿责任联合承诺》，属自愿性承诺，要求前沿模型开发者建立内部流程，监测网络安全、生物安全与化学威胁等风险。美方媒体指出该承诺**属自愿性质，不具法律约束力**。\n- **中国框架：** 今年 9 月，中国国家网络安全标准化技术委员会发布《人工智能安全治理框架 3.0》，新增'自主实施网络攻击威胁'专栏与专门的'智能体风险管理框架'；9 月下旬，中美达成 8 点共识，同意建立中美人工智能对话。\n- **路径分化：** 主要 AI 大国的监管路径差异显著——美国政策在'建联盟'与'轻监管'间摆动；欧盟以《人工智能法案》实施严苛风险分级；中国坚持'发展与安全并重'，通过备案、内容标识、溯源与'清朗'专项行动实现场景化治理。\n- **为何重要：** 专家认为，全球需要独立的第三方前沿模型评估机构、事故通报披露机制，以及基于实质风险（而非单纯参数量级）的分类分级，才能划出可信的安全红线。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 168,
+      "date": "2026-10-21",
+      "en": {
+        "title": "Anthropic Prepares Blockbuster IPO, Targeting ~$2 Trillion Valuation",
+        "excerpt": "Anthropic may begin marketing its IPO as early as mid-November with a ~$2T target - potentially the largest listing in history - after disclosing Q3 financials to investors.",
+        "content": "**The AI IPO Race Heats Up**\n\n- **Timing:** According to Bloomberg and CNBC reporting, **Anthropic** could begin marketing its IPO as early as the week of November 9, with a target valuation of roughly **$2 trillion** - which would make it the largest IPO in history, surpassing SpaceX's June 2026 debut.\n- **Investor Disclosure:** On October 14, Anthropic held a closed-door meeting with core institutional investors, its **first disclosure of full Q3 financials**, to build valuation reference ahead of a public S-1.\n- **Revenue Trajectory:** Reporting cites annualized revenue of about $47B as of May 2026, with backers projecting $100B-$120B by year-end; 2025 revenue reportedly grew ~12x to ~$4.6B.\n- **Context:** The disclosure comes as OpenAI's recently updated revenue (reportedly ~$50B, a narrower definition excluding cloud-partner pass-throughs) rattled semiconductor shares - showing how sensitive AI valuations are to reported metrics.\n- **Why It Matters:** A $2T listing would set the public-market anchor for the entire AI sector and test whether soaring revenue can justify historic multiples."
+      },
+      "zh": {
+        "title": "Anthropic 筹备史诗级 IPO，目标估值约 2 万亿美元",
+        "excerpt": "据彭博与 CNBC，Anthropic 最早 11 月 9 日当周启动 IPO 路演，目标估值约 2 万亿美元，或成史上最大上市；此前已向机构投资者披露三季度财报。",
+        "content": "**AI IPO 竞赛升温**\n\n- **时点：** 据彭博与 CNBC 报道，**Anthropic** 最早可能于 11 月 9 日当周启动 IPO 路演，目标估值约 **2 万亿美元**——若成行，将超越 SpaceX 2026 年 6 月的上市，成为史上最大 IPO。\n- **投资者披露：** 10 月 14 日，Anthropic 向核心机构投资者召开闭门会议，**首次完整披露三季度财务数据**，为公开 S-1 前的估值建立参考。\n- **营收轨迹：** 报道称其 2026 年 5 月年化营收约 470 亿美元，资方预期年底达 1000-1200 亿美元；2025 年营收据称增长约 12 倍至约 46 亿美元。\n- **背景：** 此次披露正值 OpenAI 近期更新营收（据报道约 500 亿美元，采用剔除云伙伴分成的更窄口径）引发半导体板块波动之际，凸显 AI 估值对披露指标的敏感。\n- **为何重要：** 2 万亿美元的上市将为整个 AI 行业设定公开市场的估值锚点，也检验飙升的营收能否支撑历史性的估值倍数。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 4,
+      "timeAgo": 48,
+      "date": "2026-10-21",
+      "en": {
+        "title": "Anthropic Creates a Public Benefit Fund That Grows With Its Valuation",
+        "excerpt": "Anthropic established a Public Benefit Fund whose contributions scale with company valuation, tying long-term social return to corporate growth.",
+        "content": "**Profit With a Purpose Clause**\n\n- **The Fund:** As reported by AI News, **Anthropic** created a **Public Benefit Fund** designed so its contributions grow alongside the company's valuation - linking societal return directly to corporate growth.\n- **Why a PBF:** The structure is a governance mechanism to ensure that as Anthropic scales into a potentially trillion-dollar entity, a defined share of value flows to public-benefit purposes rather than solely to shareholders.\n- **Alignment:** It follows Anthropic's long-standing positioning as an 'AI safety company' and its recent calls - from CEO Dario Amodei - for labs to slow frontier-model development pending adequate safeguards.\n- **Why It Matters:** As frontier labs approach historic IPOs, such funds are a test of whether profit-driven AI giants can bake long-horizon safety and public benefit into their capital structure.\n- **Caveat:** Specific contribution rates and governance details were not disclosed in the report."
+      },
+      "zh": {
+        "title": "Anthropic 设立随估值增长公共利益基金",
+        "excerpt": "据 AI News，Anthropic 设立'公共利益基金'，其出资随公司估值增长而扩大，将社会回报与企业成长直接挂钩。",
+        "content": "**带目的条款的利润**\n\n- **基金：** 据 AI News 报道，**Anthropic** 设立了**公共利益基金（Public Benefit Fund）**，其出资规模随公司估值增长而扩大——将社会回报与企业成长直接挂钩。\n- **为何设 PBF：** 该结构是一种治理机制，旨在确保当 Anthropic 成长为潜在的万亿美元级实体时，有确定比例的价值流向公共利益目的，而非仅归股东所有。\n- **一致性：** 此举延续 Anthropic 长期作为'AI 安全公司'的定位，以及 CEO Dario Amodei 近期关于实验室应在具备充分保障前放缓前沿模型开发的呼吁。\n- **为何重要：** 当前沿实验室逼近史诗级 IPO，这类基金是检验逐利型 AI 巨头能否把长程安全与公共利益写进资本结构的一次尝试。\n- **注意：** 报道未披露具体出资比例与治理细节。"
+      }
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 5,
+      "timeAgo": 456,
+      "date": "2026-10-21",
+      "en": {
+        "title": "Amazon Weighs $8B Nvidia Chip Sale-Leaseback, Turning GPUs Into an Asset Class",
+        "excerpt": "Amazon is exploring shifting ~$8B of Grace Blackwell GPUs into an investor-funded vehicle and leasing them back - a new way to offload AI capital intensity.",
+        "content": "**GPUs as an Asset Class**\n\n- **The Plan:** Per the Financial Times, **Amazon** is in talks to move about **$8 billion** of Nvidia **Grace Blackwell** accelerators into a special-purpose vehicle (SPV) and lease the chips back for its cloud network.\n- **Structure:** Investors would take up to ~10% equity; debt covers the rest. The vehicle buys the chips and rents them to Amazon, which keeps operational control while the assets - and their depreciation - sit off Amazon's balance sheet.\n- **Why:** Amazon's long-term debt has climbed to $119B amid a historic capex program; shifting $8B of hardware lowers reported capital intensity and protects credit ratios. AI demand still outruns supply, so Amazon has also been raising chip-rental rates.\n- **Footprint:** The chips sit across a dozen-plus U.S. data centers in five states including Nevada and Virginia; each generation is expected to last at least five years.\n- **Why It Matters:** If the template prices well, it can repeat across chip generations - turning lump-sum capex into forecastable lease payments and reshaping how AI infrastructure is financed."
+      },
+      "zh": {
+        "title": "亚马逊拟 80 亿美元英伟达芯片'售后再租回'，把 GPU 变成一类资产",
+        "excerpt": "据《金融时报》，亚马逊正洽谈将约 80 亿美元 Grace Blackwell GPU 转入投资者出资的 SPV 并租回自用——一种转嫁 AI 资本强度的新玩法。",
+        "content": "**GPU 成为一类资产**\n\n- **方案：** 据《金融时报》，**亚马逊**正洽谈将约 **80 亿美元**的英伟达 **Grace Blackwell** 加速器转入特殊目的载体（SPV），并将芯片租回供其云网络使用。\n- **结构：** 投资者最高持股约 10%，其余由债务覆盖；载体买下芯片后租给亚马逊，亚马逊保留运营控制权，而资产及其折旧则移出自身资产负债表。\n- **动因：** 在史无前例的资本开支计划下，亚马逊长期债务已升至 1190 亿美元；转出 80 亿美元硬件可降低报表资本强度、保护信用评级。AI 需求仍大于供给，亚马逊近期还在上调芯片租赁费率。\n- **分布：** 这些芯片分布在内华达、弗吉尼亚等 5 个州十余座数据中心；每一代芯片预计至少可用 5 年。\n- **为何重要：** 若该模板定价顺利，可在各代芯片间复制——把一次性资本开支变成可预测的租赁付款，重塑 AI 基础设施的融资方式。"
+      }
+    }
+  ]
+}
