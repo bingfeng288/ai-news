@@ -1,0 +1,77 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AI News Data",
+  "description": "Schema for data/news.json — the daily AI news aggregation data file",
+  "type": "object",
+  "required": ["featured", "articles"],
+  "additionalProperties": false,
+  "properties": {
+    "featured": { "$ref": "#/definitions/article" },
+    "articles": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/article" }
+    }
+  },
+  "definitions": {
+    "article": {
+      "type": "object",
+      "required": ["id", "image", "category", "readTime", "timeAgo", "date", "en", "zh"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "integer",
+          "description": "Unique article identifier"
+        },
+        "image": {
+          "type": "string",
+          "format": "uri",
+          "description": "Hero/card image URL"
+        },
+        "category": {
+          "type": "string",
+          "enum": ["llm", "cv", "robotics", "ethics", "healthcare", "research", "business", "infra", "policy"],
+          "description": "Article category key, must match i18n categories.*"
+        },
+        "readTime": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Estimated reading time in minutes"
+        },
+        "timeAgo": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Hours since publication"
+        },
+        "date": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+          "description": "Publication date in YYYY-MM-DD format"
+        },
+        "en": { "$ref": "#/definitions/localizedContent" },
+        "zh": { "$ref": "#/definitions/localizedContent" }
+      }
+    },
+    "localizedContent": {
+      "type": "object",
+      "required": ["title", "excerpt", "content"],
+      "additionalProperties": false,
+      "properties": {
+        "title": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Article headline"
+        },
+        "excerpt": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Short summary for cards and history entries"
+        },
+        "content": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Full article body with markdown formatting"
+        }
+      }
+    }
+  }
+}

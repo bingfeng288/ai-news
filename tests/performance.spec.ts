@@ -68,7 +68,10 @@ test.describe("Performance & Data Loading", () => {
 
     // Filter out known non-critical errors
     const criticalErrors = errors.filter(
-      (e) => !e.includes("favicon") && !e.includes("404")
+      (e) =>
+        !e.includes("favicon") &&
+        !e.includes("404") &&
+        !e.includes("Supabase")
     );
 
     expect(criticalErrors).toHaveLength(0);

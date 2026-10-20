@@ -19,7 +19,7 @@ test.describe("Image Validity", () => {
 
     const articleImages = page.locator(".hero-image, .card-image");
     const count = await articleImages.count();
-    expect(count).toBe(10); // 1 hero + 9 cards
+    expect(count).toBe(EXPECTED_IMAGES);
 
     // Retry loop to handle slower image loading on emulated/mobile browsers
     const brokenImages: string[] = [];
@@ -189,10 +189,14 @@ test.describe("Image Validity", () => {
     const uniqueUrls = [...new Set(imageUrls)];
 
     // Verify each unique image URL responds with 200
+    // Use a race between the fetch and a timeout to avoid hanging
     for (const url of uniqueUrls) {
       const imgResponse = await page.evaluate(async (imgUrl: string) => {
         try {
-          const resp = await fetch(imgUrl, { method: "HEAD" });
+          const controller = new AbortController();
+          const timeoutId = setTimeout(() => controller.abort(), 5000);
+          const resp = await fetch(imgUrl, { method: "HEAD", signal: controller.signal });
+          clearTimeout(timeoutId);
           return { status: resp.status, ok: resp.ok };
         } catch {
           return { status: 0, ok: false };

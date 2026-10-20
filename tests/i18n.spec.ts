@@ -3,7 +3,21 @@ import { test, expect } from "@playwright/test";
 test.describe("Internationalization (i18n)", () => {
   test.beforeEach(async ({ page }) => {
     await page.goto("/");
+    await page.evaluate(() => {
+      localStorage.removeItem("lang");
+      localStorage.removeItem("theme");
+    });
+    await page.reload();
     await page.waitForSelector(".hero-card", { timeout: 10000 });
+  });
+
+  test.afterEach(async ({ page }) => {
+    await page.evaluate(() => {
+      try {
+        localStorage.removeItem("lang");
+        localStorage.removeItem("theme");
+      } catch {}
+    }).catch(() => {});
   });
 
   test("should have a language toggle button", async ({ page }) => {

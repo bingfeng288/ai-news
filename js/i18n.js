@@ -187,3 +187,6 @@ const translations = {
     },
   },
 };
+
+// Expose globally for ES modules
+window.translations = translations;

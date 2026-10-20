@@ -1,11 +1,26 @@
+/* global supabase, updateAuthUI, currentLang */
+/* exported initAuth, signUp, signIn, signOut, toggleSubscription, updateEmailLanguage, currentUser, currentProfile */
 // Supabase Auth Module
-const SUPABASE_URL = "https://pdocqxcnooowrymhvclb.supabase.co";
-const SUPABASE_ANON_KEY = "sb_publishable_Fkh1cyEJetS36WU1EEIZIA_2rmUBPz6";
+const config = window.__APP_CONFIG__ || {};
+const SUPABASE_URL = config.SUPABASE_URL;
+const SUPABASE_ANON_KEY = config.SUPABASE_ANON_KEY;
+
+if (!SUPABASE_URL || !SUPABASE_ANON_KEY) {
+  console.error("Missing Supabase config. Copy config.template.js to js/config.js and fill in your values.");
+}
 
 const supabaseClient = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
 let currentUser = null;
 let currentProfile = null;
+
+// Keep window.* mirrors in sync with the local state. auth-ui.js (a module)
+// reads window.currentUser / window.currentProfile, but primitives/objects are
+// assigned by value — so every mutation of the local vars must re-assign window.
+function syncAuthState() {
+  window.currentUser = currentUser;
+  window.currentProfile = currentProfile;
+}
 
 async function initAuth() {
   try {
@@ -28,6 +43,7 @@ async function initAuth() {
     } else if (event === "SIGNED_OUT") {
       currentUser = null;
       currentProfile = null;
+      syncAuthState();
     }
     updateAuthUI();
   });
@@ -41,6 +57,7 @@ async function loadProfile() {
     .eq("id", currentUser.id)
     .single();
   if (!error) currentProfile = data;
+  syncAuthState();
 }
 
 async function signUp(email, password) {
@@ -63,6 +80,7 @@ async function signOut() {
   await supabaseClient.auth.signOut();
   currentUser = null;
   currentProfile = null;
+  syncAuthState();
   updateAuthUI();
 }
 
@@ -80,6 +98,7 @@ async function toggleSubscription(subscribe) {
     .select()
     .single();
   if (!error) currentProfile = data;
+  syncAuthState();
   return { data, error };
 }
 
@@ -92,5 +111,15 @@ async function updateEmailLanguage(lang) {
     .select()
     .single();
   if (!error) currentProfile = data;
+  syncAuthState();
   return { data, error };
 }
+
+// Expose to window for cross-module access from auth-ui.js
+window.initAuth = initAuth;
+window.signUp = signUp;
+window.signIn = signIn;
+window.signOut = signOut;
+window.toggleSubscription = toggleSubscription;
+window.updateEmailLanguage = updateEmailLanguage;
+syncAuthState();

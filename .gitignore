@@ -23,3 +23,24 @@ Thumbs.db
 *.p12
 *.pfx
 .vercel
+
+# Frontend config (contains Supabase keys)
+js/config.js
+
+# Build / test artifacts & local tool dirs
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.log
+logs/
+video/
+test-results/
+playwright-report/
+__pycache__/
+data/__pycache__/
+.data/.firecrawl/
+.firecrawl/
+.qoder/
+.playwright-mcp/
+.workbuddy/

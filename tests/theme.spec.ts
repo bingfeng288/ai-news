@@ -3,7 +3,21 @@ import { test, expect } from "@playwright/test";
 test.describe("Theme Switching", () => {
   test.beforeEach(async ({ page }) => {
     await page.goto("/");
+    await page.evaluate(() => {
+      localStorage.removeItem("theme");
+      localStorage.removeItem("lang");
+    });
+    await page.reload();
     await page.waitForSelector(".hero-card", { timeout: 10000 });
+  });
+
+  test.afterEach(async ({ page }) => {
+    await page.evaluate(() => {
+      try {
+        localStorage.removeItem("theme");
+        localStorage.removeItem("lang");
+      } catch {}
+    }).catch(() => {});
   });
 
   test("should have a theme toggle button", async ({ page }) => {
