@@ -1,0 +1,202 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=600&fit=crop",
+    "category": "business",
+    "readTime": 6,
+    "timeAgo": 9,
+    "date": "2026-10-22",
+    "en": {
+      "title": "OpenAI Brings Frontier Models and Codex Workflows to Google Cloud, Breaking Microsoft Exclusivity",
+      "excerpt": "OpenAI said it will make its frontier models and Codex agent workflows available in Google Cloud's Model Garden, letting enterprises use its technology inside their existing build environments for the first time beyond the Microsoft Azure partnership.",
+      "content": "**A Third Cloud, at Last**\n\n- **The Move:** On October 22, OpenAI announced it will make its frontier models and Codex agentic workflows available inside **Google Cloud's Model Garden**, letting enterprises use the technology in the build environments they already run. Reporting from OpenAI's official channel and CNBC frames this as the first distribution of OpenAI models beyond its Microsoft Azure partnership.\n- **What Ships:** The integration covers OpenAI's frontier models plus the **Codex** autonomous-coding workflow, targeting enterprises that standardize on Google Cloud rather than Azure. Google Cloud separately clarified its strategy to widen model choice by folding OpenAI models into its catalog.\n- **Why It Matters:** For two years OpenAI's cloud footprint was effectively tied to Microsoft. Running on all three hyperscalers (Azure, AWS via Bedrock, and now Google) removes a strategic dependency and lets OpenAI meet enterprises where their infrastructure already lives.\n- **Caveat:** This is an availability and distribution expansion, not a change to model capability; pricing and region rollout details were not disclosed in the initial announcement.\n- **Why It Matters (2):** The shift signals the model layer is commoditizing into a multi-cloud utility, with labs competing less on exclusivity and more on who can meet regulated and existing enterprise stacks."
+    },
+    "zh": {
+      "title": "OpenAI 将前沿模型与 Codex 工作流接入谷歌云，打破微软独家绑定",
+      "excerpt": "OpenAI 宣布将把其前沿模型与 Codex 智能体工作流带入谷歌云的 Model Garden，首次在微软 Azure 合作之外，让企业能在既有构建环境中使用其技术。",
+      "content": "**终于登上第三朵云**\n\n- **动作：** 10 月 22 日，OpenAI 宣布将把其前沿模型与 **Codex** 自主编码工作流带入**谷歌云的 Model Garden**，让标准化使用谷歌云（而非 Azure）的企业也能在既有构建环境中使用其技术。OpenAI 官方渠道与 CNBC 的报道均将此解读为 OpenAI 模型首次走出与微软 Azure 的独家合作。\n- **上架内容：** 该集成覆盖 OpenAI 前沿模型，以及自主编程工作流 **Codex**，面向已将基础设施标准建立在谷歌云上的企业。谷歌云也同步明确其策略——通过把 OpenAI 模型纳入目录来扩充模型选择。\n- **为何重要：** 两年来 OpenAI 的云版图几乎与微软深度绑定。如今同时跑在三大 hyperscaler（Azure、AWS Bedrock、以及谷歌云）上，既消除了战略单点依赖，也让 OpenAI 能贴近企业既有的基础设施。\n- **注意：** 这是可用性与分发范围的扩展，并非模型能力变化；首发公告未披露定价与区域上线细节。\n- **为何重要（续）：** 这一转向意味着模型层正商品化为“多云公用事业”，实验室比拼的不再是独家绑定，而是谁能更好地贴合受监管企业与既有技术栈。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 4,
+      "timeAgo": 10,
+      "date": "2026-10-22",
+      "en": {
+        "title": "Anthropic Launches ClaudeDuet as a Standalone App on iOS, Android and the Web",
+        "excerpt": "Anthropic released ClaudeDuet as a standalone application on iOS and Android, also reachable from Claude.ai, positioning it as a paired, conversation-first companion app.",
+        "content": "**A Companion, Split Out**\n\n- **Launch:** On October 22, Anthropic announced **ClaudeDuet** is now available as a standalone app on **iOS and Android**, and is also accessible via the Claude.ai website.\n- **Positioning:** The 'Duet' branding points to a paired, conversation-first experience — distinct from the main Claude chat surface — aimed at users who want a persistent, lightweight companion rather than a workspace tool.\n- **Context:** The release lands as Anthropic scales toward a blockbuster IPO and pushes Claude deeper into consumer distribution channels beyond the web and enterprise integrations (the same day, Anthropic also signed an HCLTech deployment deal and a Stripe Link integration inside Claude Loop).\n- **Why It Matters:** Standalone mobile apps are how consumer AI reaches daily-habit usage; shipping Duet as its own surface is Anthropic's bet on top-of-home-screen retention."
+      },
+      "zh": {
+        "title": "Anthropic 推出 ClaudeDuet 独立 App，覆盖 iOS、安卓与网页端",
+        "excerpt": "Anthropic 将 ClaudeDuet 作为独立应用上线 iOS 与安卓，并可在 Claude.ai 网页端访问，定位为一款强调对话陪伴的配套应用。",
+        "content": "**拆分出的'搭档'**\n\n- **上线：** 10 月 22 日，Anthropic 宣布 **ClaudeDuet** 现已作为独立应用登陆 **iOS 与安卓**，同时可在 Claude.ai 官网访问。\n- **定位：** 'Duet'（二重奏）的命名指向一种配对式、以对话为先的体验——与主 Claude 聊天界面区分开来，面向想要轻量、常驻'搭档'而非工作区工具的用户。\n- **背景：** 此次发布正值 Anthropic 冲刺史诗级 IPO、并持续把 Claude 推向消费级分发渠道（同日 Anthropic 还与 HCLTech 签下 Claude 部署协议，并将 Stripe 的 Link 钱包集成进 Claude Loop 应用）。\n- **为何重要：** 独立移动 App 是消费级 AI 触达“每日习惯”的关键形态；把 Duet 单独切成一个入口，是 Anthropic 押注'常驻首屏'留存率的动作。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1639322537504-6427a16b0a28?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 5,
+      "timeAgo": 12,
+      "date": "2026-10-22",
+      "en": {
+        "title": "NVIDIA Unveils DSX POD: Modular AI Factories That Deploy in 14 Days",
+        "excerpt": "At GTC Berlin, NVIDIA introduced DSX POD — factory-built, containerized Vera Rubin AI factories that cut on-site deployment from about six months to as little as two weeks.",
+        "content": "**From Construction Site to Shipping Container**\n\n- **The Announcement:** At **GTC Berlin** (October 20), NVIDIA introduced **DSX POD**, a reference design for complete **Vera Rubin** AI factories built by partners inside modular, transportable containers, integrated and validated before delivery.\n- **Speed Claim:** Factory-built units cut deployment time at a prepared site from roughly **six months to as little as 14 days**; Huang framed the metric as 'time to first token' — an AI factory creates value when it starts producing tokens, not when construction ends.\n- **Specs:** Each pod holds seven liquid-cooled Vera Rubin NVL72 racks (about 504 GPUs), fully cabled and tested at the factory. A global partner ecosystem — Dell, HPE, Lenovo, Foxconn, Schneider Electric, Vertiv and others — is slated to deliver worldwide in early 2027.\n- **Sources:** NVIDIA's official newsroom and The Hindu both reported the launch and the 14-day figure (conditional on site utilities being ready).\n- **Why It Matters:** As demand for compute outruns conventional builds, packaging AI factories as plug-and-play containers turns capital projects into repeatable logistics — and shortens the path to revenue."
+      },
+      "zh": {
+        "title": "英伟达发布 DSX POD：14 天即可部署的模块化'AI 工厂'",
+        "excerpt": "在 GTC 柏林上，英伟达推出 DSX POD——工厂预制、集装箱式的 Vera Rubin AI 工厂，将现场部署周期从约 6 个月压缩到最短两周。",
+        "content": "**从工地到集装箱**\n\n- **发布：** 在 **GTC 柏林**（10 月 20 日），英伟达推出 **DSX POD**——由合作伙伴在模块化、可运输集装箱内建造的完整 **Vera Rubin** AI 工厂参考设计，出厂前即完成集成与验证。\n- **速度宣称：** 工厂预制单元将'现场就绪后'的部署周期从约 **6 个月压缩到最短 14 天**；黄仁勋将这一指标定义为'首个 token 产出时间'——AI 工厂的价值在于开始产出 token，而非建设完工。\n- **规格：** 每个 POD 容纳 7 个液冷 Vera Rubin NVL72 机架（约 504 张 GPU），出厂前完成全部布线与测试。戴尔、HPE、联想、富士康、施耐德电气、Vertiv 等组成的全球伙伴生态计划于 2027 年初全球交付。\n- **信源：** 英伟达官方新闻室与《印度教徒报》均报道了该发布及 14 天数据（前提是现场水电气等基础设施已就绪）。\n- **为何重要：** 当算力需求跑赢传统建设，把 AI 工厂打包成即插即用的集装箱，等于把资本工程变成可复制的物流，也缩短了通往营收的路径。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 5,
+      "timeAgo": 14,
+      "date": "2026-10-22",
+      "en": {
+        "title": "US Orders Federal Agencies to Remove DeepSeek, Extending the Ban Beyond Defense",
+        "excerpt": "The US Department of Homeland Security ordered civilian federal agencies to stop using DeepSeek and remove it from their systems, widening an earlier defense-and-intelligence ban to nearly all of government.",
+        "content": "**From Pentagon to Civilian Government**\n\n- **The Order:** On October 19-20, the US **Department of Homeland Security** ordered civilian federal agencies to cease using DeepSeek's products and remove them from IT systems, including third-party services built with its models. China's Commerce Ministry protested on October 20.\n- **Scope:** The ban extends earlier restrictions — already in place at the Navy, Defense, Commerce and NASA — to nearly the entire civilian government (State, Treasury, Justice, Agriculture and more), and now also covers third-party integrations.\n- **Rationale & Pushback:** DHS cited 'multiple threat vectors'; Chinese officials and state media call the move baseless and politically motivated, noting DeepSeek's open-weight models can run on-premise without transmitting data abroad.\n- **Sources:** China Daily, Tencent News (carrying the Commerce Ministry response) and Southern Metropolis Daily all reported the order and its widening scope.\n- **Why It Matters:** The action escalates US-China tech decoupling and sends a chilling signal to American enterprises that rely on Chinese open-source AI, even as it strains the recently agreed China-US AI dialogue."
+      },
+      "zh": {
+        "title": "美国命令联邦机构移除 DeepSeek，禁令从国防延伸至民用政府",
+        "excerpt": "美国国土安全部要求民用联邦机构停用 DeepSeek 并将其移出系统，将此前的国防与情报禁令扩大到几乎覆盖全部政府层面。",
+        "content": "**从五角大楼到民用政府**\n\n- **命令：** 10 月 19-20 日，美国**国土安全部（DHS）**要求民用联邦机构停止使用 DeepSeek 产品，并将其从 IT 系统中移除，包含基于其模型开发的第三方服务。中国商务部于 10 月 20 日作出回应反对。\n- **范围：** 该禁令将早前已在海军、国防、商务部与 NASA 实施的限制，扩大到几乎整个民用政府（国务院、财政部、司法部、农业部等），并新增对第三方集成的覆盖。\n- **理由与反制：** DHS 援引'多重威胁向量'；中方官员与官媒称此举毫无根据、政治动机明显，并指出 DeepSeek 的开源权重模型可在本地部署、不向境外传输数据。\n- **信源：** 中国日报、腾讯新闻（刊载商务部回应）与南方都市报均报道了该命令及其扩大范围。\n- **为何重要：** 此举升级了美中科技'脱钩'，并向依赖中国开源 AI 的美国企业释放寒蝉信号，同时也给刚刚达成的'中美人工智能对话'机制带来压力。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1478166130743-945880741273?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 4,
+      "timeAgo": 16,
+      "date": "2026-10-22",
+      "en": {
+        "title": "Mistral Ships Voxtral 3, a Full Voice-Agent Stack for 50+ Languages",
+        "excerpt": "Mistral launched Voxtral 3, bundling speech-to-text, text-to-speech and a voice-agent SDK into one real-time pipeline with EU-hosted or on-premise deployment.",
+        "content": "**A Voice Stack, Not Just a Model**\n\n- **Launch:** On October 20, **Mistral** released **Voxtral 3**, a full voice-agent stack combining speech-to-text, text-to-speech and a voice-agent SDK into one real-time streaming pipeline.\n- **Capabilities:** It transcribes 50+ languages (with speaker diarization and sub-500ms realtime latency) and generates expressive speech in 35+ languages. The LiveKit-based SDK lets agents call external tools mid-call — e.g. look up an order while the customer is still talking.\n- **Deployment:** Available via Mistral's **EU-hosted API** or self-hosted on customer infrastructure, a deliberate 'sovereign' play for regulated European industries (banking, healthcare, telecom).\n- **Sources:** Multiple outlets (AI in Context, Best-AI, GPTOnline) and Artificial Analysis, which placed Voxtral Small Transcribe 3 third on its speech-to-text leaderboard, corroborate the launch.\n- **Why It Matters:** Voice is a fast-moving commercial front; Mistral is betting that a complete, EU-controlled stack wins customers US hyperscalers cannot easily reach."
+      },
+      "zh": {
+        "title": "Mistral 发布 Voxtral 3：覆盖 50+ 语言的完整语音智能体技术栈",
+        "excerpt": "Mistral 推出 Voxtral 3，将语音转写、语音合成与语音智能体 SDK 打包进同一条实时流水线，支持欧盟托管或本地私有化部署。",
+        "content": "**一套语音栈，而非单个模型**\n\n- **发布：** 10 月 20 日，**Mistral** 发布 **Voxtral 3**——一套完整的语音智能体技术栈，将语音转写、语音合成与语音智能体 SDK 整合进同一条实时流式流水线。\n- **能力：** 支持 50+ 语言转写（含说话人分离与低于 500ms 的实时延迟），并以 35+ 语言生成富情感语音；基于 LiveKit 的 SDK 允许智能体在通话中调用外部工具——例如客户还在说话时就查订单。\n- **部署：** 可通过 Mistral 的**欧盟托管 API** 提供，也可在客户自有基础设施上私有化部署，是面向欧洲受监管行业（银行、医疗、电信）的“主权”打法。\n- **信源：** AI in Context、Best-AI、GPTOnline 等多家媒体，以及将 Voxtral Small Transcribe 3 排到语音转写榜第三的 Artificial Analysis，均佐证该发布。\n- **为何重要：** 语音是商业化竞速最快的赛道之一；Mistral 押注一套完整、受欧盟掌控的语音栈，能赢得美国 hyperscaler 难以触达的客户。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 5,
+      "timeAgo": 18,
+      "date": "2026-10-22",
+      "en": {
+        "title": "Claude Designed 318,484 Proteins in 64 Hours; 17 Lab-Confirmed Binders for Scorpion Toxin",
+        "excerpt": "Anthropic reported that an internal Claude research model generated over 318,000 protein designs in 64 hours, with 17 candidates meeting binding criteria against scorpion-neurotoxin targets.",
+        "content": "**Autonomous Protein Engineering**\n\n- **The Study:** Anthropic's October 20 study used an internal **Claude** research model with an initial prompt and four follow-ups to design toxin-binding proteins. Across 64 hours it generated **318,484 designs**, screened against five scorpion-neurotoxin targets, and sent 211 candidates to the lab.\n- **Result:** Of the 211 tested, **17 met the binding criteria**; two candidates against the Cn2 toxin reached single-digit nanomolar dissociation constants. The campaign consumed roughly 10,000 GPU-hours and called 12 protein-design tools.\n- **Important Caveat:** The work demonstrates binding, not a usable treatment — toxin neutralization, animal protection and an effective antivenom remain unproven. Anthropic published the 211 candidate designs and experimental data.\n- **Sources:** Both Tencent Research's AI digest and AI Impact Hub (citing anthropic.com) reported the study.\n- **Why It Matters:** It extends AI protein-design from single-shot suggestions to a continuous, autonomous design-test loop — while underscoring that lab binding and a real therapy are still separate milestones."
+      },
+      "zh": {
+        "title": "Claude 64 小时生成 31.8 万种蛋白设计，17 种通过实验室结合验证",
+        "excerpt": "Anthropic 报告称，其内部 Claude 研究模型在 64 小时内生成逾 31.8 万种蛋白设计，其中 17 个候选达到针对蝎毒神经毒素的结合标准。",
+        "content": "**自主蛋白工程**\n\n- **研究：** Anthropic 10 月 20 日的研究使用一个内部 **Claude** 研究模型，以一条初始提示加四次追问设计结合毒素的蛋白。64 小时内共生成 **318,484 种设计**，针对 5 种蝎毒神经毒素筛选，向实验室提交 211 个候选。\n- **结果：** 在 211 个受试设计中，**17 个达到结合标准**；其中两个针对 Cn2 毒素的候选解离常数达到个位数纳摩尔级。整轮消耗约 1 万 GPU 小时，调用了 12 个蛋白设计工具。\n- **重要注意：** 该工作证明的是'结合'，而非'可用疗法'——毒素中和、动物保护与有效抗毒血清仍待验证。Anthropic 已公开 211 个候选设计及实验数据。\n- **信源：** 腾讯研究院 AI 速递与 AI Impact Hub（引 anthropic.com）均报道了该研究。\n- **为何重要：** 它将 AI 蛋白设计从'单次建议'推进到'持续自主的设计—测试闭环'，同时也提醒：实验室结合与真正疗法之间仍是两道里程碑。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 4,
+      "timeAgo": 20,
+      "date": "2026-10-22",
+      "en": {
+        "title": "Google and Meta Open-Source TorchTPU, a Native PyTorch Backend for TPUs",
+        "excerpt": "Google, with Meta's PyTorch team, released TorchTPU — an open-source backend that lets existing PyTorch models run on Google's TPUs with minimal code changes.",
+        "content": "**PyTorch Goes Native on TPU**\n\n- **Release:** On October 20, **Google** open-sourced **TorchTPU**, co-developed with **Meta's PyTorch team** — a native software stack letting existing PyTorch models deploy to Google's TPUs with only small code changes.\n- **Compatibility:** The authors report compatibility with the 5,000 most-downloaded Hugging Face models and support for about 450 core operations, with vLLM, SGLang, llm-d, TorchTitan and Ray wired in for training, inference and RL.\n- **Validation:** A training path was validated on 8,000 Ironwood TPUs (Qwen3-8B hit up to 52% MFU); a Zenteiq.ai inference deployment saw 4x+ throughput.\n- **Sources:** Tencent Research's digest and AI Impact Hub (citing pytorch.org) both covered the launch.\n- **Why It Matters:** PyTorch has long been CUDA-centric; a first-class TPU backend opens a real alternative hardware path and loosens Nvidia's grip on the training stack."
+      },
+      "zh": {
+        "title": "谷歌联合 Meta 开源 TorchTPU，打通 PyTorch 到 TPU 的原生迁移",
+        "excerpt": "谷歌与 Meta 的 PyTorch 团队共同开源 TorchTPU——一套原生软件栈，让既有 PyTorch 模型只需少量改动即可部署到谷歌 TPU。",
+        "content": "**PyTorch 原生跑上 TPU**\n\n- **发布：** 10 月 20 日，**谷歌**开源 **TorchTPU**，由**Meta 的 PyTorch 团队**共同开发——一套原生软件栈，让既有 PyTorch 模型只需少量代码改动即可部署到谷歌 TPU。\n- **兼容性：** 作者称其兼容下载量最高的 5,000 个 Hugging Face 模型，支持约 450 个核心算子，并接入 vLLM、SGLang、llm-d、TorchTitan、Ray 等，覆盖训练、推理与强化学习。\n- **验证：** 训练方案已在 8,000 颗 Ironwood TPU 上验证（Qwen3-8B 浮点运算利用率最高 52%）；Zenteiq.ai 的推理部署吞吐量提升超 4 倍。\n- **信源：** 腾讯研究院 AI 速递与 AI Impact Hub（引 pytorch.org）均报道了该发布。\n- **为何重要：** PyTorch 长期以 CUDA 为中心；一等公民的 TPU 后端开辟了一条真正的替代硬件路径，也松动了英伟达对训练栈的掌控。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 4,
+      "timeAgo": 22,
+      "date": "2026-10-22",
+      "en": {
+        "title": "Manufacturing-AI Startup Arda Emerges From Stealth With $230M and an Anduril Deployment",
+        "excerpt": "Arda launched from stealth with $230M in total funding, and said defense-tech firm Anduril is already running its technology inside ArsenalOS.",
+        "content": "**AI for the Factory Floor**\n\n- **Launch:** On October 20, manufacturing-AI startup **Arda** emerged from stealth with **US$230 million** in total funding, per investor Accel.\n- **Traction:** Defense-tech firm **Anduril** uses Arda's technology inside **ArsenalOS**. Accel reports engineering workflows running more than 10x faster, with assembly instructions going from hours to minutes.\n- **Why It Matters:** Unlike a pure funding announcement, Arda ships with a named factory customer and operational results — a real deployment rather than a slide deck, which gives the launch more substance.\n- **Sources:** AI Impact Hub reported the launch and cited Accel's announcement.\n- **Why It Matters (2):** As 'physical AI' capital shifts toward real-world manufacturing data and automation, a startup with a defense anchor signals where some of that money is landing."
+      },
+      "zh": {
+        "title": "制造 AI 初创 Arda 携 2.3 亿美元与 Anduril 部署走出隐身",
+        "excerpt": "Arda 走出隐身，累计融资 2.3 亿美元，并称防务科技公司 Anduril 已在 ArsenalOS 中运行其技术。",
+        "content": "**面向工厂车间的 AI**\n\n- **发布：** 10 月 20 日，制造 AI 初创 **Arda** 走出隐身，据投资方 Accel，其累计融资达 **2.3 亿美元**。\n- **落地：** 防务科技公司 **Anduril** 已在 **ArsenalOS** 中使用 Arda 的技术。Accel 称其工程工作流提速 10 倍以上，装配指令从数小时缩短到数分钟。\n- **为何重要：** 与单纯融资不同，Arda 带着一家具名的工厂客户与运营结果亮相——是真实部署而非 PPT，这让发布更具实质。\n- **信源：** AI Impact Hub 报道了该发布并引述 Accel 的公告。\n- **为何重要（续）：** 当'物理 AI'资本向真实制造数据与自动化倾斜，一家拥有防务锚点的初创，正标示着部分资金落地的方向。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 4,
+      "timeAgo": 24,
+      "date": "2026-10-22",
+      "en": {
+        "title": "OpenAI Urges Mandatory AI Safety-Incident Reporting",
+        "excerpt": "OpenAI called for a mandatory regime to report serious AI safety incidents, joining growing industry and policymaker pressure for transparency on frontier risks.",
+        "content": "**From Voluntary to Mandatory**\n\n- **The Call:** On October 22, OpenAI urged the establishment of a **mandatory AI safety-incident reporting** mechanism, arguing serious incidents should be disclosed rather than handled privately.\n- **Context:** The push lands alongside broader governance moves — the September 29 White House 'Superintelligence Agreement' (voluntary, not legally binding) and China's AI Safety Governance Framework 3.0 — as the US and China also agreed to stand up a bilateral AI incident-communication channel.\n- **Why It Matters:** A binding reporting regime would create the independent incident-notification layer that safety researchers have long argued is missing; but details — what counts as 'serious', who receives reports, what penalties — are not yet defined.\n- **Sources:** Chinese wire services (CLS / 财联社) and Sina Finance both reported OpenAI's call on October 22.\n- **Why It Matters (2):** As frontier models gain cyber and bio capabilities, the gap between voluntary pledges and enforceable disclosure is becoming the central policy fault line."
+      },
+      "zh": {
+        "title": "OpenAI 呼吁建立 AI 安全事件强制上报机制",
+        "excerpt": "OpenAI 呼吁建立强制性的 AI 安全事件上报机制，呼应了业界与监管方对前沿风险透明化的日益加压。",
+        "content": "**从自愿到强制**\n\n- **呼吁：** 10 月 22 日，OpenAI 呼吁建立**强制性的 AI 安全事件上报机制**，主张严重事件应当披露，而非私下处理。\n- **背景：** 这一呼吁与更广泛的治理动向同步——9 月 29 日白宫《超级智能协议》（属自愿、不具法律约束力）与中国《人工智能安全治理框架 3.0》——同时美中亦同意建立双边 AI 事故沟通渠道。\n- **为何重要：** 一套有约束力的上报机制，将补上安全研究者长期呼吁却缺失的独立事故通报层；但'何为严重''上报给谁''罚则如何'等细节尚未定义。\n- **信源：** 财联社与新浪财经均在 10 月 22 日报道了 OpenAI 的该呼吁。\n- **为何重要（续）：** 当前沿模型获得网络与生物能力，'自愿承诺'与'可强制披露'之间的缺口，正成为政策博弈的中轴。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e8e5b?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 4,
+      "timeAgo": 26,
+      "date": "2026-10-22",
+      "en": {
+        "title": "DeepSeek Open-Sources DeepInfer, the Serving Engine Behind V4.1 Flash",
+        "excerpt": "DeepSeek published DeepInfer, the Apache-licensed serving engine behind its V4.1 Flash model, supporting Nvidia SM100 GPUs and Huawei Ascend 950 chips.",
+        "content": "**Opening the Inference Stack**\n\n- **Release:** DeepSeek published **DeepInfer**, the engine behind **V4.1 Flash**, under an **Apache license**. It supports offline inference on Nvidia **SM100** GPUs and Huawei **Ascend 950** chips.\n- **What It Does:** The release gives operators a route to inspect and adapt the serving infrastructure behind a recently updated model, rather than treat it as a black box.\n- **What's Missing:** A complete production service still needs a cache system, separated serving stages and load balancing — none of which this release includes.\n- **Sources:** AI Impact Hub reported the release and linked the code on GitHub.\n- **Why It Matters:** As US restrictions push Chinese labs toward self-reliance, open-sourcing the serving layer widens the ecosystem that can run and harden these models on domestic and Nvidia hardware alike."
+      },
+      "zh": {
+        "title": "DeepSeek 开源 DeepInfer：V4.1 Flash 背后的推理服务引擎",
+        "excerpt": "DeepSeek 发布 DeepInfer——支撑 V4.1 Flash 的推理服务引擎，采用 Apache 协议，支持英伟达 SM100 与华为昇腾 950。",
+        "content": "**敞开推理栈**\n\n- **发布：** DeepSeek 以 **Apache 协议**发布了支撑 **V4.1 Flash** 的引擎 **DeepInfer**，支持在英伟达 **SM100** GPU 与华为**昇腾 950** 芯片上进行离线推理。\n- **作用：** 该发布让运营方得以检视并改造一个近期更新模型的推理服务基础设施，而非把它当黑箱。\n- **尚缺：** 完整的生产级服务仍需要缓存系统、分离的 serving 阶段与负载均衡——这些都不在本发布范围内。\n- **信源：** AI Impact Hub 报道了该发布并附上 GitHub 代码链接。\n- **为何重要：** 在美国限制推动中国实验室走向自主可控之际，开源推理层扩大了能够在国产与英伟达硬件上运行并加固这些模型的生态。"
+      }
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a761230?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 4,
+      "timeAgo": 28,
+      "date": "2026-10-22",
+      "en": {
+        "title": "Meta Plans New Non-Voting Stock to Fund AI Investment Without Diluting Zuckerberg",
+        "excerpt": "Meta is preparing a new class of non-voting shares to raise capital for AI, structured so the move does not dilute Mark Zuckerberg's controlling stake.",
+        "content": "**Capital Without Losing Control**\n\n- **The Plan:** Meta is preparing a **new class of non-voting stock** to raise capital for its AI build-out, structured so the issuance does not dilute Mark Zuckerberg's voting control, according to people familiar with the matter.\n- **Timing:** The plan could be announced as early as Meta's Wednesday earnings, alongside a broader signal of stepped-up AI spending.\n- **Why:** With AI capex soaring across the hyperscalers, Meta needs fresh capital without weakening Zuckerberg's founder control — the non-voting structure achieves both.\n- **Sources:** Multiple wires (CLS / 财联社, Sina Finance, Yahoo Finance) reported the plan on October 22.\n- **Why It Matters:** As the AI build-out demands historic capital, governance structures that raise money while preserving founder control are becoming a defining feature of how the giants fund the race."
+      },
+      "zh": {
+        "title": "Meta 拟推新型无投票权股票，为 AI 投资募资且不稀释扎克伯格控制权",
+        "excerpt": "据知情人士，Meta 正筹备一类新的无投票权股票为 AI 建设募资，结构设计使其不会稀释扎克伯格的控股地位。",
+        "content": "**募资而不失控制权**\n\n- **方案：** 据知情人士，Meta 正筹备一类**新型无投票权股票**，为 AI 建设募资，结构设计上不会稀释马克·扎克伯格的投票控制权。\n- **时点：** 该计划最早可能随 Meta 周三的财报一并公布，同时释放出 AI 支出进一步加码的信号。\n- **动因：** 在 hyperscaler 普遍 AI 资本开支飙升之际，Meta 需要新资本，又不愿削弱创始人的控制权——无投票权结构恰好两全。\n- **信源：** 财联社、新浪财经、Yahoo Finance 等多家媒体均在 10 月 22 日报道了该计划。\n- **为何重要：** 当 AI 建设需要史无前例的资本，'既募资又保住创始人控制'的治理结构设计，正成为巨头们为这场竞赛融资的标志性特征。"
+      }
+    }
+  ]
+}
