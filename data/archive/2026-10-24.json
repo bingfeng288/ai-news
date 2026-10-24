@@ -1,0 +1,202 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=600&fit=crop",
+    "category": "infra",
+    "readTime": 7,
+    "timeAgo": 9,
+    "date": "2026-10-24",
+    "en": {
+      "title": "Anthropic Expands Google Cloud TPU Deal to 1 Million Chips, Worth Tens of Billions",
+      "excerpt": "Anthropic announced it will expand use of Google Cloud TPUs to up to one million chips in a deal worth tens of billions of dollars, bringing well over 1GW of capacity online in 2026 to train and serve future Claude models.",
+      "content": "**A Compute Anchor Outside the Nvidia Stack**\n\n- **The Deal:** On October 23-24, Anthropic confirmed it will expand its use of Google Cloud technologies to **up to one million TPUs**, in an arrangement worth **tens of billions of dollars** and expected to bring **well over 1GW** of capacity online in 2026.\n- **Why TPUs:** Anthropic cites strong price-performance and efficiency it has seen with TPUs for years; the expansion helps serve 300,000+ business customers and a large-account base that has grown nearly 7x in a year.\n- **Multi-Cloud Strategy:** Claude already runs across Google TPUs, Amazon Trainium and Nvidia GPUs, each assigned to training, inference or research. Google has invested about $3B in Anthropic; Amazon remains the primary training partner via Project Rainier.\n- **Market Signal:** The deal deepens Google's non-Nvidia accelerator ecosystem and arrives as rivals lock in sovereign compute — OpenAI has signed deals that may cost over $1T for roughly 26GW.\n- **Sources:** Anthropic's official announcement, Reuters/CGTN, Bloomberg (via globaltechmap) and Chinese outlets (zhonghongwang) all corroborate the 1M-TPU, tens-of-billions, >1GW figures.\n- **Why It Matters:** It is one of the largest single AI-compute commitments on record and shows frontier labs are diversifying beyond Nvidia to secure training and inference scale."
+    },
+    "zh": {
+      "title": "Anthropic 将谷歌云 TPU 协议扩至百万颗，价值数百亿美元",
+      "excerpt": "Anthropic 确认将谷歌云 TPU 使用规模扩展至多达 100 万颗，交易价值数百亿美元，预计 2026 年带来超过 1GW 算力，用于训练与运行后续 Claude 模型。",
+      "content": "**英伟达体系之外的算力锚点**\n\n- **交易：** 10 月 23-24 日，Anthropic 确认将谷歌云技术的应用规模扩展至 **多达 100 万颗 TPU**，交易价值 **数百亿美元**，预计 2026 年带来 **超过 1GW** 的算力容量。\n- **为何选 TPU：** Anthropic 称多年来在 TPU 上看到了强劲的性价比与效率；此举有助于服务超过 30 万家企业客户，以及一年内增长近 7 倍的大客户群。\n- **多云战略：** Claude 已在谷歌 TPU、亚马逊 Trainium 与英伟达 GPU 三大平台上运行，分别承担训练、推理与研究负载。谷歌已向 Anthropic 投资约 30 亿美元；亚马逊仍是通过 Project Rainier 的主要训练合作伙伴。\n- **市场信号：** 该协议深化了谷歌「非英伟达」加速芯片生态，正值对手锁定主权算力——OpenAI 已签署或达万亿美元、约 26GW 的算力协议。\n- **信源：** Anthropic 官方公告、路透/CGTN、彭博（经 globaltechmap）、中宏网等多方佐证了「百万颗 TPU、数百亿美元、超 1GW」的核心数字。\n- **为何重要：** 这是迄今规模最大的单笔 AI 算力承诺之一，表明前沿实验室正加速脱离英伟达单一栈，以确保训练与推理规模。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 4,
+      "timeAgo": 6,
+      "date": "2026-10-24",
+      "en": {
+        "title": "Microsoft Ships Copilot 'Fall Edition' and Edge 'Copilot Mode'",
+        "excerpt": "On October 24 Microsoft launched a people-focused Copilot 'Fall Edition' update and added a new 'Copilot Mode' to Edge that can perceive tabs and act inside the browser on tasks like summaries and bookings.",
+        "content": "**The Browser Becomes the Agent**\n\n- **Copilot Fall Edition:** A human-oriented update on October 24 emphasizing cross-scenario personalization and usability improvements across Microsoft's AI assistant.\n- **Edge Copilot Mode:** A new mode that can sense open tabs and perform in-browser actions such as summarizing pages and booking tickets, while stressing safety guardrails and user control.\n- **Context:** It lands the same week as a broader browser-level AI race; Microsoft frames enterprise collaboration and compliance as the differentiators versus consumer chatbots.\n- **Sources:** toolnavs 24-hour AI news roundup (October 24).\n- **Why It Matters:** It shows the AI battleground moving from chat windows into the browser itself — agents that read your context and act, not just answer."
+      },
+      "zh": {
+        "title": "微软推出 Copilot「秋季版」与 Edge「Copilot 模式」",
+        "excerpt": "10 月 24 日，微软发布以人为中心的 Copilot「秋季版」更新，并为 Edge 新增可感知标签页、在浏览器内执行摘要与订票等动作的「Copilot 模式」。",
+        "content": "**浏览器成为智能体**\n\n- **Copilot 秋季版：** 10 月 24 日发布的以人为中心的更新，强化跨场景个性化与可用性改进。\n- **Edge Copilot 模式：** 新模式可感知已打开的标签页，并在浏览器内执行摘要页面、预订票务等动作，同时强调安全护栏与用户可控。\n- **背景：** 正值本周浏览器级 AI 竞赛升温；微软将企业协作与合规视为相对消费级聊天机器人的差异化卖点。\n- **信源：** toolnavs 24 小时 AI 新闻汇总（10 月 24 日）。\n- **为何重要：** 这显示 AI 战场正从聊天窗口移向浏览器本身——能读取上下文并行动的智能体，而非仅作答。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1460454414544-c46e4fa0a3b8?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 8,
+      "date": "2026-10-24",
+      "en": {
+        "title": "GM to Embed Google Gemini in Cars from 2026, Phasing Out CarPlay and Android Auto",
+        "excerpt": "At its GM Forward event GM confirmed it will roll out a Google Gemini-powered conversational assistant across its lineup starting in 2026, as it shifts to a centralized computing platform and moves away from phone-projection systems.",
+        "content": "**The Car Becomes the Assistant**\n\n- **The Plan:** At the GM Forward event, CEO Mary Barra and product chief Sterling Anderson confirmed Gemini will arrive in GM vehicles starting in 2026, letting drivers talk to the car like a passenger for routes, messages and vehicle health.\n- **Phasing Out:** GM will move away from Apple CarPlay and Android Auto toward a centralized computing platform; EVs already dropped them, with gas models following as the new platform launches (targeted around 2028).\n- **Over-the-Air:** Gemini ships via Play Store OTA to OnStar-equipped vehicles (2015 and newer). GM says it will also test models from OpenAI and Anthropic while keeping user data private and not sold for ads.\n- **Roadmap:** A 2028 central vehicle compute platform and eyes-off highway driving (Level 3) will debut on the Cadillac Escalade IQ.\n- **Sources:** Android Authority, iThome, Yahoo Tech, PCAuto and GM/Engadget reporting.\n- **Why It Matters:** A major automaker is betting it can own the in-car AI layer — and the data — rather than cede the cockpit to Apple and Google phone mirroring."
+      },
+      "zh": {
+        "title": "通用 2026 年起内置谷歌 Gemini，逐步弃用 CarPlay 与 Android Auto",
+        "excerpt": "在 GM Forward 活动上，通用确认自 2026 年起在全系车型推出由谷歌 Gemini 驱动的对话助手，并转向中央计算平台、远离手机投屏系统。",
+        "content": "**汽车成为助手**\n\n- **规划：** 在 GM Forward 活动上，CEO Mary Barra 与产品负责人 Sterling Anderson 确认 Gemini 将于 2026 年进入通用车型，让驾驶者像与乘客对话般查询路线、消息与车况。\n- **逐步退出：** 通用将摆脱苹果 CarPlay 与 Android Auto，转向中央计算平台；电动车已不再支持，燃油车将随新平台推出而跟进（目标约 2028 年）。\n- **空中升级：** Gemini 经 Play Store OTA 推送到配备 OnStar 的车辆（2015 年及以后）。通用称也将测试 OpenAI、Anthropic 等模型，且用户数据私密、不用于广告。\n- **路线图：** 2028 年中央车载计算平台与高速路「脱手驾驶」（L3）将首搭凯迪拉克 Escalade IQ。\n- **信源：** Android Authority、iThome、Yahoo Tech、太平洋汽车及 GM/Engadget 报道。\n- **为何重要：** 大型车企押注自己掌控车内 AI 层与数据，而非把座舱让渡给苹果与谷歌的手机镜像。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 5,
+      "timeAgo": 5,
+      "date": "2026-10-24",
+      "en": {
+        "title": "China Signals Stronger AI Top-Level Design and 'AI+' Push in 15th Five-Year Plan",
+        "excerpt": "At an October 24 briefing, Chinese authorities said they will intensify top-level AI design and the 'AI+' initiative, focusing on core tech, high-end chips, governance and an open national data market.",
+        "content": "**A National Framework Takes Shape**\n\n- **The Signal:** At an October 24 press conference, authorities said they will continue strengthening the top-level design and systematic deployment of artificial intelligence during the 15th Five-Year Plan period.\n- **Priorities:** Key areas named include basic research and core technology, high-end computing chips, AI governance rules and ethics, international collaboration, and building an open, shared and secure national integrated data market with full AI+ implementation.\n- **Why Now:** The framing positions AI as a cross-cutting national priority rather than a sector program, with data-market and governance pillars alongside hardware.\n- **Sources:** toolnavs 24-hour AI news (October 24 authoritative briefing interpretation).\n- **Why It Matters:** It sets the regulatory and investment backdrop for China's next five years of AI — clarifying where state support and oversight will concentrate."
+      },
+      "zh": {
+        "title": "中国「十五五」将强化 AI 顶层设计与「人工智能+」",
+        "excerpt": "在 10 月 24 日的发布会上，有关部门表示将在「十五五」期间强化人工智能顶层设计与系统部署，聚焦核心技术、高端芯片、治理伦理与开放数据市场。",
+        "content": "**国家框架成形**\n\n- **信号：** 在 10 月 24 日发布会上，有关部门表示将在「十五五」期间持续强化人工智能的顶层设计与系统部署。\n- **重点：** 明确领域包括基础研究与核心技术、高端算力芯片、AI 治理规则与伦理、国际协作，以及建设开放共享安全的全国一体化数据市场、全面落实「人工智能+」。\n- **为何此时：** 这一表述将 AI 定位为跨领域的国家级优先事项，而非单一行业计划，与硬件并列提出数据市场与治理支柱。\n- **信源：** toolnavs 24 小时 AI 新闻（10 月 24 日权威发布会解读）。\n- **为何重要：** 它为中国未来五年的 AI 划定了监管与投资基调——明确国家支持与监管将集中在何处。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1478166130743-945880741273?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 4,
+      "timeAgo": 7,
+      "date": "2026-10-24",
+      "en": {
+        "title": "Google Adds Gemini-Powered 'Geospatial Reasoning' to Google Earth AI",
+        "excerpt": "Google unveiled a Google Earth AI upgrade that fuses Earth-modeling data with Gemini's reasoning, letting users surface deep insights — like at-risk communities ahead of a storm — in minutes instead of years.",
+        "content": "**Maps That Reason**\n\n- **The Upgrade:** Google announced a Google Earth AI enhancement that combines years of Earth-modeling data with frontier prediction models and Gemini's advanced reasoning, delivered via a new Geospatial Reasoning framework.\n- **How It Works:** The system auto-integrates multiple Earth-AI models — weather forecasting, population maps, satellite imagery — to make cross-source associations. A user can see not just where a storm hits, but which vulnerable communities and critical infrastructure are at risk.\n- **Audience:** Enterprises, cities and non-profits can obtain insights that previously required years of study, in minutes.\n- **Sources:** mystockhk PDF roundup (October 24 Google Earth AI / Gemini update).\n- **Why It Matters:** It shows generative reasoning being layered onto geospatial data — turning satellite and sensor feeds into decision-ready intelligence, not just pretty maps."
+      },
+      "zh": {
+        "title": "谷歌为 Google Earth AI 加入 Gemini 驱动的「地理空间推理」",
+        "excerpt": "谷歌发布 Google Earth AI 升级，将地球建模数据与 Gemini 推理融合，借助新「地理空间推理」框架，让用户在数分钟而非数年内获得深度洞察。",
+        "content": "**会推理的地图**\n\n- **升级：** 谷歌发布 Google Earth AI 增强，将多年地球建模数据与前沿预测模型、Gemini 高级推理结合，经新的「地理空间推理」框架交付。\n- **原理：** 系统自动整合多种地球 AI 模型——天气预报、人口分布图、卫星影像——实现跨数据源智能关联。用户不仅能看到风暴影响区域，还能同步识别最脆弱的社区与关键基础设施。\n- **受众：** 企业、城市与非营利组织可在数分钟内获得以往需数年研究才能得出的洞察。\n- **信源：** mystockhk 资讯汇总（10 月 24 日 Google Earth AI / Gemini 更新）。\n- **为何重要：** 这显示生成式推理正叠加到地理空间数据之上——把卫星与传感数据变成「可直接决策」的情报，而不只是好看的地图。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 4,
+      "timeAgo": 4,
+      "date": "2026-10-24",
+      "en": {
+        "title": "AI Gun-Detection False Alarm Handcuffs Student Over a Potato Chip Bag",
+        "excerpt": "A Maryland high school's AI gun-detection system triggered a false alarm on October 24, leading to a student being handcuffed over what was later found to be a snack bag — spotlighting the cost of false positives in public-safety CV.",
+        "content": "**The Cost of a False Positive**\n\n- **The Incident:** On October 24, an AI gun-detection system at a Maryland high school fired a false alarm; a student was handcuffed and removed on the spot, later clarified to be a snack (chip) bag.\n- **Fallout:** Local education authorities and police procedures will be reviewed, with particular attention to vendor identification and testing standards for such systems.\n- **Broader Issue:** It underscores the false-alarm costs and governance responsibility of computer vision in public-safety settings, where errors carry real physical and psychological consequences.\n- **Sources:** toolnavs 24-hour AI news (October 24).\n- **Why It Matters:** As schools and venues deploy weapon-detection AI, this case is a concrete reminder that accuracy, human-in-the-loop and accountability must be engineered in — not bolted on after harm."
+      },
+      "zh": {
+        "title": "AI 枪支识别误报：学生因一包薯片被铐走",
+        "excerpt": "10 月 24 日，美国马里兰州一所高中的 AI 枪支识别系统发生误报，一名学生被当场铐走，后证实只是一包零食——凸显公共安全计算机视觉误报的代价。",
+        "content": "**误报的代价**\n\n- **事件：** 10 月 24 日，马里兰州一所高中的 AI 枪支识别系统发出误报，一名学生被当场铐走并带离，后澄清只是一包零食（薯片）袋。\n- **后续：** 当地教育部门与警方流程将被审查，重点聚焦于此类系统的供应商识别与测试标准。\n- **深层问题：** 它凸显了公共安全场景中计算机视觉误报的代价与治理责任——错误会带来真实的身体与心理后果。\n- **信源：** toolnavs 24 小时 AI 新闻（10 月 24 日）。\n- **为何重要：** 随着学校与场馆部署武器检测 AI，这一案例提醒我们：准确性、人在回路与责任机制必须内建，而非在造成伤害后补丁式追加。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 6,
+      "timeAgo": 3,
+      "date": "2026-10-24",
+      "en": {
+        "title": "OpenAI, PerturbAI and Scripps Used Thousands of AI Agents to Map a Mouse Brain in 32 Minutes",
+        "excerpt": "OpenAI, PerturbAI and Scripps Research deployed thousands of GPT-Rosalind agents to analyze a whole-brain CRISPR atlas of millions of mouse cells in 32 minutes — work estimated at months to a year for humans.",
+        "content": "**Distributed Biological Reasoning**\n\n- **The Result:** OpenAI, PerturbAI and Scripps Research used thousands of AI agents powered by **GPT-Rosalind** to analyze a whole-brain CRISPR atlas of millions of mouse brain cells in **32 minutes**; comparable human analysis was estimated at months to a year.\n- **How:** Each agent investigated one gene disruption, analyzed cellular responses and searched literature, then reports were combined into a Reasoning Atlas linking genes, effects, papers and mechanisms.\n- **Findings:** Agents reproduced known results and surfaced new leads — for example regional differences between Tsc1 and Tsc2 in the cerebellum (relevant to tuberous sclerosis) and a possible cholesterol-neurodegeneration link via DCTN1.\n- **Validation:** In blind comparisons, expert biologists preferred distributed-agent reports 75% of the time; the largest run cited 700+ papers versus 11 for a single agent. Preprint on bioRxiv (October 16, 2026), not yet peer-reviewed.\n- **Sources:** OpenAI's official research post, IT之家/Phoenix, Tencent News and bioRxiv.\n- **Why It Matters:** It is a concrete demo of distributed biological reasoning — using AI to scale literature synthesis and prioritize experiments, not replace lab work."
+      },
+      "zh": {
+        "title": "OpenAI、PerturbAI 与 Scripps 用数千智能体 32 分钟绘制小鼠全脑图谱",
+        "excerpt": "OpenAI、PerturbAI 与斯克里普斯研究所部署数千个 GPT-Rosalind 智能体，在 32 分钟内分析含数百万小鼠脑细胞的小全脑 CRISPR 图谱——人类估计需数月到一年。",
+        "content": "**分布式生物推理**\n\n- **结果：** OpenAI、PerturbAI 与斯克里普斯研究所用数千个由 **GPT-Rosalind** 驱动的 AI 智能体，在 **32 分钟**内分析了一份覆盖数百万小鼠脑细胞的小全脑 CRISPR 图谱；同等人类分析估计需数月到一年。\n- **原理：** 每个智能体负责一种基因干预，分析细胞响应并检索文献，最终报告汇成关联基因、效应、论文与机制的「推理图谱」。\n- **发现：** 智能体复现了已知结论，并给出新线索——如小脑中 Tsc1 与 Tsc2 的区域性差异（与结节性硬化相关），以及经 DCTN1 提出的胆固醇—神经退行可能关联。\n- **验证：** 盲测中生物学专家在 75% 的对比中更倾向分布式智能体报告；最大规模运行引用 700+ 篇文献，单个智能体仅 11 篇。预印本发布于 bioRxiv（2026-10-16），尚未同行评审。\n- **信源：** OpenAI 官方研究文章、IT之家/凤凰网、腾讯新闻及 bioRxiv。\n- **为何重要：** 这是「分布式生物推理」的具象样本——用 AI 规模化文献综合来优先安排实验，而非取代实验工作。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1504680177321-2e6a879aac86?w=600&h=400&fit=crop",
+      "category": "healthcare",
+      "readTime": 5,
+      "timeAgo": 12,
+      "date": "2026-10-24",
+      "en": {
+        "title": "FDA Launches Neuroscience Medical-Product Program and Finalizes Prescription-Drug Software Guidance",
+        "excerpt": "On October 20 the FDA launched a program to advance neuroscience medical-product development and issued final guidance on prescription drug apps and software, sharpening the regulatory path for AI in medicine.",
+        "content": "**Regulation Catches Up to AI Medicine**\n\n- **Two Moves:** On October 20, 2026 the FDA launched a new program to advance neuroscience medical-product development and issued final guidance on prescription drug apps and software.\n- **Why It Matters for AI:** As AI diagnostics and software-as-medical-device spread, clearer FDA pathways reduce compliance overhead and define evidence expectations for safety and efficacy across diverse populations.\n- **Context:** The agency also highlighted its transparency roadmap and efforts to modernize clinical development, signaling a steadier regulatory posture toward AI-enabled health tools.\n- **Sources:** U.S. FDA official newsroom (press announcements dated October 20, 2026).\n- **Why It Matters:** Concrete FDA action gives AI-health startups a more predictable route to market — turning assistive AI from pilot to regulated clinical infrastructure."
+      },
+      "zh": {
+        "title": "FDA 启动神经科学医疗产品项目并发布处方药软件最终指南",
+        "excerpt": "10 月 20 日，FDA 启动推进神经科学医疗产品开发的专项计划，并发布处方药应用与软件的最终指南，厘清医疗 AI 的监管路径。",
+        "content": "**监管追上医疗 AI**\n\n- **两项动作：** 2026 年 10 月 20 日，FDA 启动推进神经科学医疗产品开发的专项计划，并发布处方药应用与软件的最终指南。\n- **对 AI 的意义：** 随着 AI 诊断与「软件即医疗器械」普及，更清晰的 FDA 路径降低了合规成本，并界定了跨人群安全性与有效性的证据要求。\n- **背景：** 该机构同时强调透明度路线图与临床开发现代化，显示出对 AI 赋能健康工具更稳健的监管姿态。\n- **信源：** 美国 FDA 官方新闻室（2026-10-20 发布的通告）。\n- **为何重要：** 具体的 FDA 行动为医疗 AI 初创公司提供了更可预期的市场通道——把「辅助型 AI」从试点推向受监管的临床基础设施。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168d6c?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 4,
+      "timeAgo": 2,
+      "date": "2026-10-24",
+      "en": {
+        "title": "Changsha Hosts 1024 Programmer Day and AI Builders Conference Focused on Embodied Intelligence",
+        "excerpt": "On October 24-25 the 1024 Programmer Day and AI Builders Conference opened in Changsha under the theme 'Embodied Together, Building the Future,' with forums on embodied AI, AI-in-government and live build sprints.",
+        "content": "**Embodied AI Takes the Stage**\n\n- **The Event:** On October 24-25, the 1024 Programmer Day and AI Builders Conference opened at World Computing Changsha Intelligence Valley, themed Embodied Together, Building the Future, expecting 1,500+ attendees.\n- **Embodied Focus:** A Beijing-Hunan forum convened 20+ embodied-AI firms, universities and institutions to discuss technical progress and industry collaboration; robotics and embodied intelligence were headline tracks.\n- **AI-in-Government:** A forum highlighted Shenzhen Longgang's national-first government AI internal-collaboration platform as a real, replicable scenario.\n- **Build Sprints:** Five build sessions let attendees form teams, build under time limits and publish on the spot, with outputs consolidated on the Code-and-Create platform.\n- **Sources:** Changsha Evening News / icswb (October 22 preview), organized by CSDN.\n- **Why It Matters:** China's developer ecosystem is steering from pure model talk toward embodied and applied AI — grounding the hype in robotics and real government/industry deployment."
+      },
+      "zh": {
+        "title": "长沙举办 1024 程序员日暨 AI 构建者大会，聚焦具身智能",
+        "excerpt": "10 月 24-25 日，1024 程序员日暨 AI 构建者大会在长沙以「具身同行、智构未来」为主题开幕，设具身智能、AI+政务等论坛与现场构建专场。",
+        "content": "**具身智能登台**\n\n- **活动：** 10 月 24-25 日，1024 程序员日暨 AI 构建者大会在世界计算·长沙智谷开幕，主题为「具身同行、智构未来」，预计到场 1500 余人。\n- **具身焦点：** 「京湘互动」论坛集结 20 余家具身 AI 企业、高校与机构，探讨技术进展与产业合作；机器人与具身智能成为主线议题。\n- **AI+政务：** 论坛以深圳龙岗全国首个政务 AI 内源协作平台为真实可复制样本，讨论政府业务智能化。\n- **构建专场：** 五场构建专场让参会者现场组队、限时构建、当场发布，作品统一沉淀至「码上创」平台。\n- **信源：** 长沙晚报 / icswb（10 月 22 日预告），由 CSDN 主办。\n- **为何重要：** 中国开发者生态正从纯模型讨论转向具身与应用 AI——把炒作落到机器人与真实政务/产业部署。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 4,
+      "timeAgo": 10,
+      "date": "2026-10-24",
+      "en": {
+        "title": "Stripe Agrees to Acquire AI Model-Routing Startup OpenRouter for $7.5 Billion",
+        "excerpt": "Stripe confirmed it will buy OpenRouter, a neutral gateway that routes requests across 400+ models from 80+ providers, in a ~$7.5B deal that unites payments with AI token spend.",
+        "content": "**Owning the AI Spend Layer**\n\n- **The Deal:** Stripe confirmed it will acquire OpenRouter, a platform that routes AI requests across 400+ models from 80+ providers, in a deal The New York Times reports at **$7.5 billion** (founders about $1.5B, investors about $6B).\n- **What OpenRouter Does:** One API front door to many models; it evaluates task complexity, price, speed and reliability to route each request — processing 10+ trillion tokens per day for 10M+ developers.\n- **Why Stripe:** Stripe already bills AI usage via Token Billing; folding in a router connects revenue collection with spend management, capturing a cut of the AI economy's central currency — tokens.\n- **Neutral Promise:** OpenRouter says it will keep its name, product and neutral routing after the deal; Axios pegged value above $8B, Bloomberg above $7B.\n- **Sources:** The New York Times, TechCrunch, Phronews and Tencent News.\n- **Why It Matters:** It marks AI model routing's shift from developer utility to critical economic infrastructure — Stripe is embedding itself in the middle of AI capital flows."
+      },
+      "zh": {
+        "title": "Stripe 同意以 75 亿美元收购 AI 模型路由初创 OpenRouter",
+        "excerpt": "Stripe 确认将收购 OpenRouter——一个在 80 多家供应商、400 多个模型间中立路由请求的网关，约合 75 亿美元的交易把支付与 AI token 支出合二为一。",
+        "content": "**掌控 AI 支出层**\n\n- **交易：** Stripe 确认将收购 OpenRouter——一个在 80 多家供应商、400 多个模型间路由 AI 请求的平台；据《纽约时报》报道成交价约 **75 亿美元**（创始人约 15 亿、投资者约 60 亿）。\n- **OpenRouter 做什么：** 一个统一 API 入口对接众多模型，按任务复杂度、价格、速度与可靠性路由每次请求——每日为超 1000 万开发者处理 10 万亿+ token。\n- **Stripe 的动机：** Stripe 已通过 Token Billing 计量 AI 用量；并入路由器将收款与支出管理相连，分食 AI 经济的「中央货币」——token。\n- **中立承诺：** OpenRouter 表示交易后保留名称、产品与中立路由；Axios 估值超 80 亿、彭博超 70 亿美元。\n- **信源：** 《纽约时报》、TechCrunch、Phronews、腾讯新闻。\n- **为何重要：** 这标志 AI 模型路由从开发者工具跃升为关键经济基础设施——Stripe 正把自己嵌入 AI 资本流的中枢。"
+      }
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 5,
+      "timeAgo": 11,
+      "date": "2026-10-24",
+      "en": {
+        "title": "Amazon Pledges Over €16 Billion for German AI Data Centers and a Berlin Robotics Lab",
+        "excerpt": "At the Invest in Germany Summit, Amazon pledged more than €16B ($17.9B) for 2027 — including €4.8B for AWS Frankfurt and a second Berlin robotics-and-AI lab — as US giants race to build EU AI infrastructure.",
+        "content": "**A Bet on European AI Capacity**\n\n- **The Pledge:** At the Invest in Germany Summit, Amazon committed **more than €16 billion ($17.9B)** for 2027, including **€4.8B** for AWS cloud and data-center infrastructure in Frankfurt to meet AI demand.\n- **Robotics Lab:** It will open a second robotics-and-AI research lab in Berlin, doubling its research presence in the capital, as it pushes AI into both cloud and e-commerce.\n- **Also in the Plan:** Expansion of the Amazon Leo low-Earth-orbit satellite network, logistics upgrades (3,000+ new jobs) and new Prime Video productions.\n- **Strategic Read:** The move balances expansion with EU scrutiny over data sovereignty and reliance on US suppliers; AWS European Sovereign Cloud went live in Germany in January 2026. Amazon's total 2026 capex is estimated near $220B.\n- **Sources:** Dow Jones/WSJ, Phoenix (ifeng), Ground News and aiproducthub.\n- **Why It Matters:** It intensifies the EU AI-infrastructure race among hyperscalers and shows AI capacity being localized to satisfy both demand and regulation."
+      },
+      "zh": {
+        "title": "亚马逊承诺超 160 亿欧元加码德国 AI 数据中心与柏林机器人实验室",
+        "excerpt": "在「投资德国」峰会上，亚马逊承诺 2027 年投入超 160 亿欧元（约 179 亿美元），含 48 亿欧元用于法兰克福 AWS 云与数据中心，并在柏林开设第二间机器人与 AI 实验室。",
+        "content": "**押注欧洲 AI 产能**\n\n- **承诺：** 在「投资德国」峰会上，亚马逊承诺 2027 年投入 **超 160 亿欧元（约 179 亿美元）**，其中 **48 亿欧元**用于法兰克福 AWS 云与数据中心基础设施，以满足 AI 需求。\n- **机器人实验室：** 将在柏林开设第二间机器人与 AI 研究实验室，使首都研究力量翻倍，把 AI 同时推进到云与电商主业。\n- **计划内容：** 同步扩容 Amazon Leo 低轨卫星网络、物流升级（新增 3000+ 岗位）与新的 Prime Video 制作。\n- **战略解读：** 此举在欧洲对美国供应商依赖与数据主权审查之间走钢丝；AWS 欧洲主权云已于 2026 年 1 月在德国商用。亚马逊 2026 年资本开支总额估计接近 2200 亿美元。\n- **信源：** Dow Jones/WSJ、凤凰网、Ground News、AI 产品库。\n- **为何重要：** 它加剧超大规模厂商在欧洲的 AI 基建竞赛，并显示 AI 产能正本地化，以同时满足需求与监管。"
+      }
+    }
+  ]
+}

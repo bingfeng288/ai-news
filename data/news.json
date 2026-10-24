@@ -1,201 +1,201 @@
 {
   "featured": {
     "id": 0,
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=600&fit=crop",
-    "category": "llm",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=600&fit=crop",
+    "category": "infra",
     "readTime": 7,
-    "timeAgo": 8,
-    "date": "2026-10-23",
+    "timeAgo": 9,
+    "date": "2026-10-24",
     "en": {
-      "title": "OpenAI DevDay 2026: Dots Always-On Agents, GPT-6.1 Sol, and an Ultrafast Tier",
-      "excerpt": "OpenAI's DevDay 2026 shipped more than 20 announcements — persistent 'Dots' agents that run on their own cloud computer, a cheaper GPT-6.1 Sol, an 8x Ultrafast token tier, Codex in the cloud, a General-Availability Decisions API, and 'Private Intelligence' data controls.",
-      "content": "**The Platform Layer Moved Faster Than the Headlines**\n\n- **Dots — agents that don't wait for a prompt:** OpenAI introduced **Dots**, always-on agents powered by **GPT-6 Astra**, each running on its own cloud computer with a browser and able to work across 4,000+ connected apps (ChatGPT, Slack, Microsoft Teams). You give a Dot a goal and a boundary; it works while you are away and reports back when judgment is needed. The first Dot is free for Pro and Business Premium and does not draw down your token quota.\n- **GPT-6.1 Sol — near-Astra at a fifth of the price:** A major upgrade to GPT-6 Sol, strongest on agentic coding, computer use and professional work, priced at one-fifth of Astra's standard input/output token prices ($2/M in, $10/M out, 1.05M-token context, up to 128K output). Available to all API, Plus, Pro, Business, Enterprise and Edu users.\n- **Ultrafast — 8x token generation:** A premium speed tier reaching **300 tokens per second in Codex** (up to 6x in the API); GPT-6 Astra Ultrafast is live today on Pro 500 and Enterprise, with GPT-6.1 Sol Ultrafast coming soon.\n- **Codex in the cloud:** Reusable dev environments let a task follow you from laptop to phone; Codex Security Cloud can scan entire GitHub repos on demand.\n- **Decisions API (GA):** Repurposes the **Luna** model for low-latency, low-cost decision calls with voice and visual modalities.\n- **Private Intelligence:** Zero Data Retention with Private Safety Processing lets automated safety reviews run without OpenAI staff reading content.\n- **Sources:** OpenAI's official DevDay 2026 recap, Analytics Insight and AI Tool Briefing all corroborate the Dots / GPT-6.1 Sol / Ultrafast / Codex / Decisions API announcements.\n- **Why It Matters:** OpenAI is reframing the model from a chat endpoint into a persistent coworker with its own compute — the strategic bet is on agentic workflows, not single-shot answers."
+      "title": "Anthropic Expands Google Cloud TPU Deal to 1 Million Chips, Worth Tens of Billions",
+      "excerpt": "Anthropic announced it will expand use of Google Cloud TPUs to up to one million chips in a deal worth tens of billions of dollars, bringing well over 1GW of capacity online in 2026 to train and serve future Claude models.",
+      "content": "**A Compute Anchor Outside the Nvidia Stack**\n\n- **The Deal:** On October 23-24, Anthropic confirmed it will expand its use of Google Cloud technologies to **up to one million TPUs**, in an arrangement worth **tens of billions of dollars** and expected to bring **well over 1GW** of capacity online in 2026.\n- **Why TPUs:** Anthropic cites strong price-performance and efficiency it has seen with TPUs for years; the expansion helps serve 300,000+ business customers and a large-account base that has grown nearly 7x in a year.\n- **Multi-Cloud Strategy:** Claude already runs across Google TPUs, Amazon Trainium and Nvidia GPUs, each assigned to training, inference or research. Google has invested about $3B in Anthropic; Amazon remains the primary training partner via Project Rainier.\n- **Market Signal:** The deal deepens Google's non-Nvidia accelerator ecosystem and arrives as rivals lock in sovereign compute — OpenAI has signed deals that may cost over $1T for roughly 26GW.\n- **Sources:** Anthropic's official announcement, Reuters/CGTN, Bloomberg (via globaltechmap) and Chinese outlets (zhonghongwang) all corroborate the 1M-TPU, tens-of-billions, >1GW figures.\n- **Why It Matters:** It is one of the largest single AI-compute commitments on record and shows frontier labs are diversifying beyond Nvidia to secure training and inference scale."
     },
     "zh": {
-      "title": "OpenAI DevDay 2026：全天候 Dots 智能体、GPT-6.1 Sol 与超高速档",
-      "excerpt": "OpenAI 在 DevDay 2026 一口气发布 20 余项更新：拥有独立云端电脑、可持续工作的「Dots」智能体，更便宜的 GPT-6.1 Sol，提速 8 倍的 Ultrafast 档，云端 Codex，正式可用的 Decisions API，以及「Private Intelligence」数据管控。",
-      "content": "**平台层跑得比标题更快**\n\n- **Dots——不等人发指令的智能体：** OpenAI 推出由 **GPT-6 Astra** 驱动的常驻智能体 **Dots**，每个都拥有独立的云端电脑与浏览器，可跨 ChatGPT、Slack、Microsoft Teams 联动 4000+ 应用。你给目标与边界，它在你离开时持续工作，需判断时再回报。首个 Dot 向 Pro 与 Business Premium 免费提供，且不占用额度。\n- **GPT-6.1 Sol——五分之一价格逼近 Astra：** GPT-6 Sol 的重大升级，在智能体编程、电脑操作与专业工作上表现最强，价格仅为 Astra 标准输入/输出价的五分之一（输入 2 美元/百万、输出 10 美元/百万，上下文 105 万 token，输出上限 12.8 万）。已面向所有 API、Plus、Pro、Business、Enterprise 与 Edu 用户开放。\n- **Ultrafast——8 倍生成速度：** 高端速度档在 Codex 中可达 **每秒 300 token**（API 最高 6 倍）；GPT-6 Astra Ultrafast 已于 Pro 500 与 Enterprise 上线，GPT-6.1 Sol 版即将推出。\n- **云端 Codex：** 可复用开发环境让任务在笔记本与手机间跟随；Codex Security Cloud 可按需扫描整个 GitHub 仓库。\n- **Decisions API（正式可用）：** 将 **Luna** 模型改造为低延迟、低成本的决策调用，并加入语音与视觉模态。\n- **Private Intelligence：** 零数据留存配合私有安全处理，让自动化安全审查无需 OpenAI 人员读取内容。\n- **信源：** OpenAI 官方 DevDay 2026 回顾，以及 Analytics Insight、AI Tool Briefing 均佐证了 Dots / GPT-6.1 Sol / Ultrafast / Codex / Decisions API 的发布。\n- **为何重要：** OpenAI 正把模型从「聊天端点」重构为拥有独立算力的常驻搭档——战略押注在智能体工作流，而非单次问答。"
+      "title": "Anthropic 将谷歌云 TPU 协议扩至百万颗，价值数百亿美元",
+      "excerpt": "Anthropic 确认将谷歌云 TPU 使用规模扩展至多达 100 万颗，交易价值数百亿美元，预计 2026 年带来超过 1GW 算力，用于训练与运行后续 Claude 模型。",
+      "content": "**英伟达体系之外的算力锚点**\n\n- **交易：** 10 月 23-24 日，Anthropic 确认将谷歌云技术的应用规模扩展至 **多达 100 万颗 TPU**，交易价值 **数百亿美元**，预计 2026 年带来 **超过 1GW** 的算力容量。\n- **为何选 TPU：** Anthropic 称多年来在 TPU 上看到了强劲的性价比与效率；此举有助于服务超过 30 万家企业客户，以及一年内增长近 7 倍的大客户群。\n- **多云战略：** Claude 已在谷歌 TPU、亚马逊 Trainium 与英伟达 GPU 三大平台上运行，分别承担训练、推理与研究负载。谷歌已向 Anthropic 投资约 30 亿美元；亚马逊仍是通过 Project Rainier 的主要训练合作伙伴。\n- **市场信号：** 该协议深化了谷歌「非英伟达」加速芯片生态，正值对手锁定主权算力——OpenAI 已签署或达万亿美元、约 26GW 的算力协议。\n- **信源：** Anthropic 官方公告、路透/CGTN、彭博（经 globaltechmap）、中宏网等多方佐证了「百万颗 TPU、数百亿美元、超 1GW」的核心数字。\n- **为何重要：** 这是迄今规模最大的单笔 AI 算力承诺之一，表明前沿实验室正加速脱离英伟达单一栈，以确保训练与推理规模。"
     }
   },
   "articles": [
     {
       "id": 1,
-      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&h=400&fit=crop",
-      "category": "business",
-      "readTime": 5,
-      "timeAgo": 14,
-      "date": "2026-10-23",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 4,
+      "timeAgo": 6,
+      "date": "2026-10-24",
       "en": {
-        "title": "OpenAI Nears Up to $30B Round at $1.25T Valuation, Led by UAE Investors",
-        "excerpt": "CNBC reports OpenAI is closing an up-to-$30B funding round at a $1.25T pre-money valuation, led by UAE investors alongside Coatue, positioned as a bridge before a potential IPO.",
-        "content": "**The Capital Race Reorders Itself**\n\n- **The Deal:** OpenAI is close to finalizing an up-to-**$30 billion** funding round at a **$1.25 trillion pre-money valuation**, according to people familiar with the deal cited by CNBC. Investors from the **United Arab Emirates** and **Coatue** are leading the financing.\n- **Bridge, Not Exit:** The round is positioned as an opportunistic bridge ahead of a potential IPO. OpenAI told investors it aims to secure signatures by the end of next week, though final size is still being determined.\n- **Compute Angle:** Alongside the capital, OpenAI is negotiating a commercial deal to secure more compute from the UAE; the company has told investors it targets roughly $600B in total compute spend by 2030.\n- **Timeline:** OpenAI confidentially filed its prospectus with the SEC in June. CFO Sarah Friar said in August the lab 'will be a public company in 2027'; CEO Sam Altman called going public now 'ill-advised.'\n- **Sources:** CNBC (primary), with corroboration from Tencent News, ifeng and multiple Chinese outlets.\n- **Why It Matters:** The raise keeps OpenAI private while it locks in sovereign capital and compute ahead of rival Anthropic's expected IPO, sharpening the split between private war-chests and public pricing."
+        "title": "Microsoft Ships Copilot 'Fall Edition' and Edge 'Copilot Mode'",
+        "excerpt": "On October 24 Microsoft launched a people-focused Copilot 'Fall Edition' update and added a new 'Copilot Mode' to Edge that can perceive tabs and act inside the browser on tasks like summaries and bookings.",
+        "content": "**The Browser Becomes the Agent**\n\n- **Copilot Fall Edition:** A human-oriented update on October 24 emphasizing cross-scenario personalization and usability improvements across Microsoft's AI assistant.\n- **Edge Copilot Mode:** A new mode that can sense open tabs and perform in-browser actions such as summarizing pages and booking tickets, while stressing safety guardrails and user control.\n- **Context:** It lands the same week as a broader browser-level AI race; Microsoft frames enterprise collaboration and compliance as the differentiators versus consumer chatbots.\n- **Sources:** toolnavs 24-hour AI news roundup (October 24).\n- **Why It Matters:** It shows the AI battleground moving from chat windows into the browser itself — agents that read your context and act, not just answer."
       },
       "zh": {
-        "title": "OpenAI 接近完成最高 300 亿美元融资，投前估值 1.25 万亿美元，阿联酋领投",
-        "excerpt": "CNBC 报道，OpenAI 正接近完成一轮最高 300 亿美元的融资，投前估值 1.25 万亿美元，由阿联酋投资者与 Coatue 共同领投，定位为潜在 IPO 前的过渡桥。",
-        "content": "**资本竞赛重新排序**\n\n- **交易：** 据 CNBC 援引知情人士，OpenAI 正接近完成一轮最高 **300 亿美元**的融资，投前估值 **1.25 万亿美元**；来自**阿联酋**的投资者与 **Coatue** 共同领投。\n- **桥梁而非退出：** 本轮被定位为潜在 IPO 前的「机会性」过渡融资。OpenAI 已告知投资者目标在下周末前完成签约，但最终规模仍在确定中。\n- **算力维度：** 伴随融资，OpenAI 正洽谈一项从阿联酋获取更多算力的商业协议；公司曾告诉投资者，到 2030 年总计算支出目标约 6000 亿美元。\n- **时间表：** OpenAI 已于 6 月向 SEC 机密提交招股书；CFO Sarah Friar 8 月称公司「将于 2027 年成为上市公司」，CEO Sam Altman 则称当下上市「不明智」。\n- **信源：** CNBC（一手），腾讯新闻、凤凰网等多家中文媒体佐证。\n- **为何重要：** 该轮让 OpenAI 在保持私有的同时锁定主权资本与算力，抢在竞争对手 Anthropic 预计的 IPO 之前，凸显「私募金库」与「公开定价」两条路线的分岔。"
+        "title": "微软推出 Copilot「秋季版」与 Edge「Copilot 模式」",
+        "excerpt": "10 月 24 日，微软发布以人为中心的 Copilot「秋季版」更新，并为 Edge 新增可感知标签页、在浏览器内执行摘要与订票等动作的「Copilot 模式」。",
+        "content": "**浏览器成为智能体**\n\n- **Copilot 秋季版：** 10 月 24 日发布的以人为中心的更新，强化跨场景个性化与可用性改进。\n- **Edge Copilot 模式：** 新模式可感知已打开的标签页，并在浏览器内执行摘要页面、预订票务等动作，同时强调安全护栏与用户可控。\n- **背景：** 正值本周浏览器级 AI 竞赛升温；微软将企业协作与合规视为相对消费级聊天机器人的差异化卖点。\n- **信源：** toolnavs 24 小时 AI 新闻汇总（10 月 24 日）。\n- **为何重要：** 这显示 AI 战场正从聊天窗口移向浏览器本身——能读取上下文并行动的智能体，而非仅作答。"
       }
     },
     {
       "id": 2,
-      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&h=400&fit=crop",
-      "category": "healthcare",
-      "readTime": 6,
-      "timeAgo": 16,
-      "date": "2026-10-23",
+      "image": "https://images.unsplash.com/photo-1460454414544-c46e4fa0a3b8?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 8,
+      "date": "2026-10-24",
       "en": {
-        "title": "Microsoft's MAI-DxO Out-Diagnoses Generalist Doctors 2.3x in Science Study",
-        "excerpt": "A peer-reviewed Science paper reports Microsoft's MAI-DxO multi-agent diagnostic orchestrator hit 83% accuracy on complex NEJM cases versus 36% for generalist physicians using references.",
-        "content": "**A Benchmark Built for Step-by-Step Reasoning**\n\n- **The Result:** Microsoft's **MAI-DxO** diagnostic system reached **83% accuracy** on 304 complex New England Journal of Medicine cases in simulation, versus **36%** for generalist physicians using reference materials (22% without). On emergency-department cases it scored ~80% against ~47% for physicians.\n- **How It Works:** MAI-DxO is an orchestration layer, not a single model — it coordinates several AI agents that act like a panel of clinicians, asking questions, ordering tests and debating a diagnosis. Best results ran on OpenAI's GPT-5 and GPT-5.5.\n- **Cost:** It reached the answer at roughly half to one-third the estimated test cost of comparative approaches.\n- **Published:** The study, 'Sequential diagnosis with language models,' appears in **Science** (Vol. 394, Issue 6822), received April 4, accepted August 10, 2026.\n- **Caveats:** All 15 authors are Microsoft employees; the benchmark (SDBench) is Microsoft's own; specialists and physician teams — who normally handle such cases — were excluded; all cases were historical. A Beth Israel Deaconess prospective trial is planned.\n- **Sources:** Microsoft AI official announcement, Unite.AI, The Verge, TechCrunch and multiple secondary reports.\n- **Why It Matters:** It shows orchestration can lift weaker base models and trim cost on hard cases — but the headline gap shrinks as frontier models improve, and live clinical validation is still pending."
+        "title": "GM to Embed Google Gemini in Cars from 2026, Phasing Out CarPlay and Android Auto",
+        "excerpt": "At its GM Forward event GM confirmed it will roll out a Google Gemini-powered conversational assistant across its lineup starting in 2026, as it shifts to a centralized computing platform and moves away from phone-projection systems.",
+        "content": "**The Car Becomes the Assistant**\n\n- **The Plan:** At the GM Forward event, CEO Mary Barra and product chief Sterling Anderson confirmed Gemini will arrive in GM vehicles starting in 2026, letting drivers talk to the car like a passenger for routes, messages and vehicle health.\n- **Phasing Out:** GM will move away from Apple CarPlay and Android Auto toward a centralized computing platform; EVs already dropped them, with gas models following as the new platform launches (targeted around 2028).\n- **Over-the-Air:** Gemini ships via Play Store OTA to OnStar-equipped vehicles (2015 and newer). GM says it will also test models from OpenAI and Anthropic while keeping user data private and not sold for ads.\n- **Roadmap:** A 2028 central vehicle compute platform and eyes-off highway driving (Level 3) will debut on the Cadillac Escalade IQ.\n- **Sources:** Android Authority, iThome, Yahoo Tech, PCAuto and GM/Engadget reporting.\n- **Why It Matters:** A major automaker is betting it can own the in-car AI layer — and the data — rather than cede the cockpit to Apple and Google phone mirroring."
       },
       "zh": {
-        "title": "微软 MAI-DxO 在《科学》研究中诊断准确率超全科医生 2.3 倍",
-        "excerpt": "一篇经同行评审的《科学》论文显示，微软的 MAI-DxO 多智能体诊断编排系统在复杂 NEJM 病例上达到 83% 准确率，而参考资料齐全的全科医生仅 36%。",
-        "content": "**为逐步推理而建的基准**\n\n- **结果：** 微软 **MAI-DxO** 诊断系统在 304 个《新英格兰医学杂志》复杂病例的模拟中达到 **83%** 准确率，而参考资料齐全的全科医生为 **36%**（无资料时 22%）；急诊病例上约 80% 对约 47%。\n- **原理：** MAI-DxO 是编排层而非单一模型——它协调多个 AI 智能体像临床小组一样问诊、开检查、辩论诊断；最佳结果基于 OpenAI 的 GPT-5 与 GPT-5.5。\n- **成本：** 以约二分之一到三分之一的预估检查成本得出答案。\n- **发表：** 研究《Sequential diagnosis with language models》刊于 **《科学》**（第 394 卷第 6822 期），4 月 4 日收稿、8 月 10 日接受。\n- **注意：** 15 位作者均为微软员工；基准 SDBench 为微软自建；通常由专科医生或团队处理的复杂病例被排除；所有病例均为历史数据。Beth Israel Deaconess 的前瞻性临床试验已在计划中。\n- **信源：** 微软 AI 官方公告，Unite.AI、The Verge、TechCrunch 及多家二次报道。\n- **为何重要：** 它证明编排能抬升较弱基础模型并在难题上压低成本——但随前沿模型进步，头部差距会缩小，且真实临床验证仍待完成。"
+        "title": "通用 2026 年起内置谷歌 Gemini，逐步弃用 CarPlay 与 Android Auto",
+        "excerpt": "在 GM Forward 活动上，通用确认自 2026 年起在全系车型推出由谷歌 Gemini 驱动的对话助手，并转向中央计算平台、远离手机投屏系统。",
+        "content": "**汽车成为助手**\n\n- **规划：** 在 GM Forward 活动上，CEO Mary Barra 与产品负责人 Sterling Anderson 确认 Gemini 将于 2026 年进入通用车型，让驾驶者像与乘客对话般查询路线、消息与车况。\n- **逐步退出：** 通用将摆脱苹果 CarPlay 与 Android Auto，转向中央计算平台；电动车已不再支持，燃油车将随新平台推出而跟进（目标约 2028 年）。\n- **空中升级：** Gemini 经 Play Store OTA 推送到配备 OnStar 的车辆（2015 年及以后）。通用称也将测试 OpenAI、Anthropic 等模型，且用户数据私密、不用于广告。\n- **路线图：** 2028 年中央车载计算平台与高速路「脱手驾驶」（L3）将首搭凯迪拉克 Escalade IQ。\n- **信源：** Android Authority、iThome、Yahoo Tech、太平洋汽车及 GM/Engadget 报道。\n- **为何重要：** 大型车企押注自己掌控车内 AI 层与数据，而非把座舱让渡给苹果与谷歌的手机镜像。"
       }
     },
     {
       "id": 3,
-      "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=600&h=400&fit=crop",
-      "category": "cv",
-      "readTime": 4,
-      "timeAgo": 18,
-      "date": "2026-10-23",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 5,
+      "timeAgo": 5,
+      "date": "2026-10-24",
       "en": {
-        "title": "Canva Launches Craft, Its First In-House Image-Generation Model",
-        "excerpt": "Canva released Canva Craft, a two-stage image model trained on design templates rather than photos, rendering up to 2K across roughly 30 aspect ratios.",
-        "content": "**Design, Not Photographs**\n\n- **The Launch:** On October 22, Canva released **Canva Craft**, its first in-house image-generation model, built by Canva Research with contributors from Leonardo.ai (acquired 2024).\n- **Two Stages:** It first interprets a prompt into a plan — spatial relationships, relative scale, visual hierarchy, text layout — then renders an image up to **2K** in about **30 aspect ratios** for different platforms.\n- **Trained on Templates:** Rather than photographs, Craft was trained on human-designed Canva templates (posters, social posts, presentations, infographics, menus), which Canva says yields accurate objects and legible text, plus localized edits without disturbing other regions.\n- **Distribution:** Live to all users via the Dream Lab tab and the Canva API; third-party chatbots like ChatGPT and Gemini are planned via Canva's MCP. Cheaper Craftfast and Craft-ultrafast variants are coming.\n- **Sources:** TechCrunch (primary) with corroboration from Tech Beat, AI Weekly and UA.News.\n- **Why It Matters:** A design-SaaS incumbent now owns its image stack, trimming third-party API spend and opening a licensing channel against OpenAI and Google endpoints — preliminary Design Arena results put Craft fourth."
+        "title": "China Signals Stronger AI Top-Level Design and 'AI+' Push in 15th Five-Year Plan",
+        "excerpt": "At an October 24 briefing, Chinese authorities said they will intensify top-level AI design and the 'AI+' initiative, focusing on core tech, high-end chips, governance and an open national data market.",
+        "content": "**A National Framework Takes Shape**\n\n- **The Signal:** At an October 24 press conference, authorities said they will continue strengthening the top-level design and systematic deployment of artificial intelligence during the 15th Five-Year Plan period.\n- **Priorities:** Key areas named include basic research and core technology, high-end computing chips, AI governance rules and ethics, international collaboration, and building an open, shared and secure national integrated data market with full AI+ implementation.\n- **Why Now:** The framing positions AI as a cross-cutting national priority rather than a sector program, with data-market and governance pillars alongside hardware.\n- **Sources:** toolnavs 24-hour AI news (October 24 authoritative briefing interpretation).\n- **Why It Matters:** It sets the regulatory and investment backdrop for China's next five years of AI — clarifying where state support and oversight will concentrate."
       },
       "zh": {
-        "title": "Canva 推出自研图像生成模型 Canva Craft",
-        "excerpt": "Canva 发布首款自研图像生成模型 Canva Craft：分两阶段生成，基于设计模板而非照片训练，最高输出 2K、覆盖约 30 种宽高比。",
-        "content": "**设计，而非照片**\n\n- **发布：** 10 月 22 日，Canva 推出首款自研图像生成模型 **Canva Craft**，由 Canva Research 团队开发，并有 2024 年收购的 Leonardo.ai 研究人员参与。\n- **两阶段：** 先解析提示词形成规划（空间关系、相对比例、视觉层级、文字布局），再渲染出最高 **2K**、约 **30 种宽高比**的图，适配不同平台。\n- **模板训练：** 不同于照片，Craft 用人类设计的 Canva 模板（海报、社媒、演示、信息图、菜单）训练，声称可得到准确物体与清晰可读文字，并能局部精准编辑而不影响其他区域。\n- **分发：** 已通过 Dream Lab 标签与 Canva API 向全部用户开放；计划经 MCP 接入 ChatGPT、Gemini 等第三方聊天机器人；更便宜的 Craftfast 与 Craft-ultrafast 即将推出。\n- **信源：** TechCrunch（一手），Tech Beat、AI Weekly、UA.News 佐证。\n- **为何重要：** 设计 SaaS 巨头开始自持图像技术栈，既削减第三方 API 支出，又对 OpenAI、Google 的图像端点开辟授权渠道——初步 Design Arena 排名中 Craft 位列第四。"
+        "title": "中国「十五五」将强化 AI 顶层设计与「人工智能+」",
+        "excerpt": "在 10 月 24 日的发布会上，有关部门表示将在「十五五」期间强化人工智能顶层设计与系统部署，聚焦核心技术、高端芯片、治理伦理与开放数据市场。",
+        "content": "**国家框架成形**\n\n- **信号：** 在 10 月 24 日发布会上，有关部门表示将在「十五五」期间持续强化人工智能的顶层设计与系统部署。\n- **重点：** 明确领域包括基础研究与核心技术、高端算力芯片、AI 治理规则与伦理、国际协作，以及建设开放共享安全的全国一体化数据市场、全面落实「人工智能+」。\n- **为何此时：** 这一表述将 AI 定位为跨领域的国家级优先事项，而非单一行业计划，与硬件并列提出数据市场与治理支柱。\n- **信源：** toolnavs 24 小时 AI 新闻（10 月 24 日权威发布会解读）。\n- **为何重要：** 它为中国未来五年的 AI 划定了监管与投资基调——明确国家支持与监管将集中在何处。"
       }
     },
     {
       "id": 4,
-      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
-      "category": "policy",
-      "readTime": 5,
-      "timeAgo": 20,
-      "date": "2026-10-23",
+      "image": "https://images.unsplash.com/photo-1478166130743-945880741273?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 4,
+      "timeAgo": 7,
+      "date": "2026-10-24",
       "en": {
-        "title": "Major US Banks Move to Block Third-Party AI Agents From Accounts",
-        "excerpt": "Axios reports Morgan Stanley, JPMorgan, Bank of America, Wells Fargo and Citi are restricting or blocking third-party AI agents that log in with customer credentials, citing security and unauthorized-action risks.",
-        "content": "**The Authentication Gap**\n\n- **The Move:** Banks including **Morgan Stanley, JPMorgan Chase, Bank of America, Wells Fargo and Citi** are restricting or blocking third-party AI agents that access customer accounts using supplied credentials, Axios reported on October 22.\n- **Why:** Banks cannot easily tell whether activity behind a login is human-directed or an agent acting beyond the user's instructions; executives fear agents with payment or transfer permission could move money without clear authorization.\n- **Incidents:** Some banks tracked agents contacting call centres or appearing to act independently. JPMorgan's Jamie Dimon warned of potentially 'thousands of rogue agents' across financial platforms.\n- **Read-Only Middle Ground:** Most banks are moving toward allowing view-only access — agents can see balances and transactions but cannot move money — similar to existing budgeting apps like Quicken.\n- **Sources:** Axios (primary), carried by CNBC TV18, India Today, Yahoo Finance and others. Reuters noted it could not independently verify the specific incidents.\n- **Why It Matters:** It is the first large-scale institutional pushback on agentic finance, forcing a standard for authenticated, scoped agent access before consumer AI can touch bank accounts."
+        "title": "Google Adds Gemini-Powered 'Geospatial Reasoning' to Google Earth AI",
+        "excerpt": "Google unveiled a Google Earth AI upgrade that fuses Earth-modeling data with Gemini's reasoning, letting users surface deep insights — like at-risk communities ahead of a storm — in minutes instead of years.",
+        "content": "**Maps That Reason**\n\n- **The Upgrade:** Google announced a Google Earth AI enhancement that combines years of Earth-modeling data with frontier prediction models and Gemini's advanced reasoning, delivered via a new Geospatial Reasoning framework.\n- **How It Works:** The system auto-integrates multiple Earth-AI models — weather forecasting, population maps, satellite imagery — to make cross-source associations. A user can see not just where a storm hits, but which vulnerable communities and critical infrastructure are at risk.\n- **Audience:** Enterprises, cities and non-profits can obtain insights that previously required years of study, in minutes.\n- **Sources:** mystockhk PDF roundup (October 24 Google Earth AI / Gemini update).\n- **Why It Matters:** It shows generative reasoning being layered onto geospatial data — turning satellite and sensor feeds into decision-ready intelligence, not just pretty maps."
       },
       "zh": {
-        "title": "美国多家大行着手封堵第三方 AI 智能体登录账户",
-        "excerpt": "Axios 报道，摩根士丹利、摩根大通、美国银行、富国银行与花旗正限制或阻断使用客户凭证登录的第三方 AI 智能体，理由为安全与越权操作风险。",
-        "content": "**认证缺口**\n\n- **动作：** 据 Axios 10 月 22 日报道，**摩根士丹利、摩根大通、美国银行、富国银行与花旗**正限制或阻断使用客户凭证登录的第三方 AI 智能体。\n- **原因：** 银行难以判断登录背后的活动是人为指示还是智能体超出用户指令自行行动；高管担忧拥有付款或转账权限的智能体可能在未明确授权下动用资金。\n- **事件：** 部分银行追踪到智能体联系客服中心或看似独立行动；摩根大通 CEO Jamie Dimon 警告金融平台上或存在「数千个流氓智能体」。\n- **只读折中：** 多数银行倾向允许只读访问——智能体可看余额与交易但无法动钱——类似现有的 Quicken 等记账应用。\n- **信源：** Axios（一手），经 CNBC TV18、India Today、Yahoo Finance 等转载；路透称无法独立核实具体事件。\n- **为何重要：** 这是机构对「智能体金融」的首轮大规模反制，倒逼在消费级 AI 触碰银行账户之前建立经过认证、限定权限的访问标准。"
+        "title": "谷歌为 Google Earth AI 加入 Gemini 驱动的「地理空间推理」",
+        "excerpt": "谷歌发布 Google Earth AI 升级，将地球建模数据与 Gemini 推理融合，借助新「地理空间推理」框架，让用户在数分钟而非数年内获得深度洞察。",
+        "content": "**会推理的地图**\n\n- **升级：** 谷歌发布 Google Earth AI 增强，将多年地球建模数据与前沿预测模型、Gemini 高级推理结合，经新的「地理空间推理」框架交付。\n- **原理：** 系统自动整合多种地球 AI 模型——天气预报、人口分布图、卫星影像——实现跨数据源智能关联。用户不仅能看到风暴影响区域，还能同步识别最脆弱的社区与关键基础设施。\n- **受众：** 企业、城市与非营利组织可在数分钟内获得以往需数年研究才能得出的洞察。\n- **信源：** mystockhk 资讯汇总（10 月 24 日 Google Earth AI / Gemini 更新）。\n- **为何重要：** 这显示生成式推理正叠加到地理空间数据之上——把卫星与传感数据变成「可直接决策」的情报，而不只是好看的地图。"
       }
     },
     {
       "id": 5,
-      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&fit=crop",
-      "category": "infra",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "category": "ethics",
       "readTime": 4,
-      "timeAgo": 22,
-      "date": "2026-10-23",
+      "timeAgo": 4,
+      "date": "2026-10-24",
       "en": {
-        "title": "1Password for Agents Lets AI Sign In Without Seeing Your Password",
-        "excerpt": "1Password launched a platform that lets personal AI agents authenticate with a unique digital key and request user-approved credential fills — the agent never sees or stores the password.",
-        "content": "**A Trust Layer for Agents**\n\n- **The Launch:** 1Password introduced **1Password for Agents**, a platform that lets personal AI agents complete approved tasks without ever seeing or storing the underlying password, secret or credential.\n- **How It Works:** When an agent hits a sign-in form, it verifies its identity to 1Password with a **unique digital key**. The user sees which credential is needed and why, approves on their own device (like 2FA), and 1Password autofills the form directly — the agent only learns that access was granted.\n- **Partners:** Initial integrations include Meta's Muse, Anthropic's Claude Duet, OpenAI's ChatGPT Work and Dots, Grok Bot and Town; more (Perplexity, Browserbase, Ramp and others) are in the pipeline.\n- **Control:** The user approves every request; an agent cannot approve its own access or see the full vault.\n- **Sources:** 1Password press release (primary), The Verge and PCWorld.\n- **Why It Matters:** As agents move from answering questions to taking actions inside accounts, a credential broker that keeps secrets out of the model is becoming core infrastructure for trustworthy agentic use."
+        "title": "AI Gun-Detection False Alarm Handcuffs Student Over a Potato Chip Bag",
+        "excerpt": "A Maryland high school's AI gun-detection system triggered a false alarm on October 24, leading to a student being handcuffed over what was later found to be a snack bag — spotlighting the cost of false positives in public-safety CV.",
+        "content": "**The Cost of a False Positive**\n\n- **The Incident:** On October 24, an AI gun-detection system at a Maryland high school fired a false alarm; a student was handcuffed and removed on the spot, later clarified to be a snack (chip) bag.\n- **Fallout:** Local education authorities and police procedures will be reviewed, with particular attention to vendor identification and testing standards for such systems.\n- **Broader Issue:** It underscores the false-alarm costs and governance responsibility of computer vision in public-safety settings, where errors carry real physical and psychological consequences.\n- **Sources:** toolnavs 24-hour AI news (October 24).\n- **Why It Matters:** As schools and venues deploy weapon-detection AI, this case is a concrete reminder that accuracy, human-in-the-loop and accountability must be engineered in — not bolted on after harm."
       },
       "zh": {
-        "title": "1Password for Agents：让 AI 登录却看不到你的密码",
-        "excerpt": "1Password 推出新平台，让个人 AI 智能体用唯一数字密钥鉴权、请求用户批准的凭证填充——智能体永远看不到也不存储密码。",
-        "content": "**智能体的信任层**\n\n- **发布：** 1Password 推出 **1Password for Agents** 平台，让个人 AI 智能体完成获批任务，却永远看不到或不存储底层密码、密钥或凭证。\n- **原理：** 智能体抵达登录框时，用**唯一数字密钥**向 1Password 验证身份；用户在自己设备上看到所需凭证及用途并批准（类似两步验证），由 1Password 直接填充表单——智能体仅得知「已授权」。\n- **合作方：** 首发集成包括 Meta 的 Muse、Anthropic 的 Claude Duet、OpenAI 的 ChatGPT Work 与 Dots、Grok Bot 与 Town；Perplexity、Browserbase、Ramp 等也在路上。\n- **控制权：** 用户逐次审批，智能体无法自批访问，也看不到整个保险库。\n- **信源：** 1Password 新闻稿（一手），The Verge、PCWorld 报道。\n- **为何重要：** 当智能体从「回答问题」走向「在账户内行动」，一个把密钥挡在模型之外的凭据中介，正成为可信智能体应用的核心基础设施。"
+        "title": "AI 枪支识别误报：学生因一包薯片被铐走",
+        "excerpt": "10 月 24 日，美国马里兰州一所高中的 AI 枪支识别系统发生误报，一名学生被当场铐走，后证实只是一包零食——凸显公共安全计算机视觉误报的代价。",
+        "content": "**误报的代价**\n\n- **事件：** 10 月 24 日，马里兰州一所高中的 AI 枪支识别系统发出误报，一名学生被当场铐走并带离，后澄清只是一包零食（薯片）袋。\n- **后续：** 当地教育部门与警方流程将被审查，重点聚焦于此类系统的供应商识别与测试标准。\n- **深层问题：** 它凸显了公共安全场景中计算机视觉误报的代价与治理责任——错误会带来真实的身体与心理后果。\n- **信源：** toolnavs 24 小时 AI 新闻（10 月 24 日）。\n- **为何重要：** 随着学校与场馆部署武器检测 AI，这一案例提醒我们：准确性、人在回路与责任机制必须内建，而非在造成伤害后补丁式追加。"
       }
     },
     {
       "id": 6,
-      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop",
-      "category": "ethics",
-      "readTime": 5,
-      "timeAgo": 26,
-      "date": "2026-10-23",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 6,
+      "timeAgo": 3,
+      "date": "2026-10-24",
       "en": {
-        "title": "PHP2Shell: Frontier AI Found Critical Flaws in Code Powering ~70% of Websites",
-        "excerpt": "Under OpenAI's 'Patch the Planet' program, GPT-5.6 Sol and Google's Wiz independently uncovered two PHP RCE flaws (CVSS 9.2); PHP shipped emergency patches on October 21.",
-        "content": "**A Defender's Window**\n\n- **The Flaws:** Two critical PHP vulnerabilities, dubbed **PHP2Shell** (CVE-2026-109618, CVE-2026-109619), each scored **CVSS v4.0 9.2** and allow unauthenticated remote code execution. PHP runs an estimated **70% of websites**.\n- **How Found:** Under OpenAI's **Patch the Planet** coordinated-disclosure program, one key defect was found by security firm Calif using **OpenAI's GPT-5.6 Sol**; Google's **Wiz** independently discovered the same issues. The alliance coordinated ~two months of fix work before public disclosure.\n- **Patched:** The PHP Foundation released emergency updates on October 21 — 8.5.12, 8.4.27, 8.3.36, 8.2.35. Cloudflare pre-deployed WAF mitigations about nine hours before disclosure.\n- **Scale:** PANW estimated ~22.6M vulnerable instances; exploit attempts surged into the millions within days.\n- **Sources:** OpenAI's coordinated-disclosure blog, PHP Foundation, Cloudflare, plus Tencent/IT之家, secrss, chinaz and eyeon.ai.\n- **Why It Matters:** It is the first internet-scale critical vulnerability discovered with frontier AI in a coordinated program — proof agents can widen the defender's window, even as the same capability speeds up attackers."
+        "title": "OpenAI, PerturbAI and Scripps Used Thousands of AI Agents to Map a Mouse Brain in 32 Minutes",
+        "excerpt": "OpenAI, PerturbAI and Scripps Research deployed thousands of GPT-Rosalind agents to analyze a whole-brain CRISPR atlas of millions of mouse cells in 32 minutes — work estimated at months to a year for humans.",
+        "content": "**Distributed Biological Reasoning**\n\n- **The Result:** OpenAI, PerturbAI and Scripps Research used thousands of AI agents powered by **GPT-Rosalind** to analyze a whole-brain CRISPR atlas of millions of mouse brain cells in **32 minutes**; comparable human analysis was estimated at months to a year.\n- **How:** Each agent investigated one gene disruption, analyzed cellular responses and searched literature, then reports were combined into a Reasoning Atlas linking genes, effects, papers and mechanisms.\n- **Findings:** Agents reproduced known results and surfaced new leads — for example regional differences between Tsc1 and Tsc2 in the cerebellum (relevant to tuberous sclerosis) and a possible cholesterol-neurodegeneration link via DCTN1.\n- **Validation:** In blind comparisons, expert biologists preferred distributed-agent reports 75% of the time; the largest run cited 700+ papers versus 11 for a single agent. Preprint on bioRxiv (October 16, 2026), not yet peer-reviewed.\n- **Sources:** OpenAI's official research post, IT之家/Phoenix, Tencent News and bioRxiv.\n- **Why It Matters:** It is a concrete demo of distributed biological reasoning — using AI to scale literature synthesis and prioritize experiments, not replace lab work."
       },
       "zh": {
-        "title": "PHP2Shell：前沿 AI 发现了驱动约七成网站的致命漏洞",
-        "excerpt": "在 OpenAI「修补地球」计划下，GPT-5.6 Sol 与谷歌 Wiz 独立发现两个 PHP 远程代码执行漏洞（CVSS 9.2）；PHP 于 10 月 21 日发布紧急补丁。",
-        "content": "**防御者之窗**\n\n- **漏洞：** 两个被统称为 **PHP2Shell** 的 PHP 严重漏洞（CVE-2026-109618、CVE-2026-109619）CVSS v4.0 均达 **9.2**，允许未授权远程代码执行；业界估计约 **70% 的网站**依赖 PHP。\n- **发现方式：** 在 OpenAI「修补地球」协调披露计划下，其中一个关键缺陷由安全公司 Calif 借助 **OpenAI 的 GPT-5.6 Sol** 发现；谷歌旗下 **Wiz** 独立上报了相同问题。联盟在公开前完成了约两个月的协同修复。\n- **已修复：** PHP 基金会于 10 月 21 日发布紧急更新 8.5.12、8.4.27、8.3.36、8.2.35；Cloudflare 在披露前约 9 小时预置了 WAF 缓解规则。\n- **规模：** PANW 估计约 2260 万个受影响实例；公开后数日内利用尝试激增至数百万次。\n- **信源：** OpenAI 协调披露博客、PHP 基金会、Cloudflare，以及腾讯/IT之家、安全内参、站长之家、eyeon.ai。\n- **为何重要：** 这是首个由前沿 AI 在协调披露计划中发现、影响全网规模的严重漏洞——证明智能体可拓宽防御窗口，但同一能力也会加速攻击者。"
+        "title": "OpenAI、PerturbAI 与 Scripps 用数千智能体 32 分钟绘制小鼠全脑图谱",
+        "excerpt": "OpenAI、PerturbAI 与斯克里普斯研究所部署数千个 GPT-Rosalind 智能体，在 32 分钟内分析含数百万小鼠脑细胞的小全脑 CRISPR 图谱——人类估计需数月到一年。",
+        "content": "**分布式生物推理**\n\n- **结果：** OpenAI、PerturbAI 与斯克里普斯研究所用数千个由 **GPT-Rosalind** 驱动的 AI 智能体，在 **32 分钟**内分析了一份覆盖数百万小鼠脑细胞的小全脑 CRISPR 图谱；同等人类分析估计需数月到一年。\n- **原理：** 每个智能体负责一种基因干预，分析细胞响应并检索文献，最终报告汇成关联基因、效应、论文与机制的「推理图谱」。\n- **发现：** 智能体复现了已知结论，并给出新线索——如小脑中 Tsc1 与 Tsc2 的区域性差异（与结节性硬化相关），以及经 DCTN1 提出的胆固醇—神经退行可能关联。\n- **验证：** 盲测中生物学专家在 75% 的对比中更倾向分布式智能体报告；最大规模运行引用 700+ 篇文献，单个智能体仅 11 篇。预印本发布于 bioRxiv（2026-10-16），尚未同行评审。\n- **信源：** OpenAI 官方研究文章、IT之家/凤凰网、腾讯新闻及 bioRxiv。\n- **为何重要：** 这是「分布式生物推理」的具象样本——用 AI 规模化文献综合来优先安排实验，而非取代实验工作。"
       }
     },
     {
       "id": 7,
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
-      "category": "research",
+      "image": "https://images.unsplash.com/photo-1504680177321-2e6a879aac86?w=600&h=400&fit=crop",
+      "category": "healthcare",
       "readTime": 5,
-      "timeAgo": 28,
-      "date": "2026-10-23",
+      "timeAgo": 12,
+      "date": "2026-10-24",
       "en": {
-        "title": "Recursive Open-Sources Flint-40B-A2B, an RSI-Built Local Coding Model",
-        "excerpt": "Co-founded by Yann LeCun collaborator Tian Yuan Dong, Recursive released Flint-40B-A2B — a MoE coding model built with its Eureka Machine AI research system in under four months.",
-        "content": "**AI Building AI, On a Laptop**\n\n- **The Model:** On October 21, **Recursive** (co-founded by former Meta researcher **Tian Yuan Dong**, of YOLO fame) open-sourced **Flint-40B-A2B**, a Mixture-of-Experts coding model: ~39.8B total parameters, only ~2.5B active per token across 256 routed experts.\n- **Built by Agents:** Recursive's automated research system **Eureka Machine** participated in nearly every step — data, training recipe, infrastructure and inference optimization. The model went from zero to trained in **under four months**.\n- **Speed:** On an M4 Pro MacBook Pro it generates **125+ tokens/sec**; on an NVIDIA RTX Spark, **150+ tokens/sec** — roughly 2x faster than同类 models, with highest context up to 512K tokens.\n- **Benchmarks:** SWE-bench Pro v2 89.7%, SWE-bench Verified 74.2%, Terminal-Bench 2.1 54.9% — best-in-class at its size.\n- **License:** Weights released on Hugging Face under **Apache 2.0**, runnable offline via SGLang, Ollama and LM Studio.\n- **Sources:** Phoenix/Tencent News, QbitAI and multiple Chinese tech outlets.\n- **Why It Matters:** It is a concrete data point for Recursive Self-Improvement — an AI research system shipping a production model, not just a demo."
+        "title": "FDA Launches Neuroscience Medical-Product Program and Finalizes Prescription-Drug Software Guidance",
+        "excerpt": "On October 20 the FDA launched a program to advance neuroscience medical-product development and issued final guidance on prescription drug apps and software, sharpening the regulatory path for AI in medicine.",
+        "content": "**Regulation Catches Up to AI Medicine**\n\n- **Two Moves:** On October 20, 2026 the FDA launched a new program to advance neuroscience medical-product development and issued final guidance on prescription drug apps and software.\n- **Why It Matters for AI:** As AI diagnostics and software-as-medical-device spread, clearer FDA pathways reduce compliance overhead and define evidence expectations for safety and efficacy across diverse populations.\n- **Context:** The agency also highlighted its transparency roadmap and efforts to modernize clinical development, signaling a steadier regulatory posture toward AI-enabled health tools.\n- **Sources:** U.S. FDA official newsroom (press announcements dated October 20, 2026).\n- **Why It Matters:** Concrete FDA action gives AI-health startups a more predictable route to market — turning assistive AI from pilot to regulated clinical infrastructure."
       },
       "zh": {
-        "title": "Recursive 开源 Flint-40B-A2B：由 AI 研究系统打造的本地编程模型",
-        "excerpt": "由 YOLO 原作者田渊栋联合创立的 Recursive 发布开源 MoE 编程模型 Flint-40B-A2B，借助 Eureka Machine 自动化研究系统在不到 4 个月内从零训出。",
-        "content": "**AI 造 AI，跑在笔记本上**\n\n- **模型：** 10 月 21 日，由前 Meta 研究员、**YOLO 原作者田渊栋**联合创立的 **Recursive** 开源 **Flint-40B-A2B**——一款混合专家编程模型：总参数约 398 亿，每 token 仅激活约 25 亿（256 个路由专家）。\n- **由智能体打造：** Recursive 的自动化研究系统 **Eureka Machine** 参与了数据处理、训练方案、基础设施与推理优化几乎全部环节；模型从零开始仅用**不到 4 个月**训成。\n- **速度：** 在 M4 Pro MacBook Pro 上生成速度 **125+ token/秒**，在英伟达 RTX Spark 上 **150+ token/秒**——约为同类 2 倍，最高上下文达 51.2 万 token。\n- **基准：** SWE-bench Pro v2 89.7%、SWE-bench Verified 74.2%、Terminal-Bench 2.1 54.9%——同级最佳。\n- **协议：** 权重以 **Apache 2.0** 在 Hugging Face 开源，可经 SGLang、Ollama、LM Studio 离线运行。\n- **信源：** 凤凰网、腾讯新闻、量子位等多家科技媒体。\n- **为何重要：** 这是递归自我改进（RSI）的具象样本——一个 AI 研究系统交付了生产级模型，而非演示。"
+        "title": "FDA 启动神经科学医疗产品项目并发布处方药软件最终指南",
+        "excerpt": "10 月 20 日，FDA 启动推进神经科学医疗产品开发的专项计划，并发布处方药应用与软件的最终指南，厘清医疗 AI 的监管路径。",
+        "content": "**监管追上医疗 AI**\n\n- **两项动作：** 2026 年 10 月 20 日，FDA 启动推进神经科学医疗产品开发的专项计划，并发布处方药应用与软件的最终指南。\n- **对 AI 的意义：** 随着 AI 诊断与「软件即医疗器械」普及，更清晰的 FDA 路径降低了合规成本，并界定了跨人群安全性与有效性的证据要求。\n- **背景：** 该机构同时强调透明度路线图与临床开发现代化，显示出对 AI 赋能健康工具更稳健的监管姿态。\n- **信源：** 美国 FDA 官方新闻室（2026-10-20 发布的通告）。\n- **为何重要：** 具体的 FDA 行动为医疗 AI 初创公司提供了更可预期的市场通道——把「辅助型 AI」从试点推向受监管的临床基础设施。"
       }
     },
     {
       "id": 8,
-      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
-      "category": "research",
-      "readTime": 5,
-      "timeAgo": 30,
-      "date": "2026-10-23",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168d6c?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 4,
+      "timeAgo": 2,
+      "date": "2026-10-24",
       "en": {
-        "title": "Tencent Hunyuan and Fudan Build WorkForge: 16,665 Real Work Environments",
-        "excerpt": "Tencent's Hunyuan team with Fudan University proposed WorkForge, a framework that constructs 16,665 real workplace environments from live code repos, datasets and web pages for agent training.",
-        "content": "**From Toy Tasks to Real Jobs**\n\n- **The Framework:** Tencent **Hunyuan** with **Fudan University** proposed **WorkForge**, which builds work environments from real code repositories, datasets and web pages according to expert blueprints, then verifies trajectories with programmatic checks plus LLM semantic scoring.\n- **The Dataset:** **WorkForge-16K** contains **16,665 environments** spanning 40 professional domains and 60 file types, with an average trajectory of about 76K tokens.\n- **Gains:** After training, WorkForge-A3B lifted GDPval from 45.5 to 73.6, and WorkForge-27B reached 82.4 — surpassing a 397B-A17B model's 79.7.\n- **Why Real Data:** Synthetic benchmarks saturate quickly; grounding agents in authentic, messy workplaces measures whether they can actually complete jobs, not just pass curated tests.\n- **Sources:** Tencent Research AI digest (20261023) and related coverage.\n- **Why It Matters:** It reflects a shift in agent evaluation from narrow game-like tasks to large-scale, realistic professional environments — closer to what enterprises actually need."
+        "title": "Changsha Hosts 1024 Programmer Day and AI Builders Conference Focused on Embodied Intelligence",
+        "excerpt": "On October 24-25 the 1024 Programmer Day and AI Builders Conference opened in Changsha under the theme 'Embodied Together, Building the Future,' with forums on embodied AI, AI-in-government and live build sprints.",
+        "content": "**Embodied AI Takes the Stage**\n\n- **The Event:** On October 24-25, the 1024 Programmer Day and AI Builders Conference opened at World Computing Changsha Intelligence Valley, themed Embodied Together, Building the Future, expecting 1,500+ attendees.\n- **Embodied Focus:** A Beijing-Hunan forum convened 20+ embodied-AI firms, universities and institutions to discuss technical progress and industry collaboration; robotics and embodied intelligence were headline tracks.\n- **AI-in-Government:** A forum highlighted Shenzhen Longgang's national-first government AI internal-collaboration platform as a real, replicable scenario.\n- **Build Sprints:** Five build sessions let attendees form teams, build under time limits and publish on the spot, with outputs consolidated on the Code-and-Create platform.\n- **Sources:** Changsha Evening News / icswb (October 22 preview), organized by CSDN.\n- **Why It Matters:** China's developer ecosystem is steering from pure model talk toward embodied and applied AI — grounding the hype in robotics and real government/industry deployment."
       },
       "zh": {
-        "title": "腾讯混元联合复旦推出 WorkForge：构建 1.67 万个真实职场环境",
-        "excerpt": "腾讯混元与复旦大学提出 WorkForge 框架，按专家蓝图从真实代码仓库、数据集与网页搭建工作环境，用于智能体训练，含 1.67 万个环境。",
-        "content": "**从玩具任务到真实工作**\n\n- **框架：** 腾讯**混元**联合**复旦大学**提出 **WorkForge**，按专家蓝图从真实代码仓库、数据集与网页搭建工作环境，再以程序化检查加 LLM 语义评分核验轨迹。\n- **数据集：** **WorkForge-16K** 含 **16,665 个环境**，覆盖 40 个专业领域、60 种文件类型，单条轨迹平均约 7.6 万 token。\n- **收益：** 训练后 WorkForge-A3B 的 GDPval 从 45.5 升至 73.6，WorkForge-27B 达 82.4——超过 397B-A17B 模型的 79.7。\n- **为何用真实数据：** 合成基准很快饱和；把智能体锚定在真实、杂乱的职场，才能衡量其是否真正能完成任务，而非仅通过精心设计的测试。\n- **信源：** 腾讯研究院 AI 速递（20261023）及相关报道。\n- **为何重要：** 这反映智能体评测正从狭窄的「游戏式」任务转向大规模真实职场环境，更贴近企业的真实需求。"
+        "title": "长沙举办 1024 程序员日暨 AI 构建者大会，聚焦具身智能",
+        "excerpt": "10 月 24-25 日，1024 程序员日暨 AI 构建者大会在长沙以「具身同行、智构未来」为主题开幕，设具身智能、AI+政务等论坛与现场构建专场。",
+        "content": "**具身智能登台**\n\n- **活动：** 10 月 24-25 日，1024 程序员日暨 AI 构建者大会在世界计算·长沙智谷开幕，主题为「具身同行、智构未来」，预计到场 1500 余人。\n- **具身焦点：** 「京湘互动」论坛集结 20 余家具身 AI 企业、高校与机构，探讨技术进展与产业合作；机器人与具身智能成为主线议题。\n- **AI+政务：** 论坛以深圳龙岗全国首个政务 AI 内源协作平台为真实可复制样本，讨论政府业务智能化。\n- **构建专场：** 五场构建专场让参会者现场组队、限时构建、当场发布，作品统一沉淀至「码上创」平台。\n- **信源：** 长沙晚报 / icswb（10 月 22 日预告），由 CSDN 主办。\n- **为何重要：** 中国开发者生态正从纯模型讨论转向具身与应用 AI——把炒作落到机器人与真实政务/产业部署。"
       }
     },
     {
       "id": 9,
-      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
-      "category": "robotics",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&h=400&fit=crop",
+      "category": "business",
       "readTime": 4,
-      "timeAgo": 32,
-      "date": "2026-10-23",
+      "timeAgo": 10,
+      "date": "2026-10-24",
       "en": {
-        "title": "Robot Rental Prices Crash ~90% as Unitree-Led Firms Push Overseas",
-        "excerpt": "Chinese humanoid robot daily rental has fallen from 10,000-30,000 yuan to roughly 2,000-3,000 yuan as supply floods in; firms like Unitree are accelerating overseas expansion.",
-        "content": "**From Performance Economy to Utility Economy**\n\n- **The Collapse:** Humanoid robot daily rental that peaked at **10,000-30,000 yuan** a day has fallen to roughly **2,000-3,000 yuan** for a Unitree U2, with entry-level G1 around 2,000 and bare rentals under 1,600 on JD — quadruped Go2 as low as ~164 yuan/day. That is a drop of about **90%** in roughly a year.\n- **Why:** Supply flooded in (over 153,000 robot-rental related firms in China by April 2026, up 55.7% YoY) while programs homogenized; the 'novelty premium' evaporated.\n- **The Silver Lining:** Falling prices open practical scenarios — shop greeting, education demos, warehouse assist — crossing the threshold from 'performance prop' to 'useful tool.'\n- **Overseas:** Unitree and peers are accelerating global expansion where humanoid performances still draw crowds.\n- **Industrial Signal:** AGCO and Agility Robotics launched a humanoid pilot at a Kansas manufacturing facility, testing robots in real production settings.\n- **Sources:** The Paper, 36Kr, Sina Finance and China News Service.\n- **Why It Matters:** A price crash this steep usually signals an industry in trouble — here it marks the shift from demo hype to volume deployment and real-world utility."
+        "title": "Stripe Agrees to Acquire AI Model-Routing Startup OpenRouter for $7.5 Billion",
+        "excerpt": "Stripe confirmed it will buy OpenRouter, a neutral gateway that routes requests across 400+ models from 80+ providers, in a ~$7.5B deal that unites payments with AI token spend.",
+        "content": "**Owning the AI Spend Layer**\n\n- **The Deal:** Stripe confirmed it will acquire OpenRouter, a platform that routes AI requests across 400+ models from 80+ providers, in a deal The New York Times reports at **$7.5 billion** (founders about $1.5B, investors about $6B).\n- **What OpenRouter Does:** One API front door to many models; it evaluates task complexity, price, speed and reliability to route each request — processing 10+ trillion tokens per day for 10M+ developers.\n- **Why Stripe:** Stripe already bills AI usage via Token Billing; folding in a router connects revenue collection with spend management, capturing a cut of the AI economy's central currency — tokens.\n- **Neutral Promise:** OpenRouter says it will keep its name, product and neutral routing after the deal; Axios pegged value above $8B, Bloomberg above $7B.\n- **Sources:** The New York Times, TechCrunch, Phronews and Tencent News.\n- **Why It Matters:** It marks AI model routing's shift from developer utility to critical economic infrastructure — Stripe is embedding itself in the middle of AI capital flows."
       },
       "zh": {
-        "title": "商演租金暴跌约九成，宇树等加速出海寻更大舞台",
-        "excerpt": "中国的人形机器人日租从 1 万至 3 万元峰值跌至宇树 U2 约 2000-3000 元，供给涌入、同质化加剧；宇树等正加速海外扩张。",
-        "content": "**从表演经济到实用经济**\n\n- **崩落：** 人形机器人日租峰值曾达 **1 万至 3 万元**，如今宇树 U2 约 **2000-3000 元**，入门款 G1 约 2000 元，京东裸机日租不到 1600 元，四足 Go2 低至约 164 元/天——约一年内跌去约 **九成**。\n- **原因：** 供给涌入（截至 2026 年 4 月国内机器人租赁相关企业存量达 15.3 万家，同比增 55.7%），节目高度同质化，「新鲜感溢价」消散。\n- **亮点：** 降价打开了小店迎宾、教育演示、仓储辅助等实用场景，跨过了从「表演道具」到「实用工具」的门槛。\n- **出海：** 宇树等厂商加速全球扩张，在海外表演仍受热捧的市场觅新空间。\n- **产业信号：** AGCO 与 Agility Robotics 在堪萨斯工厂启动人形机器人试点，在真实生产环境中测试机器人。\n- **信源：** 澎湃新闻、36 氪、新浪财经、中国新闻网。\n- **为何重要：** 如此剧烈的降价通常意味着行业遇冷——此处却标志着从演示炒作转向规模部署与现实效用。"
+        "title": "Stripe 同意以 75 亿美元收购 AI 模型路由初创 OpenRouter",
+        "excerpt": "Stripe 确认将收购 OpenRouter——一个在 80 多家供应商、400 多个模型间中立路由请求的网关，约合 75 亿美元的交易把支付与 AI token 支出合二为一。",
+        "content": "**掌控 AI 支出层**\n\n- **交易：** Stripe 确认将收购 OpenRouter——一个在 80 多家供应商、400 多个模型间路由 AI 请求的平台；据《纽约时报》报道成交价约 **75 亿美元**（创始人约 15 亿、投资者约 60 亿）。\n- **OpenRouter 做什么：** 一个统一 API 入口对接众多模型，按任务复杂度、价格、速度与可靠性路由每次请求——每日为超 1000 万开发者处理 10 万亿+ token。\n- **Stripe 的动机：** Stripe 已通过 Token Billing 计量 AI 用量；并入路由器将收款与支出管理相连，分食 AI 经济的「中央货币」——token。\n- **中立承诺：** OpenRouter 表示交易后保留名称、产品与中立路由；Axios 估值超 80 亿、彭博超 70 亿美元。\n- **信源：** 《纽约时报》、TechCrunch、Phronews、腾讯新闻。\n- **为何重要：** 这标志 AI 模型路由从开发者工具跃升为关键经济基础设施——Stripe 正把自己嵌入 AI 资本流的中枢。"
       }
     },
     {
       "id": 10,
-      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=600&h=400&fit=crop",
-      "category": "business",
-      "readTime": 4,
-      "timeAgo": 36,
-      "date": "2026-10-23",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 5,
+      "timeAgo": 11,
+      "date": "2026-10-24",
       "en": {
-        "title": "Tenstorrent Closes $1.5B Series E at $6.2B Valuation",
-        "excerpt": "The Jim Keller-led AI chip company raised $1.5B in Series E at a $6.2B post-money valuation, led by Trace Capital and Innovation X, to scale its Galaxy servers and open-weight IP.",
-        "content": "**An Alternative to the GPU Paradigm**\n\n- **The Raise:** On October 19, AI compute company **Tenstorrent** closed a **$1.5B Series E** at a **$6.2B post-money valuation**, led by **Trace Capital** and **Innovation X**.\n- **Roster:** Participants included ARK Invest, Fidelity, T. Rowe Price, Morgan Stanley, Cadence Ventures, Sandisk, Tether Investments, Virtu Financial and XTX Markets.\n- **Use of Funds:** Scale deployment of **Galaxy** servers, continue serving open-weight models across LLMs and video generation, and advance the AI/CPU IP it licenses to customers building their own silicon (TT-Ascalon RISC-V CPU, Tensix cores).\n- **The Bet:** Led by veteran architect **Jim Keller** (Apple A4/A5, AMD Zen, Tesla FSD), Tenstorrent sells compute at every stack level — card to supercluster — with an open-source software stack for local frontier-model inference.\n- **Sources:** Tenstorrent official newsroom, SEMI and Chinese outlets (Tencent News).\n- **Why It Matters:** The round shows continued investor appetite for Nvidia-alternative, full-stack AI hardware at a moment when AI capital is concentrating at the top."
+        "title": "Amazon Pledges Over €16 Billion for German AI Data Centers and a Berlin Robotics Lab",
+        "excerpt": "At the Invest in Germany Summit, Amazon pledged more than €16B ($17.9B) for 2027 — including €4.8B for AWS Frankfurt and a second Berlin robotics-and-AI lab — as US giants race to build EU AI infrastructure.",
+        "content": "**A Bet on European AI Capacity**\n\n- **The Pledge:** At the Invest in Germany Summit, Amazon committed **more than €16 billion ($17.9B)** for 2027, including **€4.8B** for AWS cloud and data-center infrastructure in Frankfurt to meet AI demand.\n- **Robotics Lab:** It will open a second robotics-and-AI research lab in Berlin, doubling its research presence in the capital, as it pushes AI into both cloud and e-commerce.\n- **Also in the Plan:** Expansion of the Amazon Leo low-Earth-orbit satellite network, logistics upgrades (3,000+ new jobs) and new Prime Video productions.\n- **Strategic Read:** The move balances expansion with EU scrutiny over data sovereignty and reliance on US suppliers; AWS European Sovereign Cloud went live in Germany in January 2026. Amazon's total 2026 capex is estimated near $220B.\n- **Sources:** Dow Jones/WSJ, Phoenix (ifeng), Ground News and aiproducthub.\n- **Why It Matters:** It intensifies the EU AI-infrastructure race among hyperscalers and shows AI capacity being localized to satisfy both demand and regulation."
       },
       "zh": {
-        "title": "Tenstorrent 完成 15 亿美元 E 轮融资，投后估值 62 亿美元",
-        "excerpt": "由 Jim Keller 执掌的 AI 芯片公司 Tenstorrent 完成 15 亿美元 E 轮融资，投后估值 62 亿美元，由 Trace Capital 与 Innovation X 领投，用于扩大 Galaxy 服务器与开放权重 IP。",
-        "content": "**GPU 范式之外的一条路线**\n\n- **融资：** 10 月 19 日，AI 计算公司 **Tenstorrent** 完成 **15 亿美元 E 轮**融资，投后估值 **62 亿美元**，由 **Trace Capital** 与 **Innovation X** 领投。\n- **阵容：** 参投方包括 ARK Invest、富达、T. Rowe Price、摩根士丹利、Cadence Ventures、闪迪、Tether Investments、Virtu Financial、XTX Markets 等。\n- **用途：** 大规模部署 **Galaxy** 服务器，持续为 LLM 与视频生成提供开放权重模型，并推进授权给客户自研芯片的 AI/CPU IP（TT-Ascalon RISC-V CPU、Tensix 核心）。\n- **赌注：** 由资深架构师 **Jim Keller**（苹果 A4/A5、AMD Zen、特斯拉 FSD）领衔，Tenstorrent 从单卡到超集群全栈销售算力，并以开源软件栈支持本地前沿模型推理。\n- **信源：** Tenstorrent 官方新闻室、SEMI、中文媒体（腾讯新闻）。\n- **为何重要：** 在 AI 资本向头部集中的当下，该轮显示投资者对「英伟达替代、全栈 AI 硬件」仍有持续需求。"
+        "title": "亚马逊承诺超 160 亿欧元加码德国 AI 数据中心与柏林机器人实验室",
+        "excerpt": "在「投资德国」峰会上，亚马逊承诺 2027 年投入超 160 亿欧元（约 179 亿美元），含 48 亿欧元用于法兰克福 AWS 云与数据中心，并在柏林开设第二间机器人与 AI 实验室。",
+        "content": "**押注欧洲 AI 产能**\n\n- **承诺：** 在「投资德国」峰会上，亚马逊承诺 2027 年投入 **超 160 亿欧元（约 179 亿美元）**，其中 **48 亿欧元**用于法兰克福 AWS 云与数据中心基础设施，以满足 AI 需求。\n- **机器人实验室：** 将在柏林开设第二间机器人与 AI 研究实验室，使首都研究力量翻倍，把 AI 同时推进到云与电商主业。\n- **计划内容：** 同步扩容 Amazon Leo 低轨卫星网络、物流升级（新增 3000+ 岗位）与新的 Prime Video 制作。\n- **战略解读：** 此举在欧洲对美国供应商依赖与数据主权审查之间走钢丝；AWS 欧洲主权云已于 2026 年 1 月在德国商用。亚马逊 2026 年资本开支总额估计接近 2200 亿美元。\n- **信源：** Dow Jones/WSJ、凤凰网、Ground News、AI 产品库。\n- **为何重要：** 它加剧超大规模厂商在欧洲的 AI 基建竞赛，并显示 AI 产能正本地化，以同时满足需求与监管。"
       }
     }
   ]
