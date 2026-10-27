@@ -1,0 +1,202 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
+    "category": "llm",
+    "readTime": 6,
+    "timeAgo": 14,
+    "date": "2026-10-28",
+    "en": {
+      "title": "OpenAI Ships 'dots', an Always-On Personal Assistant for Pro Subscribers",
+      "excerpt": "Released at September's developer day and detailed at TechCrunch Disrupt, dots runs persistently in the background, connects to calendar, email and your computer, and proactively researches how to help you — starting at $100/month.",
+      "content": "OpenAI has launched **dots**, a persistent AI assistant available in the ChatGPT desktop and mobile apps to subscribers on the Pro tier or higher, with plans starting at **$100 per month**. Alexander Embiricos, who leads OpenAI's enterprise product team, described it at TechCrunch Disrupt as the result of reframing the company's coding tools into a single, always-on conversation.\n\nOnce connected to a user's calendar, email, computer and other tools, dots works in the background without prompting. A built-in feature called **proactive research** periodically reviews what it knows about you and the resources you've granted, then proposes ways to help. Embiricos said the persistent design means more token usage for OpenAI but a more helpful assistant that 'thinks about you and how to help you.'\n\nIn testing, dots flags calendar conflicts and deadlines, though timing is still rough — Embiricos recalled his own dot warning him of a conflict only three minutes beforehand. He expects the timing to improve. OpenAI says dots inherits ChatGPT's privacy controls, including an opt-out of model training, but current permission controls are not yet granular, and the app does not accept read-only cloud-drive access. The company is also in discussions with payment processors about letting dots spend on a user's behalf."
+    },
+    "zh": {
+      "title": "OpenAI 推出常驻个人助手 dots：Pro 订阅者可用，每月 100 美元起",
+      "excerpt": "dots 在 9 月开发者日发布、并在 TechCrunch Disrupt 上详解：它在后台持续运行，连接日历、邮箱与电脑，主动研究如何帮你，起价每月 100 美元。",
+      "content": "OpenAI 已推出 **dots**，一款常驻式 AI 助手，面向 ChatGPT 桌面端与移动端的 Pro 及以上订阅用户，套餐起价 **每月 100 美元**。OpenAI 企业产品团队负责人 Alexander Embiricos 在 TechCrunch Disrupt 上表示，dots 是把公司编程工具重新包装成一段始终在线的单一对话的产物。\n\n用户将 dots 接入日历、邮箱、电脑等工具后，它会在后台无需指令地持续工作。名为 **主动研究** 的内置功能会定期审视它掌握的个人信息与已授权资源，并主动提出协助建议。Embiricos 称这种常驻设计意味着 OpenAI 消耗更多 token，但换来一个「想着你、琢磨怎么帮你」的助手。\n\n实测中 dots 能提示日程冲突与截止时间，但时机仍不稳定——Embiricos 自述他的 dots 曾在冲突发生前仅三分钟才提醒。他预计时机将改善。OpenAI 表示 dots 沿用 ChatGPT 的隐私控制（含退出模型训练选项），但当前权限粒度不足，且不支持只读访问云盘。公司也正与支付机构洽谈，未来或允许 dots 代用户付款。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 5,
+      "timeAgo": 7,
+      "date": "2026-10-28",
+      "en": {
+        "title": "Google DeepMind Unveils Genie 4: A World Model with Native Audio and Real-Time Steering",
+        "excerpt": "Genie 4 generates photorealistic, interactive scenes with natively produced sound and dialogue, and lets users steer the simulation in real time with text prompts — holding coherence for up to two minutes.",
+        "content": "Google DeepMind introduced **Genie 4**, its newest world model, in a research preview on October 27. Unlike fixed video, Genie 4 generates interactive worlds that respond as users navigate with keyboard and camera controls, and it produces accompanying audio — ambient sound, music and character dialogue — directly from the model.\n\nA key advance is **real-time steering**: a text prompt can change the weather, move the camera, or introduce a person or object while the simulation runs, and Gemini adapts the change to the surrounding scene. Between user inputs, Gemini 3.8 Flash acts as a guiding agent, watching incoming frames, breaking goals into steps, and verifying each step succeeded.\n\nDeepMind says Genie 4 holds a scene together for up to **two minutes** — double Genie 3's limit — with improved physics and more natural human movement. It remains an early research model: object permanence, audio and legible text can still drift in longer sessions. Access starts with trusted testers, then Google AI Ultra subscribers via Project Genie and early partners on the Gemini API and AI Studio. All generated video and audio carry SynthID watermarks."
+      },
+      "zh": {
+        "title": "谷歌 DeepMind 发布 Genie 4：原生音频、可实时引导的世界模型",
+        "excerpt": "Genie 4 生成写实的交互式场景，声音与对话由模型直接产生，并允许用户输入文字实时改变模拟——最长可保持连贯约两分钟。",
+        "content": "谷歌 DeepMind 于 10 月 27 日以研究预览形式发布 **Genie 4**，其最新世界模型。与生成固定视频不同，Genie 4 生成可交互的虚拟世界：用户用键盘与镜头控制漫游，模型同时直接产出配套音频——环境音、音乐与角色对话。\n\n一大突破是 **实时引导**：模拟进行中可用文字改变天气、移动镜头或加入人物与物体，Gemini 会把改动贴合到当前场景。在用户输入之间，Gemini 3.8 Flash 充当引导智能体，观察画面、把目标拆成步骤并核验每一步是否成功。\n\nDeepMind 称 Genie 4 可将场景连贯维持约 **两分钟**，是 Genie 3 的两倍，物理表现更真实、人物动作更自然。它仍是早期研究模型：长时段的物体恒存、音频与可读文字仍可能漂移。先向受信任测试者开放，随后通过 Project Genie 向 Google AI Ultra 订阅者及 Gemini API、AI Studio 的早期伙伴开放。所有生成音视频均带 SynthID 水印。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&h=400&fit=crop",
+      "category": "healthcare",
+      "readTime": 5,
+      "timeAgo": 6,
+      "date": "2026-10-28",
+      "en": {
+        "title": "Anthropic Reports Early Progress Using Claude to Accelerate Drug Development",
+        "excerpt": "In a new blog post, Anthropic says its scientists have spent months in deep-research partnerships with six medicine-developing organizations, using Claude to speed up target discovery and experimental design.",
+        "content": "Anthropic published **Early progress on accelerating drug development with Claude** on October 27, describing a multi-month effort in which its researchers partnered with **six organizations** developing new medicines. The work applies Claude to the slowest parts of the discovery pipeline: forming hypotheses, designing experiments, and interpreting results.\n\nAnthropic frames drug development as a domain where AI can compress the design–test–learn loop, helping scientists evaluate more biological targets and experimental paths than they could manually. The company says the partnerships are at an early stage and emphasizes that human scientists remain central to validation and decision-making.\n\nThe post signals a broader push by frontier labs into the life sciences. Novo Nordisk said last month it would work with Anthropic on **Claude Science**, and AstraZeneca's new insitro deal shows big pharma is also buying AI target-discovery platforms. Anthropic also opened a call for guest investigators in the life sciences to collaborate on special projects."
+      },
+      "zh": {
+        "title": "Anthropic 公布用 Claude 加速药物研发的早期进展",
+        "excerpt": "Anthropic 在新博客中称，其科学家已与六家药物研发机构开展数月的深度研究合作，借助 Claude 加速靶点发现与实验设计。",
+        "content": "Anthropic 于 10 月 27 日发布 **《用 Claude 加速药物研发的早期进展》**，讲述其研究人员与 **六家** 新药研发机构长达数月的合作。相关工作将 Claude 用于研发管线中最慢的环节：形成假设、设计实验与解读结果。\n\nAnthropic 将药物研发视为 AI 可压缩「设计—测试—学习」循环的领域，帮助科学家评估比人工更多的生物靶点与实验路径。公司称合作尚处早期，并强调人类科学家仍是验证与决策的核心。\n\n这篇帖子显示前沿实验室正更广泛地切入生命科学。诺和诺德上月表示将与 Anthropic 合作基于 **Claude Science**，而阿斯利康牵手 insitro 的交易也表明大药企正在采购 AI 靶点发现平台。Anthropic 同时面向生命科学界开放客座研究者招募，邀请参与专项课题。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 6,
+      "timeAgo": 9,
+      "date": "2026-10-28",
+      "en": {
+        "title": "OpenAI Says Its Models Produced a Proof Refuting the Exponential Time Hypothesis",
+        "excerpt": "OpenAI announced results in math, CS and physics, including a machine-checked Lean formalization that it claims shows a subexponential algorithm for counting SAT solutions — a claim now under independent review.",
+        "content": "OpenAI said its models produced a proof that the **Exponential Time Hypothesis (ETH)** is false — one of three results it announced spanning mathematics, computer science and physics. ETH, proposed in 1999, holds that certain logic problems require exponential time; a refutation would overturn a foundational assumption underpinning years of complexity-theory work.\n\nOpenAI published the proof alongside a **machine-checked Lean formalization** on GitHub. An independent group led by Russell Impagliazzo, Ramamohan Paturi and Ryan Williams will examine the proof. Hours later Anthropic released its own refutation, after its mathematician Levent Alpöge suggested OpenAI had built on existing work. Williams noted that parts of the proof look routine but two or three 'alien-looking' parts need scrutiny.\n\nIf verified, the result would force researchers to revisit a large body of work built on ETH. For now the claim is unconfirmed and under active academic review — a reminder that headline-grabbing results from frontier models still require human verification."
+      },
+      "zh": {
+        "title": "OpenAI 称其模型给出反驳「指数时间假设」的证明",
+        "excerpt": "OpenAI 公布了数学、计算机与物理领域成果，包括一份机器核验的 Lean 形式化证明，声称给出 SAT 计数问题的亚指数算法——该主张正接受独立审查。",
+        "content": "OpenAI 表示其模型给出一份证明，称 **指数时间假设（ETH）** 不成立——这是其公布的数学、计算机科学与物理三项成果之一。ETH 于 1999 年提出，认为某些逻辑问题需要指数时间；若被推翻，将动摇多年来复杂性理论工作的基础假设。\n\nOpenAI 将证明连同 GitHub 上一份 **机器核验的 Lean 形式化** 一并公开。由 Russell Impagliazzo、Ramamohan Paturi 与 Ryan Williams 领衔的独立小组将审查该证明。数小时后 Anthropic 也发布自己的反驳，其数学家 Levent Alpöge 指出 OpenAI 可能建立在既有工作之上。Williams 表示证明部分看起来常规，但有两三处「像外星符号般」的段落需要细查。\n\n若获验证，该结果将迫使研究者重新审视大量建立在 ETH 之上的工作。目前主张尚未确认，正处于学术审查中——这提醒我们，前沿模型令人瞩目的成果仍须人类核验。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 5,
+      "timeAgo": 5,
+      "date": "2026-10-28",
+      "en": {
+        "title": "Open Cloud Coalition Launches; Microsoft Accuses Google of 'Astroturfing'",
+        "excerpt": "A new cloud lobbying group debuted on October 29 with Google Cloud among its founding members. Microsoft's deputy GC countered that Google organized the coalition to mislead regulators.",
+        "content": "A new lobbying body, the **Open Cloud Coalition (OCC)**, launched on October 29 positioning itself as a voice for transparent, open and competitive public cloud. It has 10 founding members, including Google Cloud, and says it will assist competition watchdogs in the UK and Europe with their cloud-market antitrust probes.\n\nMicrosoft pushed back hard. Corporate vice president and deputy general counsel **Rima Alaily** accused Google of organizing the group to 'mislead the public' and 'discredit Microsoft with competition authorities,' calling it an 'astroturf' effort that hid Google's funding and control behind a handful of European cloud providers.\n\nThe clash lands as regulators scrutinize hyperscaler licensing. The UK's CMA opened a cloud-infrastructure investigation after Ofcom found evidence of anti-competitive behavior by AWS and Microsoft, and Google has separately filed EU antitrust complaints over Microsoft's Azure licensing. The OCC says it wants fair customer mobility; Microsoft says the group is a lobbying front."
+      },
+      "zh": {
+        "title": "开放云联盟成立，微软指责谷歌「 Astroturf 式」操纵",
+        "excerpt": "10 月 29 日，一个新的云游说团体登场，Google Cloud 为创始成员之一。微软副总法律顾问反击称该联盟由谷歌组织，意在误导监管机构。",
+        "content": "新的游说组织 **开放云联盟（OCC）** 于 10 月 29 日成立，自称是公开、开放、可竞争公有云的代言人。其 10 家创始成员包含 Google Cloud，并表示将协助英国与欧洲的监管机构推进云市场反垄断调查。\n\n微软激烈反驳。公司副总裁兼副总法律顾问 **Rima Alaily** 指控谷歌组织该联盟以「误导公众」「在竞争主管机关面前抹黑微软」，称其是隐藏谷歌资金与控制、借数家欧洲云厂商站台的「草皮（astroturf）」操作。\n\n这场交锋正值监管机构紧盯超大规模厂商的授权行为。英国 CMA 在 Ofcom 认定 AWS 与微软存在反竞争证据后启动云基础设施调查；谷歌也另就微软 Azure 授权向欧盟提起反垄断投诉。OCC 声称追求客户自由迁移，微软则称该组织是游说前台。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 4,
+      "timeAgo": 10,
+      "date": "2026-10-28",
+      "en": {
+        "title": "Sierra, Co-Founded by OpenAI Chair Bret Taylor, Raises $175M at $4.5B Valuation",
+        "excerpt": "The AI customer-service startup, led by Bret Taylor and ex-Google exec Clay Bavor, closed a Greenoaks-led round that brings total funding to $285M.",
+        "content": "**Sierra**, the AI customer-service startup co-founded by OpenAI board chair **Bret Taylor** and former Google executive Clay Bavor, has raised **$175 million** in a new round that values the company at **$4.5 billion**. The round was led by Greenoaks Capital, with participation from Thrive Capital and ICONIQ.\n\nSierra sells AI-powered customer-service chatbots to brands such as WeightWatchers and Sirius XM, and adds an agent component that connects to enterprise systems to complete tasks on a customer's behalf without human involvement. The company claims its tech is less prone to hallucinations and lets clients customize the AI's personality to their brand, drawing on a 'constellation' of models from OpenAI, Anthropic and Meta to both act and check for accuracy.\n\nTaylor and Bavor bring deep customer-service pedigree — Taylor spent nearly a decade at Salesforce and earlier created Quip, while Bavor ran Gmail and Google Drive. The raise brings Sierra's total funding to $285M, according to Crunchbase, and underscores investor appetite for enterprise agent platforms."
+      },
+      "zh": {
+        "title": "OpenAI 董事长 Bret Taylor 联合创办的 Sierra 融资 1.75 亿美元，估值 45 亿",
+        "excerpt": "这家由 Bret Taylor 与前谷歌高管 Clay Bavor 领衔的 AI 客服初创，完成 Greenoaks 领投的一轮融资，总融资额达 2.85 亿美元。",
+        "content": "由 OpenAI 董事长 **Bret Taylor** 与前谷歌高管 Clay Bavor 联合创办的 AI 客服初创 **Sierra**，完成新一轮 **1.75 亿美元** 融资，公司估值达 **45 亿美元**。本轮由 Greenoaks Capital 领投，Thrive Capital 与 ICONIQ 参投。\n\nSierra 向 WeightWatchers、Sirius XM 等品牌销售 AI 客服聊天机器人，并加入智能体组件，可连接企业系统、在无需人工介入的情况下代表客户完成任务。公司声称其技术更不易产生幻觉，并允许客户按品牌定制 AI 人格，借助来自 OpenAI、Anthropic 与 Meta 的模型「星座」既执行又校验准确性。\n\nTaylor 与 Bavor 在客服领域资历深厚——Taylor 在 Salesforce 近十年，早前创立 Quip；Bavor 曾主管 Gmail 与 Google Drive。据 Crunchbase，本轮后 Sierra 总融资达 2.85 亿美元，凸显资本对企业智能体平台的热情。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 6,
+      "timeAgo": 12,
+      "date": "2026-10-28",
+      "en": {
+        "title": "Cloudflare Discloses GLM-5.3 Cross-Tenant Data Leak on Workers AI",
+        "excerpt": "A misconfigured context window plus an SGLang bug let 155 long-prompt responses on Cloudflare's Workers AI return fragments of other customers' sessions. Cloudflare says no deliberate exploitation was found.",
+        "content": "Cloudflare published a postmortem on October 26 detailing a **cross-request KV cache exposure** in the GLM-5.3 model on its Workers AI platform: **155 responses** to very long prompts contained data from other customers' sessions. The exposure ran from GLM-5.3's August 27 launch until Cloudflare took the model offline on September 9.\n\nThe root cause was twofold. Cloudflare deployed GLM-5.3 with a 1,048,576-token context window but a KV cache pool of only 681,280 tokens. Its long-context tests checked HTTP status codes and speed, never whether the output was coherent. A bug in the open-source inference engine **SGLang** then let over-length requests slip through: the decode node read stale cache pages still holding earlier requests' data and returned a normal HTTP 200.\n\nEvery affected response went to a prompt longer than 681,280 tokens. Cloudflare says traffic matched ordinary long-context use and found no evidence of deliberate exploitation. The company now checks KV pool size against context length before any disaggregated deployment, and upstreamed fixes landed in SGLang v0.5.22. The lesson for anyone running hosted long-context models: tenant isolation can fail below the model, in the inference engine's memory bookkeeping."
+      },
+      "zh": {
+        "title": "Cloudflare 披露 Workers AI 上 GLM-5.3 跨租户数据泄露",
+        "excerpt": "上下文窗口配置不当叠加 SGLang 漏洞，令 Cloudflare Workers AI 上 155 条长提示回复混入其他客户会话片段。Cloudflare 称未发现蓄意利用。",
+        "content": "Cloudflare 于 10 月 26 日发布事后分析，披露其 Workers AI 平台上 GLM-5.3 模型的 **跨请求 KV 缓存泄露**：**155 条** 超长提示的回复混入了其他客户会话的数据。该问题自 GLM-5.3 于 8 月 27 日上线，至 9 月 9 日 Cloudflare 下线模型期间存在。\n\n根因有两点。Cloudflare 为 GLM-5.3 配置了 1,048,576 token 的上下文窗口，但 KV 缓存池仅 681,280 token。其长上下文测试只检查 HTTP 状态码与速度，从未校验输出是否连贯。开源推理引擎 **SGLang** 的漏洞则让超限请求溜过：解码节点读取了仍残留早期请求数据的旧缓存页，并返回正常的 HTTP 200。\n\n所有受影响回复均来自超过 681,280 token 的提示。Cloudflare 称流量与正常长上下文使用吻合，未发现蓄意利用证据。公司现已在任何分离式部署前直接比对 KV 池容量与上下文长度，相关修复已合入 SGLang v0.5.22。对运行托管长上下文模型的运营者而言，教训是：租户隔离可能在模型之下的推理引擎内存记账层失效。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 5,
+      "timeAgo": 16,
+      "date": "2026-10-28",
+      "en": {
+        "title": "Tesla Begins Optimus Production in Fremont; Figure Locks Design on Figure 04",
+        "excerpt": "In its Q3 2026 update, Tesla said the first production-quality Optimus robots are coming off the Fremont line, targeting external deliveries by late 2027. Figure detailed its next-generation humanoid and a multibillion-dollar compute push.",
+        "content": "Tesla said in its **Q3 2026 shareholder update** that the first production-quality **Optimus** humanoids are coming off a repurposed line in Fremont, California. Elon Musk outlined a timeline: a production process confirmed for a commercial product, most of a million-unit annual line already in place, a target of roughly **20,000 robots per week** within about a year, an AI5 chip around next April, and possible deliveries to companies beyond Tesla by late 2027.\n\nSeparately, Figure CEO Brett Adcock shared his company's all-hands, detailing **Figure 04** with mm-level fingertip tracking and a 'completely changed' roadmap. Figure 03 recently walked nine days straight on a treadmill, and the company has collected about 37.5 million human-activity videos via its Index app to train robots. Adcock said planned compute spending now runs into the billions.\n\nMeanwhile Unitree founder Wang Xingxing said the company is pursuing **self-evolving robots** that use AI models to automate their own algorithm upgrades. The flurry shows humanoid makers shifting from demos to production and data-driven iteration."
+      },
+      "zh": {
+        "title": "特斯拉弗里蒙特启动 Optimus 量产；Figure 锁定 Figure 04 设计",
+        "excerpt": "在 2026 年三季度更新中，特斯拉称首批量产质量 Optimus 已下弗里蒙特产线，目标 2027 年底对外交付。Figure 详述下一代人形机器人及数十亿美元算力投入。",
+        "content": "特斯拉在 **2026 年三季度股东更新** 中称，首批量产质量的 **Optimus** 人形机器人正从弗里蒙特改造产线下线。马斯克给出时间表：量产工艺已确认适配商业产品、年产百万台产线大部分就位、约一年内达到每周 **2 万台**、明年 4 月左右搭载 AI5 芯片、2027 年底前后或向特斯拉以外公司交付。\n\n与此同时，Figure CEO Brett Adcock 分享了全员会议内容，详述带毫米级指尖追踪、路线图「彻底改变」的 **Figure 04**。Figure 03 近期在跑步机上连续行走九天，公司通过 Index 应用已收集约 3750 万条人类活动视频用于训练机器人。Adcock 称计划中的算力支出已达数十亿美元量级。\n\n此外，宇树创始人王兴兴表示公司正追求 **自我进化机器人**，用 AI 模型自动完成算法升级。这一系列动作显示人形机器人厂商正从演示走向量产与数据驱动的迭代。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 4,
+      "timeAgo": 19,
+      "date": "2026-10-28",
+      "en": {
+        "title": "NVIDIA Floats ~$2,000 Per GPU Per Year for Agent Software",
+        "excerpt": "At GTC Berlin on October 22, Jensen Huang said software licensing 'will become increasingly a major part' of NVIDIA's business, citing about $2,000 per GPU per year as an example for the software that runs agents on AI factories.",
+        "content": "Speaking at **GTC Berlin** on October 22, NVIDIA CEO **Jensen Huang** said software licensing 'will become increasingly a major part' of the company's business, citing roughly **$2,000 per GPU per year** as an example for the software that runs agents atop AI factories.\n\nThe remark reframes NVIDIA from a chip and systems vendor toward a platform and software company. It arrives alongside the DSX POD modular data-center design and the OpenShell security-agent reference architecture unveiled at the same event, both aimed at making AI-factory deployment faster and safer.\n\nHuang used the comment to stress that AI-factory economics depend on utilization: a gigawatt data center might cost $50 billion and aim for hundreds of billions in annual revenue, so every month of delayed deployment — he estimated about $10 billion for a $40-billion-a-year facility — matters. Per-GPU software fees are one lever to capture value from the agent workloads now running on NVIDIA hardware."
+      },
+      "zh": {
+        "title": "英伟达拟对智能体软件收取每 GPU 每年约 2000 美元",
+        "excerpt": "10 月 22 日 GTC 柏林大会上，黄仁勋称软件授权「将日益成为业务重要部分」，并以 AI 工厂上运行智能体的软件为例，给出每 GPU 每年约 2000 美元。",
+        "content": "在 10 月 22 日的 **GTC 柏林** 大会上，英伟达 CEO **黄仁勋** 表示软件授权「将日益成为业务的重要部分」，并以 AI 工厂上运行智能体的软件为例，给出每 GPU 每年约 **2000 美元** 的参照。\n\n这番表态把英伟达从芯片与系统供应商重新定位为平台与软件公司。该表态与同场发布的 DSX POD 模块化数据中心方案、OpenShell 安全智能体参考架构相呼应，二者皆旨在让 AI 工厂部署更快、更安全。\n\n黄仁勋借机强调 AI 工厂经济取决于利用率：一座吉瓦级数据中心可能耗资 500 亿美元、目标年入数百亿，因此每延迟一个月投产——他以年收入 400 亿美元设施估算约 100 亿美元——都至关重要。按 GPU 计价的软件费，是从当下运行于英伟达硬件上的智能体工作负载中捕获价值的杠杆之一。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 4,
+      "timeAgo": 22,
+      "date": "2026-10-28",
+      "en": {
+        "title": "Meta Adds 'AI Mode' Search and Editing Tools to Facebook",
+        "excerpt": "Meta began rolling out AI-powered search and content tools to Facebook's mobile app, built on its Muse Spark model, including a new Forum app for community Q&A.",
+        "content": "Meta has begun a gradual rollout of **AI-powered search and content tools** inside the Facebook mobile app, led by a feature called **AI Mode** built into the search bar. It lets users ask questions and receive answers drawn from public discussions and shared recommendations across Facebook groups and Reels.\n\nThe update also introduces **Forum**, a new experimental app offering a dedicated space to ask questions and draw insights from community conversations. On the visual side, Meta added image-editing templates, artistic collages, transition effects, and team-jersey try-on features for sports fans, plus a smart assistant for creators that surfaces optimal posting times and audience engagement insights.\n\nThe move extends Meta's push into AI search and reduces reliance on external search providers for in-app answers. It follows Meta's broader work on Muse Spark, its open-weight model aimed at coding and agentic tasks, and reflects a strategy of keeping discovery and answers inside Meta's own ecosystem."
+      },
+      "zh": {
+        "title": "Meta 为 Facebook 加入「AI 模式」搜索与编辑工具",
+        "excerpt": "Meta 开始在 Facebook 移动端逐步推送由 Muse Spark 驱动的 AI 搜索与内容工具，并推出面向社区问答的新应用 Forum。",
+        "content": "Meta 已在 Facebook 移动端逐步推送 **AI 驱动的搜索与内容工具**，核心是搜索栏内置的 **AI 模式**：用户可提问并获得基于 Facebook 群组与 Reels 中公开讨论与分享推荐的回答。\n\n本次更新还推出实验性新应用 **Forum**，提供专门空间供用户提问并从社区对话中获取洞察。视觉方面，Meta 增加了图片编辑模板、艺术拼贴、转场特效，以及面向体育迷的球队球衣试穿功能；并为创作者提供智能助手，提示最佳发布时间与受众互动洞察。\n\n该举措延续 Meta 进军 AI 搜索、降低应用内答案对外部搜索依赖的路线，也与其面向编程与智能体任务的开放权重模型 Muse Spark 的大方向一致，反映出把发现与问答留在自有生态内的策略。"
+      }
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
+      "category": "healthcare",
+      "readTime": 5,
+      "timeAgo": 13,
+      "date": "2026-10-28",
+      "en": {
+        "title": "AstraZeneca Strikes Up to $1.5B AI Drug-Discovery Deal With insitro",
+        "excerpt": "The pharma giant will pay insitro $40M upfront and up to $1.46B in milestones to use its Virtual Human AI platform for MASH and cardiomyopathy target discovery.",
+        "content": "**AstraZeneca** has entered a strategic drug-discovery and licensing agreement with AI therapeutics company **insitro** worth up to **$1.5 billion**. Insitro will receive a **$40 million** upfront payment and is eligible for up to about **$1.46 billion** in development and commercial milestones, plus single-digit royalties on global sales.\n\nUnder the deal, insitro will apply its **Virtual Human™** AI platform to identify causal disease biology for two complex, hard-to-treat conditions: metabolic dysfunction-associated steatohepatitis (**MASH**) and cardiomyopathies. AstraZeneca will advance nominated targets from discovery through development candidate stage and lead all clinical work.\n\nThe partnership is the latest sign that big pharma is paying for AI target-discovery platforms 'before the target' — insitro's Daphne Koller argues the bigger lever is finding what actually drives disease, not just designing molecules against known targets. It follows a burst of AI-drug deals in mid-October, including Gilead–Vir and Zealand–Generate Biomedicines, totaling over $4.6 billion."
+      },
+      "zh": {
+        "title": "阿斯利康与 insitro 签下最高 15 亿美元 AI 药物发现合作",
+        "excerpt": "这家药企巨头将向 insitro 支付 4000 万美元预付款与最高约 14.6 亿美元里程碑，用其 Virtual Human AI 平台发现 MASH 与心肌病靶点。",
+        "content": "**阿斯利康** 与 AI 药物研发公司 **insitro** 达成最高 **15 亿美元** 的战略药物发现与许可协议。insitro 将获得 **4000 万美元** 预付款，并有资格拿到最高约 **14.6 亿美元** 的研发与商业里程碑付款，以及全球销售额的个位数特许权使用费。\n\n根据协议，insitro 将运用其 **Virtual Human™** AI 平台，为两类复杂难治疾病——代谢功能障碍相关脂肪性肝炎（**MASH**）与心肌病——识别因果性疾病生物学。阿斯利康将把提名靶点从发现阶段推进至开发候选，并主导全部临床工作。\n\n该合作是又一信号：大药企正为「靶点之前」的 AI 靶点发现平台付费。insitro 的 Daphne Koller 认为更大的杠杆在于找到真正驱动疾病的机制，而非仅为已知靶点设计分子。此前十月中旬 AI 制药交易密集落地，含吉利德–Vir、Zealand–Generate Biomedicines 等，合计超 46 亿美元。"
+      }
+    }
+  ]
+}
