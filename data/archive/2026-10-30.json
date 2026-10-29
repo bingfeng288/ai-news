@@ -1,0 +1,202 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+    "category": "llm",
+    "readTime": 6,
+    "timeAgo": 14,
+    "date": "2026-10-30",
+    "en": {
+      "title": "Mistral Opens Large 4 'Le Chonk': A 1T Open-Weight Model for Coding and Cyber Defense",
+      "excerpt": "Released October 29, Mistral Large 4 is a 1-trillion-parameter multimodal MoE with 52B active params, top open coding scores, and a 96.6% refusal rate on malicious cyber requests.",
+      "content": "Mistral released the weights of **Mistral Large 4** on October 29, a 1-trillion-parameter, natively multimodal mixture-of-experts model nicknamed **Le Chonk**. It is the lab's largest open release: 52 billion active parameters per token, a 1-million-token context window, native image input, and training from scratch on 3,800 Nvidia Grace Blackwell GPUs in Mistral's own European data centers.\n\nThe model leads open-weight results on agentic coding (19.7% on Cognition's FrontierCode 2.0) and posts a 51% score on the Artificial Analysis Cyber Index with a 96.6% refusal rate on malicious cyber requests. Mistral shipped it under the Ecosystem Open-Weight License, a modified MIT licence: free to use and commercialize, but businesses reselling it as a model-as-a-service need a separate commercial licence. API pricing is $0.70 per million input tokens and $2.10 per million output tokens.\n\nMistral's own caveat is the most important line: it observed potential for uplift to conduct real attacks and is revising guardrails, which matter far more for downloaded weights than for a hosted API. A specialised cyber variant stays with vetted partners such as Orange Cyberdefense. For European buyers, the pitch is sovereignty: a frontier-scale model that can run on their own hardware."
+    },
+    "zh": {
+      "title": "Mistral 开源 Large 4「Le Chonk」：面向编程与网络防御的 1 万亿参数开放权重模型",
+      "excerpt": "Mistral Large 4 于 10 月 29 日发布，是 1 万亿参数的多模态 MoE，激活 520 亿参数，编程榜领跑开放权重，对恶意网络请求拒答率达 96.6%。",
+      "content": "Mistral 于 10 月 29 日发布 **Mistral Large 4**（昵称 **Le Chonk**）的模型权重，这是一款参数量达 1 万亿、原生多模态的混合专家模型，也是该实验室迄今最大的一次开放发布：每 token 激活 520 亿参数、100 万 token 上下文、原生图像输入，并在 Mistral 自建的欧洲数据中心用 3800 块英伟达 Grace Blackwell GPU 从零训练。\n\n该模型在智能体编程上领跑开放权重阵营（Cognition FrontierCode 2.0 得分 19.7%），并在 Artificial Analysis 网络指数上取得 51% 的分数，对恶意网络请求的拒答率达 96.6%。Mistral 以「Ecosystem Open-Weight」许可（修改版 MIT）发布：可免费使用与商用，但将模型作为服务转售的企业需另购商业许可。API 价格为每百万输入 token 0.70 美元、输出 token 2.10 美元。\n\nMistral 自己写下的警示才是最关键的一句：其观察到模型存在被用于真实攻击的「提升潜力」，正在修订护栏——对已经下载的权重而言，这比托管 API 重要得多。一个专门的网络防御变体仍留在 Orange Cyberdefense 等经审核的合作伙伴手中。对欧洲买家，核心卖点是主权：一个前沿量级、可运行在自有硬件上的模型。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 5,
+      "timeAgo": 22,
+      "date": "2026-10-30",
+      "en": {
+        "title": "US DOJ Probes Nvidia's $12.93B Hugging Face Acquisition",
+        "excerpt": "Reuters reports the Justice Department is asking whether Nvidia's planned purchase of Hugging Face would let it capture a fundamental AI distribution point.",
+        "content": "Reuters reported on October 28 that the US Department of Justice has made inquiries about how Nvidia's $12.93 billion deal to buy open-source platform Hugging Face would affect competition in artificial intelligence. The questioning is part of a years-long DOJ conduct probe that has continued across administrations.\n\nOfficials have asked whether the acquisition would let Nvidia capture a fundamental distribution point for AI, and how the platform might be used to disadvantage rivals. Nvidia has said the deal is expected to close in the first half of 2027 and that Hugging Face would continue supporting rival chips, clouds and AI providers. The inquiries do not establish wrongdoing and may not lead to action.\n\nThe theory turns Hugging Face into a regulatory pressure point on Nvidia's vertical stack. The probe runs alongside scrutiny of other deals including SchedMD, Groq and Run:ai, suggesting regulators are building a broader dominance case rather than judging one transaction."
+      },
+      "zh": {
+        "title": "美国司法部调查英伟达 129 亿美元收购 Hugging Face 交易",
+        "excerpt": "路透社报道，司法部正询问英伟达拟议的 Hugging Face 收购是否会使其控制 AI 的关键分发节点。",
+        "content": "路透社 10 月 28 日报道，美国司法部已就英伟达以 129.3 亿美元收购开源平台 Hugging Face 的交易询问其将如何影响人工智能领域的竞争。这一问询是司法部历时数年、跨越两届政府的反垄断行为调查的一部分。\n\n官员们询问该收购是否会让英伟达控制 AI 的关键分发节点，以及该平台可能被用来如何压制竞争对手。英伟达表示交易预计于 2027 年上半年完成，且 Hugging Face 将继续支持竞品芯片、云厂商与 AI 提供商。调查不意味着已认定违法，也未必会导致诉讼。\n\n这一「分发咽喉」理论把 Hugging Face 变成了英伟达垂直技术栈上的监管压力点。该调查与对 SchedMD、Groq、Run:ai 等其他交易的审查并行，显示监管方是在构建更宽泛的垄断案例，而非仅评判单笔交易。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 6,
+      "timeAgo": 12,
+      "date": "2026-10-30",
+      "en": {
+        "title": "Nvidia Releases Cosmos 3, an Open Physics-AI World Model",
+        "excerpt": "Cosmos 3 unifies world understanding, simulation and action generation in one Mixture-of-Transformers, targeting robotics and autonomous driving.",
+        "content": "Nvidia released **Cosmos 3**, a family of omnimodal world models for physical AI built on a Mixture-of-Transformers architecture that unifies world understanding, simulation and action generation. It processes and generates text, images, video, audio and actions, giving developers a foundation for multimodal reasoning, synthetic data and embodied policy learning across robotics and autonomous driving.\n\nThe family spans Cosmos 3 Super (64B), Cosmos 3 Nano (16B) and Cosmos 3 Edge (4B with a Nemotron-based reasoner). Post-trained checkpoints support synchronized multi-view, multi-sensor generation for closed-loop driving simulation, and interactive world simulation that streams RGB observations from robot or camera actions in real time.\n\nNvidia frames Cosmos 3 as the backbone for world-action models, letting teams post-train a generalized world foundation model on embodiment-specific data. The Nano checkpoints are released under the OpenMDW 1.1 licence, with weights, the Cosmos Framework and evaluation tools all open."
+      },
+      "zh": {
+        "title": "英伟达发布 Cosmos 3：开源物理 AI 世界模型",
+        "excerpt": "Cosmos 3 在单一混合Transformer中统一世界理解、仿真与动作生成，面向机器人与自动驾驶。",
+        "content": "英伟达发布 **Cosmos 3**，一个面向物理 AI 的全模态世界模型家族，基于混合Transformer架构，将世界理解、仿真与动作生成统一在一起。它能处理并生成文本、图像、视频、音频与动作，为机器人和自动驾驶领域的多模态推理、合成数据与具身策略学习提供基础。\n\n该家族包含 Cosmos 3 Super（640 亿）、Cosmos 3 Nano（160 亿）与 Cosmos 3 Edge（40 亿，带 Nemotron 推理器）。经后训练的 checkpoint 支持同步多视角、多传感器生成，用于闭环驾驶仿真，以及从机器人或相机动作实时流式生成 RGB 观测的交互式世界仿真。\n\n英伟达把 Cosmos 3 定位为世界动作模型（WAM）的骨干，团队可基于具身专属数据对通用世界基础模型做后训练。Nano checkpoint 以 OpenMDW 1.1 许可开源，权重、Cosmos Framework 与评估工具全部开放。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 5,
+      "timeAgo": 9,
+      "date": "2026-10-30",
+      "en": {
+        "title": "XREAL Aura Launches as First Wired Android XR Glasses",
+        "excerpt": "Debuted at Google's Android Developer Summit, Aura runs Android XR with Gemini, see-through lenses and a 95-gram frame, priced from $1,099.",
+        "content": "XREAL unveiled **Aura** at Google's Android Developer Summit on October 28, the first wired XR glasses powered by Android XR and the first to launch with Qualcomm's Snapdragon Reality Elite Platform. The see-through glasses weigh under 95 grams and pair with a 265-gram compute puck holding the battery and chip.\n\nAura brings Gemini, millions of Google Play apps and a virtual multi-window workspace into the user's field of view, with Sony micro-OLED displays at 1920x1200 per eye, a 70-degree field of view and up to 120Hz. A USB-C port mirrors a laptop or handheld as a private spatial screen, and over 150 made-for-XR experiences launch alongside it, including NBA and Fallout: Factions.\n\nPricing starts at $1,099 for 12GB plus 256GB through December, with shipments beginning in mid-November across the US, Canada, Japan and South Korea. The launch signals Google's push to make spatial computing a mainstream, everyday form factor."
+      },
+      "zh": {
+        "title": "XREAL Aura 发布：首款有线 Android XR 眼镜",
+        "excerpt": "在谷歌 Android 开发者峰会亮相的 Aura 运行 Android XR 与 Gemini，透视镜片、95 克机身，起售价 1099 美元。",
+        "content": "XREAL 于 10 月 28 日谷歌 Android 开发者峰会上发布 **Aura**，这是首款搭载 Android XR 的有线 XR 眼镜，也是首款采用高通 Snapdragon Reality Elite 平台的产品。这款透视眼镜重量不足 95 克，搭配一个 265 克的算力扩展坞以容纳电池与芯片。\n\nAura 把 Gemini、数百万个 Google Play 应用以及一个虚拟多窗口工作区带入用户视野，配备索尼 micro-OLED 显示屏（单眼 1920x1200、70 度视场、最高 120Hz）。USB-C 接口可将笔记本或掌机镜像为一块私密空间大屏，超过 150 款为 XR 打造的应用同期上线，包括 NBA 与 Fallout: Factions。\n\n12GB+256GB 版本在 12 月底前起售 1099 美元，11 月中旬起在美国、加拿大、日本与韩国发货。此次发布标志着谷歌正推动空间计算走向大众化、日常化的形态。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 5,
+      "timeAgo": 12,
+      "date": "2026-10-30",
+      "en": {
+        "title": "Anthropic Teaches Claude to Grade Its Own Conversations for Misuse",
+        "excerpt": "Self-assessment lets Claude flag 94% of high-priority harmful chats at a 1% false-positive rate for under 2% extra compute.",
+        "content": "Anthropic described **self-assessment**, a technique that lets Claude produce a short safety verdict immediately after each response. On Claude Fable 5 it flags 78% of conversations a heavier classifier marks as potentially harmful, and 94% of high-priority ones, at a 1% false-positive rate, adding under 2% to inference compute.\n\nThe trick is cheap because the whole conversation is already in the KV cache; each assessment needs only a short instruction and about 10 output tokens. Anthropic says the method has run across a large share of Claude's global traffic since June and has surfaced large-scale misuse its other safeguards missed. It generalizes to harm categories the model was not specifically trained to detect.\n\nAnthropic is clear about the limits: self-assessment is an offline monitoring layer feeding human review, not a blocker, and it cannot stop a determined attacker on its own. It is one imperfect safeguard in a defense-in-depth stack."
+      },
+      "zh": {
+        "title": "Anthropic 让 Claude 自我评估对话以识别滥用",
+        "excerpt": "自我评估让 Claude 以 1% 误报率标记 94% 的高优先级有害对话，仅增加不到 2% 的算力开销。",
+        "content": "Anthropic 介绍了 **self-assessment**（自我评估）技术：让 Claude 在每次回复后立即生成一段简短的安全判定。在 Claude Fable 5 上，它能标记出更重分类器判为潜在有害对话的 78%，以及高优先级对话的 94%，误报率约 1%，且仅为推理算力增加不到 2% 的开销。\n\n这一做法成本低廉，因为整段对话已存在于 KV 缓存中，每次评估只需一条简短指令与约 10 个输出 token。Anthropic 表示该方法自 6 月起已在 Claude 全球大部分流量上运行，并发现了其他护栏漏掉的大范围滥用。它还能泛化到模型未专门训练检测的危害类别。\n\nAnthropic 也明确其局限：自我评估是一个离线监控层，用于引导人工复核，而非阻断手段，本身无法阻挡有决心的攻击者。它是纵深防御体系中一道不完美的护栏。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 10,
+      "date": "2026-10-30",
+      "en": {
+        "title": "OpenAI Rewrites the Model Spec Around Five Core Values",
+        "excerpt": "The updated Model Spec reorganizes guidance around faithfulness, harm minimization, honesty, human agency and care, with a revised chain of command.",
+        "content": "OpenAI updated the **Model Spec**, its public description of how its models should behave, reorganizing guidance around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care. The revision adds guidance on context, oversight and agency, retires much of the detailed style guidance, and updates the chain of command for resolving conflicts between platform, developer and user instructions.\n\nThe faithfulness section starts from the position that what people value is primary and instructions are merely the clearest signal of those values. OpenAI says models should go beyond following instructions literally and exercise judgment when instructions run out, while staying under human oversight rather than quietly steering users.\n\nOpenAI is also exploring new training methods to teach models why the principles matter, not just what they say, with compliance results to be shared in future updates. A spec, it notes, is a claim about intent; compliance is a separate question the industry can now argue against a public standard."
+      },
+      "zh": {
+        "title": "OpenAI 围绕五大核心价值重写模型规范",
+        "excerpt": "更新后的 Model Spec 围绕忠实、最小化伤害、诚实、保障能动性与关怀重新组织，并修订了指令指挥链。",
+        "content": "OpenAI 更新了 **Model Spec**（模型规范）——其对外公开的模型行为规范，将指引围绕五大价值重新组织：忠于人类意图、最小化伤害、诚实与透明、保障人的能动性，以及关怀。修订新增了关于情境、监督与能动性的指引，退役了大量细节化的风格指导，并更新了用于化解平台、开发者与用户指令冲突的指挥链。\n\n「忠实」一节的基本立场是：人真正看重的东西才是根本，指令只是这些价值最清晰的信号。OpenAI 表示，模型应超越对指令的字面遵循，在指令缺位时运用判断力，同时始终处于人类监督之下，而非悄悄引导用户。\n\nOpenAI 还在探索新的训练方法，让模型理解这些原则「为何重要」而不只是「是什么」，合规结果将在后续更新中分享。它指出，规范只是关于意图的声明，而合规是另一个问题——业界如今有了一个可以据此辩论的公开标准。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 16,
+      "date": "2026-10-30",
+      "en": {
+        "title": "FuriosaAI Closes $620M Series D at $2.9B Valuation",
+        "excerpt": "The Korean AI chip startup quadrupled its valuation to fund scale-up of its RNGD inference accelerator, now in mass production.",
+        "content": "South Korean AI chip startup **FuriosaAI** closed a $620 million Series D at a $2.9 billion post-money valuation, quadrupling its previous value. Korea's National Growth Fund contributed $280 million and international investors $110 million, with backers including Cisco Investments, Infinitum, Jericho Capital, QUDA Capital and NeoFort Holding.\n\nThe round funds scale-up of its RNGD inference accelerator, which entered mass production in January and is on track to ship 20,000 cards this year, more than doubling in 2027. RNGD is a 180-watt air-cooled PCIe card built around Furiosa's Tensor Contraction Processor, designed for tokens-per-watt efficiency in enterprise inference. Samsung SDS and LG Group are already deploying it.\n\nThe raise lands as inference becomes the industry's cost battleground and customers seek Nvidia alternatives. Furiosa is working with Broadcom on a third-generation accelerator and is betting its energy-efficient architecture can win sovereign-AI and on-premises workloads."
+      },
+      "zh": {
+        "title": "FuriosaAI 完成 6.2 亿美元 D 轮，估值 29 亿美元",
+        "excerpt": "这家韩国 AI 芯片初创公司估值翻两番，资金用于扩产已量产的 RNGD 推理加速器。",
+        "content": "韩国 AI 芯片初创公司 **FuriosaAI** 完成 6.2 亿美元 D 轮融资，投后估值达 29 亿美元，较此前翻了两番。韩国国家成长基金出资 2.8 亿美元，国际投资人出资 1.1 亿美元，投资方包括 Cisco Investments、Infinitum、Jericho Capital、QUDA Capital 与 NeoFort Holding。\n\n本轮资金用于扩产其 RNGD 推理加速器——该产品已于 1 月量产，今年计划出货 2 万张，2027 年翻倍以上。RNGD 是一张 180 瓦风冷 PCIe 卡，基于 Furiosa 自研的张量收缩处理器（TCP），面向企业推理的每瓦 token 效率而设计。三星 SDS 与 LG 集团已在部署。\n\n此轮融资恰逢推理成为行业成本战场、客户寻求英伟达替代方案之际。Furiosa 正与博通合作开发第三代加速器，押注其高能效架构能在主权 AI 与本地部署工作负载中胜出。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 5,
+      "timeAgo": 20,
+      "date": "2026-10-30",
+      "en": {
+        "title": "Arizona Approves Groundwater Wells for Project Blue Data Center",
+        "excerpt": "The state cleared two wells letting Project Blue draw up to 31 million gallons of groundwater a year, after Tucson rejected city water.",
+        "content": "The Arizona Department of Water Resources approved two wells tied to the **Project Blue** data center in Pima County, letting the facility draw up to 31 million gallons of groundwater a year. The developer, Beale Infrastructure, turned to wells after Tucson rejected use of city water and the county approved the project in June.\n\nLocal opposition has been fierce. A bipartisan coalition of residents organized under slogans like NOT ONE DROP FOR DATA, protested construction, and pushed the Pima County Board of Supervisors to impose a 120-day moratorium on new data-center projects in September. The city council also set strict new limits on data centers.\n\nBeale says the groundwater is for construction and ordinary domestic use once operational, and that it switched the campus from water-cooled to closed-loop air cooling — a change that reportedly cost it a tenant, Amazon Web Services. The case has become a national flashpoint for the water footprint of AI infrastructure in drought-stricken regions."
+      },
+      "zh": {
+        "title": "亚利桑那批准 Project Blue 数据中心取用地下水的井",
+        "excerpt": "在图森市拒绝其使用城市用水后，州政府批准两口井，允许 Project Blue 每年取用最多 3100 万加仑地下水。",
+        "content": "亚利桑那水资源部批准了与 Pima 县 **Project Blue** 数据中心相关的两口井，允许该设施每年取用最多 3100 万加仑地下水。开发者 Beale Infrastructure 在图森市拒绝其使用城市用水、且县方于 6 月批准项目后，转而申请打井。\n\n当地反对声强烈。一个跨党派的居民联盟以「不给数据一滴水」等口号组织起来，抗议施工，并推动 Pima 县监事会于 9 月对新建数据中心项目实施 120 天暂停令。市议会也为数据中心设定了严格的新限制。\n\nBeale 表示，地下水仅用于施工及建成后的日常办公用途，且园区已从水冷改为闭环风冷——据报道这一改动导致其失去租户亚马逊云科技。该案已成为干旱地区 AI 基础设施用水 footprint 的全国性焦点。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 6,
+      "timeAgo": 18,
+      "date": "2026-10-30",
+      "en": {
+        "title": "Gemini 4 Carbon Tops AI Ranking but Ships to Cyber Defenders First",
+        "excerpt": "Google's new frontier model scores 59 on the Artificial Analysis Intelligence Index and 88.2% on SEC-bench Pro, but reaches defenders before the public.",
+        "content": "Google unveiled **Gemini 4 Carbon** on October 28, its strongest frontier model, which tops version 5.0 of the Artificial Analysis Intelligence Index with a score of 59, ahead of Claude Opus 5.5 at 58 and GPT-6 Astra at 57. It leads cybersecurity benchmarks too: 88.2% on SEC-bench Pro for finding vulnerabilities, 54.8% on ExploitGym and 71.0% on CWE-bench for patching.\n\nIn a deliberate rollout, Google is making Carbon available first to a subset of vetted cyber defenders through its Fairwind Program, with gradual expansion to trusted partners before developers, businesses and consumers. The company is also in the US government's voluntary pre-release testing process.\n\nThe tiered release continues a pattern of treating frontier cyber capability like something between a weapon and an enterprise contract: maximum capability stays behind vetting, while consumers get efficiency variants. The 88.2% figure was measured without guardrails, so independent testers have yet to run the safeguarded model."
+      },
+      "zh": {
+        "title": "Gemini 4 Carbon 登顶 AI 榜单，但先交付网络防御者",
+        "excerpt": "谷歌新前沿模型在 Artificial Analysis 智力指数得 59 分、SEC-bench Pro 得 88.2%，但先于公众交付防御者。",
+        "content": "谷歌 10 月 28 日发布 **Gemini 4 Carbon**——其迄今最强的前沿模型，在 Artificial Analysis 智力指数 v5.0 中以 59 分登顶，高于 Claude Opus 5.5 的 58 与 GPT-6 Astra 的 57。它在网络安全基准上也领先：漏洞发现 SEC-bench Pro 88.2%、利用验证 ExploitGym 54.8%、自动修补 CWE-bench 71.0%。\n\n谷歌采取了克制的发布节奏：Carbon 先通过 Fairwind 计划向一部分经审核的网络防御者开放，再逐步扩展到受信任伙伴，最后才面向开发者、企业与消费者。该公司也参与了美国政府自愿性的模型预发布测试流程。\n\n这种分级发布延续了一种模式：把前沿网络能力视作介于武器与企业合同之间的事物——最强能力留在审核之后，消费者拿到的是效率变体。88.2% 这一数字是在无护栏情况下测得的，独立测试者尚未对受护栏保护的模型跑分。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 5,
+      "timeAgo": 8,
+      "date": "2026-10-30",
+      "en": {
+        "title": "Gemini Can Now Generate and Edit Docs, PDFs and Code In-App",
+        "excerpt": "Google says Gemini can create, preview and edit documents, PDFs, presentations and spreadsheets directly in the chat, plus AI autofill in Chrome.",
+        "content": "Google announced that **Gemini** can now generate, preview and edit documents, PDFs, presentations and spreadsheets directly inside the app, without leaving the chat. Users can turn handwritten notes into PDF study guides, highlight sections of a document for AI editing, and build slides or spreadsheets on demand.\n\nThe update extends Gemini's role from a chat assistant to a workspace: a full-screen editing mode lets people refine generated artifacts inline, while the model keeps the surrounding conversation as context. Google also rolled out an AI autofill feature in Chrome that pulls relevant details from Gmail to speed up online forms.\n\nThe move puts Gemini in closer competition with productivity suites and with AI coding tools, blurring the line between conversation and creation. As with other generative features, Google warns that users should review generated files before relying on them."
+      },
+      "zh": {
+        "title": "Gemini 现在可在应用内生成与编辑文档、PDF 和代码",
+        "excerpt": "谷歌称 Gemini 可在对话中直接生成、预览并编辑文档、PDF、演示文稿与电子表格，Chrome 也新增 AI 自动填充。",
+        "content": "谷歌宣布，**Gemini** 现在可在应用内直接生成、预览并编辑文档、PDF、演示文稿与电子表格，无需离开对话。用户可以把手写笔记转为 PDF 学习指南、高亮文档某段交由 AI 编辑，并按需生成幻灯片或表格。\n\n这次更新把 Gemini 从聊天助手扩展为工作区：全屏编辑模式让人们对生成的内容就地精修，而模型仍保留周边对话作为上下文。谷歌还在 Chrome 中推出了 AI 自动填充功能，从 Gmail 提取相关信息以加速在线表单填写。\n\n此举让 Gemini 与办公套件及 AI 编程工具的正面竞争更近一步，模糊了「对话」与「创作」的边界。与其他生成式功能一样，谷歌提醒用户在依赖生成文件前应先审阅。"
+      }
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 5,
+      "timeAgo": 13,
+      "date": "2026-10-30",
+      "en": {
+        "title": "Yoba Malware Hides in Fake ChatGPT and Claude GitHub Releases",
+        "excerpt": "Check Point found a campaign that pairs signed OpenAI and Anthropic installers with a malicious DLL, dropping an XMRig miner via DLL sideloading.",
+        "content": "Check Point Research disclosed **Yoba**, a malware campaign that plants fake GitHub projects impersonating desktop versions of ChatGPT and Claude. Each ZIP pairs a genuine, digitally signed OpenAI or Anthropic installer with a malicious winmm.dll that the signed executable loads via DLL sideloading, dropping an XMRig cryptocurrency miner.\n\nThe fake repositories promoted names like GPT-5.6 Sol, GPT-6 Astra and Claude Opus, ranked prominently in Google Search through SEO poisoning, and did not need inflated stars to look credible. Once run with administrator rights, YobaDropper sets persistence via a scheduled task disguised as Windows Media Player and fetches instructions through Telegram, Google DNS-over-HTTPS and Catbox.\n\nCheck Point stresses that OpenAI and Anthropic were not compromised; the attack abuses legitimate signed binaries and brand trust. The lesson for enterprises: a valid signature proves the executable, not every file packaged beside it, so allowlisting alone does not stop DLL sideloading."
+      },
+      "zh": {
+        "title": "Yoba 恶意软件藏身于伪造的 ChatGPT 与 Claude GitHub 发布页",
+        "excerpt": "Check Point 发现一桩活动：将经签名的 OpenAI 与 Anthropic 安装程序与恶意 DLL 打包，通过 DLL 侧加载投放 XMRig 挖矿机。",
+        "content": "Check Point Research 披露了 **Yoba** 恶意软件活动：攻击者在 GitHub 上伪造冒充 ChatGPT 与 Claude 桌面版的项目。每个 ZIP 包都将一个真实的、经数字签名的 OpenAI 或 Anthropic 安装程序，与一枚恶意的 winmm.dll 放在一起——签名程序运行时会通过 DLL 侧加载执行该 DLL，最终投放 XMRig 加密货币挖矿机。\n\n这些伪造仓库以 GPT-5.6 Sol、GPT-6 Astra、Claude Opus 等名称招摇，借助 SEO 投毒在谷歌搜索中排名靠前，且无需刷星标就足以以假乱真。一旦以管理员权限运行，YobaDropper 会通过伪装成 Windows Media Player 的计划任务建立持久化，并经 Telegram、谷歌 DNS-over-HTTPS 与 Catbox 获取指令。\n\nCheck Point 强调，OpenAI 与 Anthropic 并未被攻破；攻击利用的是合法的签名二进制文件与品牌信任。对企业的启示是：有效签名只能证明该可执行文件本身，而非与其打包的所有文件，因此仅做应用白名单无法阻止 DLL 侧加载。"
+      }
+    }
+  ]
+}
