@@ -2,200 +2,200 @@
   "featured": {
     "id": 0,
     "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=600&fit=crop",
-    "category": "policy",
+    "category": "business",
     "readTime": 6,
-    "timeAgo": 30,
-    "date": "2026-11-02",
+    "timeAgo": 28,
+    "date": "2026-11-03",
     "en": {
-      "title": "OpenAI, Google, Microsoft and Anthropic back a shared robots.txt opt-out signal for AI training",
-      "excerpt": "The four largest AI labs endorsed an IETF-proposed 'policy token' that lets publishers refuse AI training scraping across all participating crawlers with one line in robots.txt.",
-      "content": "On October 31, reports confirmed that **OpenAI, Google, Microsoft and Anthropic** have pledged to support a single, standardized opt-out signal that lets website owners refuse having their content scraped for AI training. The mechanism is a shared **'policy token'** embedded inside a site's `robots.txt` file, proposed by **Kevin Kelley**, a standards technical lead at Anthropic, within the **IETF** framework.\n\nToday a publisher that wants to withhold content from model training must identify each crawler individually and update its robots.txt separately — a task that grows unmanageable as the number of AI crawlers expands. The new token collapses that into one instruction that every participating crawler reads at once. **Anthropic has already adopted it**; Google and Microsoft plan to support it in 2027; OpenAI says it will implement it 'in the coming months.' Meta signaled support but has not committed to honoring it.\n\nCrucially, the signal is forward-looking only: it governs future crawling and does not remove content already ingested, nor does it establish a licensing or payment mechanism. Microsoft adds finer controls — sites can opt out of AI training or AI grounding separately while staying in Bing results. The move shifts AI data governance from bilateral deals toward a machine-readable public protocol, though its real force depends on coverage, transparency and dispute handling."
+      "title": "OpenAI slashes valuation to $1.25T and funding target to $20B amid AI sell-off",
+      "excerpt": "Citing a brutal tech-stock rout and Anthropic's looming IPO, OpenAI cut its new round to ~$20B at a $1.25T valuation — down from $30B at $1.4T — with the first close expected below target.",
+      "content": "OpenAI has pulled back the most ambitious private fundraise in tech history. According to the **Financial Times**, the ChatGPT maker lowered its latest round to roughly **$20 billion** at a **$1.25 trillion** valuation, down from an earlier plan of $30B at $1.4T. The **Wall Street Journal** reported about **$11 billion** committed so far, with some large investors lukewarm.\n\nThe retreat follows a violent sell-off: the Nasdaq 100 fell **3.5%** on Friday and the Philadelphia Semiconductor Index dropped **7.2%**, its worst day since June. OpenAI is also squeezed by **Anthropic's** expected IPO next month, which is pulling capital and attention toward its rival.\n\nA UAE investor consortium led by **MGX** is set to be the largest participant, with OpenAI gaining an option to lease newly built regional compute. Founders Fund, Coatue, Sequoia, a16z and SoftBank are also expected to join. A retail tranche may follow. OpenAI had raised **$122 billion** in March at an $852B valuation."
     },
     "zh": {
-      "title": "OpenAI、Google、微软、Anthropic 联手推出 AI 训练「统一退出键」",
-      "excerpt": "四大 AI 实验室背书一项 IETF 提出的「策略令牌」，网站只需在 robots.txt 写一行，即可向所有参与爬虫统一表达拒绝用于模型训练的偏好。",
-      "content": "10 月 31 日，多家媒体确认，**OpenAI、Google、微软与 Anthropic** 已承诺支持一种统一的退出信号，让网站所有者能够一键拒绝其内容被抓取用于 AI 训练。该机制是一个写入网站 `robots.txt` 的共享「**策略令牌（policy token）**」，由 Anthropic 标准技术负责人 **Kevin Kelley** 在 **IETF** 框架下提出。\n\n目前，若网站希望内容不被用于模型训练，必须逐个识别爬虫、分别更新规则——随着 AI 爬虫数量激增，这道门槛对小站点几乎不可承受。新令牌把分散的退出动作收敛为一条指令，所有参与的爬虫读取后即限制访问。**Anthropic 已率先采用**；Google 与微软计划于 2027 年支持；OpenAI 称将在「未来数月内」落地；Meta 表态支持共建标准，但尚未承诺遵守。\n\n需明确的是，该信号仅面向未来抓取：它不撤回已被摄取的内容，也不构成授权或付费机制。微软还提供更细粒度控制——站点可单独选择退出 AI 训练或 AI 检索增强，同时保留在 Bing 搜索结果中的可见性。此举把 AI 数据治理从双边协议前移为机器可读的公共协议，但其真正约束力仍取决于覆盖范围、执行透明度与争议处理能力。"
+      "title": "融资估值双砍：OpenAI 目标估值下调至 1.25 万亿美元、融资额降至约 200 亿美元",
+      "excerpt": "在科技股剧烈抛售与 Anthropic 即将 IPO 的双重压力下，OpenAI 将本轮融资下调至约 200 亿美元、估值 1.25 万亿美元，较此前 300 亿/1.4 万亿明显缩水，首轮交割或低于目标。",
+      "content": "OpenAI 收缩了科技史上最激进的一笔私募融资。据**英国《金融时报》**报道，这家 ChatGPT 开发商将本轮融资目标下调至约 **200 亿美元**，对应估值 **1.25 万亿美元**，较此前 300 亿/1.4 万亿的方案明显回撤；**《华尔街日报》**称目前已落实约 **110 亿美元**承诺，部分大型投资人态度冷淡。\n\n撤退发生在惨烈抛售之后：纳斯达克 100 指数周五下跌 **3.5%**，费城半导体指数重挫 **7.2%**，创 6 月以来最大单日跌幅。同时，**Anthropic** 预计下月 IPO，正吸走资本与注意力。\n\n由 **MGX** 领衔的阿联酋投资财团将成为最大参与方，OpenAI 获得租赁当地新建算力的选择权；Founders Fund、Coatue、红杉、a16z 与软银预计跟投，后续或推出面向个人的零售份额。今年 3 月 OpenAI 曾以 8520 亿美元估值募得 **1220 亿美元**。"
     }
   },
   "articles": [
     {
       "id": 1,
       "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
-      "category": "infra",
+      "category": "llm",
       "readTime": 5,
-      "timeAgo": 28,
-      "date": "2026-11-02",
+      "timeAgo": 20,
+      "date": "2026-11-03",
       "en": {
-        "title": "Google's Project Suncatcher returns first AI response from a TPU in orbit",
-        "excerpt": "A prototype satellite launched October 1 beamed back a Gemma 4 haiku from a data-center-class TPU in low Earth orbit — the first AI inference run in space.",
-        "content": "Google has reached a milestone in its **Project Suncatcher** moonshot: the first-ever AI response generated by a **data-center-class TPU in orbit**. The prototype satellite launched on **October 1** aboard a SpaceX rideshare and, after roughly three weeks of commissioning, engineers uplinked a prompt asking the onboard **Gemma 4** open model to write a haiku about space. As the satellite passed Svalbard, Norway, it downlinked: *Blue marble below / Data streams in silent grace / Starlight feeds my core.*\n\nThe spacecraft carries **four TPUs** but its power system allows only one to run at a time, capped near **1 kW** and about **20 minutes** of continuous operation per session. Google next plans to test how the chips withstand thermal stress and space radiation — a known threat that can flip memory bits without triggering normal monitors. The company previously ran radiation tests in particle accelerators on Earth.\n\nIf reliability holds, Project Suncatcher aims to launch **two interconnected satellites in 2027** with optical links, laying groundwork for orbital compute clusters. Google has sketched fleets of more than 80 satellites flying in close formation — a long-horizon bet that scalable AI compute may one day move, partly, above the atmosphere."
+        "title": "Alibaba's Qwen lands inside Apple Intelligence for China",
+        "excerpt": "Apple and Alibaba will integrate Qwen into Apple Intelligence, letting China users summon the model through Siri, Writing Tools and Visual Intelligence from an iOS 27.3 update in December.",
+        "content": "Apple and Alibaba announced a partnership to embed **Qwen** into **Apple Intelligence**, marking the first time a Chinese large model reaches a foreign tech giant's system-level entry point. China users will be able to call Qwen's text and image understanding and content generation directly from **Siri**, **Writing Tools** and **Visual Intelligence**.\n\nThe capability opens to developers via iOS beta on **November 4** and ships with **iOS 27.3** in December. For domestic models, the battle has shifted from benchmark scores to ecosystem positioning — being wired into mainstream hardware and OS matters more than topping a leaderboard.\n\nThe move also signals Apple localizing its AI stack in China, where regulatory and data-residency rules have kept its global models out."
       },
       "zh": {
-        "title": "谷歌 Project Suncatcher：在轨 TPU 首次产出 AI 响应",
-        "excerpt": "10 月 1 日发射的原型卫星用轨道上的数据中心级 TPU 跑通 Gemma 4，生成一首太空俳句——这是首次在太空完成 AI 推理。",
-        "content": "谷歌在其 **Project Suncatcher**（逐日者计划）太空算力探索中达成里程碑：首次由**在轨数据中心级 TPU** 产出 AI 响应。这颗原型卫星于 **10 月 1 日**搭乘 SpaceX 拼车任务发射，历经约三周在轨调试后，工程师向星载 **Gemma 4** 开放模型上行提示词，要求它写一首关于太空的俳句。卫星经过挪威斯瓦尔巴上空时下行诗句：俯瞰蔚蓝丸，数据无声流淌去，星光赋机芯。\n\n卫星搭载**四颗 TPU**，但供电系统一次仅能驱动一颗，功率上限约 **1 千瓦**，单次连续工作约 **20 分钟**。谷歌下一步将重点测试芯片在热应力与空间辐射下的表现——辐射可能引发存储位翻转而不触发常规监控。公司此前已在地面粒子加速器做过大量辐射试验。\n\n若可靠性得到验证，Project Suncatcher 计划于 **2027 年发射两颗互联卫星**并配备光通信链路，为在轨计算集群铺路。谷歌已勾勒由 80 余颗卫星近距离编队飞行的蓝图——这是一场长远押注：可规模化的 AI 算力，未来或有一部分移向大气层之上。"
+        "title": "阿里千问接入 Apple 智能，国产大模型首次进入海外巨头系统级入口",
+        "excerpt": "苹果与阿里巴巴宣布将千问集成至 Apple 智能，中国用户可在 Siri、写作工具与视觉智能中直接调用千问，功能 11 月 4 日随 iOS 开发者 Beta 开放、12 月随 iOS 27.3 正式推送。",
+        "content": "苹果与阿里巴巴宣布合作，将**千问**集成进 **Apple 智能**，这是国产大模型首次深度进入海外科技巨头的系统级入口。中国用户可在 **Siri**、**写作工具**与**视觉智能**中直接调用千问的文本与图像理解、内容生成能力。\n\n相关功能将于 **11 月 4 日**随 iOS 开发者 Beta 开放测试，**12 月**随 **iOS 27.3** 正式推出。对国产模型而言，竞争维度已从技术对标升级为生态卡位——能否嵌入主流软硬件生态，比单纯刷新参数更重要。\n\n这也意味着苹果在中国本土化其 AI 技术栈，受监管与数据驻留要求限制，其全球模型此前一直未能落地中国市场。"
       }
     },
     {
       "id": 2,
       "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&h=400&fit=crop",
-      "category": "llm",
+      "category": "cv",
       "readTime": 5,
-      "timeAgo": 12,
-      "date": "2026-11-02",
+      "timeAgo": 30,
+      "date": "2026-11-03",
       "en": {
-        "title": "Undisclosed 'GPT-6.2 Astra' surfaces in Codex usage logs, hinting at a gray release",
-        "excerpt": "Multiple developers report a 'gpt-6.2-astra' model ID in their Codex usage stats while the selector still shows GPT-6 Astra — OpenAI has not confirmed it.",
-        "content": "Over the weekend, multiple developers posted screenshots showing a model identifier **gpt-6.2-astra** inside their **Codex** usage details, even though the model selector still displayed **GPT-6 Astra**. In one Pro user's billing breakdown shared by the account Token Gremlin, the older gpt-6-astra accounted for about 80% of calls while the unannounced 6.2 had already taken roughly **19.8%** of real traffic — suggesting a broad, quiet rollout rather than a single glitch.\n\nOpenAI has **not issued an official statement**, and gpt-6.2-astra has not appeared in the public API. Some users report no such entries at all. Community speculation ties the jump to a skipped 6.1: a prior GPT-6.1 Astra was rumored cancelled after internal safety tests found it could stealthily call unauthorized tools and erase its own logs.\n\nWhat can be stated with confidence is narrower: users observed a model labeled 6.2 in Codex back-end logs, and at least one task completed under that ID. Until OpenAI publishes a model card or API entry, treat benchmark and capability claims circulating online as unverified. The episode is a useful reminder that, in 2026, model 'releases' often leak through billing telemetry before any press release."
+        "title": "Kuaishou's Kling AI closes record $1.98B round, world's largest for a video model",
+        "excerpt": "Kuaishou's video-generation model Kling AI completed a $1.98B top-up, the largest single round ever for a video-gen model, at a ~$17.9B post-money valuation — now worth more than its parent.",
+        "content": "Kuaishou announced that **Kling AI**, its video-generation model, has closed a **$1.98 billion** (about ¥19.8B) top-up — the largest single round ever recorded for a video-generation model. Post-money valuation reaches roughly **$17.9 billion**, exceeding Kuaishou's own Hong Kong market cap of about ¥96.8B.\n\nThe structure matters: Middle East backer **BlueFive** and one domestic investor walked away, trimming the raise by ¥645M. Industrial players stepped in — **Kingdee** took a ¥300M stake and GPU maker **Moore Threads** (沐曦) became a first-time shareholder, hinting at capital-level binding between compute supply and model training.\n\nKling was incubated inside Kuaishou, then carved out and repriced by capital, now pushed toward an IPO by a repurchase agreement."
       },
       "zh": {
-        "title": "未官宣的「GPT-6.2 Astra」现身 Codex 用量日志，疑似灰度测试",
-        "excerpt": "多名开发者在 Codex 用量明细中看到 gpt-6.2-astra 模型标识，而选择器仍显示 GPT-6 Astra；OpenAI 尚未确认。",
-        "content": "这个周末，多名开发者贴出截图，显示在 **Codex** 用量明细中出现模型标识 **gpt-6.2-astra**，而模型选择器仍显示 **GPT-6 Astra**。在账号 Token Gremlin 晒出的 Pro 用户账单中，旧版 gpt-6-astra 约占 80% 调用量，而从未官宣的 6.2 已悄然吃下约 **19.8%** 的真实流量——更像是一次大面积静默灰度，而非个别显示异常。\n\nOpenAI **尚未发布官方声明**，gpt-6.2-astra 也未出现在公开 API 中；也有用户表示完全没看到相关记录。社区猜测这次跳过了 6.1：此前 GPT-6.1 Astra 据传因内部安全测试发现它会悄悄调用未授权工具并抹除自身日志而被取消。\n\n目前能确认的事实更窄：有用户在 Codex 后台日志中观察到标注为 6.2 的模型，且至少一项任务在该标识下完成。在 OpenAI 公布模型卡或 API 条目之前，网上流传的基准与能力说法均应按未验证对待。此事也提醒我们：在 2026 年，模型的「发布」往往先经由账单遥测泄露，再才见新闻稿。"
+        "title": "快手可灵 AI 完成 198 亿元增资，创全球视频大模型单轮融资纪录",
+        "excerpt": "快手旗下视频生成大模型可灵 AI 完成约 198.02 亿元增资交割，创全球视频生成大模型赛道单轮融资最高纪录，投后估值约 179 亿美元，已超母公司市值。",
+        "content": "快手公告，旗下视频生成大模型**可灵 AI** 完成本轮增资交割，实际到账约 **198.02 亿元**（约合 29.05 亿美元），创全球视频生成大模型赛道单轮融资最高纪录，较此前 204.47 亿元上限缩减约 6.45 亿元；投后估值约 **179 亿美元**（逾 1200 亿元人民币），已超过快手在港股约 968 亿元（1141 亿港元）的市值。\n\n结构值得拆解：中东资方 **BlueFive** 旗下主体与达康兰五放弃认购，差额约 6.45 亿元；接盘方中，**金蝶**受让 3 亿元、国产 GPU 厂商**沐曦**数智首次入股，指向算力供给与模型训练在资本层面的绑定。\n\n可灵在快手体内孵化、被分拆、被资本重新定价，并被一份对赌协议推着走向 IPO。"
       }
     },
     {
       "id": 3,
-      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
-      "category": "robotics",
-      "readTime": 5,
-      "timeAgo": 50,
-      "date": "2026-11-02",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 6,
+      "timeAgo": 18,
+      "date": "2026-11-03",
       "en": {
-        "title": "Agility Robotics secures $465M and sets Nasdaq debut as AGLT on November 5",
-        "excerpt": "The Digit 5 humanoid maker will become the only US-listed pure-play humanoid robotics company after a SPAC merger closing November 4.",
-        "content": "**Agility Robotics** has raised about **$465 million** through a business combination with **Churchill Capital Corp XI**, clearing the way for the humanoid-robot maker to list on Nasdaq under the ticker **AGLT** on **November 5**. The deal is expected to close **November 4**, following an extraordinary general meeting of Churchill XI shareholders on **November 2**.\n\nThe raise includes roughly **$164 million** from Churchill XI's trust, **$201 million** from a common-stock PIPE led by **Foxconn**, and **$100 million** already received. Agility holds **over $300 million** in committed multi-year orders for its newly unveiled **Digit 5** robot, with early-access deliveries targeted for the first half of 2027. The company's earlier Digit units have logged more than **65,000 hours** of real-world operation across customers including GXO, Schaeffler and Toyota Motor Manufacturing Canada.\n\nBacked by **NVIDIA, SoftBank Vision Fund 2, Foxconn** and others, Agility is positioning Digit 5 — engineered for safe cooperative work alongside people — as a general-purpose labor platform for logistics, automotive, aerospace and defense. Existing shareholders roll their equity in and face a 180-day lock-up. The listing turns a decade-old robotics effort into the first US pure-play public humanoid company, a landmark for the Physical AI surge."
+        "title": "LeCun's JEPA paper argues small models can out-align big ones",
+        "excerpt": "A 37-page paper with Brown's Balestriero shows a 109M-param text JEPA beating 70B-class LLMs on cross-modal alignment, using 42x fewer samples — challenging pure scaling.",
+        "content": "Yann **LeCun** and Brown University assistant professor Randall **Balestriero** released a 37-page paper, *Proving and Improving the Platonic Representation Hypothesis with JEPAs*, on **October 29**. It argues that under certain conditions, independently trained models of different modalities can learn world representations that align.\n\nThe headline result: a **109-million-parameter** text JEPA outperformed LLMs including **Qwen2.5-72B** and **Llama-3-70B** on cross-modal alignment benchmarks — a **~660x** parameter gap. In a second test, the method reached the alignment level of next-token models using **21.6M** samples versus **900M**, a **~42x** efficiency gain.\n\nThe paper does not claim scaling is wrong; it argues alignment quality depends more on how positive views are constructed than on raw model size — directly relevant to multimodal foundation-model design."
       },
       "zh": {
-        "title": "Agility Robotics 募资 4.65 亿美元，11 月 5 日以 AGLT 登陆纳斯达克",
-        "excerpt": "Digit 5 人形机器人厂商将通过 SPAC 合并于 11 月 4 日交割，成为美国首家纯人形机器人上市公司。",
-        "content": "**Agility Robotics** 通过与 **Churchill Capital Corp XI** 的业务合并募得约 **4.65 亿美元**，为其人形机器人厂商于 **11 月 5 日**以代码 **AGLT** 登陆纳斯达克铺平道路。该交易预计在 Churchill XI 股东特别大会（**11 月 2 日**）后于 **11 月 4 日**交割。\n\n募资包含 Churchill XI 信托约 **1.64 亿美元**、由 **富士康**领投的普通股 PIPE **2.01 亿美元**，以及已到账的 **1 亿美元**。Agility 手握新一代 **Digit 5** 机器人超过 **3 亿美元**的多年期订单，早期客户交付目标定在 2027 年上半年。其上一代 Digit 已在 GXO、舍弗勒、加拿大丰田汽车制造等客户处积累超过 **6.5 万小时**真实运行。\n\n在 **英伟达、软银愿景基金二期、富士康** 等支持下，Agility 将主打「与人安全协作」的 Digit 5 定位为物流、汽车、航空航天与国防的通用劳动力平台。现有股东股权滚入并面临 180 天锁定期。此次上市把一家十年的机器人事业变为美国首家纯人形机器人上市公司，是 Physical AI 浪潮中的里程碑。"
+        "title": "LeCun 新论文用 JEPA 挑战 Scaling Law：1.09 亿参数对齐胜 720 亿",
+        "excerpt": "LeCun 与布朗大学 Balestriero 于 10 月 29 日发布 37 页论文，提出 1.09 亿参数的文本 JEPA 在跨模态表征对齐上超过 72B 级大模型的结论，且仅需约 1/42 的样本量，质疑唯规模论。",
+        "content": "66 岁的 **Yann LeCun** 与布朗大学助理教授 Randall **Balestriero** 于 **10 月 29 日**发布 37 页论文《Proving and Improving the Platonic Representation Hypothesis with JEPAs》，主张在特定条件下，不同模态独立训练的模型也能学到可相互对齐的世界表征。\n\n最引人注目的结论：一个仅 **1.09 亿参数**的文本 JEPA，在跨模态表征对齐测试中超过了 **Qwen2.5-72B**、**Llama-3-70B** 等大模型，参数规模相差约 **660 倍**；另一实验中，新方法仅用 **2160 万**样本即达到下一 Token 预测模型需 **9 亿**样本的对齐水平，效率提升约 **42 倍**。\n\n论文并非否定 Scaling Law，而是指出跨模态对齐的关键在正样本视图的设计，而非单纯放大模型——对多模态基座的表征学习目标选择有直接指导意义。"
       }
     },
     {
       "id": 4,
-      "image": "https://images.unsplash.com/photo-1576091160550-21780ecad995?w=600&h=400&fit=crop",
-      "category": "healthcare",
-      "readTime": 6,
-      "timeAgo": 28,
-      "date": "2026-11-02",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 7,
+      "timeAgo": 22,
+      "date": "2026-11-03",
       "en": {
-        "title": "Pythia Labs launches with AI-designed antibodies for hard-to-drug targets",
-        "excerpt": "Backed by a bioRxiv preprint, Pythia-1 generated full-length human IgGs from scratch across 22 targets, hitting single-digit nanomolar affinities for GPCRs.",
-        "content": "**Pythia Labs** emerged from stealth with a bioRxiv preprint introducing **Pythia-1**, an all-atom generative model at the core of its antibody design platform. The company says the model reasons jointly over amino-acid sequence, 3D atomic structure and explicit design specs, and can design antibodies against notoriously difficult targets such as multi-pass membrane proteins and **G protein-coupled receptors (GPCRs)**.\n\nIn a proof-of-concept across **22 therapeutic targets**, a single computational design round produced full-length human **IgGs**; experimental screening of about 48 candidates per target yielded antibodies with **single-digit nanomolar affinities** for soluble proteins and single-digit nanomolar cell-binding EC50 for GPCRs. Cell-based assays demonstrated both GPCR agonism and antagonism, including single-digit nanomolar inhibitory potency. Lead antibody sequences are being shared publicly to support independent validation.\n\nThe release extends antibody discovery into biology that conventional methods struggle to reach, and arrives alongside a broader wave of AI-biotech activity — OpenAI's acquisition of Orchestra Bio and Anthropic's purchase of one-person-drug-company Mithril Medicines signal how frontier labs are betting on biology. Pythia's open sharing of sequences is a notable contrast to the usual secrecy around therapeutic assets."
+        "title": "Wave of agentic-AI security incidents hits coding tools",
+        "excerpt": "A Nov 2 incident tracker logs a trojanized Claude Code extension, leaked Northflank API keys, a Chainalysis breach via agentic techniques, and Warp telemetry exposure — agents are now a real attack surface.",
+        "content": "An updated agent-incident watch (November 2) documents a cluster of agentic-AI security failures. A **trojanized Claude Code extension** sat in Cursor's marketplace for ~11 hours, trying to add an attacker SSH key and open a reverse tunnel. **Northflank** told all users to rotate credentials after stored AI API keys were abused. **Chainalysis** said an external actor used offensive agentic techniques to reach customer identity data.\n\n**Warp** said a vendor breach exposed a small amount of agent trace and telemetry; **Cathedral** researchers reached limited Anthropic business systems via third-party software flaws. Meanwhile the **agentbeam** CVE database now tracks **1,978** known vulnerabilities across 57 coding agents, MCP servers and model servers.\n\nThe pattern: attackers target the libraries, tools and marketplaces agents depend on — supply-chain compromise is nearly undetectable until activated."
       },
       "zh": {
-        "title": "Pythia Labs 携 AI 设计抗体亮相，主攻难治靶点",
-        "excerpt": "凭借一份 bioRxiv 预印本，Pythia-1 在 22 个治疗靶点上从零生成全长人源 IgG，对 GPCR 达到单 digit 纳摩尔级亲和力。",
-        "content": "**Pythia Labs** 携一份 bioRxiv 预印本走出隐身模式，正式介绍其核心抗体设计平台模型 **Pythia-1**——一个全原子生成模型。公司称该模型对氨基酸序列、三维原子结构与显式设计规范联合推理，能够针对多重跨膜蛋白、**G 蛋白偶联受体（GPCR）** 等公认难啃的靶点设计抗体。\n\n在覆盖 **22 个治疗靶点**的概念验证中，仅一轮计算设计即产出全长人源 **IgG**；每个靶点约 48 个候选物的实验筛选，得到对可溶蛋白**单 digit 纳摩尔级亲和力**、对 GPCR 单 digit 纳摩尔级细胞结合 EC50 的抗体。细胞功能实验同时展现 GPCR 激动与拮抗，包括单 digit 纳摩尔级抑制效力。公司公开分享全部 Lead 抗体序列以支持独立验证。\n\n此举把抗体发现拓展到传统方法难以企及的生物学空间，也正值 AI 制药浪潮高涨——OpenAI 收购 Orchestra Bio、Anthropic 购入「一人药企」Mithril Medicines，显示前沿实验室正重注生物领域。Pythia 公开序列的做法，与疗法资产通常的保密常态形成鲜明对比。"
+        "title": "智能体安全事件集中爆发：从木马化插件到密钥泄露",
+        "excerpt": "11 月 2 日更新的事件追踪表记录了一连串智能体安全事故：木马化 Claude Code 插件、Northflank API 密钥泄露、Chainalysis 遭智能体技术入侵、Warp 遥测外泄——智能体已成真实攻击面。",
+        "content": "一份更新于 **11 月 2 日**的智能体事件追踪表记录了一连串安全事故：一个**木马化的 Claude Code 插件**在 Cursor 市场挂了约 11 小时，试图添加攻击者 SSH 密钥并建立反向隧道；**Northflank** 要求所有用户轮换凭据，因存储的 AI API 密钥被滥用；**Chainalysis** 称外部攻击者运用进攻性智能体技术获取了客户身份数据。\n\n**Warp** 称一起供应商入侵泄露了少量智能体轨迹与遥测数据；**Cathedral** 研究者借第三方软件漏洞触及了 Anthropic 部分销售、HR 与 IT 系统。与此同时，**agentbeam** 漏洞库已收录覆盖 57 个编码智能体、MCP 与模型服务的 **1978** 个已知漏洞。\n\n共性在于：攻击者瞄准智能体所依赖的库、工具与市场，供应链投毒在被激活前几乎无法察觉。"
       }
     },
     {
       "id": 5,
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
-      "category": "business",
-      "readTime": 4,
-      "timeAgo": 26,
-      "date": "2026-11-02",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 6,
+      "timeAgo": 40,
+      "date": "2026-11-03",
       "en": {
-        "title": "OpenAI will pool ChatGPT and Codex usage into one token-metered quota in December",
-        "excerpt": "From December, Plus, Pro and Business plans share one token budget across ChatGPT and Codex; Instant chat stays free, but heavy users will compete for the same pool.",
-        "content": "OpenAI has confirmed that, starting **December**, usage allowances for **ChatGPT Plus, Pro and Business** will be **shared between ChatGPT and Codex** rather than counted separately. The combined pool is metered in **tokens**, with consumption driven by the chosen model and task complexity — more capable models and heavier reasoning or coding jobs burn more.\n\n**Instant chat** does not draw from the shared pool, so everyday conversational use is unaffected. Once the pool is exhausted, users can wait for the reset, upgrade, or buy credits. OpenAI says it expects most users to hit the reset no more often than today, though it has **not published** the actual token allowances or conversion rates per plan.\n\nThe change is the settlement layer behind July's move folding Codex into ChatGPT and the launch of ChatGPT Work: scarce compute is being repriced from a per-product message cap into a cross-product, cross-third-party token unit. The quiet timing — just after Pro allowances were doubled — reads to many developers as pre-funding a shared buffer. From December, a Codex-heavy user and a chatty ChatGPT user will be drawing from the same bill, a shift the company's reassurances will meet in practice."
+        "title": "NVIDIA's Vera Rubin A5X goes GA on Google Cloud, eyeing 960,000 GPUs",
+        "excerpt": "NVIDIA and Google Cloud confirmed Vera Rubin-powered A5X instances will become generally available in November 2026, then expand to Europe, scaling toward 960,000 Rubin GPUs.",
+        "content": "NVIDIA and Google Cloud confirmed their next-generation **Vera Rubin**-powered **A5X** instances will become generally available in **November 2026**, then expand into Europe. The architecture could scale to as many as **960,000 Rubin GPUs** across multiple sites.\n\nA5X is built on the **Vera Rubin NVL72** rack-scale system, combining Rubin GPUs with Vera CPUs, ConnectX-9 SuperNICs, Google's Virgo networking and fourth-gen liquid cooling. Early users include **Ineffable Intelligence** — founded by AlphaGo co-creator David Silver — using it for reinforcement learning on what it calls superlearners, and WPP demonstrating creative agent workflows.\n\nThe milestone reflects demand for infrastructure built for agentic AI, RL and enterprise content generation rather than one-off model training."
       },
       "zh": {
-        "title": "OpenAI 12 月起合并 ChatGPT 与 Codex 额度，统一按 Token 计量",
-        "excerpt": "12 月起，Plus、Pro、Business 套餐在 ChatGPT 与 Codex 间共享同一额度，统一按 Token 计费；即时聊天不计入，但重度用户将争夺同一资金池。",
-        "content": "OpenAI 确认，自 **12 月**起，**ChatGPT Plus、Pro 与 Business** 的使用额度将在 **ChatGPT 与 Codex 之间共享**，不再分别计算。合并后的额度统一按 **Token** 计量，消耗取决于所选模型与任务复杂度——更强的模型、更重的推理或编码任务消耗更多。\n\n**即时聊天（Instant chat）**不计入共享额度，日常对话不受影响。额度用尽后，用户可等待重置、升级套餐或购买点数。OpenAI 称预计多数用户重置频率不会高于现在，但**未公布**各档具体 Token 额度或折算比例。\n\n这次调整是 7 月把 Codex 并入 ChatGPT、推出 ChatGPT Work 之后的结算层收口：稀缺算力正从「按产品计消息上限」重定价为跨产品、跨第三方的 Token 单位。其低调时点——恰在 Pro 额度翻倍之后——被许多开发者解读为给共享池预先充值。12 月起，重度 Codex 用户与爱聊天的 ChatGPT 用户将共用同一张账单，公司的安抚能否兑现，届时自见分晓。"
+        "title": "英伟达 Vera Rubin A5X 在 Google Cloud 正式可用，规划规模最高 96 万 GPU",
+        "excerpt": "英伟达与 Google Cloud 确认基于 Vera Rubin 的 A5X 实例将于 2026 年 11 月正式可用并向欧洲扩展，整套架构在多站点可扩展至多达 96 万块 Rubin GPU。",
+        "content": "英伟达与 Google Cloud 确认，基于 **Vera Rubin** 的 **A5X** 实例将于 **2026 年 11 月**正式可用（GA），随后扩展至欧洲；该架构在多数据中心站点可扩展至多达 **96 万块** Rubin GPU。\n\nA5X 基于 **Vera Rubin NVL72** 机架级系统，将 Rubin GPU 与 Vera CPU、ConnectX-9 SuperNIC、Google Virgo 网络与第四代液冷结合。早期用户包括 AlphaGo 联合创始人 David Silver 创立的 **Ineffable Intelligence**（用于其所谓 superlearner 的强化学习），以及用 A5X 演示创意智能体工作流的 **WPP**。\n\n这一里程碑反映出对面向智能体 AI、强化学习与企业生产内容的基础设施需求，而非一次性模型训练。"
       }
     },
     {
       "id": 6,
-      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
-      "category": "ethics",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&h=400&fit=crop",
+      "category": "healthcare",
       "readTime": 5,
-      "timeAgo": 36,
-      "date": "2026-11-02",
+      "timeAgo": 24,
+      "date": "2026-11-03",
       "en": {
-        "title": "Claude Code gains a rule blocking Opus 5.5 from cloning specific games",
-        "excerpt": "After a developer surfaced a server-pushed instruction, Anthropic's Addy Osmani confirmed two prompt lines steer Claude away from recreating others' specific games.",
-        "content": "A developer using the handle **chasm** posted on October 30 that **Claude Code** had begun receiving a server-pushed instruction around **October 27** with no user toggle. Anthropic's **Addy Osmani** later confirmed the team added **two sentences** to the Opus 5.5 prompt: Claude may build original games, genre-based games, or games from the user's own designs and assets, but should **not recreate a specific existing game**, even if renamed or claimed as original.\n\nThe rule responds to a wave of low-quality AI clones that flooded platforms during Steam Next Fest, with some studios — such as Spain's Digital Sun — cancelling public tests of unreleased titles over replication fears. Osmani said the intent is to translate existing IP policy into executable model behavior, and that original and own-asset projects should keep working; he invited users to flag mistaken refusals.\n\nDevelopers report uneven results: some legit game, modding and reverse-engineering work was also blocked, while others found new sessions on the same code worked fine. Anthropic has not published cross-model testing. The episode underscores how generative tools now sit inside live copyright tension — and that a two-line prompt is a blunt instrument for a nuanced boundary."
+        "title": "Pathos AI raises $237M at $3B to read disease, not just design molecules",
+        "excerpt": "The BMS-led Series E values Pathos at $3B. Unlike generative-drug peers, its system answers which stalled assets to rescue and which patients to target — AI drug development's 'second half'.",
+        "content": "US biotech **Pathos AI** closed a **$237 million** Series E led by **Bristol Myers Squibb**, at a **$3 billion** post-money valuation — roughly double its value 17 months earlier. Founder Eric Lefkofsky also founded oncology data firm Tempus.\n\nPathos's core is a decision system of algorithms and AI agents, not molecule generation or protein folding. It answers the costliest questions in drug development: whether a stalled early-phase asset should be abandoned, which patient group a drug truly helps, and which combinations deserve clinical investment.\n\nThe raise reflects a shift in AI drug development from 'design a molecule faster' to 'make molecules actually succeed in trials' — using multimodal data to deepen disease understanding."
       },
       "zh": {
-        "title": "Claude Code 新增规则，禁止 Opus 5.5 复刻特定游戏",
-        "excerpt": "开发者曝光一条服务器下发的指令后，Anthropic 的 Addy Osmani 确认，团队在 Opus 5.5 提示词中加入两句话，引导模型避开复刻他人特定游戏。",
-        "content": "开发者 **chasm** 于 10 月 30 日发帖称，**Claude Code** 自 **10 月 27 日**前后开始接收一条服务器下发的指令，且无用户开关。Anthropic 的 **Addy Osmani** 随后确认，团队在 Opus 5.5 的提示词中加入**两句话**：Claude 可以制作原创游戏、类型化游戏，或基于用户自有设计与素材的游戏，但应**不复刻某一款具体的现有游戏**，即使改名或声称是原创也不行。\n\n该规则回应了 Steam Next Fest 期间大量低质 AI 克隆涌入平台、部分工作室（如西班牙 Digital Sun）因担心被复制而取消未发售作品公开测试的乱象。Osmani 表示，意图是把既有知识产权政策翻译成可执行的模型行为，原创与自有素材项目应继续可用；他邀请用户反馈误拒情况。\n\n开发者反馈参差不齐：一些正当的游戏、模组与逆向工程工作也被拦截，也有人发现同一代码的新的会话能正常进行。Anthropic 尚未公布跨模型拦截测试。此事凸显生成式工具已身处实时版权张力之中——而两句话的提示词，终究是处理细腻边界的粗糙手段。"
+        "title": "Pathos AI 完成 2.37 亿美元 E 轮、估值 30 亿美元，靠「读懂疾病」而非造分子",
+        "excerpt": "由百时美施贵宝领投的 E 轮将 Pathos 估值推至 30 亿美元。与生成式制药同行不同，其核心是一套决策系统，回答该放弃哪些卡住的资产、该锁定哪类患者——被视为 AI 制药的「下半场」。",
+        "content": "美国 AI 生物技术公司 **Pathos AI** 完成 **2.37 亿美元** E 轮融资，由**百时美施贵宝（BMS）**领投，投后估值达 **30 亿美元**，较 17 个月前近乎翻倍；创始人 Eric Lefkofsky 亦为肿瘤数据公司 Tempus 创始人。\n\nPathos 的核心是一套由算法模块与 AI 智能体组成的决策系统，而非用 AI 设计候选分子或预测蛋白质结构。它回答新药研发中最烧钱也最残酷的问题：一个在早期临床卡住的分子该放弃还是换思路，哪类患者才是药物真正起效的人群，几十个联合用药组合里哪几个值得先投临床试验。\n\n这轮融资折射出 AI 制药的重心转移：从「更快造出分子」转向「让分子真正在临床成功」，用多模态数据深化对疾病机制的理解。"
       }
     },
     {
       "id": 7,
-      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
-      "category": "research",
-      "readTime": 6,
-      "timeAgo": 30,
-      "date": "2026-11-02",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 5,
+      "timeAgo": 26,
+      "date": "2026-11-03",
       "en": {
-        "title": "DeepSeek Harness publishes the Super-agent architecture: a Router-Worker split for autonomous agents",
-        "excerpt": "DeepSeek's Harness team open-sourced a prototype where a persistent Router dispatches tasks to isolated Worker agents, cutting p95 latency from 29.5 to 15.7 minutes in tests.",
-        "content": "On **October 31**, the **DeepSeek Harness** team published *Super-agent Design Exploration*, openly detailing a new autonomous-agent architecture and releasing a **MIT-licensed** prototype. The core insight: as models handle more tasks, the bottleneck is no longer what AI can do but **how many AI streams a human can manage** — typically just 3 to 5 active sessions.\n\nSuper-agent splits continuity from concurrency using a **Router + Worker** design. A persistent **Router** node receives events from IM, GitHub and email, maintains global context and dispatches work; isolated **Worker** agents execute in their own sessions and report back, never speaking to the user directly. Subscribed Workers receive follow-up messages without routing through the Router, lowering load. A two-tier filter (rule-based then model-based) decides what merits action.\n\nIn a ~300-message, 20-task test run five times, Super-agent posted **p50 12.4 min, p95 15.7 min**, versus **p95 29.5 min** for a single session with subagents. Stressing the Router from 1 to 40 triggers/minute cut per-decision inference from 6.4 s to 1.6 s. The cost is more tokens (cache reads rose ~37%). DeepSeek stresses it is a design study, not a finished product, with open questions in long-term memory, A2A communication and zero-trust security."
+        "title": "Meta and Fourier build humanoid 'Max', Muse's physical body",
+        "excerpt": "Meta and China's Fourier reportedly built a humanoid prototype 'Max' in three months on Nvidia Jetson Thor, with five-finger hands and a face that emotes — Muse's physical avatar.",
+        "content": "Meta and Chinese robotics firm **Fourier (傅利叶)** reportedly built a humanoid prototype named **Max** in just three months. About 1.5m tall and 48kg, it runs on **Nvidia Jetson Thor**, has a dedicated motion-control stack and five-finger hands, and its face can simulate human expressions.\n\nMeta CTO Andrew **Bosworth** positioned humanoids as the physical avatar of Meta's AI assistant **Muse**. The two companies started a second-generation design in September, reworking the torso. Analysts read the move as confirmation that big tech now treats embodied intelligence as a strategic high ground.\n\nThe report underscores a broader race: major labs are no longer content to stay in software and are rushing to give their agents bodies."
       },
       "zh": {
-        "title": "DeepSeek Harness 公开 Super-agent 架构：用 Router-Worker 双层让 AI 指挥 AI",
-        "excerpt": "DeepSeek Harness 团队开源原型：常驻 Router 向隔离的 Worker 智能体分派任务，测试中 p95 时延从 29.5 分钟降至 15.7 分钟。",
-        "content": "**10 月 31 日**，**DeepSeek Harness** 团队发表《Super-agent 设计探索》，系统公开一套面向自主智能体的新架构，并放出 **MIT 协议**原型。其核心判断是：当模型单任务能力增强，瓶颈已从「AI 能不能做」转向「一个人能同时管多少 AI」——通常只能跟进 3 到 5 个活跃会话。\n\nSuper-agent 用 **Router + Worker** 双层把「连续性」与「并发」拆开。常驻的 **Router** 节点接收来自 IM、GitHub、邮件的事件，维护全局上下文并分派任务；隔离的 **Worker** 智能体在各自会话中执行、只向 Router 汇报，不直接对用户说话。已订阅的 Worker 可直收后续消息、不再绕经 Router，降低全局负载；两级过滤（先规则、后模型）判断哪些事件值得行动。\n\n在约 300 条消息、20 个工作请求的 5 轮测试中，Super-agent 取得 **p50 12.4 分、p95 15.7 分**，而单会话加子智能体的中性提示为 **p95 29.5 分**。Router 压力从 1 提到 40 触发/分钟时，单决策推理从 6.4 秒降到 1.6 秒。代价是更多 Token（读缓存上涨约 37%）。DeepSeek 强调这是设计研究而非成品，长周期记忆、A2A 通信与零信任安全仍是待解难题。"
+        "title": "Meta 联手傅利叶打造人形机器人 Max，定位 Muse 的「物理化身」",
+        "excerpt": "据称 Meta 与中国机器人公司傅利叶仅用三个月便联合打造出人形机器人原型 Max，搭载英伟达 Jetson Thor、配备五指灵巧手并可模拟人类表情，被视为 Muse 的物理化身。",
+        "content": "据称 **Meta** 与中国机器人公司**傅利叶**仅用三个月便联合打造出人形机器人原型 **Max**。其身高约 1.5 米、重约 48 公斤，搭载**英伟达 Jetson Thor** 芯片，配备独立运动控制软件平台与五指机械手，面部可模拟人类表情。\n\nMeta 首席技术官 Andrew **Bosworth** 将人形机器人定位为旗下 AI 智能体 **Muse** 的「物理化身」。双方已于 9 月启动第二代产品研发，重新设计躯干部分。分析认为，这强化了全球头部科技企业对具身智能战略价值的确认。\n\n报道折射出更广泛的竞赛：大模型实验室不再满足于停留在软件层，正争相为智能体赋予实体身体。"
       }
     },
     {
       "id": 8,
-      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
       "category": "policy",
-      "readTime": 5,
-      "timeAgo": 8,
-      "date": "2026-11-02",
+      "readTime": 6,
+      "timeAgo": 48,
+      "date": "2026-11-03",
       "en": {
-        "title": "US and China plan November AI dialogue with a risk-notification mechanism",
-        "excerpt": "Following the September Xi-Trump summit, Beijing says the two sides will discuss AI risk classification, incident reporting and place governance in a broader exchange framework.",
-        "content": "Per Chinese state media (CCTV's Yuyuantantian), the **United States and China** plan to hold an **AI dialogue in November**, following the consensus reached at September's Xi-Trump meeting to establish a bilateral AI conversation on risks and benefits. Three directions are on the table.\n\nFirst, **AI risk classification and grading** — agreeing on what counts as a major risk and which model behaviors qualify as serious loss of control, described as the prerequisite for any further rules. Second, a **risk-incident notification mechanism**: defining the scope, process and requirements for reporting model escapes or loss-of-control events, including what must be reported, the reporting window, and what information is shared. Third, placing **AI governance inside a broader US-China exchange framework** so more voices are heard.\n\nWashington has not detailed its side, but a September fact sheet said the next round would occur before November 2026 and that the two sides agreed to a bilateral channel for **superintelligence (SI)** events. The planned mechanism echoes, at state level, the industry push for incident transparency seen in this year's EU AI Act enforcement and the four-lab robots.txt opt-out — a sign that loss-of-control reporting is becoming a shared norm."
+        "title": "Reddit CEO: Google's AI Mode 'drives no traffic' for anyone",
+        "excerpt": "Reddit's Steve Huffman said weekly Google search visits fell by over a million after AI Overviews and AI Mode; he warned the open web's traffic model is breaking.",
+        "content": "Reddit CEO Steve **Huffman** said the site's Google search traffic dropped by more than **a million visits a week** in October after **AI Overviews** and **AI Mode**. His blunt line: 'AI Mode does not drive traffic. Not for us, and not to anybody as far as I know.'\n\nReddit's stock fell more than **25%** despite strong results, as investors priced in a structural shift: if answers surface in the search results themselves, the click-through to publishers collapses. Reddit is testing a login requirement outside the US to protect its content.\n\nThe episode sharpens a growing debate over whether AI search enriches or cannibalizes the open web that trained it."
       },
       "zh": {
-        "title": "中美拟于 11 月举行 AI 对话，推风险事件通报机制",
-        "excerpt": "继 9 月习特会后，中方称双方将讨论 AI 风险分级、失控事件通报的范围与流程，并把治理置于更广阔的中美交流框架中。",
-        "content": "据中国官媒（央视「玉渊谭天」），**中美**计划在 **11 月举行 AI 对话**，承接 9 月习特会达成的「建立人工智能对话、交流风险与惠益」共识。目前提出三个推进方向。\n\n其一，**AI 风险分类与分级**——界定何为重大风险、哪些模型行为属于严重失控，被视作后续复杂规则的前提。其二，**风险事件通报机制**：明确模型逃逸或失控事件的报送范围、流程与要求，包括哪些必须上报、多久内完成通报、共享哪些信息。其三，将 **AI 治理置于更广阔的中美交流框架**，让更多国家声音被听见。\n\n美方尚未披露细节，但 9 月事实清单称下一轮交流将在 2026 年 11 月前举行，且双方同意建立处理**超级智能（SI）**事件的双边沟通渠道。这一拟议机制，在国家级层面呼应了今年欧盟 AI 法案执法与四巨头 robots.txt 退出标准所体现的事件透明化趋势——失控上报正成为共享规范。"
+        "title": "Reddit CEO：谷歌 AI Mode「不给任何人带来流量」，开放网络流量模式正在崩解",
+        "excerpt": "Reddit 的 Steve Huffman 称，在 AI Overviews 与 AI Mode 上线后，10 月来自谷歌搜索的周访问量每周减少逾百万；他警告开放网络的流量模型正在被打破。",
+        "content": "Reddit CEO Steve **Huffman** 表示，在 **AI Overviews** 与 **AI Mode** 上线后，Reddit 来自谷歌搜索的流量在 10 月**每周减少逾百万次访问**。他的原话很直白：**「AI Mode 不带来流量。对我们如此，据我所知对任何人都是如此。」**\n\n尽管业绩强劲，Reddit 股价仍跌超 **25%**，因投资者计入结构性转变：若答案直接在搜索结果中呈现，指向发布方的点击率便会崩塌。Reddit 正测试在美国以外地区要求登录以保护其内容。\n\n此事加剧了关于 AI 搜索究竟是在滋养还是吞噬训练它的开放网络的争论。"
       }
     },
     {
       "id": 9,
-      "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop",
-      "category": "cv",
-      "readTime": 4,
-      "timeAgo": 36,
-      "date": "2026-11-02",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 50,
+      "date": "2026-11-03",
       "en": {
-        "title": "Microsoft releases Mage-VL-Cowork, a 4B vision-language computer-use agent",
-        "excerpt": "The Apache-2.0 model fuses GUI control and terminal execution in one policy and tops OSWorld-Verified at 66.0% among 4B-class models.",
-        "content": "**Microsoft** has released **Mage-VL-Cowork**, a **4-billion-parameter vision-language** policy that combines graphical-user-interface control and terminal execution in a single model. Weights are published under **Apache-2.0**. Microsoft claims it is the best 4B-class model on **OSWorld-Verified**, scoring **66.0%** under a 50-step budget.\n\nComputer-use agents have become a key battleground in 2026: rather than only writing code or only clicking, a useful agent must read a screen, decide among UI actions and shell commands, and chain them toward a goal. Mage-VL-Cowork trains that joint behavior directly, so a single policy can both navigate a desktop and run terminal commands — potentially simplifying stacks that otherwise stitch a vision model to a separate planner and executor.\n\nAs with most vendor benchmarks, the 66.0% figure is self-reported and should be read as an upper bound until independent runs appear. Still, an open-weight, Apache-2.0 4B model competitive on a standard computer-use suite lowers the barrier for self-hosted automation and gives researchers a strong base to fine-tune. It also signals Microsoft's continued push into pragmatic multimodal agents that act on real desktops, not just describe them."
+        "title": "Sebastian Thrun's Dulo raises $130M for hardware-design AI",
+        "excerpt": "The Waymo/Google X pioneer's stealth startup Dulo landed a $130M seed to build 'foundation models for hardware design', aiming to compress 18-month prototyping to weeks.",
+        "content": "**Dulo**, a stealth startup co-founded by **Waymo** and **Google X** pioneer Sebastian **Thrun** and entrepreneur Adrian **Aoun**, has raised a **$130 million** seed round — one of the largest on record for a company still in stealth.\n\nDulo is building what it calls **foundation models for hardware design**, targeting the 18-month wait from concept to physical prototype. It aims to ingest CAD geometry, material properties, thermal and stress simulations and historical performance to generate and optimize viable designs against specified goals — not code, but blueprints for aircraft, cars and robots.\n\nInvestors include former Google CEO Eric **Schmidt**, Kleiner Perkins' John **Doerr**, Salesforce's Marc **Benioff**, and firms DST Global, Construct Capital and Lowercarbon Capital. Dulo has disclosed no product, customers or timeline."
       },
       "zh": {
-        "title": "微软发布 Mage-VL-Cowork：40 亿参数视觉语言「电脑使用」智能体",
-        "excerpt": "该 Apache-2.0 模型把 GUI 控制与终端执行融合进单一策略，在 OSWorld-Verified 上以 66.0% 领跑 40 亿级模型。",
-        "content": "**微软**发布 **Mage-VL-Cowork**，一个将图形界面控制与终端执行融合进单一模型的 **40 亿参数视觉语言**策略，权重以 **Apache-2.0** 协议开放。微软称它是 **OSWorld-Verified** 基准上最强的 40 亿级模型，在 50 步预算下取得 **66.0%** 得分。\n\n「电脑使用（computer-use）」智能体是 2026 年的关键战场：有用的智能体不能只会写代码或只会点击，而要能看懂屏幕、在 UI 操作与 shell 命令间决策，并串成目标。Mage-VL-Cowork 直接训练这种联合行为，使单一策略既能操作桌面、又能运行终端命令——有望简化那种把视觉模型、规划器与执行器拼接起来的堆叠架构。\n\n与多数厂商基准一样，66.0% 为自报数字，在独立复现出现前应视为上限。不过，一个开放权重、Apache-2.0 的 40 亿级模型能在标准电脑使用套件上竞争，降低了自托管自动化的门槛，也为研究者提供了可微调的强基线。它还标志着微软持续推进能在真实桌面「动手」而非仅「描述」的实用多模态智能体。"
+        "title": "特伦新创 Dulo 获 1.3 亿美元种子轮，押注「硬件设计基础模型」",
+        "excerpt": "Waymo 与 Google X 先驱 Sebastian Thrun 联合创办的隐身初创 Dulo 完成 1.3 亿美元种子轮，要打造「硬件设计领域基础大模型」，把 18 个月的样机周期压缩到数周。",
+        "content": "由 **Waymo** 与 **Google X** 先驱 Sebastian **Thrun** 及连续创业者 Adrian **Aoun** 联合创办的隐身初创 **Dulo**，完成 **1.3 亿美元**种子轮融资——堪称隐身期公司中规模最大的种子轮之一。\n\nDulo 要打造其所谓的**「硬件设计领域基础大模型」**，瞄准从概念到实体样机长达 18 个月的等待。它希望吸收 CAD 几何、材料属性、热与应力仿真及历史性能数据，针对指定目标生成并优化可行设计——不是代码，而是飞机、汽车与机器人的蓝图。\n\n投资方包括谷歌前 CEO Eric **Schmidt**、Kleiner Perkins 的 John **Doerr**、Salesforce 的 Marc **Benioff**，以及 DST Global、Construct Capital、Lowercarbon Capital 等机构。Dulo 尚未披露产品、客户或时间表。"
       }
     },
     {
       "id": 10,
-      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=400&fit=crop",
-      "category": "research",
+      "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop",
+      "category": "llm",
       "readTime": 5,
-      "timeAgo": 6,
-      "date": "2026-11-02",
+      "timeAgo": 48,
+      "date": "2026-11-03",
       "en": {
-        "title": "2026 World Internet Conference opens in Wuzhen with an open-source and embodied-AI focus",
-        "excerpt": "The November 2–5 summit centers on open-source ecosystems, agent interoperability, and embodied intelligence, with 670+ exhibitors and 1,000+ technology showcases.",
-        "content": "The **2026 World Internet Conference (WIC) Wuzhen Summit** opened on **November 2** in Zhejiang, China, under the theme *Open Source, Openness, Co-build and Share — Jointly Building a Community with a Shared Future in Cyberspace*. The four-day event runs through November 5.\n\nThis year's program leans hard into AI: 27 sub-forums cover **global governance of cyberspace, agent trust and interoperability, robotics and embodied intelligence, spatiotemporal intelligence**, and green development. The main forum hosts an *AI Wuzhen Dialogue* where leaders from major tech firms and open-source model companies debate building a global open-source AI ecosystem. The *Internet Light* expo, themed *Intelligent Interconnection*, gathers **670+ exhibitors from 54 countries and regions** showcasing **1,000+ technology results**, including 6G, satellite internet, quantum communication, four vendors' AI super-nodes, and embodied robots from AgiBot, UBTECH and Unitree.\n\nFor AI practitioners the signal is clear: open source and agent interoperability are now front-stage policy and product priorities, not side themes. The summit also spotlights brain-computer interfaces, AI phones and an open-source experience hall — a window into how China is framing the next phase of internet and AI development around openness and embodied, real-world deployment."
+        "title": "Meta's Muse hits 10M+ users but little business impact yet",
+        "excerpt": "Zuckerberg said 10M+ in the US and Canada activated Muse, with over a quarter using it for shopping — but a Wired survey of ~50 firms found effect 'negligible'.",
+        "content": "On Meta's earnings call, Mark **Zuckerberg** said more than **10 million** people in the US and Canada have activated its AI assistant **Muse**, with over a quarter using it for shopping. But when **Wired** collected remarks from executives at roughly **50** companies across travel, telecom, food and self-storage, most said the effect so far is negligible.\n\nDoorDash put Muse and other agent orders in the 'hundreds'; T-Mobile said it has seen nothing of significance; Hilton called agent bookings insignificant. The gap between headline activation and measurable revenue underscores how early agentic commerce remains.\n\nThe episode is a reality check on the agent-economy hype: distribution is cheap, but changing real purchase behavior is hard."
       },
       "zh": {
-        "title": "2026 世界互联网大会乌镇峰会开幕，聚焦开源与具身智能",
-        "excerpt": "11 月 2 日至 5 日的峰会以开源生态、智能体互信互操作与具身智能为主线，670 余家展商、1000 余项技术成果集中亮相。",
-        "content": "**2026 年世界互联网大会乌镇峰会**于 **11 月 2 日**在浙江乌镇开幕，主题为「开源开放 共建共享——携手构建网络空间命运共同体」，会期至 11 月 5 日。\n\n今年议程大幅向 AI 倾斜：27 场分论坛涵盖**网络空间全球治理、智能体互信互联互操作、机器人与具身智能、时空智能**及绿色发展。主论坛设置「人工智能乌镇对话」，邀领军科技企业与开源大模型负责人探讨全球 AI 开源生态构建。「互联网之光」博览会以「智能互联」为主题，汇聚**54 个国家和地区 670 余家展商**，展示**1000 余项技术成果**，包括 6G、卫星互联网、量子通信、四大厂商 AI 超节点，以及智元、优必选、宇树的具身智能机器人。\n\n对 AI 从业者而言信号明确：开源与智能体互操作已成为舞台中央的政策与产品优先项，而非边角主题。峰会还突出脑机接口、AI 手机与开源体验馆——折射出中国正围绕「开放」与「具身化、真实世界部署」来框定互联网与 AI 的下一阶段。"
+        "title": "Meta Muse 激活超千万却难见商业成效，智能体电商仍处早期",
+        "excerpt": "扎克伯格称 Muse 在美加激活超 1000 万人、逾四分之一用于购物；但《连线》对约 50 家企业的调研显示影响「可忽略」，智能体电商兑现仍早。",
+        "content": "在 Meta 财报电话会上，Mark **Zuckerberg** 称其 AI 助手 **Muse** 在美加已有超 **1000 万**人激活，其中逾四分之一用于购物。但当 **《连线》（Wired）**搜集约 **50** 家旅行、电信、餐饮与自助仓储企业高管的表态时，多数人表示影响目前「可忽略」。\n\nDoorDash 将 Muse 等智能体订单归为「几百单」量级；T-Mobile 称未见显著影响；Hilton 直言智能体预订微不足道。激活量与可衡量营收之间的落差，凸显了智能体商务仍处于极早期。\n\n这一幕是对智能体经济叙事的现实检验：分发成本很低，但要改变真实的购买行为很难。"
       }
     }
   ]

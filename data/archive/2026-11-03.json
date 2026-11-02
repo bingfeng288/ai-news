@@ -1,0 +1,202 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=600&fit=crop",
+    "category": "business",
+    "readTime": 6,
+    "timeAgo": 28,
+    "date": "2026-11-03",
+    "en": {
+      "title": "OpenAI slashes valuation to $1.25T and funding target to $20B amid AI sell-off",
+      "excerpt": "Citing a brutal tech-stock rout and Anthropic's looming IPO, OpenAI cut its new round to ~$20B at a $1.25T valuation — down from $30B at $1.4T — with the first close expected below target.",
+      "content": "OpenAI has pulled back the most ambitious private fundraise in tech history. According to the **Financial Times**, the ChatGPT maker lowered its latest round to roughly **$20 billion** at a **$1.25 trillion** valuation, down from an earlier plan of $30B at $1.4T. The **Wall Street Journal** reported about **$11 billion** committed so far, with some large investors lukewarm.\n\nThe retreat follows a violent sell-off: the Nasdaq 100 fell **3.5%** on Friday and the Philadelphia Semiconductor Index dropped **7.2%**, its worst day since June. OpenAI is also squeezed by **Anthropic's** expected IPO next month, which is pulling capital and attention toward its rival.\n\nA UAE investor consortium led by **MGX** is set to be the largest participant, with OpenAI gaining an option to lease newly built regional compute. Founders Fund, Coatue, Sequoia, a16z and SoftBank are also expected to join. A retail tranche may follow. OpenAI had raised **$122 billion** in March at an $852B valuation."
+    },
+    "zh": {
+      "title": "融资估值双砍：OpenAI 目标估值下调至 1.25 万亿美元、融资额降至约 200 亿美元",
+      "excerpt": "在科技股剧烈抛售与 Anthropic 即将 IPO 的双重压力下，OpenAI 将本轮融资下调至约 200 亿美元、估值 1.25 万亿美元，较此前 300 亿/1.4 万亿明显缩水，首轮交割或低于目标。",
+      "content": "OpenAI 收缩了科技史上最激进的一笔私募融资。据**英国《金融时报》**报道，这家 ChatGPT 开发商将本轮融资目标下调至约 **200 亿美元**，对应估值 **1.25 万亿美元**，较此前 300 亿/1.4 万亿的方案明显回撤；**《华尔街日报》**称目前已落实约 **110 亿美元**承诺，部分大型投资人态度冷淡。\n\n撤退发生在惨烈抛售之后：纳斯达克 100 指数周五下跌 **3.5%**，费城半导体指数重挫 **7.2%**，创 6 月以来最大单日跌幅。同时，**Anthropic** 预计下月 IPO，正吸走资本与注意力。\n\n由 **MGX** 领衔的阿联酋投资财团将成为最大参与方，OpenAI 获得租赁当地新建算力的选择权；Founders Fund、Coatue、红杉、a16z 与软银预计跟投，后续或推出面向个人的零售份额。今年 3 月 OpenAI 曾以 8520 亿美元估值募得 **1220 亿美元**。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 20,
+      "date": "2026-11-03",
+      "en": {
+        "title": "Alibaba's Qwen lands inside Apple Intelligence for China",
+        "excerpt": "Apple and Alibaba will integrate Qwen into Apple Intelligence, letting China users summon the model through Siri, Writing Tools and Visual Intelligence from an iOS 27.3 update in December.",
+        "content": "Apple and Alibaba announced a partnership to embed **Qwen** into **Apple Intelligence**, marking the first time a Chinese large model reaches a foreign tech giant's system-level entry point. China users will be able to call Qwen's text and image understanding and content generation directly from **Siri**, **Writing Tools** and **Visual Intelligence**.\n\nThe capability opens to developers via iOS beta on **November 4** and ships with **iOS 27.3** in December. For domestic models, the battle has shifted from benchmark scores to ecosystem positioning — being wired into mainstream hardware and OS matters more than topping a leaderboard.\n\nThe move also signals Apple localizing its AI stack in China, where regulatory and data-residency rules have kept its global models out."
+      },
+      "zh": {
+        "title": "阿里千问接入 Apple 智能，国产大模型首次进入海外巨头系统级入口",
+        "excerpt": "苹果与阿里巴巴宣布将千问集成至 Apple 智能，中国用户可在 Siri、写作工具与视觉智能中直接调用千问，功能 11 月 4 日随 iOS 开发者 Beta 开放、12 月随 iOS 27.3 正式推送。",
+        "content": "苹果与阿里巴巴宣布合作，将**千问**集成进 **Apple 智能**，这是国产大模型首次深度进入海外科技巨头的系统级入口。中国用户可在 **Siri**、**写作工具**与**视觉智能**中直接调用千问的文本与图像理解、内容生成能力。\n\n相关功能将于 **11 月 4 日**随 iOS 开发者 Beta 开放测试，**12 月**随 **iOS 27.3** 正式推出。对国产模型而言，竞争维度已从技术对标升级为生态卡位——能否嵌入主流软硬件生态，比单纯刷新参数更重要。\n\n这也意味着苹果在中国本土化其 AI 技术栈，受监管与数据驻留要求限制，其全球模型此前一直未能落地中国市场。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 5,
+      "timeAgo": 30,
+      "date": "2026-11-03",
+      "en": {
+        "title": "Kuaishou's Kling AI closes record $1.98B round, world's largest for a video model",
+        "excerpt": "Kuaishou's video-generation model Kling AI completed a $1.98B top-up, the largest single round ever for a video-gen model, at a ~$17.9B post-money valuation — now worth more than its parent.",
+        "content": "Kuaishou announced that **Kling AI**, its video-generation model, has closed a **$1.98 billion** (about ¥19.8B) top-up — the largest single round ever recorded for a video-generation model. Post-money valuation reaches roughly **$17.9 billion**, exceeding Kuaishou's own Hong Kong market cap of about ¥96.8B.\n\nThe structure matters: Middle East backer **BlueFive** and one domestic investor walked away, trimming the raise by ¥645M. Industrial players stepped in — **Kingdee** took a ¥300M stake and GPU maker **Moore Threads** (沐曦) became a first-time shareholder, hinting at capital-level binding between compute supply and model training.\n\nKling was incubated inside Kuaishou, then carved out and repriced by capital, now pushed toward an IPO by a repurchase agreement."
+      },
+      "zh": {
+        "title": "快手可灵 AI 完成 198 亿元增资，创全球视频大模型单轮融资纪录",
+        "excerpt": "快手旗下视频生成大模型可灵 AI 完成约 198.02 亿元增资交割，创全球视频生成大模型赛道单轮融资最高纪录，投后估值约 179 亿美元，已超母公司市值。",
+        "content": "快手公告，旗下视频生成大模型**可灵 AI** 完成本轮增资交割，实际到账约 **198.02 亿元**（约合 29.05 亿美元），创全球视频生成大模型赛道单轮融资最高纪录，较此前 204.47 亿元上限缩减约 6.45 亿元；投后估值约 **179 亿美元**（逾 1200 亿元人民币），已超过快手在港股约 968 亿元（1141 亿港元）的市值。\n\n结构值得拆解：中东资方 **BlueFive** 旗下主体与达康兰五放弃认购，差额约 6.45 亿元；接盘方中，**金蝶**受让 3 亿元、国产 GPU 厂商**沐曦**数智首次入股，指向算力供给与模型训练在资本层面的绑定。\n\n可灵在快手体内孵化、被分拆、被资本重新定价，并被一份对赌协议推着走向 IPO。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 6,
+      "timeAgo": 18,
+      "date": "2026-11-03",
+      "en": {
+        "title": "LeCun's JEPA paper argues small models can out-align big ones",
+        "excerpt": "A 37-page paper with Brown's Balestriero shows a 109M-param text JEPA beating 70B-class LLMs on cross-modal alignment, using 42x fewer samples — challenging pure scaling.",
+        "content": "Yann **LeCun** and Brown University assistant professor Randall **Balestriero** released a 37-page paper, *Proving and Improving the Platonic Representation Hypothesis with JEPAs*, on **October 29**. It argues that under certain conditions, independently trained models of different modalities can learn world representations that align.\n\nThe headline result: a **109-million-parameter** text JEPA outperformed LLMs including **Qwen2.5-72B** and **Llama-3-70B** on cross-modal alignment benchmarks — a **~660x** parameter gap. In a second test, the method reached the alignment level of next-token models using **21.6M** samples versus **900M**, a **~42x** efficiency gain.\n\nThe paper does not claim scaling is wrong; it argues alignment quality depends more on how positive views are constructed than on raw model size — directly relevant to multimodal foundation-model design."
+      },
+      "zh": {
+        "title": "LeCun 新论文用 JEPA 挑战 Scaling Law：1.09 亿参数对齐胜 720 亿",
+        "excerpt": "LeCun 与布朗大学 Balestriero 于 10 月 29 日发布 37 页论文，提出 1.09 亿参数的文本 JEPA 在跨模态表征对齐上超过 72B 级大模型的结论，且仅需约 1/42 的样本量，质疑唯规模论。",
+        "content": "66 岁的 **Yann LeCun** 与布朗大学助理教授 Randall **Balestriero** 于 **10 月 29 日**发布 37 页论文《Proving and Improving the Platonic Representation Hypothesis with JEPAs》，主张在特定条件下，不同模态独立训练的模型也能学到可相互对齐的世界表征。\n\n最引人注目的结论：一个仅 **1.09 亿参数**的文本 JEPA，在跨模态表征对齐测试中超过了 **Qwen2.5-72B**、**Llama-3-70B** 等大模型，参数规模相差约 **660 倍**；另一实验中，新方法仅用 **2160 万**样本即达到下一 Token 预测模型需 **9 亿**样本的对齐水平，效率提升约 **42 倍**。\n\n论文并非否定 Scaling Law，而是指出跨模态对齐的关键在正样本视图的设计，而非单纯放大模型——对多模态基座的表征学习目标选择有直接指导意义。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 7,
+      "timeAgo": 22,
+      "date": "2026-11-03",
+      "en": {
+        "title": "Wave of agentic-AI security incidents hits coding tools",
+        "excerpt": "A Nov 2 incident tracker logs a trojanized Claude Code extension, leaked Northflank API keys, a Chainalysis breach via agentic techniques, and Warp telemetry exposure — agents are now a real attack surface.",
+        "content": "An updated agent-incident watch (November 2) documents a cluster of agentic-AI security failures. A **trojanized Claude Code extension** sat in Cursor's marketplace for ~11 hours, trying to add an attacker SSH key and open a reverse tunnel. **Northflank** told all users to rotate credentials after stored AI API keys were abused. **Chainalysis** said an external actor used offensive agentic techniques to reach customer identity data.\n\n**Warp** said a vendor breach exposed a small amount of agent trace and telemetry; **Cathedral** researchers reached limited Anthropic business systems via third-party software flaws. Meanwhile the **agentbeam** CVE database now tracks **1,978** known vulnerabilities across 57 coding agents, MCP servers and model servers.\n\nThe pattern: attackers target the libraries, tools and marketplaces agents depend on — supply-chain compromise is nearly undetectable until activated."
+      },
+      "zh": {
+        "title": "智能体安全事件集中爆发：从木马化插件到密钥泄露",
+        "excerpt": "11 月 2 日更新的事件追踪表记录了一连串智能体安全事故：木马化 Claude Code 插件、Northflank API 密钥泄露、Chainalysis 遭智能体技术入侵、Warp 遥测外泄——智能体已成真实攻击面。",
+        "content": "一份更新于 **11 月 2 日**的智能体事件追踪表记录了一连串安全事故：一个**木马化的 Claude Code 插件**在 Cursor 市场挂了约 11 小时，试图添加攻击者 SSH 密钥并建立反向隧道；**Northflank** 要求所有用户轮换凭据，因存储的 AI API 密钥被滥用；**Chainalysis** 称外部攻击者运用进攻性智能体技术获取了客户身份数据。\n\n**Warp** 称一起供应商入侵泄露了少量智能体轨迹与遥测数据；**Cathedral** 研究者借第三方软件漏洞触及了 Anthropic 部分销售、HR 与 IT 系统。与此同时，**agentbeam** 漏洞库已收录覆盖 57 个编码智能体、MCP 与模型服务的 **1978** 个已知漏洞。\n\n共性在于：攻击者瞄准智能体所依赖的库、工具与市场，供应链投毒在被激活前几乎无法察觉。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 6,
+      "timeAgo": 40,
+      "date": "2026-11-03",
+      "en": {
+        "title": "NVIDIA's Vera Rubin A5X goes GA on Google Cloud, eyeing 960,000 GPUs",
+        "excerpt": "NVIDIA and Google Cloud confirmed Vera Rubin-powered A5X instances will become generally available in November 2026, then expand to Europe, scaling toward 960,000 Rubin GPUs.",
+        "content": "NVIDIA and Google Cloud confirmed their next-generation **Vera Rubin**-powered **A5X** instances will become generally available in **November 2026**, then expand into Europe. The architecture could scale to as many as **960,000 Rubin GPUs** across multiple sites.\n\nA5X is built on the **Vera Rubin NVL72** rack-scale system, combining Rubin GPUs with Vera CPUs, ConnectX-9 SuperNICs, Google's Virgo networking and fourth-gen liquid cooling. Early users include **Ineffable Intelligence** — founded by AlphaGo co-creator David Silver — using it for reinforcement learning on what it calls superlearners, and WPP demonstrating creative agent workflows.\n\nThe milestone reflects demand for infrastructure built for agentic AI, RL and enterprise content generation rather than one-off model training."
+      },
+      "zh": {
+        "title": "英伟达 Vera Rubin A5X 在 Google Cloud 正式可用，规划规模最高 96 万 GPU",
+        "excerpt": "英伟达与 Google Cloud 确认基于 Vera Rubin 的 A5X 实例将于 2026 年 11 月正式可用并向欧洲扩展，整套架构在多站点可扩展至多达 96 万块 Rubin GPU。",
+        "content": "英伟达与 Google Cloud 确认，基于 **Vera Rubin** 的 **A5X** 实例将于 **2026 年 11 月**正式可用（GA），随后扩展至欧洲；该架构在多数据中心站点可扩展至多达 **96 万块** Rubin GPU。\n\nA5X 基于 **Vera Rubin NVL72** 机架级系统，将 Rubin GPU 与 Vera CPU、ConnectX-9 SuperNIC、Google Virgo 网络与第四代液冷结合。早期用户包括 AlphaGo 联合创始人 David Silver 创立的 **Ineffable Intelligence**（用于其所谓 superlearner 的强化学习），以及用 A5X 演示创意智能体工作流的 **WPP**。\n\n这一里程碑反映出对面向智能体 AI、强化学习与企业生产内容的基础设施需求，而非一次性模型训练。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&h=400&fit=crop",
+      "category": "healthcare",
+      "readTime": 5,
+      "timeAgo": 24,
+      "date": "2026-11-03",
+      "en": {
+        "title": "Pathos AI raises $237M at $3B to read disease, not just design molecules",
+        "excerpt": "The BMS-led Series E values Pathos at $3B. Unlike generative-drug peers, its system answers which stalled assets to rescue and which patients to target — AI drug development's 'second half'.",
+        "content": "US biotech **Pathos AI** closed a **$237 million** Series E led by **Bristol Myers Squibb**, at a **$3 billion** post-money valuation — roughly double its value 17 months earlier. Founder Eric Lefkofsky also founded oncology data firm Tempus.\n\nPathos's core is a decision system of algorithms and AI agents, not molecule generation or protein folding. It answers the costliest questions in drug development: whether a stalled early-phase asset should be abandoned, which patient group a drug truly helps, and which combinations deserve clinical investment.\n\nThe raise reflects a shift in AI drug development from 'design a molecule faster' to 'make molecules actually succeed in trials' — using multimodal data to deepen disease understanding."
+      },
+      "zh": {
+        "title": "Pathos AI 完成 2.37 亿美元 E 轮、估值 30 亿美元，靠「读懂疾病」而非造分子",
+        "excerpt": "由百时美施贵宝领投的 E 轮将 Pathos 估值推至 30 亿美元。与生成式制药同行不同，其核心是一套决策系统，回答该放弃哪些卡住的资产、该锁定哪类患者——被视为 AI 制药的「下半场」。",
+        "content": "美国 AI 生物技术公司 **Pathos AI** 完成 **2.37 亿美元** E 轮融资，由**百时美施贵宝（BMS）**领投，投后估值达 **30 亿美元**，较 17 个月前近乎翻倍；创始人 Eric Lefkofsky 亦为肿瘤数据公司 Tempus 创始人。\n\nPathos 的核心是一套由算法模块与 AI 智能体组成的决策系统，而非用 AI 设计候选分子或预测蛋白质结构。它回答新药研发中最烧钱也最残酷的问题：一个在早期临床卡住的分子该放弃还是换思路，哪类患者才是药物真正起效的人群，几十个联合用药组合里哪几个值得先投临床试验。\n\n这轮融资折射出 AI 制药的重心转移：从「更快造出分子」转向「让分子真正在临床成功」，用多模态数据深化对疾病机制的理解。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 5,
+      "timeAgo": 26,
+      "date": "2026-11-03",
+      "en": {
+        "title": "Meta and Fourier build humanoid 'Max', Muse's physical body",
+        "excerpt": "Meta and China's Fourier reportedly built a humanoid prototype 'Max' in three months on Nvidia Jetson Thor, with five-finger hands and a face that emotes — Muse's physical avatar.",
+        "content": "Meta and Chinese robotics firm **Fourier (傅利叶)** reportedly built a humanoid prototype named **Max** in just three months. About 1.5m tall and 48kg, it runs on **Nvidia Jetson Thor**, has a dedicated motion-control stack and five-finger hands, and its face can simulate human expressions.\n\nMeta CTO Andrew **Bosworth** positioned humanoids as the physical avatar of Meta's AI assistant **Muse**. The two companies started a second-generation design in September, reworking the torso. Analysts read the move as confirmation that big tech now treats embodied intelligence as a strategic high ground.\n\nThe report underscores a broader race: major labs are no longer content to stay in software and are rushing to give their agents bodies."
+      },
+      "zh": {
+        "title": "Meta 联手傅利叶打造人形机器人 Max，定位 Muse 的「物理化身」",
+        "excerpt": "据称 Meta 与中国机器人公司傅利叶仅用三个月便联合打造出人形机器人原型 Max，搭载英伟达 Jetson Thor、配备五指灵巧手并可模拟人类表情，被视为 Muse 的物理化身。",
+        "content": "据称 **Meta** 与中国机器人公司**傅利叶**仅用三个月便联合打造出人形机器人原型 **Max**。其身高约 1.5 米、重约 48 公斤，搭载**英伟达 Jetson Thor** 芯片，配备独立运动控制软件平台与五指机械手，面部可模拟人类表情。\n\nMeta 首席技术官 Andrew **Bosworth** 将人形机器人定位为旗下 AI 智能体 **Muse** 的「物理化身」。双方已于 9 月启动第二代产品研发，重新设计躯干部分。分析认为，这强化了全球头部科技企业对具身智能战略价值的确认。\n\n报道折射出更广泛的竞赛：大模型实验室不再满足于停留在软件层，正争相为智能体赋予实体身体。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 6,
+      "timeAgo": 48,
+      "date": "2026-11-03",
+      "en": {
+        "title": "Reddit CEO: Google's AI Mode 'drives no traffic' for anyone",
+        "excerpt": "Reddit's Steve Huffman said weekly Google search visits fell by over a million after AI Overviews and AI Mode; he warned the open web's traffic model is breaking.",
+        "content": "Reddit CEO Steve **Huffman** said the site's Google search traffic dropped by more than **a million visits a week** in October after **AI Overviews** and **AI Mode**. His blunt line: 'AI Mode does not drive traffic. Not for us, and not to anybody as far as I know.'\n\nReddit's stock fell more than **25%** despite strong results, as investors priced in a structural shift: if answers surface in the search results themselves, the click-through to publishers collapses. Reddit is testing a login requirement outside the US to protect its content.\n\nThe episode sharpens a growing debate over whether AI search enriches or cannibalizes the open web that trained it."
+      },
+      "zh": {
+        "title": "Reddit CEO：谷歌 AI Mode「不给任何人带来流量」，开放网络流量模式正在崩解",
+        "excerpt": "Reddit 的 Steve Huffman 称，在 AI Overviews 与 AI Mode 上线后，10 月来自谷歌搜索的周访问量每周减少逾百万；他警告开放网络的流量模型正在被打破。",
+        "content": "Reddit CEO Steve **Huffman** 表示，在 **AI Overviews** 与 **AI Mode** 上线后，Reddit 来自谷歌搜索的流量在 10 月**每周减少逾百万次访问**。他的原话很直白：**「AI Mode 不带来流量。对我们如此，据我所知对任何人都是如此。」**\n\n尽管业绩强劲，Reddit 股价仍跌超 **25%**，因投资者计入结构性转变：若答案直接在搜索结果中呈现，指向发布方的点击率便会崩塌。Reddit 正测试在美国以外地区要求登录以保护其内容。\n\n此事加剧了关于 AI 搜索究竟是在滋养还是吞噬训练它的开放网络的争论。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 50,
+      "date": "2026-11-03",
+      "en": {
+        "title": "Sebastian Thrun's Dulo raises $130M for hardware-design AI",
+        "excerpt": "The Waymo/Google X pioneer's stealth startup Dulo landed a $130M seed to build 'foundation models for hardware design', aiming to compress 18-month prototyping to weeks.",
+        "content": "**Dulo**, a stealth startup co-founded by **Waymo** and **Google X** pioneer Sebastian **Thrun** and entrepreneur Adrian **Aoun**, has raised a **$130 million** seed round — one of the largest on record for a company still in stealth.\n\nDulo is building what it calls **foundation models for hardware design**, targeting the 18-month wait from concept to physical prototype. It aims to ingest CAD geometry, material properties, thermal and stress simulations and historical performance to generate and optimize viable designs against specified goals — not code, but blueprints for aircraft, cars and robots.\n\nInvestors include former Google CEO Eric **Schmidt**, Kleiner Perkins' John **Doerr**, Salesforce's Marc **Benioff**, and firms DST Global, Construct Capital and Lowercarbon Capital. Dulo has disclosed no product, customers or timeline."
+      },
+      "zh": {
+        "title": "特伦新创 Dulo 获 1.3 亿美元种子轮，押注「硬件设计基础模型」",
+        "excerpt": "Waymo 与 Google X 先驱 Sebastian Thrun 联合创办的隐身初创 Dulo 完成 1.3 亿美元种子轮，要打造「硬件设计领域基础大模型」，把 18 个月的样机周期压缩到数周。",
+        "content": "由 **Waymo** 与 **Google X** 先驱 Sebastian **Thrun** 及连续创业者 Adrian **Aoun** 联合创办的隐身初创 **Dulo**，完成 **1.3 亿美元**种子轮融资——堪称隐身期公司中规模最大的种子轮之一。\n\nDulo 要打造其所谓的**「硬件设计领域基础大模型」**，瞄准从概念到实体样机长达 18 个月的等待。它希望吸收 CAD 几何、材料属性、热与应力仿真及历史性能数据，针对指定目标生成并优化可行设计——不是代码，而是飞机、汽车与机器人的蓝图。\n\n投资方包括谷歌前 CEO Eric **Schmidt**、Kleiner Perkins 的 John **Doerr**、Salesforce 的 Marc **Benioff**，以及 DST Global、Construct Capital、Lowercarbon Capital 等机构。Dulo 尚未披露产品、客户或时间表。"
+      }
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 48,
+      "date": "2026-11-03",
+      "en": {
+        "title": "Meta's Muse hits 10M+ users but little business impact yet",
+        "excerpt": "Zuckerberg said 10M+ in the US and Canada activated Muse, with over a quarter using it for shopping — but a Wired survey of ~50 firms found effect 'negligible'.",
+        "content": "On Meta's earnings call, Mark **Zuckerberg** said more than **10 million** people in the US and Canada have activated its AI assistant **Muse**, with over a quarter using it for shopping. But when **Wired** collected remarks from executives at roughly **50** companies across travel, telecom, food and self-storage, most said the effect so far is negligible.\n\nDoorDash put Muse and other agent orders in the 'hundreds'; T-Mobile said it has seen nothing of significance; Hilton called agent bookings insignificant. The gap between headline activation and measurable revenue underscores how early agentic commerce remains.\n\nThe episode is a reality check on the agent-economy hype: distribution is cheap, but changing real purchase behavior is hard."
+      },
+      "zh": {
+        "title": "Meta Muse 激活超千万却难见商业成效，智能体电商仍处早期",
+        "excerpt": "扎克伯格称 Muse 在美加激活超 1000 万人、逾四分之一用于购物；但《连线》对约 50 家企业的调研显示影响「可忽略」，智能体电商兑现仍早。",
+        "content": "在 Meta 财报电话会上，Mark **Zuckerberg** 称其 AI 助手 **Muse** 在美加已有超 **1000 万**人激活，其中逾四分之一用于购物。但当 **《连线》（Wired）**搜集约 **50** 家旅行、电信、餐饮与自助仓储企业高管的表态时，多数人表示影响目前「可忽略」。\n\nDoorDash 将 Muse 等智能体订单归为「几百单」量级；T-Mobile 称未见显著影响；Hilton 直言智能体预订微不足道。激活量与可衡量营收之间的落差，凸显了智能体商务仍处于极早期。\n\n这一幕是对智能体经济叙事的现实检验：分发成本很低，但要改变真实的购买行为很难。"
+      }
+    }
+  ]
+}
