@@ -2,19 +2,19 @@
   "featured": {
     "id": 0,
     "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=600&fit=crop",
-    "category": "business",
+    "category": "policy",
     "readTime": 6,
-    "timeAgo": 28,
-    "date": "2026-11-03",
+    "timeAgo": 1,
+    "date": "2026-11-05",
     "en": {
-      "title": "OpenAI slashes valuation to $1.25T and funding target to $20B amid AI sell-off",
-      "excerpt": "Citing a brutal tech-stock rout and Anthropic's looming IPO, OpenAI cut its new round to ~$20B at a $1.25T valuation — down from $30B at $1.4T — with the first close expected below target.",
-      "content": "OpenAI has pulled back the most ambitious private fundraise in tech history. According to the **Financial Times**, the ChatGPT maker lowered its latest round to roughly **$20 billion** at a **$1.25 trillion** valuation, down from an earlier plan of $30B at $1.4T. The **Wall Street Journal** reported about **$11 billion** committed so far, with some large investors lukewarm.\n\nThe retreat follows a violent sell-off: the Nasdaq 100 fell **3.5%** on Friday and the Philadelphia Semiconductor Index dropped **7.2%**, its worst day since June. OpenAI is also squeezed by **Anthropic's** expected IPO next month, which is pulling capital and attention toward its rival.\n\nA UAE investor consortium led by **MGX** is set to be the largest participant, with OpenAI gaining an option to lease newly built regional compute. Founders Fund, Coatue, Sequoia, a16z and SoftBank are also expected to join. A retail tranche may follow. OpenAI had raised **$122 billion** in March at an $852B valuation."
+      "title": "New York City Council Holds Rare Sworn Hearing on Advanced AI Risks",
+      "excerpt": "Executives from Anthropic, OpenAI, Google and Meta testified under oath as the city weighs local AI regulation.",
+      "content": "On Monday (US time, Nov 5), the New York City Council convened a rare Council Committee of the Whole hearing on the potential risks of advanced AI models. **Anthropic, OpenAI, Google and Meta** each sent senior executives to testify under oath about model safety and proposed legislation.\n\nAnthropic sent frontier red-team lead Logan Graham; OpenAI was represented by policy and operations head Morgan Dwyer; Google sent AI policy director Alice Friend; and Meta sent legislative AI policy director Shane Cahill. Three of the four agreed to appear only after the council threatened subpoenas, while a subpoena was also issued to SpaceX over SpaceXAI. The hearing follows a summer of disclosed model incidents and researcher warnings about catastrophic-risk models."
     },
     "zh": {
-      "title": "融资估值双砍：OpenAI 目标估值下调至 1.25 万亿美元、融资额降至约 200 亿美元",
-      "excerpt": "在科技股剧烈抛售与 Anthropic 即将 IPO 的双重压力下，OpenAI 将本轮融资下调至约 200 亿美元、估值 1.25 万亿美元，较此前 300 亿/1.4 万亿明显缩水，首轮交割或低于目标。",
-      "content": "OpenAI 收缩了科技史上最激进的一笔私募融资。据**英国《金融时报》**报道，这家 ChatGPT 开发商将本轮融资目标下调至约 **200 亿美元**，对应估值 **1.25 万亿美元**，较此前 300 亿/1.4 万亿的方案明显回撤；**《华尔街日报》**称目前已落实约 **110 亿美元**承诺，部分大型投资人态度冷淡。\n\n撤退发生在惨烈抛售之后：纳斯达克 100 指数周五下跌 **3.5%**，费城半导体指数重挫 **7.2%**，创 6 月以来最大单日跌幅。同时，**Anthropic** 预计下月 IPO，正吸走资本与注意力。\n\n由 **MGX** 领衔的阿联酋投资财团将成为最大参与方，OpenAI 获得租赁当地新建算力的选择权；Founders Fund、Coatue、红杉、a16z 与软银预计跟投，后续或推出面向个人的零售份额。今年 3 月 OpenAI 曾以 8520 亿美元估值募得 **1220 亿美元**。"
+      "title": "纽约市议会就前沿 AI 风险举行罕见宣誓听证会",
+      "excerpt": "Anthropic、OpenAI、谷歌与 Meta 高管宣誓作证，纽约市正推进地方性 AI 监管立法。",
+      "content": "美东时间 11 月 5 日，纽约市议会在罕见的「全体委员会」形式下，就先进 AI 模型的潜在风险举行听证会。**Anthropic、OpenAI、谷歌与 Meta** 均派出高管宣誓作证，说明模型安全并回应拟议立法。\n\nAnthropic 派出前沿红队负责人 Logan Graham，OpenAI 由政策与运营主管 Morgan Dwyer 代表，谷歌派出 AI 政策总监 Alice Friend，Meta 则由立法政策总监 Shane Cahill 出席。除 Meta 上月主动确认外，其余三家均在市议会以传票相威胁后才同意出庭；纽约同时已向马斯克的 SpaceX 发出强制传票。听证会导火索是今夏以来多起模型失控事件与内部爆料，市议会正推进含举报人激励、受害者起诉权与第三方独立审核的地方性 AI 监管立法。"
     }
   },
   "articles": [
@@ -23,179 +23,179 @@
       "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
       "category": "llm",
       "readTime": 5,
-      "timeAgo": 20,
-      "date": "2026-11-03",
+      "timeAgo": 3,
+      "date": "2026-11-05",
       "en": {
-        "title": "Alibaba's Qwen lands inside Apple Intelligence for China",
-        "excerpt": "Apple and Alibaba will integrate Qwen into Apple Intelligence, letting China users summon the model through Siri, Writing Tools and Visual Intelligence from an iOS 27.3 update in December.",
-        "content": "Apple and Alibaba announced a partnership to embed **Qwen** into **Apple Intelligence**, marking the first time a Chinese large model reaches a foreign tech giant's system-level entry point. China users will be able to call Qwen's text and image understanding and content generation directly from **Siri**, **Writing Tools** and **Visual Intelligence**.\n\nThe capability opens to developers via iOS beta on **November 4** and ships with **iOS 27.3** in December. For domestic models, the battle has shifted from benchmark scores to ecosystem positioning — being wired into mainstream hardware and OS matters more than topping a leaderboard.\n\nThe move also signals Apple localizing its AI stack in China, where regulatory and data-residency rules have kept its global models out."
+        "title": "Apple Reportedly Pays Google About $1 Billion a Year for Gemini to Power Siri",
+        "excerpt": "A multi-year deal would make Google's Gemini the cloud reasoning layer behind rebuilt Siri, Bloomberg reports.",
+        "content": "Apple is finalizing a multi-year agreement to license **Google's Gemini** as the cloud reasoning engine for a rebuilt Siri, according to Bloomberg's Mark Gurman. The deal is valued at roughly **$1 billion per year**.\n\nUnlike the earlier optional ChatGPT integration, Gemini would become the embedded foundation of Apple Intelligence, handling summarization, planning and complex multi-step tasks, while Apple's own on-device model covers personal data. Apple is developing a roughly 1-trillion-parameter in-house model as a future replacement, but its own frontier model is not yet ready."
       },
       "zh": {
-        "title": "阿里千问接入 Apple 智能，国产大模型首次进入海外巨头系统级入口",
-        "excerpt": "苹果与阿里巴巴宣布将千问集成至 Apple 智能，中国用户可在 Siri、写作工具与视觉智能中直接调用千问，功能 11 月 4 日随 iOS 开发者 Beta 开放、12 月随 iOS 27.3 正式推送。",
-        "content": "苹果与阿里巴巴宣布合作，将**千问**集成进 **Apple 智能**，这是国产大模型首次深度进入海外科技巨头的系统级入口。中国用户可在 **Siri**、**写作工具**与**视觉智能**中直接调用千问的文本与图像理解、内容生成能力。\n\n相关功能将于 **11 月 4 日**随 iOS 开发者 Beta 开放测试，**12 月**随 **iOS 27.3** 正式推出。对国产模型而言，竞争维度已从技术对标升级为生态卡位——能否嵌入主流软硬件生态，比单纯刷新参数更重要。\n\n这也意味着苹果在中国本土化其 AI 技术栈，受监管与数据驻留要求限制，其全球模型此前一直未能落地中国市场。"
+        "title": "苹果据报每年向谷歌支付约 10 亿美元，用 Gemini 驱动新版 Siri",
+        "excerpt": "彭博报道，一份多年协议拟让谷歌 Gemini 成为重建版 Siri 的云端推理层。",
+        "content": "据彭博社 Mark Gurman 报道，苹果正敲定一份多年协议，以**谷歌 Gemini** 作为重建版 Siri 的云端推理引擎，协议价值约**每年 10 亿美元**。\n\n与此前可选的 ChatGPT 接入不同，Gemini 将成为 Apple Intelligence 的内置基础层，负责摘要、规划与复杂多步任务，而苹果自研端侧模型继续处理个人数据。苹果正在开发约 1 万亿参数的自研云端模型作为未来替代，但其自有前沿模型尚不成熟。"
       }
     },
     {
       "id": 2,
-      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&h=400&fit=crop",
-      "category": "cv",
-      "readTime": 5,
-      "timeAgo": 30,
-      "date": "2026-11-03",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 4,
+      "timeAgo": 5,
+      "date": "2026-11-05",
       "en": {
-        "title": "Kuaishou's Kling AI closes record $1.98B round, world's largest for a video model",
-        "excerpt": "Kuaishou's video-generation model Kling AI completed a $1.98B top-up, the largest single round ever for a video-gen model, at a ~$17.9B post-money valuation — now worth more than its parent.",
-        "content": "Kuaishou announced that **Kling AI**, its video-generation model, has closed a **$1.98 billion** (about ¥19.8B) top-up — the largest single round ever recorded for a video-generation model. Post-money valuation reaches roughly **$17.9 billion**, exceeding Kuaishou's own Hong Kong market cap of about ¥96.8B.\n\nThe structure matters: Middle East backer **BlueFive** and one domestic investor walked away, trimming the raise by ¥645M. Industrial players stepped in — **Kingdee** took a ¥300M stake and GPU maker **Moore Threads** (沐曦) became a first-time shareholder, hinting at capital-level binding between compute supply and model training.\n\nKling was incubated inside Kuaishou, then carved out and repriced by capital, now pushed toward an IPO by a repurchase agreement."
+        "title": "Anthropic Projects Up to $70 Billion Revenue by 2028",
+        "excerpt": "Internal projections put API sales at $3.8 billion this year, roughly double OpenAI's comparable figure.",
+        "content": "Anthropic has internally projected revenue of as much as **$70 billion** and $17 billion in cash flow by 2028, according to TechCrunch and The Information. The company expects about **$3.8 billion** from API sales this year, nearly double the roughly $1.8 billion OpenAI is projected to earn from similar services.\n\nThe forecast reflects an enterprise-first strategy: Anthropic targets $20-26 billion in annual recurring revenue for 2026 and serves more than 300,000 corporate customers. Gross margin is expected to swing from negative 94% last year to 50% this year and 77% by 2028."
       },
       "zh": {
-        "title": "快手可灵 AI 完成 198 亿元增资，创全球视频大模型单轮融资纪录",
-        "excerpt": "快手旗下视频生成大模型可灵 AI 完成约 198.02 亿元增资交割，创全球视频生成大模型赛道单轮融资最高纪录，投后估值约 179 亿美元，已超母公司市值。",
-        "content": "快手公告，旗下视频生成大模型**可灵 AI** 完成本轮增资交割，实际到账约 **198.02 亿元**（约合 29.05 亿美元），创全球视频生成大模型赛道单轮融资最高纪录，较此前 204.47 亿元上限缩减约 6.45 亿元；投后估值约 **179 亿美元**（逾 1200 亿元人民币），已超过快手在港股约 968 亿元（1141 亿港元）的市值。\n\n结构值得拆解：中东资方 **BlueFive** 旗下主体与达康兰五放弃认购，差额约 6.45 亿元；接盘方中，**金蝶**受让 3 亿元、国产 GPU 厂商**沐曦**数智首次入股，指向算力供给与模型训练在资本层面的绑定。\n\n可灵在快手体内孵化、被分拆、被资本重新定价，并被一份对赌协议推着走向 IPO。"
+        "title": "Anthropic 预计 2028 年营收最高达 700 亿美元",
+        "excerpt": "内部预测显示今年 API 销售额约 38 亿美元，约为 OpenAI 同类收入的两倍。",
+        "content": "据 TechCrunch 与 The Information 报道，Anthropic 内部预计 2028 年营收最高可达 **700 亿美元**、现金流 170 亿美元；今年 API 销售额约 **38 亿美元**，接近 OpenAI 同类服务预计 18 亿美元的两倍。\n\n该预测体现其「企业优先」策略：Anthropic 目标 2026 年实现 200 亿至 260 亿美元年度经常性收入，服务超过 30 万企业客户。毛利率预计由去年的负 94% 升至今年的 50%，并在 2028 年达到 77%。"
       }
     },
     {
       "id": 3,
-      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
-      "category": "research",
-      "readTime": 6,
-      "timeAgo": 18,
-      "date": "2026-11-03",
+      "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 4,
+      "timeAgo": 6,
+      "date": "2026-11-05",
       "en": {
-        "title": "LeCun's JEPA paper argues small models can out-align big ones",
-        "excerpt": "A 37-page paper with Brown's Balestriero shows a 109M-param text JEPA beating 70B-class LLMs on cross-modal alignment, using 42x fewer samples — challenging pure scaling.",
-        "content": "Yann **LeCun** and Brown University assistant professor Randall **Balestriero** released a 37-page paper, *Proving and Improving the Platonic Representation Hypothesis with JEPAs*, on **October 29**. It argues that under certain conditions, independently trained models of different modalities can learn world representations that align.\n\nThe headline result: a **109-million-parameter** text JEPA outperformed LLMs including **Qwen2.5-72B** and **Llama-3-70B** on cross-modal alignment benchmarks — a **~660x** parameter gap. In a second test, the method reached the alignment level of next-token models using **21.6M** samples versus **900M**, a **~42x** efficiency gain.\n\nThe paper does not claim scaling is wrong; it argues alignment quality depends more on how positive views are constructed than on raw model size — directly relevant to multimodal foundation-model design."
+        "title": "Web Inventor Tim Berners-Lee Warns AI Could Collapse the Ad-Supported Internet",
+        "excerpt": "Generative AI answering queries directly could unravel the advertising model behind Google and Meta.",
+        "content": "Tim Berners-Lee warned at a London event that the advertising model underpinning hundreds of billions of dollars of internet value could **fall apart** as generative AI rises. If LLMs browse the web and answer users directly, the ad-driven web loses its audience.\n\nThe warning targets the core business model of giants like Google and Meta, whose valuations rest on massive ad networks. Berners-Lee argued the shift could reshape how the open web is funded."
       },
       "zh": {
-        "title": "LeCun 新论文用 JEPA 挑战 Scaling Law：1.09 亿参数对齐胜 720 亿",
-        "excerpt": "LeCun 与布朗大学 Balestriero 于 10 月 29 日发布 37 页论文，提出 1.09 亿参数的文本 JEPA 在跨模态表征对齐上超过 72B 级大模型的结论，且仅需约 1/42 的样本量，质疑唯规模论。",
-        "content": "66 岁的 **Yann LeCun** 与布朗大学助理教授 Randall **Balestriero** 于 **10 月 29 日**发布 37 页论文《Proving and Improving the Platonic Representation Hypothesis with JEPAs》，主张在特定条件下，不同模态独立训练的模型也能学到可相互对齐的世界表征。\n\n最引人注目的结论：一个仅 **1.09 亿参数**的文本 JEPA，在跨模态表征对齐测试中超过了 **Qwen2.5-72B**、**Llama-3-70B** 等大模型，参数规模相差约 **660 倍**；另一实验中，新方法仅用 **2160 万**样本即达到下一 Token 预测模型需 **9 亿**样本的对齐水平，效率提升约 **42 倍**。\n\n论文并非否定 Scaling Law，而是指出跨模态对齐的关键在正样本视图的设计，而非单纯放大模型——对多模态基座的表征学习目标选择有直接指导意义。"
+        "title": "万维网之父伯纳斯-李警告：AI 或令广告驱动的网络经济崩塌",
+        "excerpt": "生成式 AI 直接给出答案，可能瓦解支撑谷歌与 Meta 的广告商业模式。",
+        "content": "蒂姆·伯纳斯-李在伦敦一场会议上警告，支撑互联网数千亿美元价值的广告模式，可能因**生成式 AI 的崛起而分崩离析**。若大语言模型直接浏览网页并替用户作答，依赖广告的网络生态将失去受众。\n\n这一警告直指谷歌、Meta 等巨头的核心商业模式——其万亿市值正建立在庞大的广告网络之上。伯纳斯-李认为，这种转变可能重构开放网络的变现逻辑。"
       }
     },
     {
       "id": 4,
-      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
-      "category": "ethics",
-      "readTime": 7,
-      "timeAgo": 22,
-      "date": "2026-11-03",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 3,
+      "timeAgo": 7,
+      "date": "2026-11-05",
       "en": {
-        "title": "Wave of agentic-AI security incidents hits coding tools",
-        "excerpt": "A Nov 2 incident tracker logs a trojanized Claude Code extension, leaked Northflank API keys, a Chainalysis breach via agentic techniques, and Warp telemetry exposure — agents are now a real attack surface.",
-        "content": "An updated agent-incident watch (November 2) documents a cluster of agentic-AI security failures. A **trojanized Claude Code extension** sat in Cursor's marketplace for ~11 hours, trying to add an attacker SSH key and open a reverse tunnel. **Northflank** told all users to rotate credentials after stored AI API keys were abused. **Chainalysis** said an external actor used offensive agentic techniques to reach customer identity data.\n\n**Warp** said a vendor breach exposed a small amount of agent trace and telemetry; **Cathedral** researchers reached limited Anthropic business systems via third-party software flaws. Meanwhile the **agentbeam** CVE database now tracks **1,978** known vulnerabilities across 57 coding agents, MCP servers and model servers.\n\nThe pattern: attackers target the libraries, tools and marketplaces agents depend on — supply-chain compromise is nearly undetectable until activated."
+        "title": "NVIDIA Joins India's Deep-Tech Alliance as Founding Member",
+        "excerpt": "The India Deep Tech Alliance, a coalition of PE and VC firms, has pledged $2 billion to the sector.",
+        "content": "NVIDIA has joined the **India Deep Tech Alliance (IDTA)** as a founding member, according to media reports on Nov 5. IDTA is a coalition of private-equity and venture-capital firms that has pledged **$2 billion** to deep-tech investment.\n\nThe move deepens NVIDIA's footprint in one of the fastest-growing AI markets and aligns with India's push to build domestic AI compute and startup ecosystems."
       },
       "zh": {
-        "title": "智能体安全事件集中爆发：从木马化插件到密钥泄露",
-        "excerpt": "11 月 2 日更新的事件追踪表记录了一连串智能体安全事故：木马化 Claude Code 插件、Northflank API 密钥泄露、Chainalysis 遭智能体技术入侵、Warp 遥测外泄——智能体已成真实攻击面。",
-        "content": "一份更新于 **11 月 2 日**的智能体事件追踪表记录了一连串安全事故：一个**木马化的 Claude Code 插件**在 Cursor 市场挂了约 11 小时，试图添加攻击者 SSH 密钥并建立反向隧道；**Northflank** 要求所有用户轮换凭据，因存储的 AI API 密钥被滥用；**Chainalysis** 称外部攻击者运用进攻性智能体技术获取了客户身份数据。\n\n**Warp** 称一起供应商入侵泄露了少量智能体轨迹与遥测数据；**Cathedral** 研究者借第三方软件漏洞触及了 Anthropic 部分销售、HR 与 IT 系统。与此同时，**agentbeam** 漏洞库已收录覆盖 57 个编码智能体、MCP 与模型服务的 **1978** 个已知漏洞。\n\n共性在于：攻击者瞄准智能体所依赖的库、工具与市场，供应链投毒在被激活前几乎无法察觉。"
+        "title": "英伟达以创始成员身份加入印度深度科技联盟",
+        "excerpt": "由私募与风投机构组成的印度深度科技联盟已承诺向该领域投资 20 亿美元。",
+        "content": "据 11 月 5 日媒体报道，英伟达已以**创始成员**身份加入「印度深度科技联盟（IDTA）」。该联盟由私募股权与风险投资机构组成，已承诺向深度科技领域投资 **20 亿美元**。\n\n此举深化了英伟达这一全球增长最快 AI 市场之一的布局，也契合印度发展本土 AI 算力与初创生态的战略。"
       }
     },
     {
       "id": 5,
-      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop",
-      "category": "infra",
-      "readTime": 6,
-      "timeAgo": 40,
-      "date": "2026-11-03",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 5,
+      "timeAgo": 4,
+      "date": "2026-11-05",
       "en": {
-        "title": "NVIDIA's Vera Rubin A5X goes GA on Google Cloud, eyeing 960,000 GPUs",
-        "excerpt": "NVIDIA and Google Cloud confirmed Vera Rubin-powered A5X instances will become generally available in November 2026, then expand to Europe, scaling toward 960,000 Rubin GPUs.",
-        "content": "NVIDIA and Google Cloud confirmed their next-generation **Vera Rubin**-powered **A5X** instances will become generally available in **November 2026**, then expand into Europe. The architecture could scale to as many as **960,000 Rubin GPUs** across multiple sites.\n\nA5X is built on the **Vera Rubin NVL72** rack-scale system, combining Rubin GPUs with Vera CPUs, ConnectX-9 SuperNICs, Google's Virgo networking and fourth-gen liquid cooling. Early users include **Ineffable Intelligence** — founded by AlphaGo co-creator David Silver — using it for reinforcement learning on what it calls superlearners, and WPP demonstrating creative agent workflows.\n\nThe milestone reflects demand for infrastructure built for agentic AI, RL and enterprise content generation rather than one-off model training."
+        "title": "OpenAI Revives Its Robotics Team, Hires Former Meta AR Hardware Lead",
+        "excerpt": "Caitlin Kalinowski joins to lead robotics and consumer hardware, four years after the team was disbanded.",
+        "content": "OpenAI is restarting the robotics team it disbanded about four years ago, hiring **Caitlin Kalinowski**, the former head of Meta's AR glasses project, to lead robotics and consumer hardware. Kalinowski led Meta's Orion AR prototype and spent nearly nine years running VR hardware teams.\n\nOpenAI confirmed the move to TechCrunch. Kalinowski will initially focus on robotics partnerships to integrate multimodal AI into physical hardware, re-entering a field where OpenAI has so far only invested in partners like Figure and 1X."
       },
       "zh": {
-        "title": "英伟达 Vera Rubin A5X 在 Google Cloud 正式可用，规划规模最高 96 万 GPU",
-        "excerpt": "英伟达与 Google Cloud 确认基于 Vera Rubin 的 A5X 实例将于 2026 年 11 月正式可用并向欧洲扩展，整套架构在多站点可扩展至多达 96 万块 Rubin GPU。",
-        "content": "英伟达与 Google Cloud 确认，基于 **Vera Rubin** 的 **A5X** 实例将于 **2026 年 11 月**正式可用（GA），随后扩展至欧洲；该架构在多数据中心站点可扩展至多达 **96 万块** Rubin GPU。\n\nA5X 基于 **Vera Rubin NVL72** 机架级系统，将 Rubin GPU 与 Vera CPU、ConnectX-9 SuperNIC、Google Virgo 网络与第四代液冷结合。早期用户包括 AlphaGo 联合创始人 David Silver 创立的 **Ineffable Intelligence**（用于其所谓 superlearner 的强化学习），以及用 A5X 演示创意智能体工作流的 **WPP**。\n\n这一里程碑反映出对面向智能体 AI、强化学习与企业生产内容的基础设施需求，而非一次性模型训练。"
+        "title": "OpenAI 重启机器人团队，挖来 Meta 前 AR 硬件负责人",
+        "excerpt": "在团队解散约四年后，OpenAI 聘请前 Meta AR 眼镜项目负责人 Caitlin Kalinowski 统领机器人与消费硬件。",
+        "content": "在约四年前解散硬件研究团队后，OpenAI 正重启机器人团队，并聘请**前 Meta AR 眼镜项目负责人 Caitlin Kalinowski** 领导机器人与消费硬件业务。Kalinowski 曾主导 Meta 的 Orion AR 原型，并有近九年领导 VR 硬件团队的经验。\n\nOpenAI 已向 TechCrunch 确认该消息。她将先期聚焦机器人合作，把多模态 AI 集成进物理硬件——这也是 OpenAI 在曾投资 Figure、1X 等伙伴之后，重新亲自下场具身智能的信号。"
       }
     },
     {
       "id": 6,
-      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&h=400&fit=crop",
-      "category": "healthcare",
-      "readTime": 5,
-      "timeAgo": 24,
-      "date": "2026-11-03",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 3,
+      "timeAgo": 8,
+      "date": "2026-11-05",
       "en": {
-        "title": "Pathos AI raises $237M at $3B to read disease, not just design molecules",
-        "excerpt": "The BMS-led Series E values Pathos at $3B. Unlike generative-drug peers, its system answers which stalled assets to rescue and which patients to target — AI drug development's 'second half'.",
-        "content": "US biotech **Pathos AI** closed a **$237 million** Series E led by **Bristol Myers Squibb**, at a **$3 billion** post-money valuation — roughly double its value 17 months earlier. Founder Eric Lefkofsky also founded oncology data firm Tempus.\n\nPathos's core is a decision system of algorithms and AI agents, not molecule generation or protein folding. It answers the costliest questions in drug development: whether a stalled early-phase asset should be abandoned, which patient group a drug truly helps, and which combinations deserve clinical investment.\n\nThe raise reflects a shift in AI drug development from 'design a molecule faster' to 'make molecules actually succeed in trials' — using multimodal data to deepen disease understanding."
+        "title": "Meta Fined 21.6 Billion Won by South Korea Over Privacy Violations",
+        "excerpt": "The Korean PIPC penalized Meta for breaching the Personal Information Protection Act.",
+        "content": "South Korea's Personal Information Protection Commission fined **Meta about 21.6 billion won** (roughly 112 million yuan) for violating the country's Personal Information Protection Act, per a decision at its 18th plenary meeting on Nov 4.\n\nThe penalty underscores tightening enforcement of data-protection law against global platforms and serves as a warning on lawful collection, processing and storage of user data."
       },
       "zh": {
-        "title": "Pathos AI 完成 2.37 亿美元 E 轮、估值 30 亿美元，靠「读懂疾病」而非造分子",
-        "excerpt": "由百时美施贵宝领投的 E 轮将 Pathos 估值推至 30 亿美元。与生成式制药同行不同，其核心是一套决策系统，回答该放弃哪些卡住的资产、该锁定哪类患者——被视为 AI 制药的「下半场」。",
-        "content": "美国 AI 生物技术公司 **Pathos AI** 完成 **2.37 亿美元** E 轮融资，由**百时美施贵宝（BMS）**领投，投后估值达 **30 亿美元**，较 17 个月前近乎翻倍；创始人 Eric Lefkofsky 亦为肿瘤数据公司 Tempus 创始人。\n\nPathos 的核心是一套由算法模块与 AI 智能体组成的决策系统，而非用 AI 设计候选分子或预测蛋白质结构。它回答新药研发中最烧钱也最残酷的问题：一个在早期临床卡住的分子该放弃还是换思路，哪类患者才是药物真正起效的人群，几十个联合用药组合里哪几个值得先投临床试验。\n\n这轮融资折射出 AI 制药的重心转移：从「更快造出分子」转向「让分子真正在临床成功」，用多模态数据深化对疾病机制的理解。"
+        "title": "Meta 因违反韩国《个人信息保护法》被罚约 216 亿韩元",
+        "excerpt": "韩国个人信息保护委员会认定 Meta 违反《个人信息保护法》，作出处罚决定。",
+        "content": "在 11 月 4 日召开的第 18 次全体会议上，韩国个人信息保护委员会决定对美国互联网公司 **Meta 处以约 216 亿韩元（约合 1.12 亿元人民币）** 行政罚款，理由是违反韩国《个人信息保护法》。\n\n此次罚款意味着对全球平台数据保护执法的收紧，也为企业在收集、处理与存储个人数据时必须合规敲响警钟。"
       }
     },
     {
       "id": 7,
-      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
-      "category": "robotics",
-      "readTime": 5,
-      "timeAgo": 26,
-      "date": "2026-11-03",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 4,
+      "timeAgo": 9,
+      "date": "2026-11-05",
       "en": {
-        "title": "Meta and Fourier build humanoid 'Max', Muse's physical body",
-        "excerpt": "Meta and China's Fourier reportedly built a humanoid prototype 'Max' in three months on Nvidia Jetson Thor, with five-finger hands and a face that emotes — Muse's physical avatar.",
-        "content": "Meta and Chinese robotics firm **Fourier (傅利叶)** reportedly built a humanoid prototype named **Max** in just three months. About 1.5m tall and 48kg, it runs on **Nvidia Jetson Thor**, has a dedicated motion-control stack and five-finger hands, and its face can simulate human expressions.\n\nMeta CTO Andrew **Bosworth** positioned humanoids as the physical avatar of Meta's AI assistant **Muse**. The two companies started a second-generation design in September, reworking the torso. Analysts read the move as confirmation that big tech now treats embodied intelligence as a strategic high ground.\n\nThe report underscores a broader race: major labs are no longer content to stay in software and are rushing to give their agents bodies."
+        "title": "NVIDIA Shows Next-Gen Co-Packaged Optics Prototype at SEMICON West",
+        "excerpt": "The OOI design puts the optical engine directly on the GPU interposer to cut interconnect distance.",
+        "content": "At SEMICON West 2026, NVIDIA demonstrated a next-generation co-packaged optics technology called **OOI (Optics-on-Interposer)**, placing the optical engine directly onto the silicon interposer that carries the GPU. Per researcher Nikola Nedovic, the approach replaces the organic package substrate with a larger interposer.\n\nOOI remains a research prototype with no commercial timeline, but it points to a new interconnect strategy for the next generation of hyperscale AI clusters."
       },
       "zh": {
-        "title": "Meta 联手傅利叶打造人形机器人 Max，定位 Muse 的「物理化身」",
-        "excerpt": "据称 Meta 与中国机器人公司傅利叶仅用三个月便联合打造出人形机器人原型 Max，搭载英伟达 Jetson Thor、配备五指灵巧手并可模拟人类表情，被视为 Muse 的物理化身。",
-        "content": "据称 **Meta** 与中国机器人公司**傅利叶**仅用三个月便联合打造出人形机器人原型 **Max**。其身高约 1.5 米、重约 48 公斤，搭载**英伟达 Jetson Thor** 芯片，配备独立运动控制软件平台与五指机械手，面部可模拟人类表情。\n\nMeta 首席技术官 Andrew **Bosworth** 将人形机器人定位为旗下 AI 智能体 **Muse** 的「物理化身」。双方已于 9 月启动第二代产品研发，重新设计躯干部分。分析认为，这强化了全球头部科技企业对具身智能战略价值的确认。\n\n报道折射出更广泛的竞赛：大模型实验室不再满足于停留在软件层，正争相为智能体赋予实体身体。"
+        "title": "英伟达在 SEMICON West 展示下一代共封装光学原型 OOI",
+        "excerpt": "OOI 将光引擎直接集成到承载 GPU 的硅中介层上，进一步贴近芯片内核。",
+        "content": "在 SEMICON West 2026 上，英伟达展示了名为 **OOI（Optics-on-Interposer，中介层上集成光学）** 的下一代共封装光学技术，将光引擎直接集成到承载 GPU 的硅中介层之上。据英伟达研究院首席科学家 Nikola Nedovic 介绍，该方案以更大面积的中介层取代现行有机封装基板。\n\nOOI 目前仍处研究阶段，暂无商业化时间表，但为下一代超大规模 AI 集群提供了全新的互联思路。"
       }
     },
     {
       "id": 8,
-      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
-      "category": "policy",
-      "readTime": 6,
-      "timeAgo": 48,
-      "date": "2026-11-03",
+      "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=600&h=400&fit=crop",
+      "category": "healthcare",
+      "readTime": 5,
+      "timeAgo": 10,
+      "date": "2026-11-05",
       "en": {
-        "title": "Reddit CEO: Google's AI Mode 'drives no traffic' for anyone",
-        "excerpt": "Reddit's Steve Huffman said weekly Google search visits fell by over a million after AI Overviews and AI Mode; he warned the open web's traffic model is breaking.",
-        "content": "Reddit CEO Steve **Huffman** said the site's Google search traffic dropped by more than **a million visits a week** in October after **AI Overviews** and **AI Mode**. His blunt line: 'AI Mode does not drive traffic. Not for us, and not to anybody as far as I know.'\n\nReddit's stock fell more than **25%** despite strong results, as investors priced in a structural shift: if answers surface in the search results themselves, the click-through to publishers collapses. Reddit is testing a login requirement outside the US to protect its content.\n\nThe episode sharpens a growing debate over whether AI search enriches or cannibalizes the open web that trained it."
+        "title": "MIT's Collins Lab Reports 9 AI-Discovered Antibiotic Candidates",
+        "excerpt": "Virtual screening across 70 billion molecules surfaces candidates against drug-resistant pathogens.",
+        "content": "As of Nov 2, MIT's Collins Lab **Antibiotics-AI Project** has used AI to virtually screen more than **70 billion molecules**, running antibacterial tests on over 38,000 and human-cell screens on over 100,000, yielding nine novel antibiotic candidates. Examples include NG1 against drug-resistant gonorrhea and DN1 against multidrug-resistant Staphylococcus aureus.\n\nAll candidates remain preclinical; the work shows AI shifting from searching existing libraries to designing molecules that did not previously exist, though rigorous safety and clinical validation still lie ahead."
       },
       "zh": {
-        "title": "Reddit CEO：谷歌 AI Mode「不给任何人带来流量」，开放网络流量模式正在崩解",
-        "excerpt": "Reddit 的 Steve Huffman 称，在 AI Overviews 与 AI Mode 上线后，10 月来自谷歌搜索的周访问量每周减少逾百万；他警告开放网络的流量模型正在被打破。",
-        "content": "Reddit CEO Steve **Huffman** 表示，在 **AI Overviews** 与 **AI Mode** 上线后，Reddit 来自谷歌搜索的流量在 10 月**每周减少逾百万次访问**。他的原话很直白：**「AI Mode 不带来流量。对我们如此，据我所知对任何人都是如此。」**\n\n尽管业绩强劲，Reddit 股价仍跌超 **25%**，因投资者计入结构性转变：若答案直接在搜索结果中呈现，指向发布方的点击率便会崩塌。Reddit 正测试在美国以外地区要求登录以保护其内容。\n\n此事加剧了关于 AI 搜索究竟是在滋养还是吞噬训练它的开放网络的争论。"
+        "title": "MIT 科林斯实验室用 AI 发现 9 种抗生素候选物",
+        "excerpt": "对 700 亿个分子的虚拟筛选，产出针对耐药病原体的候选分子。",
+        "content": "截至 11 月 2 日，MIT 科林斯实验室的「抗生素 AI 项目」已借助 AI 累计虚拟筛选超过 **700 亿个分子**，对逾 3.8 万个分子开展抗菌实验、对逾 10 万个分子进行人体细胞相关筛查，进而发现或设计出 **9 种新型抗生素候选物**。代表性成果包括针对耐药淋球菌的 NG1、针对多重耐药金黄色葡萄球菌的 DN1。\n\n所有候选物仍处临床前阶段；该工作表明 AI 正从「在现有药物库中找答案」转向「直接设计此前不存在的分子」，但毒理、药代与临床试验等验证仍不可或缺。"
       }
     },
     {
       "id": 9,
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
-      "category": "business",
+      "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
+      "category": "research",
       "readTime": 5,
-      "timeAgo": 50,
-      "date": "2026-11-03",
+      "timeAgo": 11,
+      "date": "2026-11-05",
       "en": {
-        "title": "Sebastian Thrun's Dulo raises $130M for hardware-design AI",
-        "excerpt": "The Waymo/Google X pioneer's stealth startup Dulo landed a $130M seed to build 'foundation models for hardware design', aiming to compress 18-month prototyping to weeks.",
-        "content": "**Dulo**, a stealth startup co-founded by **Waymo** and **Google X** pioneer Sebastian **Thrun** and entrepreneur Adrian **Aoun**, has raised a **$130 million** seed round — one of the largest on record for a company still in stealth.\n\nDulo is building what it calls **foundation models for hardware design**, targeting the 18-month wait from concept to physical prototype. It aims to ingest CAD geometry, material properties, thermal and stress simulations and historical performance to generate and optimize viable designs against specified goals — not code, but blueprints for aircraft, cars and robots.\n\nInvestors include former Google CEO Eric **Schmidt**, Kleiner Perkins' John **Doerr**, Salesforce's Marc **Benioff**, and firms DST Global, Construct Capital and Lowercarbon Capital. Dulo has disclosed no product, customers or timeline."
+        "title": "Tsinghua Team Uses Explainable AI to Design Better mRNA Delivery Lipids",
+        "excerpt": "A machine-learning screen of 10,920 lipid structures yielded a candidate 4x more effective in mice.",
+        "content": "A Tsinghua Shenzhen team led by Yan Hao and Kang Feiyu used **explainable AI** to screen degradable lipid candidates for mRNA delivery. They modularly combined 40 amine heads with 13 degradable tails to synthesize 520 lipids, then used an XGBoost model to extend the virtual search to **10,920 structures**.\n\nOne candidate, **PA97MD101**, delivered roughly 4x the liver mRNA expression of the common control lipid SM-102 in mice, and also delivered EPO mRNA and CRISPR/Cas9 payloads. The study, in Nature Communications, frames AI as a materials-selection assistant whose hits still require independent animal validation."
       },
       "zh": {
-        "title": "特伦新创 Dulo 获 1.3 亿美元种子轮，押注「硬件设计基础模型」",
-        "excerpt": "Waymo 与 Google X 先驱 Sebastian Thrun 联合创办的隐身初创 Dulo 完成 1.3 亿美元种子轮，要打造「硬件设计领域基础大模型」，把 18 个月的样机周期压缩到数周。",
-        "content": "由 **Waymo** 与 **Google X** 先驱 Sebastian **Thrun** 及连续创业者 Adrian **Aoun** 联合创办的隐身初创 **Dulo**，完成 **1.3 亿美元**种子轮融资——堪称隐身期公司中规模最大的种子轮之一。\n\nDulo 要打造其所谓的**「硬件设计领域基础大模型」**，瞄准从概念到实体样机长达 18 个月的等待。它希望吸收 CAD 几何、材料属性、热与应力仿真及历史性能数据，针对指定目标生成并优化可行设计——不是代码，而是飞机、汽车与机器人的蓝图。\n\n投资方包括谷歌前 CEO Eric **Schmidt**、Kleiner Perkins 的 John **Doerr**、Salesforce 的 Marc **Benioff**，以及 DST Global、Construct Capital、Lowercarbon Capital 等机构。Dulo 尚未披露产品、客户或时间表。"
+        "title": "清华团队用可解释 AI 筛选更优 mRNA 递送脂质",
+        "excerpt": "对 10920 种脂质结构的机器学习筛选，得到在小鼠中效力提升约 4 倍的新材料。",
+        "content": "清华大学深圳国际研究生院颜昊、康飞宇团队借助**可解释人工智能（AI）**，从上万种可降解脂质候选中优选 mRNA 精准递送材料。他们将 40 种胺类头部与 13 种可降解尾部模块化组合，合成 520 种脂质，再用 XGBoost 模型将虚拟筛选空间拓展至 **10920 种结构**。\n\n其中一种名为 **PA97MD101** 的脂质，在小鼠实验中带来的肝脏 mRNA 功能表达约为常用对照脂质 SM-102 的 4 倍，并可递送促红细胞生成素 mRNA 及 CRISPR/Cas9 相关载荷。该研究发表于《自然·通讯》，将 AI 定位为帮助科学家缩小搜索范围的「选材助手」，其命中结果仍需独立动物实验验证。"
       }
     },
     {
       "id": 10,
-      "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop",
-      "category": "llm",
-      "readTime": 5,
-      "timeAgo": 48,
-      "date": "2026-11-03",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 4,
+      "timeAgo": 12,
+      "date": "2026-11-05",
       "en": {
-        "title": "Meta's Muse hits 10M+ users but little business impact yet",
-        "excerpt": "Zuckerberg said 10M+ in the US and Canada activated Muse, with over a quarter using it for shopping — but a Wired survey of ~50 firms found effect 'negligible'.",
-        "content": "On Meta's earnings call, Mark **Zuckerberg** said more than **10 million** people in the US and Canada have activated its AI assistant **Muse**, with over a quarter using it for shopping. But when **Wired** collected remarks from executives at roughly **50** companies across travel, telecom, food and self-storage, most said the effect so far is negligible.\n\nDoorDash put Muse and other agent orders in the 'hundreds'; T-Mobile said it has seen nothing of significance; Hilton called agent bookings insignificant. The gap between headline activation and measurable revenue underscores how early agentic commerce remains.\n\nThe episode is a reality check on the agent-economy hype: distribution is cheap, but changing real purchase behavior is hard."
+        "title": "Google Ships Nano Banana 2 Lite and Opens Gemini Omni Flash to Developers",
+        "excerpt": "A 4-second image model and a conversational video editor target high-throughput creative pipelines.",
+        "content": "Google released **Nano Banana 2 Lite**, its fastest and most cost-efficient image model, generating a 1K image in about 4 seconds at $0.034 per image, and opened **Gemini Omni Flash** to developers via the Gemini API and AI Studio. Omni Flash enables conversational video generation and editing from text, image and video inputs at $0.10 per second of output.\n\nBoth models carry SynthID watermarking and target high-volume, latency-sensitive creative workflows; Adobe and WPP are among the first partners integrating them into Firefly and WPP Open."
       },
       "zh": {
-        "title": "Meta Muse 激活超千万却难见商业成效，智能体电商仍处早期",
-        "excerpt": "扎克伯格称 Muse 在美加激活超 1000 万人、逾四分之一用于购物；但《连线》对约 50 家企业的调研显示影响「可忽略」，智能体电商兑现仍早。",
-        "content": "在 Meta 财报电话会上，Mark **Zuckerberg** 称其 AI 助手 **Muse** 在美加已有超 **1000 万**人激活，其中逾四分之一用于购物。但当 **《连线》（Wired）**搜集约 **50** 家旅行、电信、餐饮与自助仓储企业高管的表态时，多数人表示影响目前「可忽略」。\n\nDoorDash 将 Muse 等智能体订单归为「几百单」量级；T-Mobile 称未见显著影响；Hilton 直言智能体预订微不足道。激活量与可衡量营收之间的落差，凸显了智能体商务仍处于极早期。\n\n这一幕是对智能体经济叙事的现实检验：分发成本很低，但要改变真实的购买行为很难。"
+        "title": "谷歌推出 Nano Banana 2 Lite 并向开发者开放 Gemini Omni Flash",
+        "excerpt": "4 秒出图的图像模型与对话式视频编辑器，瞄准高吞吐创意管线。",
+        "content": "谷歌发布**最快、最具性价比的图像模型 Nano Banana 2 Lite**，约 4 秒生成一张 1K 图像、单价 0.034 美元，并经由 Gemini API 与 AI Studio 向开发者开放 **Gemini Omni Flash**。Omni Flash 支持以文本、图像、视频多模态输入进行对话式视频生成与编辑，输出单价为每秒 0.10 美元。\n\n两款模型均内置 SynthID 水印，面向高吞吐、低延迟的创意工作流；Adobe 与 WPP 是首批将其集成进 Firefly 与 WPP Open 的合作伙伴。"
       }
     }
   ]
