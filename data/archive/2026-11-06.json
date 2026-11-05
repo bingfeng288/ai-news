@@ -1,0 +1,202 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+    "category": "ethics",
+    "readTime": 6,
+    "timeAgo": 16,
+    "date": "2026-11-06",
+    "en": {
+      "title": "OpenAI Launches GPT-6 Cyber, a Specialized Model That Finds Exploits and Stays in Bounds",
+      "excerpt": "The Critical-rated security model jumps 51% on ExploitGym, found 81 unknown Firefox flaws, and built working exploits for 948 of 1,724 Linux kernel bugs while respecting authorized scope 99.93% of the time.",
+      "content": "OpenAI on November 5 released GPT-6 Cyber, a model purpose-built for offensive security research. On the ExploitGym benchmark it scored **48.5%**, up 51% relative from GPT-5.6 Cyber's 32.1%, while staying within researcher-defined scope **99.93%** of the time without safety prompts and **100%** with them.\n\nIn real-world work the model reproduced **1,724** known Linux kernel vulnerabilities and produced working privilege-escalation exploits for **948** of them, and surfaced **81** previously unknown high-severity Firefox flaws now being patched by Mozilla. OpenAI rated its cyber capability **Critical** under the Preparedness Framework and is releasing it only to vetted Daybreak Red customers with abuse monitoring and sandboxing."
+    },
+    "zh": {
+      "title": "OpenAI 发布 GPT-6 Cyber：专攻漏洞挖掘、严守授权边界的网络安全模型",
+      "excerpt": "这款被定为关键级的模型在 ExploitGym 上相对提升 51%，发现 81 个未知 Firefox 漏洞，并为 1,724 个 Linux 内核漏洞中的 948 个写出可用利用程序，同时 99.93% 的时间不越权。",
+      "content": "OpenAI 于 11 月 5 日发布 GPT-6 Cyber，一款专为攻防安全研究打造的模型。在 ExploitGym 基准上，其得分达 **48.5%**，相对上一代 GPT-5.6 Cyber 的 32.1% 提升约 51%；在无部署安全提示时，模型 **99.93%** 的测试都未越权，启用提示后达 **100%**。\n\n实战中，该模型复现了 **1,724** 个已知 Linux 内核漏洞，并为其中 **948** 个开发出可用的权限提升利用程序；还发现 Firefox 中 **81** 个此前未知的高危漏洞，Mozilla 已开始推送修复。OpenAI 在《能力准备度框架》下将其网络安全等级定为 **Critical（关键）**，初期仅向经审核的 Daybreak Red 客户开放，并配套滥用监测与沙箱机制。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 5,
+      "timeAgo": 18,
+      "date": "2026-11-06",
+      "en": {
+        "title": "China Accelerates Foundational AI Legislation With Full Life-Cycle Safety Standards",
+        "excerpt": "At a November 3 briefing, the NDRC unveiled a plan for comprehensive AI law, life-cycle safety and ethics standards covering data, compute and algorithms, plus transition periods and regulatory sandboxes.",
+        "content": "China's National Development and Reform Commission outlined on November 3 how the 15th Five-Year Plan will govern artificial intelligence. Officials said the country will accelerate **foundational, comprehensive AI legislation** and build a legal framework spanning data, compute and algorithms, with **safety and ethics standards covering the entire model life cycle**.\n\nTo avoid stifling innovation, the plan pairs binding rules with **transition periods** and industry-specific **regulatory sandboxes**, and promises periodic review of rules as the technology iterates. The NDRC also said it will monitor AI's impact on employment and strengthen social safety nets for displaced workers."
+      },
+      "zh": {
+        "title": "中国加速人工智能基础性立法，建立覆盖全生命周期的安全标准",
+        "excerpt": "在 11 月 3 日的发布会上，国家发改委公布人工智能治理路线图：推进综合性立法，建立覆盖数据、算力、算法的全生命周期安全与伦理标准，并辅以过渡期与监管沙盒。",
+        "content": "国家发改委在 11 月 3 日的「奋进十五五」发布会上，系统阐述了人工智能治理思路。官方表示将加快推进人工智能**基础性、综合性立法**，构建涵盖数据、算力、算法等共性要素及重点应用场景的法律法规体系，建立**覆盖全生命周期的安全标准与伦理准则**。\n\n为兼顾创新，方案将刚性规则与**过渡期**、分行业**监管沙盒**相结合，并承诺随技术迭代周期性评估、动态调整制度。发改委还表示将密切关注人工智能对就业结构的影响，强化社保兜底。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 17,
+      "date": "2026-11-06",
+      "en": {
+        "title": "DeepSeek Plans to Pretrain V5 on 160,000 Huawei Ascend Chips, a Milestone for China's Non-NVIDIA Stack",
+        "excerpt": "The plan to train its next foundation model in 2027 on 160,000 Ascend 950DT accelerators moves Huawei silicon from serving into full-scale pretraining, following a reported $15.9B raise at a $90B valuation.",
+        "content": "DeepSeek intends to pretrain its V5 foundation model in 2027 on roughly **160,000 Huawei Ascend 950DT** accelerators, according to reporting this week. Until now Ascend chips have mostly been used to serve models rather than train them at scale, so the move would mark a meaningful step for China's domestic training stack.\n\nThe plan follows a reported **$15.9 billion** raise that valued the company at about **$90 billion**. If executed, it signals that leading Chinese labs are willing to bet their next-generation training runs on non-NVIDIA hardware."
+      },
+      "zh": {
+        "title": "DeepSeek 计划用 16 万颗华为昇腾芯片预训练 V5，中国非英伟达训练栈里程碑",
+        "excerpt": "据报道，DeepSeek 将于 2027 年用约 16 万颗昇腾 950DT 加速器预训练下一代基础模型，标志华为芯片从推理部署迈向大规模预训练，此前公司据称完成 159 亿美元融资、估值约 900 亿美元。",
+        "content": "据本周报道，DeepSeek 计划在 2027 年用约 **16 万颗华为昇腾 950DT** 加速器预训练其 V5 基础模型。此前昇腾芯片主要承担模型推理部署，而非大规模预训练，此举将是中国本土训练栈的重要一步。\n\n该计划紧随公司据称完成的 **159 亿美元** 融资，估值约 **900 亿美元**。若落地，意味着头部中国实验室愿意把下一代训练任务押注在非英伟达硬件之上。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 4,
+      "timeAgo": 18,
+      "date": "2026-11-06",
+      "en": {
+        "title": "OpenAI Says It Could Be IPO-Ready in 2027 as Enterprise Becomes Its Largest Revenue Source",
+        "excerpt": "President Greg Brockman told a WSJ conference on November 4 that enterprise sales now make up the majority of revenue and the company could go public next year, as rival Anthropic prepares a Nasdaq listing under ticker ANT.",
+        "content": "OpenAI president Greg Brockman said at a Wall Street Journal tech conference in Napa on November 4 that the company could be ready for an IPO in **2027** and that **enterprise customers now generate the majority of its revenue**. He said annualized revenue grew about **70%** in the third quarter, with the enterprise segment doubling.\n\nThe remarks sharpen the race with Anthropic, which filed an amended prospectus on November 2 and plans to list on Nasdaq under the ticker **ANT**. Brockman stopped short of committing to a date, price or exchange."
+      },
+      "zh": {
+        "title": "OpenAI 称 2027 年或具备 IPO 条件，企业客户成最大收入来源",
+        "excerpt": "总裁 Greg Brockman 在 11 月 4 日的 WSJ 科技大会上表示，企业销售已占收入多数，公司 2027 年可能具备上市条件；对手 Anthropic 已递交修订版招股书，拟以 ANT 为代码登陆纳斯达克。",
+        "content": "OpenAI 总裁 Greg Brockman 在 11 月 4 日于纳帕举行的《华尔街日报》科技大会上表示，公司 **2027 年** 可能具备 IPO 条件，且**企业客户已贡献收入的大头**。他透露年化收入在第三季度增长约 **70%**，其中企业业务实现翻倍。\n\n这番话让 OpenAI 与 Anthropic 的上市竞赛更受关注——后者已于 11 月 2 日递交修订版招股书，拟以 **ANT** 为代码登陆纳斯达克。Brockman 未给出具体日期、发行价或交易所。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 4,
+      "timeAgo": 16,
+      "date": "2026-11-06",
+      "en": {
+        "title": "Google Ships Gemini Omni 1.2 Flash With 15-Second Video Generation and a 30% Price Cut",
+        "excerpt": "Now generally available via the Gemini API and Google Cloud, the model generates native 15-second clips, supports multi-turn editing and drops 720p pricing to $0.07 per second as Adobe and Figma Weave integrate it.",
+        "content": "Google on November 5 made **Gemini Omni 1.2 Flash** generally available through the Gemini API and Google Cloud. The model generates **native 15-second video** (up from 10 seconds), supports multi-turn conversational editing and stronger reference adherence, and costs **30% less** at **$0.07 per second** for 720p.\n\nPartners including **Adobe, Figma Weave and Monks** are already wiring the model into production workflows, and creators can upscale drafts to 4K."
+      },
+      "zh": {
+        "title": "谷歌上线 Gemini Omni 1.2 Flash：15 秒视频生成，价格直降 30%",
+        "excerpt": "该模型已通过 Gemini API 与 Google Cloud 正式开放，可原生生成 15 秒视频、支持多轮对话式编辑，720p 价格降至每秒 0.07 美元；Adobe、Figma Weave 等已接入。",
+        "content": "谷歌于 11 月 5 日通过 Gemini API 与 Google Cloud 正式开放 **Gemini Omni 1.2 Flash**。该模型可**原生生成 15 秒视频**（由 10 秒提升），支持多轮对话式编辑与更强的参考一致性，720p 价格下调 **30%** 至**每秒 0.07 美元**。\n\n**Adobe、Figma Weave、Monks** 等合作伙伴已将该模型接入生产流程，创作者还可将草稿提升至 4K 分辨率。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 5,
+      "timeAgo": 15,
+      "date": "2026-11-06",
+      "en": {
+        "title": "Runway Serves a 57B Video Model in Real Time on Just Four H100 GPUs",
+        "excerpt": "A new systems paper shows how Runway cut each diffusion step from 240.9ms to 147.4ms, sustaining 24fps for live conversational avatars and halving the GPUs needed per session.",
+        "content": "Runway published research on serving its roughly **57-billion-parameter** autoregressive video diffusion transformer in real time. Optimizations — applying RoPE and FP8 quantization once at cache-write time and fusing the all-reduce into the GEMM — cut each diffusion step from **240.9ms to 147.4ms**, sustaining **24fps** for live Characters avatars.\n\nThe result lets a single conversational session run on **four H100 GPUs** instead of eight, roughly halving the cost of real-time video generation."
+      },
+      "zh": {
+        "title": "Runway 用 4 张 H100 实现 570 亿参数视频模型实时推理",
+        "excerpt": "新论文披露，Runway 将每个扩散步从 240.9 毫秒压缩到 147.4 毫秒，稳定输出 24fps，支撑实时对话数字人，并把每会话所需 GPU 从 8 张降至 4 张。",
+        "content": "Runway 发表研究，介绍如何实时推理其约 **570 亿参数** 的自回归视频扩散 Transformer。通过在缓存写入时一次性完成 RoPE 与 FP8 量化、并将 all-reduce 融合进 GEMM 等优化，把每个扩散步从 **240.9 毫秒压缩到 147.4 毫秒**，稳定维持 **24fps**，驱动实时对话数字人 Characters。\n\n这意味着单个实时会话只需 **4 张 H100**，相较原先的 8 张近乎减半了实时视频生成的成本。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 5,
+      "timeAgo": 14,
+      "date": "2026-11-06",
+      "en": {
+        "title": "Hugging Face and Partners Launch RoboColosseum, an Open Benchmark Across 100+ Real Robots",
+        "excerpt": "The initiative offers 10,000 free evaluation hours and open rollout data across 140+ in-the-wild scenes; an early study ran 5,699 pairwise trials at 124 sites and found frontier agents rival specialized policies.",
+        "content": "Hugging Face, BitRobot Network, the Singapore Embodied AI Centre and researcher Jiafei Duan launched **RoboColosseum**, opening access to **100+ real robots** — including Unitree G1 humanoids, LeRobot SO-101 arms, YAM systems and Franka — across **140+ in-the-wild scenes**, with **10,000 free evaluation hours** and all rollout data published.\n\nA companion preprint ran **5,699** blinded pairwise comparisons at **124 sites**; frontier AI agents rivaled specialized vision-language-action policies, yet all systems still struggled to complete open-world tasks reliably."
+      },
+      "zh": {
+        "title": "Hugging Face 等发起 RoboColosseum：覆盖 100+ 真实机器人的开放评测基准",
+        "excerpt": "该计划提供 1 万小时免费评测与 140+ 真实场景的开放数据；早期研究在 124 个站点完成 5,699 次成对对比，发现前沿智能体已可媲美专用策略。",
+        "content": "Hugging Face、BitRobot Network、新加坡具身智能中心及研究员 Jiafei Duan 联合发起 **RoboColosseum**，开放 **100+ 台真实机器人** 的访问，涵盖宇树 G1 人形、LeRobot SO-101 机械臂、YAM 与 Franka，覆盖 **140+ 个真实场景**，提供 **1 万小时免费评测** 并公开全部运行数据。\n\n同期预印本在 **124 个站点** 完成 **5,699** 次盲法成对对比：前沿 AI 智能体已可媲美专用视觉-语言-动作策略，但所有系统在开放世界任务上的可靠完成率仍偏低。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 5,
+      "timeAgo": 15,
+      "date": "2026-11-06",
+      "en": {
+        "title": "Axiom Math Formally Verifies the Entire Stacks Project Into 16 Million Lines of Lean Code",
+        "excerpt": "AI agents translated 7,654 pages of one of math's largest reference libraries into machine-checked code, filling a major gap in formalized algebraic geometry and offering a verified base for AI-written software.",
+        "content": "Axiom Math said its fleet of AI agents translated the entire **Stacks Project** — about **7,654 pages** of foundational algebraic geometry built up by 650+ contributors since 2005 — into roughly **16 million lines** of computer-checked Lean code, preserving the original's permanent tag structure.\n\nThe $1.6B startup argues verified mathematical libraries are the groundwork for trustworthy AI-written software, and that the agents even surfaced dozens of statements in the source that needed local correction."
+      },
+      "zh": {
+        "title": "Axiom Math 将整部 Stacks Project 形式化验证为 1600 万行 Lean 代码",
+        "excerpt": "AI 智能体把这部由 650 多位贡献者积累、逾 7600 页的代数几何巨著转写为机器可检验代码，填补形式化代数几何的空白，并为 AI 写软件提供可信基座。",
+        "content": "Axiom Math 表示，其 AI 智能体集群已将整部 **Stacks Project**——这部自 2005 年起由 650 多位贡献者积累、约 **7,654 页** 的代数几何基础文献——转写为约 **1600 万行** 经计算机检验的 Lean 代码，并保留了原作的永久标签结构。\n\n这家估值 **16 亿美元** 的初创认为，经过验证的数学库是可信 AI 写软件的基石；过程中智能体还发现原书数十处需在局部修正的命题，并构造了反例。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&h=400&fit=crop",
+      "category": "healthcare",
+      "readTime": 5,
+      "timeAgo": 16,
+      "date": "2026-11-06",
+      "en": {
+        "title": "Intology's Locus Autonomously Beats GPT-6 and Claude Agents at Molecular Design",
+        "excerpt": "The autonomous research system outperformed SOTA baselines and LLM coding agents on molecular property prediction, Boltz-2 potency tuning and antibody-design workflows under matched compute.",
+        "content": "Intology introduced **Locus**, an autonomous discovery system that proposes experiments, runs many in parallel on GPUs, and keeps what works. On molecular property prediction, small-molecule potency prediction and antibody-design workflows, the company reports Locus beat **state-of-the-art baselines and LLM agents** including Codex (GPT-6 Astra) and Claude Code (Opus 5.5) under matched compute.\n\nOn a proprietary task, Locus generated nearly **1 million** simulated molecule labels to overcome a tiny initial dataset — a hint that agentic R&D may outpace human-curated tools in drug and antibody design."
+      },
+      "zh": {
+        "title": "Intology 的 Locus 在分子设计上自主击败 GPT-6 与 Claude 智能体",
+        "excerpt": "这一自主科研系统在分子性质预测、Boltz-2 效力调优与抗体设计工作流上，于同等算力下胜过 SOTA 基线与 LLM 编程智能体。",
+        "content": "Intology 推出自主科研系统 **Locus**：它能提出实验方案、在 GPU 上并行跑多批实验、并保留有效结果继续迭代。在分子性质预测、小分子效力预测与抗体设计工作流上，公司称 Locus 于**同等算力**下击败了包括 Codex（GPT-6 Astra）与 Claude Code（Opus 5.5）在内的 **SOTA 基线与 LLM 智能体**。\n\n在某专有任务中，Locus 生成了近 **100 万** 条模拟分子标签，以弥补初始数据集过小的问题——这预示智能体式科研或在药物与抗体设计中超越人工打磨的工具。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 4,
+      "timeAgo": 17,
+      "date": "2026-11-06",
+      "en": {
+        "title": "Wabi, the Multi-User AI Assistant From Replika's Founder, Raises $55M at $1.25B",
+        "excerpt": "Led by IVP with a16z, Forerunner and the Alexa Fund, the startup building shared AI agents for families and groups reached a $1.25 billion valuation.",
+        "content": "**Wabi**, an AI assistant startup founded by Replika creator Eugenia Kuyda, raised **$55 million** in a round led by IVP with Andreessen Horowitz, Forerunner and Amazon's Alexa Fund, reaching a **$1.25 billion** valuation. The product targets multi-person, shared scenarios — coordinating family schedules, planning trips and group games — and is live on iOS, Android and Mac.\n\nThe raise shows investor appetite for consumer AI that lives in shared social contexts rather than one-to-one chat."
+      },
+      "zh": {
+        "title": "Replika 创始人新作 Wabi 获 5500 万美元融资，估值 12.5 亿",
+        "excerpt": "由 IVP 领投、a16z、Forerunner 与亚马逊 Alexa Fund 参投，这家面向家庭与群组共享场景的 AI 助手公司估值达 12.5 亿美元。",
+        "content": "由 Replika 创始人 Eugenia Kuyda 创办的 AI 助手公司 **Wabi** 完成 **5500 万美元** 融资，由 IVP 领投，Andreessen Horowitz、Forerunner 与亚马逊 Alexa Fund 参投，估值达 **12.5 亿美元**。产品主打多人共享场景——协调家庭日程、规划旅行与群组游戏——已上线 iOS、Android 与 Mac。\n\n这笔融资显示，投资者对活在共享社交语境、而非一对一聊天的消费级 AI 仍有浓厚兴趣。"
+      }
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 4,
+      "timeAgo": 16,
+      "date": "2026-11-06",
+      "en": {
+        "title": "Meta Ships Real-Time Voice and Expressive Avatars to Its Muse AI Agent",
+        "excerpt": "Rolling out in the US across mobile, web and Mac, Muse now holds interruptible spoken conversations with animated avatars; AI Glasses and Muse Charm support is coming next.",
+        "content": "Meta began rolling out real-time voice conversations and expressive avatars in its **Muse** app in the US on November 5, across mobile, web and Mac. Powered by Muse Realtime Voice and Muse Realtime Avatar, the agent can be interrupted mid-sentence, keeps working on background tasks while you talk, and renders an avatar whose expressions match the conversation tone.\n\nHundreds of voice styles are available, and Meta says voice conversations are coming soon to **AI Glasses** and the pocket-sized **Muse Charm** device."
+      },
+      "zh": {
+        "title": "Meta 为 Muse AI 助手加入实时语音与表情化虚拟形象",
+        "excerpt": "11 月 5 日起在美国的移动端、网页与 Mac 端推送，Muse 现在能以可打断的语音对话搭配动画形象；AI 眼镜与 Muse Charm 后续也将支持。",
+        "content": "Meta 于 11 月 5 日在美国的移动端、网页与 Mac 端，为 **Muse** 应用推送实时语音对话与表情化虚拟形象。依托 Muse Realtime Voice 与 Muse Realtime Avatar，用户可中途打断对话，智能体在您说话时继续处理后台任务，并以表情与手势匹配对话语气。\n\n系统提供数百种语音风格，Meta 表示语音对话将很快扩展到 **AI 眼镜** 与口袋式 **Muse Charm** 设备。"
+      }
+    }
+  ]
+}
