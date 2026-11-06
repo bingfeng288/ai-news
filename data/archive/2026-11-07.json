@@ -1,0 +1,202 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+    "category": "business",
+    "readTime": 6,
+    "timeAgo": 28,
+    "date": "2026-11-07",
+    "en": {
+      "title": "AI Stocks Erase $2.3T After US Midterms as Anthropic IPO Valuation Slashed to as Low as $1.1T",
+      "excerpt": "The Nasdaq 100 fell 6.4% and wiped about $2.3T on November 5 after Democrats took Congress; prospective Anthropic IPO buyers cut marks from $1.4–1.5T to $1.1–1.3T, with some citing $1T.",
+      "content": "The technology selloff that followed the November 3 US midterm elections turned into a record single-day rout for AI. On November 5 the **Nasdaq 100 dropped 6.4%**, erasing roughly **$2.3 trillion** in market value, while the semiconductor index SOX fell 12.3%. Democrats swept both chambers, and investors began pricing in tighter scrutiny of data-center buildouts.\n\nThe repricing hit the private market too. Bloomberg reported on November 6 that prospective buyers of Anthropic's IPO — expected to kick off roadshows the week of November 9 — now discuss a valuation of **$1.1T to $1.3T**, down from the **$1.4T–$1.5T** they told bankers a week earlier and far below the **$2T** talked about in early October. The Wall Street Journal said some investors see the number falling as low as **$1T**. Anthropic filed an amended S-1 this week showing $33.24B revenue for the first nine months and a net loss of $104B.\n\nHSBC strategist Max Kettner argued a conservative **$1T** debut could steady sentiment, while Morningstar's Michael Field warned that delaying might hurt long-term prospects more. The IPO has become a defining test of whether the AI trade can regain its footing."
+    },
+    "zh": {
+      "title": "美中期选举后 AI 股单日蒸发约 2.3 万亿美元，Anthropic IPO 估值最低被压至 1.1 万亿美元",
+      "excerpt": "11 月 5 日民主党拿下国会两院后，纳指 100 单日重挫 6.4%、市值蒸发约 2.3 万亿美元；Anthropic 潜在 IPO 买家将估值从 1.4–1.5 万亿下调至 1.1–1.3 万亿，个别低至 1 万亿。",
+      "content": "11 月 3 日美国中期选举后，科技股遭遇 AI 时代罕见的单日暴跌。11 月 5 日**纳指 100 重挫 6.4%**，市值单日蒸发约 **2.3 万亿美元**，半导体指数 SOX 跌幅达 12.3%。民主党横扫参众两院，市场开始计入对数据中心扩张更严格的审查预期。\n\n私有市场同样承压。彭博 11 月 6 日报道，准备参与 Anthropic 下周路演的潜在买家，已将估值区间从一周前告诉投行的 **1.4–1.5 万亿美元**下调至 **1.1–1.3 万亿美元**；更早的 10 月初市场曾谈论 **2 万亿美元**。华尔街日报称，部分投资者认为估值可能低至 **1 万亿美元**。Anthropic 本周提交修订的 S-1，披露前九个月营收 332.4 亿美元、净亏损 1040 亿美元。\n\n汇丰策略师 Max Kettner 认为，以保守的 **1 万亿美元**估值登场反而有助于稳定情绪；晨星 Michael Field 则警告，推迟上市对长期前景的伤害可能更大。这场 IPO 已成为检验 AI 行情能否企稳的标志性事件。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 30,
+      "date": "2026-11-07",
+      "en": {
+        "title": "Thinking Machines Ships Inkling 2 Small: 594B MoE, 17B Active, Apache 2.0 Weights Promised",
+        "excerpt": "The lab's second-generation model scores 31 on the Artificial Analysis Intelligence Index and will open its weights under Apache 2.0 next week after external red-teaming.",
+        "content": "Thinking Machines Lab introduced **Inkling 2 Small** on November 5, its first second-generation model. It is a Mixture-of-Experts system with **594 billion total parameters and 17 billion active**, accepting image inputs and variable reasoning effort. On the Artificial Analysis Intelligence Index v5.0 it scores **31**, with gains in agentic coding, vision and reasoning.\n\nThe model launches as closed weights on the Tinker platform at $0.30 per million input tokens and $1.00 per million output tokens. Following the lab's safe-path-to-open-weights approach, Thinking Machines says it will release the **full weights under Apache 2.0** next week, after external safety testing and red-teaming. Reported scores include 86.3% on SWEBench Pro v2 (Hard) and 72.1% on DeepSWE v1.1."
+      },
+      "zh": {
+        "title": "Thinking Machines 发布 Inkling 2 Small：594B MoE、17B 激活，承诺开源 Apache 2.0 权重",
+        "excerpt": "这家实验室的第二代模型在 Artificial Analysis 智能指数上得分 31，将在外部红队测试完成后于下周以 Apache 2.0 协议开源完整权重。",
+        "content": "Thinking Machines Lab 于 11 月 5 日推出 **Inkling 2 Small**，这是其首个第二代模型。它采用混合专家架构，总参数 **5940 亿**、每令牌激活 **170 亿**，支持图像输入与可变推理强度，在 Artificial Analysis 智能指数 v5.0 上得分 **31**，在智能体编码、视觉与推理上均有提升。\n\n模型先在 Tinker 平台以闭源权重上线，输入每百万令牌 0.30 美元、输出 1.00 美元。遵循其「安全开放权重」路线，Thinking Machines 表示将在外部安全测试与红队评估完成后，**于下周以 Apache 2.0 协议发布完整权重**。公开指标包括 SWEBench Pro v2（Hard）86.3%、DeepSWE v1.1 72.1%。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 5,
+      "timeAgo": 30,
+      "date": "2026-11-07",
+      "en": {
+        "title": "Meta Indefinitely Pauses Controversial Web-Scraping Terms After Court Injunctions and CMA Probe",
+        "excerpt": "After Norway and Brazil granted injunctions and the UK CMA opened an investigation, Meta told Reuters it is pausing commercial-terms changes that would have let it scrape linked sites for AI training.",
+        "content": "Meta has indefinitely paused planned updates to its Commercial Terms, Product Catalog Terms, Self-Serve Ad Terms and Ad Creative Generative AI Terms, meaning they will not take effect on November 20 as scheduled. A Meta spokesperson confirmed the pause to **Reuters**, saying existing terms remain in effect while the company consults stakeholders.\n\nThe climbdown followed preliminary injunctions from **courts in Norway and Brazil** and a formal investigation by the UK's Competition and Markets Authority into whether Meta was abusing a dominant position to seize AI-training data. US Senators Schiff and Blackburn also wrote to Mark Zuckerberg urging withdrawal. Nieman Lab noted the revised terms still contain no explicit language committing to respect robots.txt preferences."
+      },
+      "zh": {
+        "title": "挪威巴西法院禁令、英国 CMA 调查后，Meta 无限期暂停争议性网页抓取条款",
+        "excerpt": "在挪威、巴西法院发出初步禁令、英国竞争与市场管理局展开调查后，Meta 向路透表示，将暂停原本会让其抓取关联网站用于 AI 训练的商务条款变更。",
+        "content": "Meta 已无限期暂停对商务条款、商品目录条款、自助广告条款及广告创意生成式 AI 条款的拟议更新，意味着这些变更不会按计划在 11 月 20 日生效。Meta 发言人对**路透**确认暂停，并表示在咨询利益相关方期间现有条款继续有效。\n\n此次退让源于**挪威与巴西法院**的初步禁令，以及英国竞争与市场管理局（CMA）就 Meta 是否滥用支配地位攫取 AI 训练数据展开的正式调查。美国参议员 Schiff 与 Blackburn 也致信扎克伯格要求撤回。Nieman Lab 指出，修订后的条款仍未包含明确承诺尊重 robots.txt 偏好的措辞。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 4,
+      "timeAgo": 30,
+      "date": "2026-11-07",
+      "en": {
+        "title": "Anthropic Adds Bank-Account Access to Claude With Read-Only Personal Finance Hub",
+        "excerpt": "Through Plaid, US Pro, Max and Ultra subscribers can link accounts and ask about spending; Claude cannot move money and the chats are not used for training.",
+        "content": "Anthropic launched a **Personal Finance** hub in Claude on November 5, letting US subscribers on Pro, Max and Ultra plans connect bank, card, loan and investment accounts via **Plaid** and ask plain-language questions about balances, spending and bills. Anthropic says access is **read-only** — Claude cannot move, manage or invest money — and that chats inside the hub are not used for training models.\n\nClaude can categorize spending, flag duplicate charges and upcoming payments, and build charts or a bill calendar. Up to 16 banks can be linked, and users can disconnect at any time. The launch follows OpenAI's similar Finances feature and arrives days before Anthropic's anticipated IPO."
+      },
+      "zh": {
+        "title": "Anthropic 为 Claude 接入银行账户，推出只读版「个人财务」中心",
+        "excerpt": "通过 Plaid，美国 Pro、Max、Ultra 订阅用户可连接账户并询问收支情况；Claude 无法动账，专区对话也不会用于训练模型。",
+        "content": "Anthropic 于 11 月 5 日在 Claude 中推出**「个人财务」**中心，美国 Pro、Max、Ultra 订阅用户可通过 **Plaid** 连接银行、信用卡、贷款与投资账户，用自然语言询问余额、支出与账单。Anthropic 表示访问为**只读**——Claude 不能转账、管理或投资资金——且专区内的对话不会用于训练模型。\n\nClaude 可归类支出、标记重复扣款与待缴账单，并生成图表或账单日历。最多可连接 16 家银行，用户可随时解除关联。该功能紧随 OpenAI 类似的 Finances 功能推出，也恰逢 Anthropic 备受瞩目的 IPO 前夕。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 5,
+      "timeAgo": 30,
+      "date": "2026-11-07",
+      "en": {
+        "title": "OpenAI Pledges No NDAs With Officials, Renames Data Centers to Compute Campuses",
+        "excerpt": "After voter backlash to data-center expansion, OpenAI published a National Community Compact promising to pay full energy costs, report water use, and drop NDAs with public officials except narrow carve-outs.",
+        "content": "On November 5 OpenAI published a **National Community Compact** and a Compute Campus Policy Blueprint for the US data centers it owns and operates. The company pledged to pay the **full cost of electricity and infrastructure**, publish site-level water and power use, commission independent noise studies, and **not use NDAs with public officials** except for narrow protections around security, trade secrets and competitively sensitive information.\n\nThe move follows growing local opposition to data-center expansion that featured in the November 3 midterms. OpenAI says the commitments build on its January Stargate community promises and specific Georgia and Ohio agreements. Critics note the compact covers only sites OpenAI owns and operates, leaving leased capacity outside its scope, and that the blueprint is a proposal rather than binding regulation."
+      },
+      "zh": {
+        "title": "面对选民反弹，OpenAI 承诺不与公职人员签保密协议，将数据中心改称算力园区",
+        "excerpt": "在数据中心扩张遭选民抵制后，OpenAI 发布《全国社区公约》，承诺全额承担能源成本、公开用水用电、除极少数例外外不与公职人员签署保密协议。",
+        "content": "11 月 5 日，OpenAI 发布由其拥有并运营的《全国社区公约》与《算力园区政策蓝图》。公司承诺**全额承担电力与基础设施成本**、公开站点级用水与用电、委托独立噪声研究，并**不与公职人员签署保密协议（NDA）**，仅对安全信息、商业秘密及竞争敏感信息等极少数情形作有限保护。\n\n此举紧随 11 月 3 日中期选举中针对数据中心扩张的本地反弹。OpenAI 表示，这些承诺建立在 1 月 Stargate 社区承诺及佐治亚、俄亥俄州具体协议之上。批评者指出，公约仅覆盖 OpenAI 自有并运营的站点，租赁产能不在范围内，且蓝皮书属于建议而非具有约束力的监管。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 5,
+      "timeAgo": 32,
+      "date": "2026-11-07",
+      "en": {
+        "title": "Apple's HALO Teaches a Unitree G1 to Navigate Unseen Rooms Using Only Simulation Data",
+        "excerpt": "A preprint reports 91% success across 360 real-world trials in six unmapped homes, training entirely on about 300 hours of synthetic motion with no teleoperation data.",
+        "content": "Apple researchers posted a preprint, **Perceptive Humanoid Motion from Simulation** (arXiv:2611.06908), on November 4 describing HALO, a humanoid autonomy system that transfers zero-shot from simulation to the physical world. Running on an off-the-shelf **Unitree G1**, it completed **91% of 360 trials** across six unmapped real environments using only natural-language requests and an onboard fisheye camera.\n\nHALO's data pipeline generates about **300 hours** of whole-body motion in 1,000 procedurally generated rooms rendered in NVIDIA Isaac Sim, replacing teleoperation. A three-layer stack — a VLM orchestrator, a motion generator, and a 50 Hz tracker — runs fully onboard the robot. The paper reports no independent validation yet, and chained tasks fell to a 70% average."
+      },
+      "zh": {
+        "title": "苹果 HALO 仅用仿真数据教会宇树 G1 在未见过的房间里导航",
+        "excerpt": "一篇预印本报告称，在六个未建图真实家居中 360 次试验成功率达 91%，全程仅用约 300 小时合成动作训练，不含任何遥操作数据。",
+        "content": "苹果研究人员 11 月 4 日公布预印本**《Perceptive Humanoid Motion from Simulation》**（arXiv:2611.06908），介绍名为 HALO 的人形自主系统，可在仿真到现实之间零样本迁移。系统运行在现成的**宇树 G1** 上，仅依靠自然语言指令与机载鱼眼相机，在六个未建图的真实环境中完成 **360 次试验中的 91%**。\n\nHALO 的数据管线在 1000 个程序化生成的房间中用 NVIDIA Isaac Sim 渲染出约 **300 小时**全身动作，替代了遥操作。由视觉语言模型编排器、动作生成器与 50Hz 跟踪器组成的三层架构完全在机器人本体运行。论文尚未经同行评审独立验证，且链式任务的成功率降至平均 70%。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 4,
+      "timeAgo": 30,
+      "date": "2026-11-07",
+      "en": {
+        "title": "Xinhua and UBTECH Debut World's First Bionic Humanoid News Anchors at Media Summit",
+        "excerpt": "Named Xinyan and Xinyu, the 1:1 replicas use Xinhua's AI current-affairs agent and UBTECH's full-stack robotics, with Zhang Yimou as visual designer.",
+        "content": "On November 5 at the Seventh World Media Summit in Beijing, Xinhua News Agency and **UBTECH** unveiled what they call the world's first bionic humanoid robot news anchors, **Xinyan and Xinyu** — 1:1 human-scale replicas. The pair draw on Xinhua's AI current-affairs agent **Xinhua Yudian** and UBTECH's full-chain technology spanning bionic skin, embodied-AI hardware, an operating system and an emotional large model.\n\nAcclaimed director **Zhang Yimou** served as chief visual designer. Xinhua said the anchors can report live on camera and support multilingual output and interaction, positioning them as a new member of the newsroom rather than a replacement for journalists. Planned scenarios include study bases, city reception halls and overseas cultural exchanges."
+      },
+      "zh": {
+        "title": "新华社联合优必选在世界媒体峰会发布全球首个仿生人形机器人新闻主播",
+        "excerpt": "名为「新言」「新语」的两位 1:1 真人比例复刻主播，依托新华社 AI 时政智能体与优必选全栈技术，由张艺谋担任形象主创设计师。",
+        "content": "11 月 5 日，在北京举行的第七届世界媒体峰会上，新华社与**优必选**联合发布被称为全球首个仿生人形机器人新闻主播的**「新言」「新语」**——两款 1:1 真人比例复刻。它们依托新华社 AI 时政资讯智能体**「新华语典」**与优必选从仿生皮肤、具身智能硬件、操作系统到情感大模型的整链技术。\n\n著名导演**张艺谋**担任形象主创设计师。新华社表示，主播可现场出镜、支持多语种输出与互动，定位为编辑部的新工种而非记者的替代者。规划落地场景包括研学基地、城市会客厅与海外文化交流等。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 5,
+      "timeAgo": 34,
+      "date": "2026-11-07",
+      "en": {
+        "title": "Bleeding Llama: A Malicious GGUF File Can Drain Local LLM Memory and API Keys",
+        "excerpt": "CVE-2026-7482, a critical heap out-of-bounds read in Ollama's GGUF loader, lets an unauthenticated attacker exfiltrate env vars, API keys and chat data in three API calls; patch is Ollama 0.17.1.",
+        "content": "Researchers at Cyera disclosed **Bleeding Llama** (CVE-2026-7482), a critical heap out-of-bounds read in Ollama's Go-based GGUF loader, scored **CVSS 9.1**. Because Ollama's /api/create and /api/push endpoints listen unauthenticated on 0.0.0.0 by default, an attacker can upload a crafted GGUF whose declared tensor dimensions exceed the real data, then trigger quantization that reads adjacent heap memory during an F16 to F32 conversion.\n\nThe stolen bytes — environment variables, **API keys, system prompts and concurrent users' conversations** — survive losslessly in the output model and are pushed to an attacker-controlled registry in three unauthenticated HTTP requests. The flaw is fixed only in **Ollama 0.17.1**, and defenders are urged to bind the API to localhost and keep model-management endpoints off the public internet."
+      },
+      "zh": {
+        "title": "Bleeding Llama：一个恶意 GGUF 文件即可清空本地 LLM 内存、泄露 API 密钥",
+        "excerpt": "CVE-2026-7482 是 Ollama GGUF 加载器中严重级堆越界读漏洞，攻击者可经三次无认证 API 调用外泄环境变量、API 密钥与对话数据；修复版本为 Ollama 0.17.1。",
+        "content": "Cyera 研究人员披露了 **Bleeding Llama**（CVE-2026-7482），这是 Ollama 基于 Go 的 GGUF 加载器中的严重级堆越界读漏洞，CVSS 评分 **9.1**。由于 Ollama 的 /api/create 与 /api/push 端点默认在 0.0.0.0 上无认证监听，攻击者可上传一个声明张量维度超出实际数据的恶意 GGUF，触发量化过程中在 F16 转 F32 时读取相邻堆内存。\n\n被窃取的内容——环境变量、**API 密钥、系统提示词与并发用户对话**——在输出模型中无损保留，并经三次无认证 HTTP 请求推送到攻击者控制的注册表。该漏洞仅在 **Ollama 0.17.1** 中修复，防御方应将 API 绑定到本地回环地址，并避免将模型管理端点暴露在公网。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 5,
+      "timeAgo": 34,
+      "date": "2026-11-07",
+      "en": {
+        "title": "Replit Rebuilds Its Sandbox Around MicroVMs, Says It Avoids 96.1% of Recent Kernel CVEs",
+        "excerpt": "Replacing shared-kernel Docker containers with Cloud Hypervisor microVMs and a stripped tinyconfig kernel, Replit migrated hundreds of millions of projects with ~500ms sandbox handoff.",
+        "content": "Replit published an engineering write-up on November 4 describing a from-scratch rebuild of its sandbox engine around **microVMs**. Each sandbox now runs as a lightweight virtual machine under **Cloud Hypervisor** with KVM, carrying its own minimal Linux kernel built from **tinyconfig** with module loading disabled — replacing Docker containers that shared the host kernel.\n\nThe drivers were container escapes via Linux kernel CVEs and the need to run Docker safely inside sandboxes as AI agents accelerated vulnerability discovery. Replit audited **6,211** Linux-CNA CVEs published June 1 to November 4, 2026 and reported avoiding **5,969 (96.1%)**; sandbox acquisition takes about **500 ms**, and security updates hot-reload to production in under 15 minutes. The move mirrors broader agent-containment hardening after incidents involving OpenAI and Anthropic."
+      },
+      "zh": {
+        "title": "Replit 以微虚拟机重构沙箱，称可规避 96.1% 的近期内核 CVE",
+        "excerpt": "用 Cloud Hypervisor 微虚拟机与精简 tinyconfig 内核取代共享内核的 Docker 容器后，Replit 在约 500 毫秒的沙箱交付下迁移了数亿个项目。",
+        "content": "Replit 11 月 4 日发布工程说明，介绍从零重构、以**微虚拟机**为核心的沙箱引擎。如今每个沙箱都作为运行在 **Cloud Hypervisor** 与 KVM 之上的轻量虚拟机，携带基于 **tinyconfig** 构建、禁用模块加载的最小化 Linux 内核——取代了原先共享宿主内核的 Docker 容器。\n\n重构动因是 Linux 内核 CVE 导致的容器逃逸，以及随着 AI 智能体加速漏洞发现、需要在沙箱内安全运行 Docker 的需求。Replit 审计了 2026 年 6 月 1 日至 11 月 4 日发布的 **6211** 个 Linux-CNA CVE，称规避了 **5969 个（96.1%）**；沙箱获取耗时约 **500 毫秒**，安全更新可在 15 分钟内热加载到全部生产沙箱。这与 OpenAI、Anthropic 事件后行业强化智能体隔离的趋势一致。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 4,
+      "timeAgo": 34,
+      "date": "2026-11-07",
+      "en": {
+        "title": "Ricursive Releases Ripple-65B, an Apache 2.0 Open Model That Leads US Weights on Agentic Coding",
+        "excerpt": "The 65B dense model scores 80.52 on Terminal-Bench 2.1 and runs on a single DGX Spark; Ricursive says total R&D cost just $32M.",
+        "content": "AI chip-design startup **Ricursive Intelligence** released **Ripple-65B Preview** on November 4, a 65-billion-parameter dense Transformer under the **Apache 2.0** license on Hugging Face. It reports **80.52** on Terminal-Bench 2.1, which the company calls the top self-reported score among US open-weight models, ahead of Reflection Beam 501B (80.1) and Meta Muse Spark Open 816B (76.4).\n\nRicursive says total R&D cost was about **$32 million** — roughly a tenth of the prior agentic-coding leader — and that it reached the score with 1.4M rollouts, about 70x fewer than Beam. The model uses a 1M-token context and ships BF16 and NVFP4 checkpoints that the company says fit a single NVIDIA DGX Spark. As a Preview with light post-training, it is pitched at coding rather than general chat."
+      },
+      "zh": {
+        "title": "Ricursive 发布 Ripple-65B：以 Apache 2.0 开源、在智能体编码上领跑美国开放权重",
+        "excerpt": "这枚 650 亿稠密模型在 Terminal-Bench 2.1 上得分 80.52，可运行于单台 DGX Spark；Ricursive 称总研发成本仅 3200 万美元。",
+        "content": "AI 芯片设计初创公司 **Ricursive Intelligence** 于 11 月 4 日发布 **Ripple-65B Preview**，一枚 650 亿参数的稠密 Transformer，以 **Apache 2.0** 协议在 Hugging Face 开源。其报告在 Terminal-Bench 2.1 上得分 **80.52**，公司称为美国开放权重模型中的最高自报成绩，超过 Reflection Beam 501B（80.1）与 Meta Muse Spark Open 816B（76.4）。\n\nRicursive 称总研发成本约 **3200 万美元**——约为此前智能体编码标杆的十分之一——并以 140 万次 rollout 达到该分数，约为 Beam 的 1/70。模型支持 100 万令牌上下文，提供 BF16 与 NVFP4 检查点，公司称可装入单台 NVIDIA DGX Spark。作为后期训练较轻量的预览版，它更偏向编码而非通用对话。"
+      }
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 4,
+      "timeAgo": 30,
+      "date": "2026-11-07",
+      "en": {
+        "title": "Perplexity Launches Always-On Teammates Agents Behind Its $200/Month Max Plan",
+        "excerpt": "Persistent, role-assigned agents run 24/7, hand off to each other and ping humans in Slack; Srinivas says Perplexity deployed ~10,000 internally in 30 days.",
+        "content": "Perplexity launched **Teammates** on November 5, persistent AI agents built on Perplexity Computer that take high-level goals and own ongoing workflows. Each agent gets a role, draws on the user's projects, skills and memory, and can coordinate with other agents and ping humans in Slack. Access is bundled into the **$200-per-month Max** plan.\n\nCEO Aravind Srinivas said Perplexity deployed about **10,000 Teammates internally in 30 days** — roughly 20x headcount — with ~1,000 active on a peak day and a median of 7 agent-hours per employee per week. The default model is Claude Opus 5.5, switchable per task. The launch puts Perplexity alongside OpenAI's Dots and Anthropic's Claude Duet in the race for always-on workplace agents."
+      },
+      "zh": {
+        "title": "Perplexity 推出常驻 Teammates 智能体，藏在每月 200 美元的 Max 套餐之后",
+        "excerpt": "持续运行、分派角色的智能体可 7×24 工作、彼此交接并在 Slack 中呼叫人工；Srinivas 称 Perplexity 内部 30 天内部署约 1 万个。",
+        "content": "Perplexity 于 11 月 5 日推出 **Teammates**，这是构建在 Perplexity Computer 之上的常驻 AI 智能体，可承接高层目标并自主负责 ongoing 工作流。每个智能体拥有角色，调用用户的项目、技能与记忆，能与其他智能体协作并在 Slack 中呼叫人工。访问被打包进 **每月 200 美元的 Max** 套餐。\n\nCEO Aravind Srinivas 表示，Perplexity 内部在 30 天内部署了约 **1 万个 Teammates**——约为员工数的 20 倍——高峰日约 1000 个处于活跃状态，员工人均每周中位智能体时长 7 小时。默认模型为 Claude Opus 5.5，可按任务切换。该发布使 Perplexity 与 OpenAI 的 Dots、Anthropic 的 Claude Duet 一同跻身常驻办公智能体赛道。"
+      }
+    }
+  ]
+}
