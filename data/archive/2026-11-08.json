@@ -1,0 +1,202 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop",
+    "category": "business",
+    "readTime": 6,
+    "timeAgo": 10,
+    "date": "2026-11-08",
+    "en": {
+      "title": "Marvell to Acquire Lumentum for $115B in Largest-Ever AI Optical Interconnect Deal",
+      "excerpt": "The all-stock tie-up, backed by Nvidia, merges electrical and optical interconnect to relieve the data-center bandwidth bottleneck.",
+      "content": "On November 2, chipmaker Marvell Technology agreed to buy optical-component supplier Lumentum in an all-stock transaction valuing the combined entity at about $115 billion, one of the largest tech acquisitions on record.\n\nThe logic is the rising cost of moving data inside AI clusters: as GPU counts explode, copper links hit efficiency and distance limits, and optical elements become a hard requirement. Marvell brings electrical interconnect, switching silicon and custom AI accelerators; Lumentum supplies high-power lasers, transceivers and photonic manufacturing.\n\n**Nvidia underwrote the deal** — it invested $2 billion each in Marvell and Lumentum earlier in 2026, and CEO Jensen Huang privately signaled support, according to people familiar with the matter cited by several outlets. Investors were less sure: Marvell shares fell about 12.7% and Lumentum about 18.6% on the announcement, with analysts flagging deal premium and dilution risk. The transaction is expected to close in the first half of 2028."
+    },
+    "zh": {
+      "title": "迈威尔 1150 亿美元全股票收购 Lumentum，AI 光互连迎史诗级整合",
+      "excerpt": "在英伟达背书之下，电互连与光互连合体，直击 AI 算力集群内部的数据传输瓶颈。",
+      "content": "11 月 2 日，定制 AI 芯片大厂迈威尔科技（Marvell）宣布以全股票方式收购光通信元件供应商 Lumentum，合并后企业价值约 1150 亿美元，成为有史以来规模最大的科技并购之一。\n\n交易的底层逻辑是 AI 集群内部的数据搬运成本飙升：GPU 数量暴涨后，铜缆在能效与距离上双双触顶，光互连成为刚需。迈威尔掌握电互连、交换芯片与定制 AI 加速器，Lumentum 则提供高性能激光器、光收发模块与磷化铟制造能力。\n\n**英伟达为这笔交易背书**——其 2026 年早些时候分别向两家公司投资 20 亿美元，据多家媒体援引知情人士称，黄仁勋在交易前曾私下表达支持。市场态度谨慎：宣布当日迈威尔跌约 12.7%、Lumentum 跌约 18.6%，分析师担忧收购溢价与股权稀释。交易预计 2028 年上半年完成。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 5,
+      "timeAgo": 14,
+      "date": "2026-11-08",
+      "en": {
+        "title": "China's MIIT Issues First Network-Access Rules for AI-Agent Devices",
+        "excerpt": "Phones, tablets and wearables that ship with built-in agents must pass anti-fraud testing and carry a unique identity code.",
+        "content": "On November 6, China's Ministry of Industry and Information Technology (MIIT) released the Notice on Strengthening Network-Access Management for Agent Terminal Devices, the country's first such rule for AI-agent hardware.\n\nAgent terminals are defined as telecom devices — phones, tablets, wearables — that ship with pre-installed agents. The notice lays out a full-chain regime: developer-device adaptation verification, entry-network testing with anti-fraud and telecom-scam risk assessment, OTA upgrade filing, and a distribution-management mechanism requiring apps to declare whether they consent to agent invocation.\n\nDevices must carry a unique identity code referencing national agent-interconnection standards. The move follows the 15th Five-Year Plan push for AI phones and next-generation smart terminals, balancing innovation encouragement with user-rights protection."
+      },
+      "zh": {
+        "title": "工信部发布智能体终端进网管理通知，系国内首部相关规则",
+        "excerpt": "预置智能体的手机、平板、可穿戴设备须通过反诈评测，并配备唯一身份码。",
+        "content": "11 月 6 日，工业和信息化部发布《关于加强智能体终端设备进网管理的通知》，这是国内首部针对智能体终端设备的专项规则。\n\n通知将智能体终端定义为预置安装智能体的手机、平板、可穿戴等电信终端设备，并构建全链条管理体系：推动智能体与终端适配验证、进网检测中开展反诈风险前置评测、在线升级（OTA）须提交方案并经专家评估、分发环节要求应用声明是否同意智能体调用。\n\n终端上使用的智能体须参考智能体互联系列国家标准配备唯一身份码。该通知落实「十五五」规划中发展人工智能手机等新一代智能终端的部署，在鼓励创新与保障用户知情权、选择权之间取得平衡。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 6,
+      "timeAgo": 18,
+      "date": "2026-11-08",
+      "en": {
+        "title": "Tencent Releases Hunyuan Hy4, Its First Flagship Open-Source Model With Vision",
+        "excerpt": "The 770B-class model adds visual understanding and computer-use, and ranks first among open models on internal finance benchmarks.",
+        "content": "On November 4, Tencent released Hunyuan Hy4, its new flagship large language model, claiming it is the first time the Hy series has entered the ranks of the strongest open-source models. Hy4 will open-weight its model card soon, with responsibility-focused safeguards on cyber and bio risk.\n\nCompared with the Hy4 preview, Hy4 significantly scales pretraining and post-training, introduces vision understanding for the first time, and adds computer-use (CLI plus GUI) for handling cross-app long-horizon tasks. Internal evaluations show an average score of 83.18 and a task pass rate of 96.15%, with nine of twelve scenarios ranking first domestically.\n\nIn finance, Hy4 scored 3.04 in a blind test of 579 real tasks, ahead of Kimi K3.1 Pro (2.68) and GLM-5.3 (2.68), and its hallucination rate fell from 12.95% to 7.2%. Pricing stays unchanged at 6 yuan per million input tokens and 18 yuan per million output tokens."
+      },
+      "zh": {
+        "title": "腾讯混元 Hy4 正式版发布，首次支持视觉理解与电脑操作",
+        "excerpt": "这一 770B 级别模型新增视觉理解与 ComputerUse，并在内部金融评测中居开源模型第一。",
+        "content": "11 月 4 日，腾讯发布新一代旗舰大模型混元 Hy4，称这是 Hy 系列首次跻身最强开源模型之列。Hy4 将于近期开源模型权重并发布系统卡片，在网络与生物安全等风险上采取更负责任的开源策略。\n\n相比 Hy4 preview，Hy4 显著扩展预训练与后训练规模，首次引入视觉理解能力，并新增电脑操作（ComputerUse）能力，可结合命令行与图形界面处理跨应用长程任务。内部评测显示平均得分 83.18、任务通过率 96.15%，12 个场景中 9 个排名国内第一。\n\n金融方面，Hy4 在 579 个真实任务盲测中得分 3.04，领先 Kimi K3.1 Pro（2.68）与 GLM-5.3（2.68）；幻觉率由 preview 版的 12.95% 降至 7.2%。定价维持不变：输入 6 元/百万 tokens、输出 18 元/百万 tokens。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 12,
+      "date": "2026-11-08",
+      "en": {
+        "title": "OpenAI Closes $11B at $1.25T Valuation Amid AI Selloff",
+        "excerpt": "The first slice of a round that could reach $20B lands the same week as GPT-6 Cyber and new data-center commitments.",
+        "content": "OpenAI has closed roughly $11 billion in new funding at a $1.25 trillion valuation, according to Bloomberg, the first portion of a round that could ultimately reach $20 billion. The company had targeted up to $30 billion at a $1.4T mark before the recent tech selloff compressed the ask.\n\nThe raise coincides with a brutal week for AI equities: after the US midterms, voters rejected data-center projects in 40 of 41 local ballot measures, and AI stocks shed roughly $2.3 trillion in a single session. In response, OpenAI pledged to end NDAs with public officials and to pay grid and infrastructure costs, including a Georgia Power deal that lets the utility cut campus load by 1,000 MW during grid stress.\n\nThe funding lands the same week OpenAI shipped GPT-6 Cyber and announced fresh data-center commitments, underscoring how capital intensity and community pushback now move together."
+      },
+      "zh": {
+        "title": "OpenAI 以 1.25 万亿美元估值完成约 110 亿美元融资",
+        "excerpt": "本轮首期款项最高可达 200 亿美元，恰逢 GPT-6 Cyber 发布与新一轮数据中心承诺。",
+        "content": "据彭博社报道，OpenAI 以 1.25 万亿美元估值完成约 110 亿美元新融资，这是一笔最高可达 200 亿美元轮次的首次交割。在近期科技股抛售前，公司曾希望以 1.4 万亿美元估值募资至多 300 亿美元，最终规模收窄而估值上行。\n\n本轮融资伴随 AI 股惨烈的一周：美国中期选举后，41 项地方数据中心表决中有 40 项被否决，AI 概念股单日蒸发约 2.3 万亿美元。作为回应，OpenAI 承诺终止与公职人员的保密协议，并承担电网与基础设施成本，包括与佐治亚电力达成的、可在电网压力时削减其园区 1000 MW 负荷的协议。\n\n资金到位恰逢 GPT-6 Cyber 发布与新一轮数据中心承诺，凸显资本开支强度与社区阻力如今同步共振。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 5,
+      "timeAgo": 16,
+      "date": "2026-11-08",
+      "en": {
+        "title": "Chainalysis Reverses Statement, Says All Users' Hashes and Live Tokens Exposed",
+        "excerpt": "A November 4 update overturned an October 30 assurance, exposing every customer's password hashes and live tokens.",
+        "content": "Blockchain-analytics firm Chainalysis reversed its initial position on November 4, disclosing that names, usernames, password hashes and live tokens for all users were exposed to a malicious actor — five days after it said it had found no evidence session tokens were accessed.\n\nThe breach stemmed from an external actor using offensive agentic techniques, followed by an on-path attack that exposed a subset of customer passwords. Chainalysis took its KYT transaction-screening interface, API, address-screening products and login page offline after abnormal activity, and is notifying customers whose KYT accounts appear to have been accessed without authorization.\n\nThe company requires every user to reset passwords and rotate API keys, and customers are warned that reused credentials and integrations have separate lifecycles. The incident is one node in a wider wave of AI-driven attacks against platforms holding high-value API keys."
+      },
+      "zh": {
+        "title": "Chainalysis 改口：所有用户的密码哈希与有效令牌均遭泄露",
+        "excerpt": "11 月 4 日的更新推翻了 10 月 30 日的保证，全部客户的哈希与实时令牌被曝光。",
+        "content": "区块链分析公司 Chainalysis 于 11 月 4 日推翻最初说法，披露所有用户的姓名、用户名、密码哈希与有效令牌均已暴露给恶意行为者——距其声称「未发现会话令牌被访问证据」仅过去五天。\n\n事件始于一外部攻击者使用攻击性智能体技术入侵，随后一次路径上（on-path）攻击暴露了部分客户密码。Chainalysis 在发现异常活动后，将 KYT 交易筛查界面、API、地址筛查产品与登录页下线，并通知疑似被未授权访问的 KYT 账户客户。\n\n公司要求所有用户重置密码并轮换 API 密钥，并提醒客户：复用的凭证与集成具有各自独立的生命周期。该事件是面向持有高价值 API 密钥平台的 AI 驱动攻击浪潮中的一环。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 5,
+      "timeAgo": 20,
+      "date": "2026-11-08",
+      "en": {
+        "title": "Google Buys Crusoe's Wyoming Site, Commits $17B to Own AI Capacity",
+        "excerpt": "After Crusoe failed to land anchor customers, Google takes the project in-house as hyperscalers shift to owning capacity.",
+        "content": "Google has acquired Crusoe's southeast Wyoming data-center site, a day after Alphabet announced a $17 billion investment to build its first Wyoming data center, Reuters reported on November 6. Financial terms of the site purchase were not disclosed.\n\nCrusoe, an AI infrastructure developer recently valued at $30.9 billion, had pitched the campus with Blackstone-backed Tallgrass but could not sign anchor customers. Google will build with Tallgrass, Black Hills Energy, American Electric Power and Related Digital, and a planned 702-MW Bloom Energy fuel-cell buildout with carbon capture will help power it.\n\nThe deal signals a strategic shift: the largest AI-capacity buyers increasingly want to own projects outright rather than rent, because permitting, power and construction risk have become harder to price. It follows Microsoft's pullback from some neocloud agreements and a midterm wave of local opposition to data centers."
+      },
+      "zh": {
+        "title": "谷歌接手 Crusoe 怀俄明州数据中心地块，斥资 170 亿自建 AI 算力",
+        "excerpt": "在 Crusoe 未能签下锚定客户后，谷歌将项目收归己有，超大规模厂商转向自有产能。",
+        "content": "据路透社 11 月 6 日报道，谷歌已收购 AI 基础设施开发商 Crusoe 位于怀俄明州东南部的数据中心地块，就在一天前 Alphabet 宣布将投资 170 亿美元建设其首座怀俄明数据中心。地块收购的具体财务条款未披露。\n\n估值约 309 亿美元的 Crusoe 曾与黑石支持的 Tallgrass 共同规划该园区，却始终未能签下锚定客户。谷歌将与 Tallgrass、Black Hills Energy、美国电力公司及 Related Digital 共建，并由 Bloom Energy 提供规划中的 702 MW 带碳捕集的燃料电池供电。\n\n这笔交易标志着战略转向：最大的 AI 算力买家越来越倾向于直接持有项目而非租赁，因为审批、供电与建设风险已难以定价。此前微软已收紧部分 neocloud 协议，中期选举也出现地方反对数据中心的浪潮。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 7,
+      "timeAgo": 22,
+      "date": "2026-11-08",
+      "en": {
+        "title": "MIT CSAIL Shows GPT-6 Astra Reading and Editing Neural Network Weights",
+        "excerpt": "Without gradients, the model lifted Qwen3.5-0.8B's MATH-500 score from 7.9% to 48.1% by editing 0.016% of weights.",
+        "content": "Researchers at MIT CSAIL published eight experiments on November 2 demonstrating what they call weight-space programming: a frontier model (GPT-6 Astra) that reads raw neural-network weights as text and edits them directly, with no optimizer or gradient descent.\n\nIn the headline result, Astra diagnosed a looping failure in Qwen3.5-0.8B and removed a repetition direction across layers 15 and 19, touching 131,072 weights (0.016%). MATH-500 rose from 7.9% to 48.1%, GSM8K from 13.8% to 67.1%, and IFEval from 21.0% to 62.3% — a repair of existing capability, not injected knowledge. Astra also identified games from weights alone and wrote game-playing networks from scratch that beat PPO baselines.\n\nThe authors stress this is an early proof of concept with real caveats: single runs, small samples, and an inability to add missing skills (it could not improve Gemma 3 270M at math). It points toward interpretability and a possible path to recursive self-improvement."
+      },
+      "zh": {
+        "title": "MIT CSAIL 演示 GPT-6 Astra 直接读写神经网络权重",
+        "excerpt": "无需梯度，模型仅靠修改 Qwen3.5-0.8B 的 0.016% 权重，便将其 MATH-500 成绩从 7.9% 提升至 48.1%。",
+        "content": "MIT CSAIL 研究人员于 11 月 2 日公布八项实验，提出所谓「权重空间编程」：前沿模型 GPT-6 Astra 将原始神经网络权重当作文本读取并直接修改，全程没有优化器或梯度下降。\n\n最引人注目的结果是，Astra 诊断出 Qwen3.5-0.8B 的循环推理故障，并删除第 15、19 层中与重复相关的方向分量，仅改动 131,072 个权重（占 0.016%）。MATH-500 从 7.9% 升至 48.1%，GSM8K 从 13.8% 升至 67.1%，IFEval 从 21.0% 升至 62.3%——这是对既有能力的修复，而非注入新知识。Astra 还能仅凭权重辨识游戏，并从零编写超越 PPO 基线的游戏网络。\n\n作者强调这是带有明显局限的早期概念验证：单次运行、小样本，且无法补全缺失技能（未能提升 Gemma 3 270M 的数学）。它指向可解释性，以及一条通向递归自我改进的潜在路径。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 5,
+      "timeAgo": 19,
+      "date": "2026-11-08",
+      "en": {
+        "title": "Five AI Labs Agree on Shared Framework to Rate Cyber Jailbreaks",
+        "excerpt": "The Frontier Model Forum's v1.0 scores four dimensions and bins findings from Negligible to Critical, open for comment to Dec 21.",
+        "content": "The Frontier Model Forum — whose members are OpenAI, Anthropic, Google DeepMind, Microsoft and Amazon — released Version 1.0 of its Jailbreak Rating Framework for Frontier Cyber Threats on November 5, a shared method for rating the comparative risk of successful cyber jailbreaks.\n\nThe framework scores each jailbreak on four ordinal dimensions — capability gain, capability scope, ease of deployment and ease of discovery — and places it in one of five bands: Negligible, Low, Medium, High or Critical. The aim is to stop organizations from assessing the same bypass differently and burning patch time on low-risk issues.\n\nIt is voluntary and preliminary, with public comment open through December 21, 2026. Supporters call it a shared vocabulary; critics note it is not a regulator's seal and its credibility will rest on whether different assessors reach consistent ratings as models improve."
+      },
+      "zh": {
+        "title": "五大 AI 实验室就网络越狱风险评级框架达成共识",
+        "excerpt": "前沿模型论坛 v1.0 从四个维度打分，将结果划分为从「可忽略」到「严重」五档，公开征求意见至 12 月 21 日。",
+        "content": "由 OpenAI、Anthropic、Google DeepMind、微软与亚马逊组成的前沿模型论坛（FMF）于 11 月 5 日发布《前沿网络威胁越狱评级框架》v1.0，提供一套对成功网络越狱进行相对风险评级的通用方法。\n\n框架从能力增益、能力范围、部署难易、发现难易四个有序维度对每次越狱打分，并归入「可忽略、低、中、高、严重」五档，目的是避免各组织对同一绕过手段给出不同判断、把修补时间浪费在低危问题上。\n\n该框架属自愿性质且为初版，公开征求意见至 2026 年 12 月 21 日。支持者称其提供了一套共享话语体系；批评者指出它并非监管背书，公信力将取决于不同评估者能否在模型演进中给出一致评级。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 5,
+      "timeAgo": 24,
+      "date": "2026-11-08",
+      "en": {
+        "title": "Ant LingBot's Robot Pharmacy Wins WAIC 2026 'Best of Show'",
+        "excerpt": "A general 'brain' drives 20-plus robot form factors across 17 vendors to run a real pharmacy fulfillment loop.",
+        "content": "Ant Group's embodied-AI unit Ant LingBot won a WAIC 2026 'Best of Show' (镇馆之宝) award for its robot smart-pharmacy, built with Guoda Pharmacy, where a general 'brain' coordinates robots of different brands and configurations through a full order-to-delivery loop.\n\nThe system is already operating in Guoda Pharmacy stores in Shanghai, with no store remodeling required; robots work alongside staff and customers and assist pharmacists with high-frequency sorting, especially during night shifts. At the WAIC booth, three robots ran under the LingBot-VLA 2.0 base model, autonomously dividing labor on random orders.\n\nLingBot-VLA 2.0 was pretrained on 60,000 hours of high-quality real-world data and has adapted to more than 20 robot form factors from 17 vendors — single-arm, dual-arm, biped and wheeled — supporting whole-body freedom control for cross-embodiment generalization."
+      },
+      "zh": {
+        "title": "蚂蚁灵波机器人智慧药房获 WAIC 2026「镇馆之宝」",
+        "excerpt": "一个通用「大脑」驱动 17 家厂商的 20 余种机器人构型，跑通真实的药房履约闭环。",
+        "content": "蚂蚁集团旗下具身智能公司蚂蚁灵波凭借「基于跨本体具身大模型的机器人智慧药房」入选 2026 世界人工智能大会（WAIC）「镇馆之宝」，该方案与国大药房共建，用通用「大脑」调度不同品牌、不同构型的机器人，跑通从接单到交付的全流程闭环。\n\n方案已在上海国大药房门店实际运营，门店无需专门改造，机器人与店员、顾客共处，并在夜间值班等场景协助药剂师完成高频分拣。WAIC 现场，三台机器人在 LingBot-VLA 2.0 具身基座模型驱动下，按随机订单自主分工、连续完成接单与交付。\n\nLingBot-VLA 2.0 在预训练阶段融入 6 万小时高质量真实数据，已适配乐聚、智元、宇树、银河通用等 17 家厂商的 20 余种机器人构型，覆盖单臂、双臂、双足与轮式，支持全身自由度控制，实现跨本体泛化。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 6,
+      "timeAgo": 26,
+      "date": "2026-11-08",
+      "en": {
+        "title": "GitHub Rebuilds Git Backend to Handle 7,200 Agent Pushes per Second",
+        "excerpt": "Project Rubicon decouples storage from compute and minimizes coordination, a 180x throughput gain in testing.",
+        "content": "At GitHub Universe, GitHub unveiled Project Rubicon, a new Git storage architecture designed for the agent era. Internal tests sustained 5,000 concurrent coding agents pushing 7,200 times per second to a single repository with consistently low read latency — about 180x the old ceiling of dozens of pushes per second.\n\nThe redesign follows three principles: simplify the primitives (only reference updates need agreement), decouple storage from compute (authoritative data lives in Azure Blob Storage with ephemeral caching replicas), and minimize coordination (lock only the branch being updated, not the whole repo). A separate Ref-CAS service handles reference transactions, and pack compaction runs on background nodes.\n\nGitHub says it has moved 99.99999% of repositories into Azure and expects everyone migrated to the new architecture by early next year, as agents shift write patterns from occasional commits to a near-constant stream."
+      },
+      "zh": {
+        "title": "GitHub 重建 Git 后端，单仓库扛住每秒 7200 次智能体推送",
+        "excerpt": "Rubicon 项目解耦存储与计算、最小化协调，测试中吞吐提升约 180 倍。",
+        "content": "在 GitHub Universe 上，GitHub 公布了代号为 Rubicon 的新一代 Git 存储架构，专为智能体时代设计。内部测试让 5000 个并发编码智能体对单个仓库每秒推送 7200 次，且读延迟稳定——约为旧架构「单仓库每秒数十次」上限的 180 倍。\n\n重构遵循三条原则：简化原语（仅引用更新需要共识）、存储与计算解耦（权威数据存于 Azure Blob Storage，缓存副本可弃置并随需求扩展）、最小化协调（只锁正在更新的分支，而非整个仓库）。独立的 Ref-CAS 服务处理引用事务，包压缩交由后台节点完成。\n\nGitHub 称已将 99.99999% 的仓库迁入 Azure，并预计明年初全部迁移至新架构——因为智能体把写入模式从偶发提交变成了近乎恒定的数据流。"
+      }
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 17,
+      "date": "2026-11-08",
+      "en": {
+        "title": "DeepSeek Harness Hits 1.54M Daily Users, Plans Official Plugin Market",
+        "excerpt": "The agent platform burns 92 trillion tokens a day; about 35,000 third-party plugins now exist.",
+        "content": "DeepSeek disclosed on November 5 that its agent platform DeepSeek Harness reached 1.54 million daily active users and about 92 trillion tokens consumed per day as of November 4 — up 545% in daily users since its desktop app launched on September 29.\n\nThird-party plugins have grown to roughly 35,000, and about 60% of active users have created or installed at least one. The company says it will harden plugin security, improve API stability and build an official plugin marketplace, plus a token-incentive support program for plugin authors.\n\nDeepSeek frames Harness as the operating system of the agent era under an 'everything is a plugin' design, leaving professional and personalized needs to third-party developers while providing stable base capabilities."
+      },
+      "zh": {
+        "title": "DeepSeek Harness 日活达 154 万，将建官方插件市场",
+        "excerpt": "该智能体平台日耗 Token 约 92 万亿，第三方插件已增至约 3.5 万个。",
+        "content": "DeepSeek 于 11 月 5 日披露，其智能体平台 DeepSeek Harness 截至 11 月 4 日日活跃用户达 154 万、日消耗 Token 约 92 万亿，较 9 月 29 日桌面端发布时日活增长 545%。\n\n第三方插件已增至约 3.5 万个，约 60% 的活跃用户制作或安装了至少一款插件。官方表示将完善插件安全机制、提升 API 稳定性，并建设官方插件市场，同时筹备以 Token 激励为核心的插件作者支持计划。\n\nDeepSeek 以「一切皆插件」的设计将 Harness 定位为智能体时代的操作系统：平台提供稳定的基础能力，专业场景与个性化需求交由第三方开发者通过插件实现。"
+      }
+    }
+  ]
+}
