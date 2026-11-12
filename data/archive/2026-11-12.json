@@ -1,0 +1,202 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=600&fit=crop",
+    "category": "business",
+    "readTime": 6,
+    "timeAgo": 10,
+    "date": "2026-11-12",
+    "en": {
+      "title": "Anthropic Sets IPO Terms: $70 to $78 a Share, Ticker ANT, Trading Set for Nov 19",
+      "excerpt": "The Claude maker filed S-1/A pricing for 825 million shares; fully diluted valuation reaches up to $1.4 trillion as the deal draws several-times oversubscription.",
+      "content": "Anthropic filed an S-1/A on 12 November 2026 setting terms for its initial public offering: 825 million Class A shares priced at $70 to $78 each under the ticker ANT on Nasdaq, with trading expected to begin on 19 November. Goldman Sachs and Morgan Stanley lead the offering. The filing discloses an $81 billion revenue run-rate as of 31 October and more than 11,900 customers paying over $100,000 a year.\n\nThe fully diluted valuation ranges from roughly $916 billion to $1.4 trillion depending on the assumed share count, and reports say the deal has drawn several times oversubscription from institutional investors. Combined with a $26 billion private placement, total proceeds could reach about $90 billion, making it one of the largest AI listings to date and a key test of public-market appetite for generative-AI economics."
+    },
+    "zh": {
+      "title": "Anthropic 敲定 IPO 条款：每股 70–78 美元，代码 ANT，预计 11 月 19 日挂牌",
+      "excerpt": "这家 Claude 开发商递交 S-1/A 定价 8.25 亿股；完全稀释估值最高达 1.4 万亿美元，机构认购据称获数倍超额覆盖。",
+      "content": "Anthropic 于 2026 年 11 月 12 日递交 S-1/A，敲定首次公开募股条款：以每股 70 至 78 美元发行 8.25 亿股 A 类股，代码 ANT，预计 11 月 19 日在纳斯达克挂牌，高盛与摩根士丹利担任牵头承销商。文件披露截至 10 月 31 日的年化营收运行率约为 810 亿美元，年付超过 10 万美元的企业客户超过 1.19 万家。\n\n完全稀释后估值介于约 9160 亿美元至 1.4 万亿美元之间，视股本口径而定；多家媒体称机构认购已获数倍超额覆盖。叠加 260 亿美元私募配售，总募资规模最高可逼近 900 亿美元，成为迄今规模最大的 AI 上市之一，也将检验二级市场对标普级生成式 AI 商业模式的真实风险偏好。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1460454414544-c46e4fa0a3b8?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 5,
+      "timeAgo": 20,
+      "date": "2026-11-12",
+      "en": {
+        "title": "New York Opens RAISE Portal and State AI Safety Lab; Big Labs Must Register by Jan 1",
+        "excerpt": "Governor Hochul launched the NYCAIRR testing center with 80-plus researchers and the DIGIT RAISE Portal; large frontier developers face 72-hour incident reporting and fines up to $3 million.",
+        "content": "On 10 to 11 November 2026 New York Governor Kathy Hochul launched the New York Center for AI Responsibility and Research (NYCAIRR) at SUNY Binghamton and opened the RAISE Portal run by the state's new DIGIT office. NYCAIRR brings together more than 80 researchers across the state and will run independent safety testing of advanced models using Empire AI compute, coordinated with DIGIT to review developers' published safety frameworks.\n\nUnder the RAISE Act, large frontier developers — defined by over $500 million in annual gross revenue, capturing OpenAI and Anthropic — must register through the portal by 1 January 2027, publish safety frameworks, file quarterly catastrophic-risk summaries, and report critical safety incidents within 72 hours (24 hours where death or serious injury is imminent). First violations carry civil penalties up to $1 million and later ones up to $3 million. The move puts a state-level forced audit regime alongside existing corporate self-reporting."
+      },
+      "zh": {
+        "title": "纽约启用 RAISE 注册门户与州立 AI 安全实验室，头部实验室须 1 月 1 日前登记",
+        "excerpt": "霍楚尔州长推出依托 80 余名研究者的 NYCAIRR 测试中心与 DIGIT 管理的 RAISE 门户；大型前沿开发者须 72 小时上报安全事故，罚款最高 300 万美元。",
+        "content": "2026 年 11 月 10–11 日，纽约州长凯西·霍楚尔在纽约州立大学宾汉姆顿分校启动纽约 AI 责任与研究中心（NYCAIRR），并开放由新设 DIGIT 办公室管理的 RAISE 注册门户。NYCAIRR 集结全州 80 余名研究者，依托 Empire AI 算力对前沿模型开展独立安全测试，并与 DIGIT 协同审阅开发者公开的安全框架。\n\n依据 RAISE 法案，年总营收超过 5 亿美元的大型前沿开发者（涵盖 OpenAI 与 Anthropic）须于 2027 年 1 月 1 日前通过门户登记，发布安全框架、每季度提交灾难性风险摘要，并在判定发生关键安全事故后 72 小时内上报（若可能导致死亡或严重人身伤害，则 24 小时内上报）。首次违规最高罚 100 万美元，后续违规最高 300 万美元。这意味着美国地方层面首次以强制第三方安全审计替代企业自查。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1478166130743-945880741273?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 8,
+      "date": "2026-11-12",
+      "en": {
+        "title": "OpenAI's Q3 Revenue Tops $10B, Up About 50% QoQ, With a $1.09B Operating Loss",
+        "excerpt": "Enterprise demand for coding, cybersecurity and agents drove the surge; Microsoft's filings independently confirm roughly $10B in OpenAI-linked revenue.",
+        "content": "Reports from Bloomberg, the Wall Street Journal and TechCrunch say OpenAI's third-quarter 2026 revenue reached about $10 billion, up nearly 50% from $6.7 billion in the prior quarter, lifting its annualized run rate toward $50 billion. Enterprise demand across coding, cybersecurity and agents now roughly matches consumer revenue. The company still posted an adjusted operating loss near $1.09 billion, though the loss margin improved.\n\nMicrosoft's own filings corroborate the scale: for the quarter ended 30 September, Microsoft recorded about $10 billion in OpenAI-related commercial revenue, close to 11% of its total. The figures, shared with investors during fundraising, lay bare the high-burn reality of frontier labs — record sales almost entirely converted into compute and chip bills — and sharpen the pressure to cut unit inference cost before any public listing."
+      },
+      "zh": {
+        "title": "OpenAI 三季度营收突破 100 亿美元，环比增约五成，单季经营亏损 10.9 亿美元",
+        "excerpt": "编程、网络安全与智能体等企业级需求拉动增长；微软财报独立印证约 100 亿美元的 OpenAI 相关营收。",
+        "content": "据彭博、华尔街日报与 TechCrunch 报道，OpenAI 2026 年第三季度营收约达 100 亿美元，较上一季度 67 亿美元环比增长近五成，年化运行率逼近 500 亿美元。企业级在编程、网络安全与智能体上的需求已与消费端营收大致持平。公司仍录得约 10.9 亿美元的调整后经营亏损，但亏损率有所收窄。\n\n微软财报独立印证了这一规模：截至 9 月 30 日的财季中，微软来自 OpenAI 相关的商业营收约 100 亿美元，占其当季总营收近 11%。这些在融资过程中披露给投资人的数字，揭示了前沿实验室高消耗的真相——创纪录的销售额几乎全部转化为算力与芯片账单——也令其在冲刺上市前压降单位推理成本的压力陡增。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 5,
+      "timeAgo": 14,
+      "date": "2026-11-12",
+      "en": {
+        "title": "TSMC Approves Up to $1B in Stakes in OpenAI and Anthropic",
+        "excerpt": "The board authorized $500M each into the two labs' equity, deepening financial ties between the world's leading foundry and its biggest AI customers.",
+        "content": "Taiwan Semiconductor Manufacturing Company's board authorized investments of up to $500 million each in OpenAI and Anthropic, according to reporting from Reuters and the Wall Street Journal on 11 to 12 November 2026. The plan allocates $500 million for OpenAI preferred stock and $500 million for Anthropic common shares at its IPO price. The approvals are authorizations, not yet completed purchases, and accompany large capital-spending plans for chip capacity.\n\nThe move deepens the financial entanglement between the world's leading contract chipmaker and the two model developers most dependent on its advanced manufacturing. As hyperscaler AI capital expenditure runs into the hundreds of billions, TSMC is securing direct exposure to the demand it helps create — a sign that the foundry sees its fortunes increasingly bound to a handful of frontier labs."
+      },
+      "zh": {
+        "title": "台积电批准向 OpenAI 与 Anthropic 投资至多 10 亿美元",
+        "excerpt": "董事会授权各 5 亿美元入股两家实验室，加深全球最大代工厂与其最重要 AI 客户之间的资本纽带。",
+        "content": "据路透社与华尔街日报 11 月 11–12 日报道，台积电董事会批准向 OpenAI 与 Anthropic 各投资至多 5 亿美元：其中 5 亿美元用于认购 OpenAI 优先股，另 5 亿美元按 IPO 价格认购 Anthropic 普通股。这些批准属于授权而非已完成的购买，并与大规模芯片产能资本开支计划一并推出。\n\n此举加深了全球最大合约芯片制造商与最依赖其先进制程的两家模型开发者之间的资本纠缠。在超大规模厂商 AI 资本开支冲向上千亿美元的当下，台积电为自己锁定了其所催生需求的直接敞口——也表明这家代工厂越来越将自身命运与少数前沿实验室绑定。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 26,
+      "date": "2026-11-12",
+      "en": {
+        "title": "Google Fully Opens Gemini 4 Carbon, Its Flagship Reasoning Model",
+        "excerpt": "The model scores 99.1% on ARC-AGI and leads several coding and agent benchmarks; introductory API pricing is roughly half that of comparable models.",
+        "content": "Google opened Gemini 4 Carbon to paying developers and enterprises through its API on 11 November 2026, with a rollout to AI Ultra subscribers across Gemini, Search and Antigravity. The flagship reasoning model targets extended coding, research and security tasks and, per Google's own and partner testing, scores 99.1% on ARC-AGI while leading CursorBench 4.0, WANDR and AutomationBench. Introductory pricing is $2 per million input tokens and $10 per million output tokens through 30 November, after which both double — still about half the cost of comparable frontier models.\n\nGoogle is also previewing a swarm mode in Antigravity where a single request spawns named agents that divide work, run in parallel and coordinate through a shared message board. The release extends Google's vertical and agent push and directly challenges OpenAI and Anthropic on both benchmark leadership and price-per-token."
+      },
+      "zh": {
+        "title": "谷歌全量开放旗舰推理模型 Gemini 4 Carbon",
+        "excerpt": "该模型在 ARC-AGI 上取得 99.1% 得分并领跑多项编程与智能体基准；首发 API 定价约为同类模型的一半。",
+        "content": "2026 年 11 月 11 日，谷歌通过 API 向付费开发者与企业全量开放 Gemini 4 Carbon，并在 Gemini、搜索与 Antigravity 中向 AI Ultra 订阅用户推送。这款旗舰推理模型主攻长程编程、科研与网络安全任务；据谷歌及其合作伙伴测试，它在 ARC-AGI 上取得 99.1% 得分，并领跑 CursorBench 4.0、WANDR 与 AutomationBench。首发定价为每百万输入 2 美元、输出 10 美元（至 11 月 30 日），此后翻倍——仍约为同类前沿模型的一半。\n\n谷歌同时在 Antigravity 中预览 swarm 模式：单次请求即可生成具名智能体，分工并行并通过共享消息板协作。此次发布延续谷歌在垂直场景与智能体上的攻势，并在基准领先度与每 token 价格两个维度上直接挑战 OpenAI 与 Anthropic。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 5,
+      "timeAgo": 28,
+      "date": "2026-11-12",
+      "en": {
+        "title": "MiniMax Releases H3 Image With Open Weights and 4096x4096 Output",
+        "excerpt": "The community-licensed image model generates about 16-megapixel images in under 10 seconds and accepts up to 16 reference images; EU, UK, Korea and US are excluded by default.",
+        "content": "MiniMax open-sourced H3 Image on 11 November 2026, a 6-step sampling generative model that produces roughly 16-megapixel images and supports up to 16 reference images. The company says a 4096x4096 render takes under 10 seconds, and the model card and license are public. It positions H3 Image as a leading open image generator, extending the H3 series' full-modality roadmap.\n\nThe community license excludes the European Union, United Kingdom, South Korea and the United States from default authorization; parties with annual revenue above $1 million, or anyone offering hosting to third parties, must obtain separate written permission. The carve-out highlights how open-weight release terms are increasingly shaped by regional compliance and export-control considerations rather than pure openness."
+      },
+      "zh": {
+        "title": "MiniMax 开源图像模型 H3 Image，支持 4096x4096 出图",
+        "excerpt": "该社区许可的图像模型约 10 秒内生成 1600 万像素图、最多接受 16 张参考图；欧盟、英国、韩国与美国默认不在授权地域内。",
+        "content": "2026 年 11 月 11 日，MiniMax 开源图像生成模型 H3 Image：采用 6 步采样，可生成约 1600 万像素图像并支持最多 16 张参考图。公司称 4096x4096 图像生成耗时不到 10 秒，模型卡与许可证已公开。H3 Image 被定位为领先的开源生图模型，延续 H3 系列的全模态路线。\n\n其社区许可证将欧盟、英国、韩国与美国排除在默认授权地域之外；使用方或其关联方年化营收超过 100 万美元，或向第三方提供托管服务者，均须另行取得书面授权。这一排除凸显：开源权重发布条款正越来越多地受地区合规与出口管制考量塑造，而非纯粹的技术开放。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1497925921958-8a62f3d1a50d?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 5,
+      "timeAgo": 12,
+      "date": "2026-11-12",
+      "en": {
+        "title": "NVIDIA Unveils GR00T 2 at CoRL 2026, Trained on 400,000 Hours of Robot Data",
+        "excerpt": "The humanoid foundation model learns manipulation from massive human-operation video, removing much teleoperation teaching; task success ranges widely by task.",
+        "content": "NVIDIA introduced GR00T 2 at the Conference on Robot Learning (CoRL) 2026, a humanoid robot foundation model trained on about 400,000 hours of robot data. Rather than relying on extensive one-to-one teleoperation demonstration, the model learns manipulation from massive repositories of human-operation video, easing the data-collection bottleneck that has slowed general-purpose robot deployment.\n\nEarly results show task success rates that vary widely by task type, from roughly 10% to 80%, a reminder that imitation-from-video foundations still face a long generalization gap on unseen objects and environments. The release nonetheless marks NVIDIA's continued push to standardize the robot brain layer the way its GPUs standardized AI training compute."
+      },
+      "zh": {
+        "title": "英伟达在 CoRL 2026 发布 GR00T 2 机器人基础模型，训练数据达 40 万小时",
+        "excerpt": "该人形基础模型从海量人类操作视频学习动作，大幅减少遥操作示教；任务成功率随任务类型在约 10% 至 80% 间波动。",
+        "content": "英伟达在 2026 年机器人学习大会（CoRL）上推出 GR00T 2 人形机器人基础模型，训练数据约 40 万小时。与依赖大量一对一遥操作示教不同，该模型从海量人类操作视频中学习操作动作，缓解了长期拖慢通用机器人落地的数据采集瓶颈。\n\n早期结果显示任务成功率随类型差异巨大，约在 10% 至 80% 之间波动，提醒人们：从视频模仿而来的基础模型在未见过的物体与环境中仍存在巨大的泛化鸿沟。不过此次发布仍标志着英伟达持续推进机器人大脑层的标准化，一如当年其 GPU 标准化了 AI 训练算力。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600&h=400&fit=crop",
+      "category": "healthcare",
+      "readTime": 6,
+      "timeAgo": 9,
+      "date": "2026-11-12",
+      "en": {
+        "title": "DeepMind Ships AlphaGenome 2 for Cell-Specific DNA Variant Insights",
+        "excerpt": "A conditional model trained on 107M-plus cell profiles finds nearly twice as many expression-altering variants as its predecessor; available via API for non-commercial research.",
+        "content": "Google DeepMind released AlphaGenome 2 on 11 to 12 November 2026, a conditional DNA-sequence model that predicts how variants affect gene activity in specific human cell types and states rather than averaging across tissues. Trained on more than 107 million individual cell profiles spanning 68 tissues, it identifies nearly twice as many expression-altering variants as the previous state-of-the-art model and can impute missing measurements such as chromatin accessibility.\n\nIt is available today via the AlphaGenome API for non-commercial research, with a private preview for commercial use, and is explicitly not approved for clinical diagnosis. On the TenK10K immune-cell benchmark it recovered about 30% of putatively causal expression-linked variants at 90% precision, up from 16% for the prior model — a tool researchers can use to prioritize lab follow-up, not a diagnostic product."
+      },
+      "zh": {
+        "title": "DeepMind 发布 AlphaGenome 2，实现细胞层面 DNA 变异解读",
+        "excerpt": "这一条件式模型在 1.07 亿余单细胞图谱上训练，识别出的致表达变异数量接近前代两倍；已通过 API 面向非商业研究开放。",
+        "content": "谷歌 DeepMind 于 2026 年 11 月 11–12 日发布 AlphaGenome 2，这是一个条件式 DNA 序列模型，可预测变异如何影响特定人体细胞类型与状态下的基因活动，而非在多种组织间取平均。模型在横跨 68 类组织、逾 1.07 亿个单细胞图谱上训练，识别出的改变基因表达的变异数量接近此前最优模型的两倍，并能补全染色质可及性等缺失测量。\n\n该模型即日起通过 AlphaGenome API 面向非商业研究开放，商业研究处于私密预览阶段，并明确不用于临床诊断。在 TenK10K 免疫细胞基准上，它以 90% 精度召回约 30% 的假定因果表达相关变异，高于前代模型的 16%——这是一个供研究者优先安排实验验证的工具，而非诊断产品。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 6,
+      "timeAgo": 24,
+      "date": "2026-11-12",
+      "en": {
+        "title": "DeepMind's AlphaProof Code Formally Verifies Signal's Post-Quantum Protocol",
+        "excerpt": "AI agents produced Lean-checked proofs of Signal's handshake and Triple Ratchet, a notable use of agentic tooling on high-assurance cryptography.",
+        "content": "Google DeepMind applied its AlphaProof Code framework to formally verify parts of Signal's production cryptography, generating machine-checked proofs in the Lean proof assistant of the messaging app's post-quantum handshake and Triple Ratchet protocol. The effort pairs human cryptographers with AI agents that translate security claims into formally stated, verifiable theorems tied to the actual code.\n\nThe scope is specific properties of specific code, not a claim that every component is secure, but it is a notable case of agentic tooling being applied to high-assurance cryptographic verification rather than general coding. It points toward a workflow where critical protocol implementations are backed by proofs checked by machines rather than only by expert review."
+      },
+      "zh": {
+        "title": "DeepMind 用 AlphaProof Code 形式化验证 Signal 的后量子协议",
+        "excerpt": "AI 智能体在 Lean 中生成经机器校验的证明，覆盖 Signal 的握手与 Triple Ratchet 协议，是智能体工具用于高保证密码学的标志性案例。",
+        "content": "谷歌 DeepMind 将 AlphaProof Code 框架用于形式化验证 Signal 生产环境密码学的部分内容，在 Lean 证明助手中生成经机器校验的证明，覆盖这款即时通讯应用的抗量子握手与 Triple Ratchet 协议。该工作将人类密码学家与 AI 智能体配对，由智能体把安全声明翻译成可形式化陈述、并与实际代码绑定的可验证定理。\n\n其范围是特定代码上的特定属性，并非宣称每个组件都安全，但这是智能体工具应用于高保证密码学验证、而非通用编程的标志性案例。它指向一种工作流：关键协议实现由机器校验的证明背书，而不再仅依赖专家人工审查。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 6,
+      "timeAgo": 22,
+      "date": "2026-11-12",
+      "en": {
+        "title": "Microsoft Shows How Editing Under 10 Neurons Can Backdoor an AI Agent",
+        "excerpt": "The Lazarus weight-space technique needs no retraining and passes normal safety tests; defenses hinge on provenance and weight diffing against the original.",
+        "content": "Microsoft Research demonstrated Lazarus, a weight-space backdoor that turns a capable model into a sleeper agent by editing fewer than ten dormant neurons in its final feed-forward block — no retraining required. A benign-looking trigger string in the agent's context forces the edited neurons to inject an attacker's command tokens into the residual stream. On Nemotron-Terminal-8B the payload fired on at least 98.8% of held-out trigger trajectories and never on benign ones, and the same structure was exploitable on Qwen 3.6-27B and Gemma-4-31B-IT.\n\nCrucially, the backdoored model passes standard safety evaluations and behaves normally until triggered, so behavioral tests alone miss it. Microsoft's guidance: treat model weights like code — verify provenance, diff checkpoints against the declared base model before deployment and after every update, run agent code in isolated sandboxes, and require human approval for high-impact actions. The core insight was even discovered autonomously by Claude Code with Opus 4.5."
+      },
+      "zh": {
+        "title": "微软演示：改动不到 10 个神经元即可给 AI 智能体埋入后门",
+        "excerpt": "Lazarus 权重空间后门无需重训练、能通过常规安全评测；防御的关键在于模型溯源与对照原始权重的差分比对。",
+        "content": "微软研究院演示了 Lazarus——一种权重空间后门，只需修改模型末层前馈块中不到 10 个休眠神经元即可将一个能力型模型变为潜伏智能体，且无需重训练。当智能体上下文中出现看似无害的触发串时，被改写的神经元会向残差流强行注入攻击者的指令 token。在 Nemotron-Terminal-8B 上，载荷在至少 98.8% 的留出触发轨迹中触发、在良性样本上从不触发，且同样结构在 Qwen 3.6-27B 与 Gemma-4-31B-IT 上同样可利用。\n\n关键在于，被植入后门的模型能通过标准安全评测、在触发前表现正常，因此仅靠行为测试无法发现它。微软的应对建议是：把模型权重当作代码对待——核验来源、在部署前与每次更新后对照声明的基座模型做权重差分、将智能体代码置于隔离沙箱运行、并对高影响操作要求人工审批。这一核心思路甚至由 Claude Code（Opus 4.5）自主发现。"
+      }
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 6,
+      "date": "2026-11-12",
+      "en": {
+        "title": "Google Launches Gemini Decisions API for Ultra-Fast Multimodal Judgment",
+        "excerpt": "The decision-specialized model answers 1,000 closed questions in one forward pass at 150 to 250ms latency, with output tokens free and input at $0.10 per million.",
+        "content": "Google launched the Gemini Decisions API built around gemini-decision-1, a decision-specialized model that discards token-by-token autoregressive decoding for non-generative tasks such as agent routing, content risk control and rubric scoring. It evaluates up to 1,000 closed-ended questions in a single forward pass across text, images, audio, video and PDF inputs, returning results in 150 to 250 milliseconds.\n\nInput is priced at $0.10 per million tokens with output tokens fully unbilled — roughly 80% cheaper than traditional generative classification and about five times less than Gemini 3.5 Flash-Lite. The model mirrors a structure others have pursued for fast, calibrated yes/no, choice and rubric judgments, and signals a move to purpose-built inference for the high-volume decision layer of agentic systems."
+      },
+      "zh": {
+        "title": "谷歌推出 Gemini Decisions API，实现超低延迟多模态判定",
+        "excerpt": "这一决策专用模型以单次前向推理回答多达 1000 道封闭式问题，延迟 150–250 毫秒，输出 token 免费、输入每百万 0.10 美元。",
+        "content": "谷歌推出围绕 gemini-decision-1 构建的 Gemini Decisions API，这是一个决策专用模型，在智能体路由、内容风控与评分卡等非生成任务上放弃逐 token 的自回归解码。它可在单次前向推理中跨文本、图像、音频、视频与 PDF 输入评估多达 1000 道封闭式问题，150–250 毫秒内返回结果。\n\n输入定价为每百万 token 0.10 美元、输出 token 完全不计费——较传统生成式分类便宜约 80%，也约为 Gemini 3.5 Flash-Lite 的五分之一。该模型沿用了业界为快速、校准良好的「是/否、选择、评分」判定所探索的结构，也标志着面向智能体系统高频决策层、打造专用推理路径的趋势。"
+      }
+    }
+  ]
+}
