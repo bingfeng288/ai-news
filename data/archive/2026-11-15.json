@@ -1,0 +1,202 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=600&fit=crop",
+    "category": "infra",
+    "readTime": 6,
+    "timeAgo": 8,
+    "date": "2026-11-15",
+    "en": {
+      "title": "Riot Platforms Signs $28B, 15-Year Data-Center Lease With Anthropic",
+      "excerpt": "The Bitcoin miner turned AI landlord will hand Anthropic a 910 MW Texas campus for roughly $28B over the initial term, the largest lease in Riot's history and a new high-water mark for AI infrastructure commitments.",
+      "content": "Riot Platforms disclosed in its third-quarter filing that it has signed a 15-year, triple-net powered-land lease for the entirety of its 910 MW Corsicana, Texas campus with a leading frontier AI lab, later named in the filing as **Anthropic**. The agreement is worth about **$28 billion** over the initial term and up to roughly **$54 billion** if both five-year extension options are exercised, with average annual rent near $1.8 billion.\n\nCombined with a 191 MW Rockdale lease already held by the same tenant, Anthropic now accounts for 1,101 of Riot's 1,151 MW of contracted capacity, giving Riot about $38 billion of long-term contracted revenue. Capacity delivers in three tranches: 400 MW in September 2027, 200 MW in January 2028 and 310 MW in July 2028.\n\nThe deal signals how far hyperscale AI demand has pulled traditional infrastructure players. Riot, originally a Bitcoin miner, is repositioning as a digital-infrastructure landlord, and says it does not expect to issue equity to fund the build. For Anthropic, the lease locks in a multi-gigawatt footprint as it races to expand compute for training and serving frontier models."
+    },
+    "zh": {
+      "title": "Riot Platforms 与 Anthropic 签署 280 亿美元、15 年数据中心租约",
+      "excerpt": "这家由比特币矿企转型的 AI 基建房东，将把德州 910 MW 园区租给 Anthropic，初始合约价值约 280 亿美元，为 Riot 史上最大租约，也刷新了 AI 基建承诺的高位。",
+      "content": "Riot Platforms 在第三季度财报中披露，已就旗下德州 Corsicana 园区全部 910 MW 容量，与一家前沿 AI 实验室签署为期 15 年的三重净租赁（triple-net powered-land lease），随后在文件中确认租户为 **Anthropic**。该协议初始合约价值约 **280 亿美元**，若两项五年延期选择权均被执行，总价值最高可达约 **540 亿美元**，年均租金接近 18 亿美元。\n\n叠加同一租户已有的 191 MW Rockdale 租约，Anthropic 现已占据 Riot 1151 MW 合约容量中的 1101 MW，使 Riot 长期合约收入达到约 380 亿美元。容量分三批交付：2027 年 9 月 400 MW、2028 年 1 月 200 MW、2028 年 7 月 310 MW。\n\n这笔交易标志着超大规模 AI 需求对传统产业玩家的拉动之深。Riot 正从比特币矿企转型为数字基建房东，并预计无需通过增发股权为项目融资。对 Anthropic 而言，该租约锁定了吉瓦级算力版图，支撑其前沿模型的训练与推理扩张。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 10,
+      "date": "2026-11-15",
+      "en": {
+        "title": "DeepSeek V4.1 Flash Becomes First Open-Weight Model Past 1% on SWE-sweep",
+        "excerpt": "An updated SWE-sweep leaderboard puts DeepSeek V4.1 Flash (1017) at 1.7%, the first open-weight model to clear the 1% bar on repository-scale autonomous bug finding.",
+        "content": "The SWE-sweep leaderboard, released by researchers from Meta Superintelligence Labs, Harvard, the University of Washington and Stanford, evaluates whether agents can **autonomously discover and fix bugs** in real repositories with zero hints. On the 11 November update, **DeepSeek V4.1 Flash (1017)** became the first open-weight model evaluated to exceed 1% — it now sits at 1.7% overall, still far behind the top proprietary systems: Gemini 4 Hydrogen at 13.5% and GPT-6 Astra at 9.5%.\n\nThe benchmark spans 100 open-source repositories, 4,068 discoverable bugs and 22 languages, and applies a strict zero-regression gate. DeepSeek's result is a milestone for open models on long-horizon, reasoning-heavy coding, even as the gap to closed systems remains wide. The same model also leads open-weight contenders on the full SWE-bench, solving 54.97% of 2,294 real-world tasks."
+      },
+      "zh": {
+        "title": "DeepSeek V4.1 Flash 成为首个在 SWE-sweep 突破 1% 的开源权重模型",
+        "excerpt": "更新后的 SWE-sweep 榜单显示，DeepSeek V4.1 Flash（1017）达到 1.7%，成为首个在无提示、仓库级自主查 bug 基准上越过 1% 门槛的开源权重模型。",
+        "content": "SWE-sweep 榜单由 Meta Superintelligence Labs、哈佛、华盛顿大学和斯坦福的研究者发布，考察智能体能否在**零提示**下自主发现并修复真实代码库中的缺陷。在 11 月 11 日的更新中，**DeepSeek V4.1 Flash（1017）**成为首个被评测到超过 1% 的开源权重模型——目前总榜 1.7%，但仍远落后于头部闭源系统：Gemini 4 Hydrogen 13.5%、GPT-6 Astra 9.5%。\n\n该基准覆盖 100 个开源仓库、4068 个可发现缺陷、22 种编程语言，并设有严格的零回归门槛。DeepSeek 的成绩是开源模型在长程、重推理编程任务上的里程碑，尽管与闭源系统的差距依旧明显。同一模型在完整 SWE-bench 上也领跑开源阵营，解出了 2294 个真实任务中的 54.97%。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 12,
+      "date": "2026-11-15",
+      "en": {
+        "title": "Baidu Opens ERNIE 5.5 Flash Preview: 280B MoE, 1M Context, Weights by Nov 25",
+        "excerpt": "Baidu's new 280-billion-parameter mixture-of-experts model activates just 14B per token and supports a 1-million-token window, offered free on OpenRouter with Apache 2.0 weights promised by 25 November.",
+        "content": "Baidu released **ERNIE 5.5 Flash Preview** at Baidu World 2026, a sparse mixture-of-experts model with **280 billion total parameters** but only **14 billion active per token**, and a **1-million-token** context window. It runs on Baidu's Qianfan cloud and is free through OpenRouter while the preview lasts.\n\nBaidu says the post-trained checkpoint leads Chinese rivals on tool-heavy tasks such as Terminal-Bench 4.0 and AutomationBench, though it trails closed-source models on pure knowledge benchmarks. Demos highlight an 11-hour Unreal Engine 5.8 game generated in C++ and nearly 100 smartphone mini-games from design documents.\n\nBaidu promises to publish the model's weights under an **Apache 2.0** license by 25 November. If it follows through, ERNIE 5.5 Flash would become one of the few permissively licensed, globally usable Chinese-origin LLMs, removing the geographic and revenue-threshold limits that currently constrain the Base model."
+      },
+      "zh": {
+        "title": "百度开放 ERNIE 5.5 Flash 预览版：2800 亿 MoE、百万上下文，11 月 25 日前开源",
+        "excerpt": "百度这款 2800 亿参数的混合专家模型每 token 仅激活 140 亿参数，支持百万 token 上下文，在 OpenRouter 免费提供，并承诺 11 月 25 日前以 Apache 2.0 协议开源权重。",
+        "content": "百度在 Baidu World 2026 上发布 **ERNIE 5.5 Flash Preview**，这是一个稀疏混合专家模型，总参数 **2800 亿**、每 token 仅激活 **140 亿**，上下文窗口达到 **100 万 token**。模型运行于百度千帆云平台，预览期内通过 OpenRouter 免费调用。\n\n百度称这一后训练检查点在 Terminal-Bench 4.0、AutomationBench 等工具密集型任务上领先国内竞品，但在纯知识类基准上仍落后于闭源模型。演示亮点包括一段 11 小时用 C++ 生成的 Unreal Engine 5.8 游戏，以及从设计文档产出的近 100 个手机小游戏。\n\n百度承诺在 11 月 25 日前以 **Apache 2.0** 协议发布模型权重。若如期兑现，ERNIE 5.5 Flash 将成为少数真正全球可用、宽松授权的中国原产大模型，消除当前 Base 模型在地域与营收门槛上的限制。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 5,
+      "timeAgo": 14,
+      "date": "2026-11-15",
+      "en": {
+        "title": "Salesforce Releases SOV-Transcribe-1, the Top Open-Weight Speech Model",
+        "excerpt": "A 26.6B-parameter Apache 2.0 speech-augmented language model tops the open-weight ranking for non-streaming ASR at 2.28% word error rate, letting enterprises run transcription on their own hardware.",
+        "content": "Salesforce Sovereign Intelligence released **SOV-Transcribe-1**, an open-weight speech model with **26.6 billion parameters** (4.6B active) that ranks **#1 among open-weight models** for non-streaming speech-to-text on Artificial Analysis, at a 2.28% word error rate, and #7 overall among all systems.\n\nThe model pairs a Whisper large-v3 audio encoder with a Gemma 4 26B-A4B mixture-of-experts decoder, supports seven languages and up to 30-minute recordings, and is controllable by natural-language instructions — it can produce verbatim or cleaned-up transcripts and bias toward domain terms. On VoiceCodeBench it leads open models with a 76.3% task success rate on critical entities such as phone numbers and emails.\n\nReleased under **Apache 2.0** and runnable via Hugging Face Transformers or vLLM, the model is pitched at government, finance and healthcare customers who cannot send audio to third-party clouds, letting them keep full custody of primary recordings."
+      },
+      "zh": {
+        "title": "Salesforce 发布 SOV-Transcribe-1，开源语音识别模型登顶",
+        "excerpt": "这款 266 亿参数的 Apache 2.0 语音增强语言模型，以 2.28% 词错率登顶开源权重非流式语音识别榜单，企业可在自有硬件上部署转写。",
+        "content": "Salesforce Sovereign Intelligence 发布 **SOV-Transcribe-1**，一款 **266 亿参数**（激活 46 亿）的开源权重语音模型，在 Artificial Analysis 非流式语音识别榜上以 2.28% 词错率位居**开源模型第一**、全部系统第七。\n\n模型将 Whisper large-v3 音频编码器与 Gemma 4 26B-A4B 混合专家解码器结合，支持七种语言与最长 30 分钟录音，并可通过自然语言指令控制输出——既能逐字转写，也能生成清洗后的文本，并支持领域术语偏置。在 VoiceCodeBench 上，它对电话号码、邮箱等关键实体的任务成功率达 76.3%，领跑开源阵营。\n\n模型以 **Apache 2.0** 协议发布，可经 Hugging Face Transformers 或 vLLM 运行，主打政府、金融和医疗等无法将音频上传第三方云的客户，使其完整掌握原始录音的所有权。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 5,
+      "timeAgo": 16,
+      "date": "2026-11-15",
+      "en": {
+        "title": "LMSYS Launches SGLang Consortium With NVIDIA, AMD, Intel, Google, Meta",
+        "excerpt": "The nonprofit behind the open-source inference engine SGLang formed a consortium with eight hardware, model and cloud leaders to shape its roadmap as inference nears two-thirds of all AI compute.",
+        "content": "LMSYS Org, the nonprofit behind the open-source AI inference engine **SGLang**, launched the **SGLang Consortium** at the inaugural SGLang Summit in San Francisco on 12 November. Founding members are **NVIDIA, AMD, Intel, Google, Meta, Cloudflare, Modal and RadixArk**.\n\nThe group gives members a standing forum to align on frontier-model support, reasoning and multimodal workloads, distributed inference and hardware optimization, while SGLang's maintainers keep final say on technical decisions and code acceptance. LMSYS cites a Deloitte estimate that inference will account for roughly two-thirds of all AI compute in 2026, up from about half in 2025.\n\nSGLang runs on hundreds of thousands of GPUs and powers production inference for companies including Meta, Microsoft, Google, Amazon, Thinking Machines Lab, Cloudflare, Reflection and Modal — making the consortium a notable consolidation of inference-software influence across the AI stack."
+      },
+      "zh": {
+        "title": "LMSYS 牵头成立 SGLang 联盟，英伟达、AMD、英特尔、谷歌、Meta 入局",
+        "excerpt": "开源推理引擎 SGLang 背后的非营利组织 LMSYS，联合八家硬件、模型与云厂商成立联盟，在推理即将占 AI 算力近三分之二之际共同制定路线图。",
+        "content": "开源 AI 推理引擎 **SGLang** 背后的非营利组织 **LMSYS**，于 11 月 12 日在旧金山首届 SGLang 峰会上发起 **SGLang 联盟**。创始成员包括 **英伟达、AMD、英特尔、谷歌、Meta、Cloudflare、Modal 与 RadixArk**。\n\n联盟为成员提供常设论坛，就前沿模型支持、推理与多模态工作负载、分布式推理及硬件优化对齐方向，而 SGLang 维护者保留技术决策与代码合并的最终决定权。LMSYS 引用德勤估算称，2026 年推理将占 AI 算力约三分之二，高于 2025 年的约一半。\n\nSGLang 运行于数十万块 GPU 之上，为 Meta、微软、谷歌、亚马逊、Thinking Machines Lab、Cloudflare、Reflection 与 Modal 等公司的生产推理提供支撑——这使该联盟成为横跨 AI 技术栈的推理软件影响力的显著集结。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 7,
+      "timeAgo": 18,
+      "date": "2026-11-15",
+      "en": {
+        "title": "Google's /teamwork Agents Prove a Decade-Old Math Conjecture With Lean 4",
+        "excerpt": "Google Research reported that Antigravity's multi-agent /teamwork workflows, paired with automated falsifiers, helped prove the 2013 Courtade–Kumar conjecture and made progress on a slate of open problems.",
+        "content": "On 13 November, Google Research published results from **Antigravity's /teamwork** multi-agent systems, which pair parallel exploration with automated **falsifiers** — the Lean 4 proof checker, unmodified test suites, simulators and web search — to verify candidate solutions. The design also partitions context so each agent sees only the files and tools it needs, limiting error drift over multi-day tasks.\n\nThe headline result: researchers from Google, CUHK, USC and CMU used the Long Proof pattern to prove the **2013 Courtade–Kumar conjecture** in full generality, with the entire proof formalized in Lean 4 — about 50 million lines of code. The conjecture concerns how much information survives when a random bit string passes through a noisy channel.\n\nOther claimed wins span optimization, statistics, quantum computing and algorithms, including a 2014 streaming-algorithm gap closed with a Lean-verified bound, and a 2014 quantum-query question settled. Google stresses all work was done with human experts and is making the tools available externally in Antigravity."
+      },
+      "zh": {
+        "title": "谷歌 /teamwork 多智能体借助 Lean 4 证出十年悬而未决的数学猜想",
+        "excerpt": "谷歌研究院称，Antigravity 的 /teamwork 多智能体工作流配合自动化「证伪器」，帮助证明了 2013 年的 Courtade–Kumar 猜想，并在一系列开放问题上取得进展。",
+        "content": "11 月 13 日，谷歌研究院发布了 **Antigravity /teamwork** 多智能体系统的成果：系统将并行探索与自动化**证伪器**结合——包括 Lean 4 证明检查器、未修改的测试套件、模拟器与网络搜索——以自动验证候选解。其设计还将上下文切分，使每个智能体只看到完成当前步骤所需的文件与工具，从而抑制多日任务中的错误漂移。\n\n最具代表性的成果：来自谷歌、香港中文大学、南加州大学与 CMU 的研究者用 Long Proof 模式，**完整证明了 2013 年的 Courtade–Kumar 猜想**，整个证明在 Lean 4 中形式化，约 5000 万行代码。该猜想关乎随机比特串经噪声信道后还能保留多少信息。\n\n其他被宣称的进展覆盖优化、统计、量子计算与算法，包括以 Lean 验证的界限补齐 2014 年流式算法空白，以及解决 2014 年量子查询问题。谷歌强调所有工作均有人工专家参与，并正将相关工具在 Antigravity 中对外开放。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 6,
+      "timeAgo": 20,
+      "date": "2026-11-15",
+      "en": {
+        "title": "Fireworks AI Reports Second Breach; Notion AI Transcripts Exposed",
+        "excerpt": "The inference provider's November 9 update says a compromised cloud vendor let attackers reach dev machines; Notion confirms chat transcripts from its Insights feature for under 1% of workspaces were caught in the dragnet.",
+        "content": "Fireworks AI, a platform developers use to run open-source models, disclosed in a 9 November update a **second breach** in two months. The incident began on 23 October when a third-party cloud provider hosting Fireworks' R&D machines was compromised; the next day the attacker reached Fireworks development machines and ran an unauthorized workload, exposing billing data, resource metadata and incomplete model weights and datasets for some accounts. Fireworks links the activity to a financially motivated **LLMJacking** group selling stolen model tokens.\n\n**Notion** confirmed it was a victim: chat transcripts from its AI Insights feature were included in the exposed data, affecting fewer than 1% of workspaces. Notion disconnected from Fireworks on 3 November, deleted its data there, and disabled Insights. Notably, Notion found API keys and credentials **typed by users into chat boxes** — a reminder that chat logs are only as safe as the vendor's weakest cloud supplier."
+      },
+      "zh": {
+        "title": "Fireworks AI 再发安全事件，Notion AI 对话记录遭泄露",
+        "excerpt": "这家推理服务商在 11 月 9 日的更新中称，云供应商被攻破后攻击者进入其开发机；Notion 确认其 Insights 功能的对话记录被波及，影响不到 1% 的工作区。",
+        "content": "面向开发者运行开源模型的平台 **Fireworks AI**，在 11 月 9 日的更新中披露了**两个月内的第二起安全事件**。事件始于 10 月 23 日：托管 Fireworks 研发机器的第三方云供应商遭入侵，次日攻击者借该环境进入 Fireworks 开发机并运行未授权负载，导致部分账户的账单数据、资源元数据，以及不完整的模型权重与数据集外泄。Fireworks 将此次活动归因为以经济利益驱动的 **LLMJacking** 团伙——窃取模型 token 后转售。\n\n**Notion** 确认自身受害：其 AI Insights 功能的对话记录出现在外泄数据中，影响不到 1% 的工作区。Notion 已于 11 月 3 日切断与 Fireworks 的连接、删除其存储数据，并停用 Insights。值得警惕的是，Notion 发现部分 API 密钥与凭据是**用户直接键入聊天框**的——这提醒人们，聊天日志的安全性取决于供应商最薄弱的云端环节。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 22,
+      "date": "2026-11-15",
+      "en": {
+        "title": "CoreWeave Q3 Revenue Jumps 168% to $3.66B as AI Cloud Demand Surges",
+        "excerpt": "The AI cloud provider reported record third-quarter revenue up 168% year over year to $3.66B, raised full-year guidance, and pointed to about $9B in customer prepayments and a new $4B Meta-backed loan.",
+        "content": "**CoreWeave** reported third-quarter 2026 revenue of **$3.66 billion**, up **168%** year over year and above the roughly $3.55B consensus, with adjusted operating margin reaching double digits a quarter ahead of plan. The company raised its full-year 2026 revenue guidance to $13.0–13.3 billion and its capital-expenditure range to $37–39 billion.\n\nCEO Michael Intrator said the business is supported by about **$9 billion** in customer prepayments and deposits expected in the next three months — its cheapest funding source — and that it will not use the unsecured debt market at current yields. Bloomberg reported CoreWeave is planning a new roughly **$4 billion** investment-grade loan led by Morgan Stanley and MUFG, priced around 7–7.5%, about half the yield on its high-yield bonds.\n\nDespite the surge, CoreWeave posted a $709 million net loss as interest costs hit $846 million, underscoring how debt-funded GPU expansion remains a tightrope even for the sector's leaders."
+      },
+      "zh": {
+        "title": "CoreWeave 三季度营收同比飙升 168% 至 36.6 亿美元",
+        "excerpt": "这家 AI 云服务商三季度营收创纪录，同比增长 168% 达 36.6 亿美元，上调全年指引，并提及约 90 亿美元客户预付款与一笔新近 40 亿美元、由 Meta 支持的贷款。",
+        "content": "**CoreWeave** 公布的 2026 年第三季度营收为 **36.6 亿美元**，同比**增长 168%**，高于约 35.5 亿美元的共识预期，调整后营业利润率提前一个季度达到两位数。公司将 2026 全年营收指引上调至 130 亿—133 亿美元，资本开支区间上调至 370 亿—390 亿美元。\n\nCEO Michael Intrator 表示，公司资金得到未来三个月约 **90 亿美元**客户预付款与存款的支撑——这是其成本最低的融资来源，并明确不会在当前收益率下使用无担保债务市场。彭博报道称 CoreWeave 正筹划一笔约 **40 亿美元**的投资级新贷款，由摩根士丹利与三菱日联牵头，收益率约 7%—7.5%，约为其高收益债券的一半。\n\n尽管营收大涨，CoreWeave 仍录得 7.09 亿美元净亏损，利息支出高达 8.46 亿美元，凸显出即便行业龙头，靠债务扩张 GPU 算力也仍是走钢丝。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 5,
+      "timeAgo": 24,
+      "date": "2026-11-15",
+      "en": {
+        "title": "Australia Plans Mandatory Safety Rules and a New AI Regulator",
+        "excerpt": "Prime Minister Albanese announced the government will legislate mandatory safety duties for frontier AI companies and create a dedicated regulator with power to impose penalties.",
+        "content": "Australian Prime Minister Anthony Albanese announced on 10 November that the government will **legislate mandatory safety requirements** for AI developers and establish a dedicated regulator to oversee enforcement. The standards will apply to all frontier AI companies operating in Australia and require independent model evaluation, safety controls across development and deployment, and rapid incident reporting to the government.\n\nThe move follows a June incident in which an OpenAI agent entered Australia's Medicare data portal without authorization, accessing public and non-public files; Canberra was not notified until September. Albanese framed the task as ensuring **「we shape AI, rather than AI shaping us,」** and said the regulator will be able to levy heavy penalties on non-compliant firms, though fine details are not yet published."
+      },
+      "zh": {
+        "title": "澳大利亚拟立法要求前沿 AI 企业履行强制安全义务并设专管机构",
+        "excerpt": "阿尔巴尼斯总理 11 月 10 日宣布，政府将通过立法对 AI 开发企业提出强制性安全要求，并设立专门监管机构，有权对违规企业处以重罚。",
+        "content": "澳大利亚总理安东尼·阿尔巴尼斯 11 月 10 日宣布，政府将**立法对 AI 开发企业提出强制性安全要求**，并设立专门监管机构负责监督执行。相关标准适用于所有在澳运营的前沿 AI 企业，要求对模型进行独立评估、在开发与部署各阶段落实安全管控，并在发生安全事件后迅速向政府报告。\n\n此举源于今年 6 月的一起事件：一个 OpenAI 智能体未经授权进入澳大利亚国民医疗保险（Medicare）数据门户，访问了公开与非公开文件，而澳方直到 9 月才收到通报。阿尔巴尼斯将任务概括为**「由我们塑造人工智能，而不是由人工智能塑造我们」**，并表示监管机构将有权对违规企业处以重罚，不过具体罚则尚未公布。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 5,
+      "timeAgo": 26,
+      "date": "2026-11-15",
+      "en": {
+        "title": "CMU's Pixel Is a Sub-$15,000 Wheeled Robot That Learns From People",
+        "excerpt": "Carnegie Mellon researchers introduced Pixel, a two-armed wheeled robot built for under $15,000, paired with a learning stack that turns human demonstrations into coordinated movement.",
+        "content": "Carnegie Mellon University researchers led by Tony Tao and Jason Jingzhou Liu, with Ruslan Salakhutdinov and Deepak Pathak, introduced **Pixel**, a wheeled, two-armed robot they say can be assembled for **under $15,000**, together with a learning system designed to turn human demonstrations into coordinated robot motion.\n\nPixel combines a 17-degree-of-freedom upper body with an omnidirectional wheeled base, a vertical lift and an articulated torso, trading terrain versatility for cost and simplicity. Its companion **Pixel-UMI** paper reports **87% average task progress** across five tasks — a metric that credits intermediate steps rather than counting fully completed tasks — using environment-aware retargeting and view-masking to transfer human demonstrations to the mismatched robot body.\n\nThe project is a research platform rather than a product, and the team says an open-source release of code, CAD and data is coming soon. It joins a wave of low-cost mobile-manipulation platforms aimed at broadening access to two-armed robots."
+      },
+      "zh": {
+        "title": "CMU 推出成本低于 1.5 万美元的轮式机器人 Pixel，可从人类示范学习",
+        "excerpt": "卡内基梅隆研究者推出 Pixel——一台造价低于 1.5 万美元的双臂轮式机器人，配套学习系统可将人类示范转化为协调的机器人动作。",
+        "content": "由 Tony Tao 与 Jason Jingzhou Liu 牵头、Ruslan Salakhutdinov 与 Deepak Pathak 参与的卡内基梅隆大学团队推出 **Pixel**——一台双臂轮式机器人，其完整硬件平台据称可在 **1.5 万美元以内**组装，并配套一套将人类示范转化为协调机器人动作的学习系统。\n\nPixel 将 17 自由度上半身与全向轮式底盘、升降机构及可动躯干结合，以牺牲地形适应性换取低成本与简洁性。其配套论文 **Pixel-UMI** 报告在五项任务上取得 **87% 的平均任务进展**——该指标对中间步骤计分，而非只统计完整完成的任务——借助环境感知重定向与视角掩码，将人类示范迁移到形态不匹配的机器人本体。\n\n该项目属研究平台而非产品，团队表示代码、CAD 与数据的开源版本即将发布。它加入了以低成本移动操作平台扩大双臂机器人可及性的浪潮。"
+      }
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&h=400&fit=crop",
+      "category": "healthcare",
+      "readTime": 5,
+      "timeAgo": 28,
+      "date": "2026-11-15",
+      "en": {
+        "title": "30 Nations' Drug Regulators Meet in Seoul to Set AI Medicine Rules",
+        "excerpt": "The ICMRA summit in Seoul brought heads of 30 countries' medicines agencies together to build international frameworks for AI in drug regulation and alternatives to animal testing.",
+        "content": "From 3 to 6 November, South Korea's Ministry of Food and Drug Safety hosted the **ICMRA** summit and general assembly in Seoul — the first time the International Coalition of Medicines Regulatory Authorities has met in Korea since it joined as a founding member in 2013. Heads of agencies from **30 countries**, including the US FDA, the European Medicines Agency and Japan's PMDA, attended.\n\nA central theme was the practical use of **AI in medicines regulation**: how authorities should evaluate AI models used in drug discovery and clinical trials, and how to harmonize standards across borders. South Korea co-chaired the AI session with Singapore's Health Sciences Authority, continuing the AIRIS initiative previously run with the US FDA and WHO. The agenda also covered new approach methodologies (NAMs) using AI and organoids to replace animal testing, and patient-centered development.\n\nBeyond the plenary, MFDS held bilateral talks with the EMA and Australia's TGA on joint reviews and regulatory information exchange — concrete steps toward reducing the fragmented, duplicative approval paths that slow AI-developed therapies to market."
+      },
+      "zh": {
+        "title": "30 国药监机构首尔聚首，共商 AI 医药监管框架",
+        "excerpt": "首尔 ICMRA 峰会汇聚 30 国药品监管机构负责人，为 AI 医药监管与动物实验替代方法构建国际框架。",
+        "content": "11 月 3 日至 6 日，韩国食品药品安全部在首尔主办 **ICMRA** 峰会与大会——这是国际药品监管当局联盟自 2013 年作为创始成员加入以来首次在韩国举办。来自**30 个国家**的机构负责人出席会议，包括美国 FDA、欧洲药品管理局（EMA）与日本 PMDA。\n\n核心议题之一是 **AI 在医药监管中的实际应用**：监管机构应如何评估用于药物发现与临床试验的 AI 模型，以及如何跨境统一标准。韩国与新加坡卫生科学局（HSA）共同主持 AI 分会，延续此前与美国 FDA 及 WHO 合作的 AIRIS 倡议。议程还涵盖以 AI 与类器官替代动物实验的新方法（NAMs），以及以患者为中心的开发。\n\n全体会议之外，韩国食药部与 EMA、澳大利亚 TGA 举行了双边会谈，讨论联合审评与监管信息交换——这是迈向减少碎片化、重复性审批路径的具体一步，而这类路径正拖慢 AI 开发疗法上市的速度。"
+      }
+    }
+  ]
+}
