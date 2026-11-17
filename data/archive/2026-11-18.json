@@ -1,0 +1,202 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop",
+    "category": "llm",
+    "readTime": 7,
+    "timeAgo": 6,
+    "date": "2026-11-18",
+    "en": {
+      "title": "OpenAI Ships GPT-6.2 Astra and Sol: Flagship API Prices Cut 20%, First Released Model to Hit High on Self-Improvement",
+      "excerpt": "OpenAI released two new models on November 17 — frontier flagship Astra for hard professional work and low-cost Sol for daily tasks — both live on ChatGPT Work, Codex and the API, with input and output prices down 20%.",
+      "content": "OpenAI officially launched **GPT-6.2 Astra** and **GPT-6.2 Sol** on November 17 (November 18 Beijing time), making both available to Plus, Pro, Enterprise and Edu users on ChatGPT Work and Codex, and via the OpenAI API.\n\n**Why it matters:** In September OpenAI shipped GPT-6 Astra and called it a generational leap, but rivals closed the gap — Anthropic's Claude Fable 5.2 beat it on several coding benchmarks and Google's Gemini 4 Carbon undercut it on price. GPT-6.2 Astra is the answer: on the Agents' Last Exam test of complex multi-step professional work it scores **5.2 points above GPT-6 Astra** and **5.5 points above Claude Fable 5.2**, at roughly **5% of Fable's per-task cost** and under one-third of its own predecessor's.\n\n**Benchmarks:** On Terminal-Bench-Science 0.1 it gained 9 points over GPT-6 Astra; on Artificial Analysis' AA-3D it tops the board at **1318 Elo** versus Fable 5.2's 1271. On the legal Harvey LAB-AA v1.1 test its pass rate is more than double Fable's at about one-sixth the cost. Sol, aimed at everyday work, trails Astra by less than 0.5 points on FrontierCode 2.0 at about one-fifth the cost.\n\n**Safety:** According to the system card, both models reach **Critical** on the cyber preparedness tier and **High** on bio/chemical. On AI self-improvement, Astra reaches **High** — the first externally released OpenAI model to do so, a level the company equates to giving every researcher a highly capable engineer assistant measured against a 2024 baseline.\n\n**Pricing:** Astra API is **$8 per million input tokens, $0.40 cached input and $40 output** — input and output down 20% from GPT-6 Astra, cached input down 60%. Sol holds at $2 / $0.10 / $10."
+    },
+    "zh": {
+      "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol：旗舰 API 降价 20%，首个达自我改进 High 档的对外模型",
+      "excerpt": "OpenAI 于 11 月 17 日发布两款新模型——面向最难专业任务的旗舰 Astra 与高性价比日常模型 Sol，同步登陆 ChatGPT Work、Codex 与 API，输入输出价格下调 20%。",
+      "content": "OpenAI 于 **11 月 17 日**（北京时间 11 月 18 日）正式发布 **GPT-6.2 Astra** 与 **GPT-6.2 Sol**，即日向 ChatGPT Work、Codex 的 Plus、Pro、Enterprise、Edu 用户及 API 开放。\n\n**为何重要：** 今年 9 月 OpenAI 推出 GPT-6 Astra 并称其为代际跃升，但竞争迅速缩小差距——Anthropic 的 Claude Fable 5.2 在多个编程基准反超，谷歌 Gemini 4 Carbon 以更低价格提供竞争力。GPT-6.2 Astra 的回应是：在考察复杂多步骤专业工作的 Agents' Last Exam 上，比 GPT-6 Astra 高 **5.2 分**、比 Claude Fable 5.2 高 **5.5 分**，单项任务成本仅为后者约 **5%**、不到上代三分之一。\n\n**基准成绩：** Terminal-Bench-Science 0.1 较上代高 9 分；Artificial Analysis 的 AA-3D 以 **1318 Elo** 排名第一，高于 Fable 5.2 的 1271。法律场景 Harvey LAB-AA v1.1 通过率为 Fable 的两倍多、成本约六分之一。定位日常的 Sol 在 FrontierCode 2.0 上仅落后 Astra 不到 0.5 分，成本约为五分之一。\n\n**安全评级：** 据官方系统卡，两款模型网络安全达 **Critical** 档、生物与化学达 **High** 档。AI 自我改进方面，Astra 达到 **High**——这是 OpenAI 首个达到该档的对外发布模型，官方称其影响相当于以 2024 年为基准给每名研究员配一名高能力研究工程师助手。\n\n**定价：** Astra API 每百万词元输入 **8 美元**、缓存输入 0.40 美元、输出 40 美元，输入输出较上代下调 20%、缓存下调 60%；Sol 维持 2 / 0.10 / 10 美元。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 8,
+      "date": "2026-11-18",
+      "en": {
+        "title": "NVIDIA Posts Record $115.8 Billion Quarter, Up 103%, Guides Q4 to $130 Billion",
+        "excerpt": "NVIDIA's fiscal 2027 third quarter revenue hit $115.8 billion, data center revenue jumped 110% to $107.6 billion, and Vera Rubin NVL72 began shipping — results that lifted shares over 4% after hours.",
+        "content": "NVIDIA reported fiscal 2027 third-quarter results after the US close on November 17 (early November 18 Beijing time), its first earnings since Colette Kress took over as interim CEO. Revenue reached **$115.8 billion, up 103% year on year** and above the $109.33 billion consensus.\n\n**The numbers:** Data center revenue — now the dominant engine — was **$107.6 billion, up 110%**. GAAP diluted earnings per share were $2.70, up 108%, and GAAP gross margin was 74.8%. Net income was about $65.3 billion.\n\n**Guidance:** NVIDIA guided fourth-quarter revenue to **$130 billion, plus or minus 3%**, above the $125.25 billion consensus, but flagged GAAP and non-GAAP gross margin of 71%–72%, down from the quarter just reported. Notably, the guidance includes **no data center revenue from China** — any such sales would be upside.\n\n**Vera Rubin:** The company said its rack-scale Vera Rubin NVL72 system has begun shipping in what it called the fastest production ramp in its history, with Oracle Cloud Infrastructure live and Google Cloud and Microsoft Azure deployments underway. Kress said Vera Rubin had a \"hot start\" and the roadmap is on track.\n\nShares fell 0.44% in regular trading but rose more than 4% after hours on the beat."
+      },
+      "zh": {
+        "title": "英伟达单季营收 1158 亿美元暴涨 103%，Q4 指引直指 1300 亿",
+        "excerpt": "英伟达 2027 财年第三季度营收 1158 亿美元、数据中心收入 1076 亿美元同增 110%，Vera Rubin NVL72 开始出货，财报超预期带动盘后涨逾 4%。",
+        "content": "英伟达于 11 月 17 日美股盘后（北京时间 11 月 18 日凌晨）公布 2027 财年第三季度财报，这是科莱特·克雷斯（Colette Kress）出任临时 CEO 后的首份财报。营收达 **1158 亿美元，同比增长 103%**，高于市场预期的 1093.3 亿美元。\n\n**核心数据：** 已成为最主要增长引擎的数据中心业务收入 **1076 亿美元，同比增长 110%**；GAAP 摊薄每股收益 2.70 美元、增长 108%；GAAP 毛利率 74.8%，净利润约 653 亿美元。\n\n**业绩指引：** 公司预计第四季度营收 **1300 亿美元、上下浮动 3%**，高于市场预期的 1252.5 亿美元；但毛利率指引为 71%–72%，低于刚公布的季度。值得注意的是，该指引**完全未计入来自中国的数据中心收入**，任何对华销售都属上行空间。\n\n**Vera Rubin：** 公司称新一代机架级系统 Vera Rubin NVL72 已开始出货，为史上最快产能爬坡；Oracle 云已上线，Google Cloud 与微软 Azure 部署进行中。克雷斯表示「Vera Rubin 开局火爆」，路线图按计划推进。\n\n股价常规交易收跌 0.44%，财报超预期后盘后涨逾 4%。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 6,
+      "timeAgo": 30,
+      "date": "2026-11-18",
+      "en": {
+        "title": "Nadella Admits Claude Code Caught Microsoft Off Guard, Urges Firms to Treat AI Agents as Insider Risks",
+        "excerpt": "On The Pragmatic Engineer, Microsoft's CEO said Anthropic's CLI-first coding tool made the IDE 'kind of fade away' in about six months, and that verification — not generation — is now the hard problem.",
+        "content": "Microsoft CEO Satya Nadella, in a November 16 episode of The Pragmatic Engineer podcast recorded in Redmond, said Anthropic's Claude Code caught Microsoft off guard and reshaped AI coding around the command line.\n\n**The admission:** Nadella said Copilot began as code completion and Microsoft matched Cursor's agent mode, but what really hit the company was Anthropic's model work, which \"truly made the CLI the form factor.\" Within about six months of Claude Code's 2025 launch, Microsoft's IDE-centric AI efforts \"kind of faded away.\" His lesson: when model jumps happen nonlinearly, the product form factor must change fast — \"don't be in love with what you built.\" He added the IDE could return if developers embed decision models inside software.\n\n**The security doctrine:** \"In a world where code generation has become cheap, what has become hard is verification,\" he said, favouring one model family checking another. Companies should treat AI agents as an **insider risk**, keep audited, tamper-proof logs of agent reasoning, and keep agent software, memory and models separate so models can be swapped. His test for sovereignty: can you swap any model and still improve on your private evaluations?\n\n**Jobs:** Nadella said Microsoft's voluntary exit offers run until December, and that the slowdown in junior hiring reflects teams rebuilding around agent-native \"software factories,\" not simple cost-cutting — calling it too early to draw long-term conclusions."
+      },
+      "zh": {
+        "title": "纳德拉罕见承认 Claude Code 打了微软措手不及：应把 AI 智能体当作「内部人风险」",
+        "excerpt": "微软 CEO 在 The Pragmatic Engineer 播客中称，Anthropic 的命令行编程工具让 IDE 在半年内「基本淡出」；代码生成变便宜后，难的是验证。",
+        "content": "微软 CEO 萨提亚·纳德拉在 11 月 16 日录制、于雷德蒙德完成的 The Pragmatic Engineer 播客中表示，Anthropic 的 Claude Code 打了微软一个措手不及，并把 AI 编程的形态推向命令行。\n\n**罕见承认：** 纳德拉回顾，Copilot 最初是代码补全，后来 Cursor 做出很强的 Agent 模式，微软跟上了；真正打到微软的，是 Anthropic 在模型上的出色工作，让 CLI 真正成了产品形态。在 Claude Code 于 2025 年推出后约六个月内，微软以 IDE 为中心的 AI 编程努力「有点淡出了」。他总结：模型能力非线性跃升时，产品形态必须快速改变，「别爱上你造出来的东西」。他也认为，若开发者把决策模型嵌入软件，IDE 可能回归。\n\n**安全主张：** 「代码生成变便宜后，难的是验证。」他倾向用一个模型家族检查另一个，并主张企业应把 AI 智能体当作**内部人风险**，保留经过审计、防篡改的智能体推理日志，并让智能体软件、记忆与模型彼此分离、随时可换。他给「主权企业」的 tester 是：能否换掉任何一个模型，仍在自己的私有评测上持续改进。\n\n**招聘：** 纳德拉称微软面向工程师的自愿离职计划开放至 12 月；应届生招聘放缓源于团队围绕智能体原生的「软件工厂」重组，而非单纯裁员，现在下长期结论「为时过早」。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 5,
+      "timeAgo": 16,
+      "date": "2026-11-18",
+      "en": {
+        "title": "Lei Jun: Xiaomi Humanoid Robots Complete Full 8-Hour Factory Shifts, Start Home Trial",
+        "excerpt": "Speaking at the APEC CEO Summit in Shenzhen, Xiaomi's founder said its embodied robots have interned in a factory for full eight-hour shifts with two self-charging breaks, while a home pilot runs 50-plus tasks.",
+        "content": "At the 2026 APEC CEO Summit held in Shenzhen on November 17–18, Xiaomi founder and CEO Lei Jun said AI's next wave is physical: the real opportunity comes when models move beyond software and combine deeply with terminals and real-world scenarios.\n\n**Factory floor:** Xiaomi's humanoid robots have been \"interning\" in its smart factory, completing a full **eight-hour shift** at a console side-cover sorting station — covering a full day's production needs, with autonomous correction of abnormalities and line-level coordination. Lei said a robot can recharge itself twice during the shift.\n\n**Home pilot:** Xiaomi's embodied foundation model has started a trial run at Xiaomi Youth Apartment. Its agent system, built on the **Xiaomi-Robotics-1** pretrained model, completed a long-horizon validation of **over 30 minutes across three rooms and more than 50 tasks**.\n\n**Bigger picture:** Lei, whose company has worked on robotics for six years, said the commercial imagination of embodied robots may even exceed that of the car industry. Xiaomi is developing its own MiMo foundation model, and its IoT platform now connects 1.16 billion devices. Earlier this month the robotics unit won a \"Leading Technology Award\" at the 2026 World Internet Conference."
+      },
+      "zh": {
+        "title": "雷军：小米人形机器人完成工厂 8 小时全天作业，家庭场景启动试运营",
+        "excerpt": "在深圳 APEC 工商领导人峰会上，雷军称小米具身机器人已在工厂实习、可完整工作八小时并自主充电，家庭场景完成 3 个房间 50 余项长程任务验证。",
+        "content": "在 11 月 17 日至 18 日于深圳举办的 2026 年 APEC 工商领导人峰会上，小米集团创始人兼 CEO 雷军表示，AI 的下一波浪潮在物理世界——当模型走出纯软件空间、与终端和真实场景深度融合，产业机会才会真正释放。\n\n**工厂实战：** 小米具身智能机器人已在智能制造工厂「实习」，在中控台侧盖板排序工站首次挑战 **8 小时作业任务**，覆盖工站全天生产需求，具备作业异常自主纠偏与产线系统级协同能力。雷军透露，机器人工作八小时期间还能两次自主充电。\n\n**家庭试运营：** 小米具身基座模型在小米青年公寓启动试运营，其 Agent 系统基于 **Xiaomi-Robotics-1** 预训练模型搭建，已完成连续超 **30 分钟、覆盖 3 个房间、包含 50 余项任务**的长程任务验证。\n\n**更大图景：** 深耕机器人六年的雷军判断，具身智能机器人的产业想象力甚至会超越汽车行业。小米正自研 MiMo 基础大模型，其 IoT 平台接入设备已达 11.6 亿台。本月初，小米机器人业务获 2026 世界互联网大会「领先科技奖」。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&h=400&fit=crop",
+      "category": "healthcare",
+      "readTime": 4,
+      "timeAgo": 12,
+      "date": "2026-11-18",
+      "en": {
+        "title": "Insilico Medicine Doses First Human With AI-Discovered Non-Opioid Painkiller Candidate",
+        "excerpt": "Just four months after preclinical candidate nomination, Insilico said it completed first-in-human dosing of ISM9528, an oral non-opioid analgesic discovered in Abu Dhabi.",
+        "content": "Insilico Medicine (HKEX: 3696) announced in a filing to the Hong Kong exchange on the evening of November 17 that it has completed **first-in-human dosing of ISM9528**, an AI-discovered, potentially first-in-class non-opioid painkiller candidate.\n\n**Timeline:** The candidate was nominated a preclinical candidate (PCC) in July 2026 by the company's Abu Dhabi team, and first dosing came just **four months later**. It is the company's 31st PCC since 2021 and the second to emerge from its UAE research operations.\n\n**The trial:** The exploratory study evaluates the safety, tolerability, pharmacokinetics and pharmacodynamics of oral ISM9528 in healthy adult volunteers. The company says it may file additional documents and, subject to regulatory approval, expand the study.\n\n**Preclinical basis:** In validated models of acute postoperative and neuropathic pain, ISM9528 as a potential oral therapy outperformed standard treatments. Comprehensive in vitro and in vivo safety screening showed a favourable profile, while rapid systemic absorption and strong blood-brain barrier penetration support good DMPK characteristics.\n\nThe company cautioned in the filing that forward-looking statements are not guarantees and that the disclosed data are unaudited."
+      },
+      "zh": {
+        "title": "英矽智能 AI 驱动非鸦片类止痛药 ISM9528 完成首例人体给药",
+        "excerpt": "英矽智能 11 月 17 日港交所公告：临床前候选药物提名仅四个月后，阿布扎比团队发现的非鸦片类口服止痛候选药完成首例人体给药。",
+        "content": "英矽智能（03696.HK）于 11 月 17 日晚间在港交所公告，宣布已完成 **ISM9528 的首例人体给药**。这是一款由 AI 驱动发现、具潜力成为同类首创的非鸦片类止痛候选药物，在阿布扎比被发现。\n\n**时间线：** ISM9528 于 2026 年 7 月由公司阿布扎比团队提名为临床前候选药物（PCC），距首例给药仅 **4 个月**。这是公司自 2021 年以来的第 31 款 PCC，也是其阿联酋研发工作产生的第二款。\n\n**试验设计：** 该探索性试验在健康成年志愿者中评估口服 ISM9528 的安全性、耐受性、药代动力学与药效学。公司表示，随研究推进或向监管机构提交额外文件，并在获批前提下扩大试验。\n\n**临床前基础：** 在经验证的急性术后疼痛与神经病理性疼痛模型中，ISM9528 作为潜在口服疗法疗效优于标准疗法；全面的体外与体内安全性筛查显示良好特性，快速全身吸收与出色的血脑屏障渗透支持良好的 DMPK 特征。\n\n公司在公告中提示，前瞻性陈述不构成保证，所披露数据未经审计。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 6,
+      "timeAgo": 26,
+      "date": "2026-11-18",
+      "en": {
+        "title": "EU AI Office Publishes Draft FRIA Template, Giving High-Risk Deployers a Compliance Questionnaire",
+        "excerpt": "The European Commission released a draft Article 27 fundamental rights impact assessment template on November 16, opening feedback until January 15, 2027 ahead of the December 2027 deadline.",
+        "content": "The European Commission's AI Office published a **draft template for the fundamental rights impact assessment (FRIA)** required by Article 27 of the EU AI Act on November 16, together with a draft explanatory notice developed with the EU Agency for Fundamental Rights.\n\n**What changed:** Article 27 previously listed six things an assessment must contain. The draft turns that into a questionnaire of roughly a dozen pages, with tick boxes, low/medium/high risk scales and a signature line. Once final, covered deployers must use it and attach it when notifying market surveillance authorities; the Commission also plans an automated tool on the AI Act Single Information Platform.\n\n**Who is in scope:** The narrow list includes public-law bodies and private entities providing public services deploying Annex III high-risk systems, deployers of creditworthiness or credit-scoring systems (except fraud detection), and life and health insurance risk assessment and pricing. A private hospital or school using a high-risk system should assume it is covered until a legal authority says otherwise.\n\n**Dates:** The FRIA obligation applies from **December 2, 2027**. Feedback on the draft is open until **January 15, 2027**, and deployers can volunteer by December 4, 2026 to test the template on a real system. The draft is not yet adopted and questions may still change."
+      },
+      "zh": {
+        "title": "欧盟 AI 法案第 27 条 FRIA 评估模板草案出炉，为高风险系统部署方给出合规问卷",
+        "excerpt": "欧盟委员会 11 月 16 日发布基本权利影响评估（FRIA）问卷草案，反馈开放至 2027 年 1 月 15 日，义务自 2027 年 12 月 2 日起适用。",
+        "content": "欧盟委员会 AI 办公室于 11 月 16 日发布《欧盟 AI 法案》第 27 条要求的**基本权利影响评估（FRIA）问卷草案**，以及与欧盟基本权利局共同起草的解释性通知。\n\n**变化：** 第 27 条此前只列出评估必须包含的六项内容。该草案将其转化为约十余页的问卷，含勾选项、低/中/高风险等级与签名栏。定稿后，适用部署方必须使用并在向市场监管机构通报结果时附上；欧委会还计划在 AI 法案单一信息平台上提供自动化工具。\n\n**适用范围：** 名单较窄，包括在教育、医疗、公共服务等附件三高风险领域使用系统的公法机构与提供公共服务的私营实体，评估信用状况或信用评分的部署方（欺诈检测除外），以及寿险与健康险的风险评估与定价。私立医院或学校使用高风险系统，应默认视为在适用范围内，除非有法律权威另有结论。\n\n**时间表：** FRIA 义务自 **2027 年 12 月 2 日**起适用；草案反馈开放至 **2027 年 1 月 15 日**；部署方可在 2026 年 12 月 4 日前申请在真实系统上试用草案。草案尚未正式通过，问题仍可能调整。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 5,
+      "timeAgo": 20,
+      "date": "2026-11-18",
+      "en": {
+        "title": "SilentGuard: Moving API Failure Detection Out of the Model Cuts LLM Agent Wrong Answers From 74% to 1.7%",
+        "excerpt": "A November 17 arXiv paper from Genentech found silent API failures in 11 of 15 public research APIs — inflating counts up to 691x — and shows that enforcing invariants in the tool harness, not warning the model, is the key.",
+        "content": "A paper posted on arXiv on November 17 (arXiv:2611.20595), ranked the top trending AI paper of the day, tackles a quiet but serious failure mode in LLM agents: **silent API failures**. An API can ignore part of a request — say a misnamed filter — yet still return HTTP 200 and a plausible, wrong result.\n\n**The problem:** Common fixes such as checklists, reviewer models and LLM judges ask the model to catch the error. But models often see the problem and answer anyway. The authors found silent failures in **11 of 15 public research APIs**, with counts inflated by as much as **691 times**. Existing fixes leave over 70% of answers wrong.\n\n**The approach:** SilentGuard moves the decision out of the model and into the harness that runs tool calls. It checks each result against invariants any correct API response must satisfy, and withholds values that break one. Across seven open models, wrong answers on the targeted faults fell from **74.0% to 1.7%** with no loss on fault-free tasks; on three frontier models, from 70.2% to 0.5%.\n\n**The key finding:** Simply warning the model left 70.1% of answers wrong — so **enforcement, not detection, is what works**. On new fault types the harness alone cut wrong answers from 61.1% to 24.5%. The system avoids wrong answers by abstaining rather than trying to recover."
+      },
+      "zh": {
+        "title": "SilentGuard：把 API 失败检测移出模型，LLM 智能体错误率从 74% 降至 1.7%",
+        "excerpt": "11 月 17 日 arXiv 论文发现 15 个公共研究 API 中 11 个存在静默失败、计数最高膨胀 691 倍；在工具运行层强制执行不变量，才是关键。",
+        "content": "11 月 17 日提交至 arXiv 的一篇论文（arXiv:2611.20595，当日热门论文第一）直击 LLM 智能体中一种隐蔽而严重的失效模式：**API 静默失败**。API 可能忽略部分请求（例如拼错的过滤条件），却仍返回 HTTP 200 与一个看似合理、实则错误的结果。\n\n**问题规模：** 常见的修复方式——检查清单、审查模型、LLM 裁判——都是让模型自己去发现问题。但模型常常看到了问题仍照答。作者在 **15 个公共研究 API 中的 11 个**发现静默失败，计数最高被放大 **691 倍**；现有修复后仍有超过 70% 的答案错误。\n\n**方法：** SilentGuard 把判断从模型移到运行工具调用的 harness：用任何正确 API 结果都必须满足的不变量去检验每个返回值，并扣留违反不变量的值。在 7 个开源模型上，针对目标故障的错误答案率从 **74.0% 降至 1.7%**，且在无故障任务上无损；3 个前沿模型上从 70.2% 降至 0.5%。\n\n**关键发现：** 仅向模型发出警告仍有 70.1% 的答案错误——因此**有效的不是检测，而是强制约束**。在新故障类型上，仅靠 harness 就把错误率从 61.1% 降到 24.5%。系统通过弃答而非强行恢复来避免输出错误。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 5,
+      "timeAgo": 22,
+      "date": "2026-11-18",
+      "en": {
+        "title": "ViRA Trains Visual Agents to Actually Read 120-Megapixel Evidence, Beating Claude Haiku 5.5",
+        "excerpt": "A November 17 arXiv paper introduces CrossRPO, which trains on contrast sets where only a tiny region changes, forcing agents to read the evidence rather than answer from common sense.",
+        "content": "Modern cameras capture tens or hundreds of megapixels, but the detail that answers a question is often tiny — a label on a distant object, a remote in someone's hand. Vision agents usually downsample, making that detail unreadable; zooming helps only if the agent truly reads what it sees. A November 17 arXiv paper (arXiv:2611.21605) argues that rewarding final-answer correctness alone cannot distinguish a lucky guess from real reading.\n\n**Contrast sets:** The method, Cross-Input Relative Policy Optimization (CrossRPO), trains on sets of near-identical images where only a small region changes and the correct answer flips. An agent answering from common sense gives the same answer to every version and can solve at most one; only reading the changed region solves the whole set. The authors prove CrossRPO does not reinforce sets answered from common sense.\n\n**Data:** ViRA-Train has 9,261 contrast sets; ViRA-Bench 762; and ViRA-Bench-Real 78 sets photographed with real changes to exclude editing artifacts. Images span 21 to 120 megapixels, and the edited object covers a median of just **0.0075%** of the image.\n\n**Results:** CrossRPO reaches **63.3% set accuracy** at maximum resolution versus 59.3% for GRPO. ViRA-9B is the most accurate open model of its size on all benchmarks, and ViRA-27B outperforms Claude Haiku 5.5 and GPT-6-Luna at their highest thinking levels on most benchmarks."
+      },
+      "zh": {
+        "title": "ViRA 让视觉智能体真正「读」懂 1.2 亿像素证据，多数基准超越 Claude Haiku 5.5",
+        "excerpt": "11 月 17 日 arXiv 论文提出 CrossRPO：用仅微小区域变化的对比集训练，迫使智能体读取证据而非凭常识作答。",
+        "content": "现代相机可拍摄数千万乃至上亿像素照片，但真正回答问题的细节往往极小——远处物体上的标签、某人手里握着的遥控器。视觉智能体通常降采样，使细节不可读；缩放工具只有在智能体真的读取所见内容时才有帮助。11 月 17 日的 arXiv 论文（arXiv:2611.21605）指出：只奖励最终答案正确，无法区分「猜对」与「读对」。\n\n**对比集：** CrossRPO（跨输入相对策略优化）在对比集上训练——多张近乎相同的图片只有小区域不同，且正确答案随之改变。凭常识作答的智能体对每个版本给出相同答案，最多只能答对一个；只有读取变化区域才能解出整组。作者证明 CrossRPO 不会强化靠常识答对的样本组。\n\n**数据：** ViRA-Train 含 9261 个对比集，ViRA-Bench 762 个，ViRA-Bench-Real 78 个（用真实拍摄变化排除编辑痕迹）。图片跨度 21 至 1.2 亿像素，被修改物体中位仅占图像 **0.0075%**。\n\n**结果：** CrossRPO 在最高分辨率下达到 **63.3% 的整组准确率**，高于 GRPO 的 59.3%。ViRA-9B 在同尺寸开源模型中全部基准最准；ViRA-27B 在多数基准上超越 Claude Haiku 5.5 与 GPT-6-Luna 的最高思考档。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 4,
+      "timeAgo": 14,
+      "date": "2026-11-18",
+      "en": {
+        "title": "NVIDIA Says Chip-to-System Cycle Can Shrink From Five Weeks to Two, Building a New CPO Supply Chain",
+        "excerpt": "In an executive interview published November 17, NVIDIA operations chief Deb Shoquist said the company allocates chips weekly and tracks every die from TSMC to customer invoice, investing in optical partners for co-packaged optics.",
+        "content": "An executive interview published on NVIDIA's website on November 17 featured operations executive vice president Deb Shoquist describing how the company is re-engineering its supply chain as it shifts from a chip vendor to a data center systems company.\n\n**The headline number:** When needed, NVIDIA can shorten the cycle from a chip leaving TSMC to a system shipping from Foxconn or Wistron **from five weeks to two**. The company allocates chips weekly based on each factory's capacity and performance, and tracks every chip from die number all the way to the customer invoice.\n\n**Why it matters:** As NVIDIA sells full rack-scale systems rather than individual chips, the supply chain must span many more technology domains. Some optical component partners have the technology but lack the scale and capital to expand. NVIDIA says it is supporting them through investment and partnerships, and building a new supply chain around **co-packaged optics (CPO)**.\n\nThe disclosure comes as the company ramps its Vera Rubin NVL72 platform, where interconnect and optical bandwidth are as critical to delivery speed as the GPUs themselves."
+      },
+      "zh": {
+        "title": "英伟达：芯片到系统出货周期可由五周缩至两周，围绕 CPO 构建新供应链",
+        "excerpt": "英伟达 11 月 17 日发布高管访谈：运营执行副总裁称可按周分配芯片、每颗全程追踪，并投资光组件伙伴构建共封装光学供应链。",
+        "content": "英伟达官网 11 月 17 日公布的高管访谈中，运营执行副总裁 Deb Shoquist 描述了公司从芯片供应商转向数据中心系统公司过程中如何重构供应链。\n\n**关键数字：** 在需要时，英伟达可将芯片从台积电出厂到系统从富士康、纬创出厂的周期**由五周缩短至两周**。公司每周根据各工厂产能与生产表现分配芯片，并对每颗芯片实施从裸片编号到客户发票的全程追踪。\n\n**为何重要：** 由于英伟达销售的是整机架系统而非单颗芯片，供应链需要覆盖更多技术领域。部分光组件合作伙伴具备技术能力，但缺乏扩产所需的规模与资金。英伟达表示正通过投资与合作支持它们，并围绕**共封装光学（CPO）**构建新的供应链。\n\n这一披露正值公司加速爬坡 Vera Rubin NVL72 平台之际——在这一平台上，互连与光带宽对交付速度的重要性已不亚于 GPU 本身。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 18,
+      "date": "2026-11-18",
+      "en": {
+        "title": "OpenAI Adds 50,000 Free Plus Grants for Researchers, Says AI Roughly Doubles Research Productivity",
+        "excerpt": "Applications for the next round of ChatGPT for Academic Researchers open November 23 on a first-come basis, expanding the goal to 200,000 researchers, alongside a report on 1,819 scientists' usage.",
+        "content": "OpenAI announced on November 17 that it is expanding its **ChatGPT for Academic Researchers** program to give free access to up to **200,000 researchers worldwide**. Applications for the next round open November 23, with **50,000 new grants awarded first-come, first-served** rather than by lottery.\n\n**The details:** Each grant covers the recipient plus up to two collaborators, and the new round offers ChatGPT Plus rather than the Pro tier given in the July pilot — most participants stayed within Plus limits, so the change extends access to more teams. The round can support up to 150,000 researchers. Since July, 20,000 researchers in 33 countries have joined, and data shared through the program is not used for training by default.\n\n**The report:** OpenAI's economic research team published *Science at the Frontier: How Scientists Use ChatGPT*, analysing more than 580,000 research messages from 1,819 scientists and surveying 251 participants. Respondents estimated that producing the same work at the same quality without AI would have taken **nearly twice as long**. Reading and learning (28%) and writing and communication (27%) were the most common uses; 68% used the tools to explore or refine research ideas, and 98% believed AI will accelerate discovery in their field."
+      },
+      "zh": {
+        "title": "OpenAI 新增 5 万个免费 Plus 科研名额，报告称 AI 令科研效率近乎翻倍",
+        "excerpt": "ChatGPT 学术研究人员计划新一轮 11 月 23 日开放、先到先得，目标扩至 20 万人；同期发布基于 1819 名科学家使用数据的研究报告。",
+        "content": "OpenAI 于 11 月 17 日宣布扩大 **ChatGPT 学术研究人员计划**，目标为全球最多 **20 万名**研究人员提供免费访问权限。新一轮申请于 11 月 23 日开放，**新增 5 万个名额先到先得**，不再采用此前试点的抽签机制。\n\n**细节：** 每个名额覆盖申请者本人及最多两名合作者；新一轮提供 ChatGPT Plus 而非 7 月试点的 Pro——因多数参与者用量在 Plus 额度内，调整后可覆盖更多团队，本轮最多支持 15 万人。自 7 月以来已有 33 个国家的 2 万名研究人员加入，通过计划分享的数据默认不用于模型训练。\n\n**报告：** OpenAI 经济研究团队发布《科学前沿：科学家如何使用 ChatGPT》，分析了 1819 名科学家的逾 58 万条科研消息，并调查 251 名参与者。受访者估计，若无 AI，以同等质量完成同样工作需**接近两倍时间**。阅读学习（28%）与写作交流（27%）是最常见用途；68% 曾用工具探索或完善研究想法，98% 认为 AI 将加速所在领域的发现。"
+      }
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 5,
+      "timeAgo": 24,
+      "date": "2026-11-18",
+      "en": {
+        "title": "Global Reports of AI-Generated Child Abuse Material Surge 8,400% in Two Years, Childlight Index Finds",
+        "excerpt": "The 2026 Into the Light Index, launched November 16 in Manila, found reports to NCMEC with a generative-AI link rose from about 4,700 in 2023 to over 400,000 in 2025, as deepfakes put real children's faces into explicit images.",
+        "content": "The Childlight Global Child Safety Institute launched its **2026 Into the Light Index** on November 16 in Manila, ahead of the Second Global Ministerial Conference on Ending Violence Against Children. The headline finding: reports of child sexual exploitation linked to generative AI rose **more than 8,400% in two years**, from roughly 4,700 in 2023 to over 400,000 in 2025 at the US National Center for Missing & Exploited Children (NCMEC).\n\n**Important caveat:** The 400,000 figure is not 400,000 confirmed cases. More than 200,000 reports indicated an AI connection but lacked enough detail to establish how, and researchers caution that changes in detection and reporting practices contributed to the rise. NCMEC has classified more than 158,000 images and videos submitted through its CyberTipline as AI-generated between January 2023 and December 2025, and identified over 275 direct victims — in many cases offenders known to the children.\n\n**The deepfake threat:** Childlight found offenders using AI to place a real child's face onto sexually explicit images, creating fabricated material that harms the child even if they never appeared in the original. AI conversations are also being used to groom children.\n\n**The gap:** Of 103 countries and areas assessed, only 22 had representative survey data. In East Asia and the Pacific, 37% lacked clear laws against online grooming. CEO Paul Stanfield argues the issue should be treated as a national security priority."
+      },
+      "zh": {
+        "title": "Childlight 指数：两年间全球涉 AI 儿童性虐待举报激增 8400%",
+        "excerpt": "11 月 16 日在马尼拉发布的《2026 Into the Light Index》显示，与美国 NCMEC 相关的生成式 AI 举报从 2023 年约 4700 起升至 2025 年逾 40 万起，深度伪造风险突出。",
+        "content": "Childlight 全球儿童安全研究所于 11 月 16 日在马尼拉发布《2026 Into the Light Index》，适值第二届全球终止侵害儿童部长级会议前夕。核心发现：与生成式 AI 相关的儿童性剥削举报两年间**激增逾 8400%**——在美国国家失踪与受虐儿童中心（NCMEC），从 2023 年约 4700 起升至 2025 年逾 **40 万起**。\n\n**重要说明：** 40 万并非 40 万起确证案件。超过 20 万起仅显示与 AI 有关联，但缺乏足够信息判断技术如何被使用；研究者也提醒，检测与报告方式的变化推高了数字。2023 年 1 月至 2025 年 12 月，NCMEC 已将通过其 CyberTipline 提交的逾 15.8 万张图片与视频归类为 AI 生成，并识别出 275 名以上的直接受害者——许多施害者是儿童身边熟人。\n\n**深度伪造威胁：** Childlight 发现，不法者利用 AI 将真实儿童的面孔合成到色情图像上，即便儿童从未出现在原始内容中，伪造材料仍会造成严重伤害。AI 对话也被用于诱骗儿童。\n\n**治理缺口：** 受评估的 103 个国家和地区中，仅 22 个有具代表性的调查数据；东亚与太平洋地区 37% 缺乏针对网络诱骗的明确法律。CEO Paul Stanfield 主张应将其视为国家安全优先事项。"
+      }
+    }
+  ]
+}
