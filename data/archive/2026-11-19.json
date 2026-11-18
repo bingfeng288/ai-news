@@ -1,0 +1,202 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&h=600&fit=crop",
+    "category": "business",
+    "readTime": 7,
+    "timeAgo": 5,
+    "date": "2026-11-19",
+    "en": {
+      "title": "Anthropic Prices Landmark IPO at $83 a Share, Valuing It at About $1.5 Trillion Ahead of Nasdaq Debut",
+      "excerpt": "Anthropic set its IPO price at $83 per share on November 18, above the earlier $70-78 range, implying a fully diluted valuation near $1.5 trillion. Shares are slated to start trading on Nasdaq under the ticker ANT on November 19, in what could be the largest AI listing yet.",
+      "content": "Anthropic priced its initial public offering at **$83 per share** on November 18, above the previously indicated $70-78 range, according to reports citing CNBC and people familiar with the matter. The price implies a fully diluted valuation of roughly **$1.5 trillion**.\n\nThe company is issuing about **825 million shares** for gross proceeds near $68.5 billion, plus a roughly $26 billion private placement, putting the total raise at about **$94.5 billion** — surpassing SpaceX's $86.2 billion June IPO and setting a new benchmark for an AI-company listing. Shares are scheduled to begin trading on Nasdaq on November 19 under the ticker **ANT**.\n\nDemand has been intense. The company disclosed that customers spending more than $100,000 a year numbered over **11,900** by the end of September, versus fewer than 950 a year earlier. The IPO lands after weeks of escalating valuation estimates; reporting has varied, with some outlets citing figures up to $1.6 trillion, so final terms should be read against the official prospectus.\n\nThe listing also sharpens a debate about the company's public identity. A coalition of researchers and technologists published a statement on November 18 challenging Anthropic's \"safe AI\" branding ahead of the offering (see related story). Neither the statement nor the pricing changes Claude's product, but public markets will now put its safety claims under investor and regulatory scrutiny."
+    },
+    "zh": {
+      "title": "Anthropic 地标式 IPO 定价每股 83 美元，估值约 1.5 万亿美元，11 月 19 日登陆纳斯达克",
+      "excerpt": "Anthropic 于 11 月 18 日将 IPO 定价为每股 83 美元，高于此前 70 至 78 美元的区间，对应完全稀释估值约 1.5 万亿美元。股票计划于 11 月 19 日以代码 ANT 在纳斯达克挂牌，或成史上最大规模 AI 上市。",
+      "content": "据援引 CNBC 及知情人士的报道，Anthropic 于 **11 月 18 日**将首次公开募股定价为**每股 83 美元**，高于此前指引的 70 至 78 美元区间，对应完全稀释估值约 **1.5 万亿美元**。\n\n公司发行约 **8.25 亿股**，毛募资约 685 亿美元，外加约 260 亿美元的私募配售，合计募资约 **945 亿美元**——超过 SpaceX 6 月 862 亿美元的 IPO，创下 AI 公司上市的新标杆。股票计划于 **11 月 19 日**以代码 **ANT** 在纳斯达克开始交易。\n\n需求极为强劲。公司披露，截至 9 月底，年付费超过 10 万美元的客户已超 **11,900 家**，而一年前不足 950 家。此次上市前数周估值预期不断上修，各家报道口径不一，部分媒体给出高达 1.6 万亿美元的数字，最终条款应以正式招股文件为准。\n\n上市也让围绕该公司「安全」定位的争论升温。一个由研究者与技术人士组成的联盟于 11 月 18 日发表声明，在 IPO 前质疑 Anthropic 的安全招牌（见相关报道）。该声明与定价本身都不改变 Claude 产品，但进入公开市场后，其安全承诺将面临投资者与监管机构的持续审视。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 6,
+      "timeAgo": 6,
+      "date": "2026-11-19",
+      "en": {
+        "title": "Google Ships Gemini 4 Neon: 1M Context, $3/$15 Per Million Tokens, No.3 on Artificial Analysis",
+        "excerpt": "Google released Gemini 4 Neon on November 18, a mid-tier Gemini 4 model built for complex coding and knowledge work. It scores 61 on the Artificial Analysis Intelligence Index and costs $3 per million input tokens.",
+        "content": "Google on November 18 released **Gemini 4 Neon**, a new Gemini 4 model positioned between the long-horizon Carbon and the speed-focused Hydrogen. Google says Neon is built for complex coding, analytical reasoning and production-grade enterprise workflows.\n\nThe headline numbers: a **1 million token** combined context window, pricing of **$3 per million input tokens** and **$15 per million output** (with cached input at $0.15, a 95% discount), and four selectable thinking levels from low to xhigh. Google reports a score of **61 on the Artificial Analysis Intelligence Index v5.0.1 at the xhigh setting, ranking third overall**, plus second place on the Vals Index (70.9%) and first on the AA Coding Agent Index.\n\nNeon is available to paid Google AI Pro and Ultra subscribers in the Gemini app and Google Antigravity, and to developers through the Gemini API and Google AI Studio. Google claims Neon costs about 32% less per task than Carbon at its default high thinking level.\n\nAll benchmark and cost figures come from Google's own model card and announcement; independent tests are still pending. For buyers, the practical advice is to compare cost per completed task on a real workload rather than list prices alone."
+      },
+      "zh": {
+        "title": "Google 发布 Gemini 4 Neon：100 万上下文，每百万 token 3/15 美元，Artificial Analysis 排名第三",
+        "excerpt": "Google 于 11 月 18 日发布 Gemini 4 Neon，定位介于 Carbon 与 Hydrogen 之间，面向复杂编码与知识工作。其在 Artificial Analysis 智能指数得 61 分，输入价格每百万 token 3 美元。",
+        "content": "Google 于 **11 月 18 日**发布 **Gemini 4 Neon**，这是一款定位介于长程 Carbon 与速度型 Hydrogen 之间的 Gemini 4 模型，主打复杂编码、分析推理与生产级企业工作流。\n\n关键参数：**100 万 token** 上下文窗口，输入每百万 **3 美元**、输出每百万 **15 美元**（缓存输入 0.15 美元，折扣 95%），并提供从 low 到 xhigh 四档思考级别。Google 称其在 xhigh 档位的 **Artificial Analysis 智能指数 v5.0.1 得 61 分、总体排第三**，Vals 指数第二（70.9%），AA 编码智能体指数排名第一。\n\nNeon 已向 Gemini 应用与 Google Antigravity 中的付费 Google AI Pro/Ultra 订阅者开放，开发者可通过 Gemini API 与 Google AI Studio 使用。Google 称在默认 high 档位下，Neon 每任务成本比 Carbon 低约 32%。\n\n所有跑分与成本数据均来自 Google 官方模型卡与公告，独立评测尚待公布。对采购方而言，更务实的做法是在真实任务上比较「每个完成任务的成本」，而非只看标价。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 7,
+      "timeAgo": 8,
+      "date": "2026-11-19",
+      "en": {
+        "title": "Microsoft Unleashes Seven In-House MAI Models at Ignite, Pricing Them to Undercut Rivals",
+        "excerpt": "At Ignite on November 17, Microsoft AI released seven self-built models spanning coding, security, images, voice and routing, claiming frontier-level quality at a fraction of rival prices. It also put its Maia 200 accelerator into production.",
+        "content": "Microsoft AI used its Ignite conference on November 17 to launch **seven in-house MAI models**, built around price-performance. The lineup covers coding (MAI Code 2 and Code 2 Flash), security (MAI Cyber 2 Flash), image generation (MAI Image 2.7), live speech (MAI Realtime 1), transcription (Dragon Copilot Transcribe on MAI Transcribe 2) and routing (Decision 1.1).\n\nThe claims are aggressive. Microsoft says **MAI Code 2 reaches 98% of GPT-6.1 Sol's coding quality at about 40% of the price**, and 96% of Claude Opus 5.5's performance at 5% of the cost. MAI Cyber 2 Flash is said to beat GPT-6 Astra's quality on CyberGym-E2E at under 2% of the cost per task. MAI Realtime 1 starts at $0.01 per audio minute. The figures include a 50% launch discount and are Microsoft's own benchmarks, not independent results.\n\nAlongside the models, Microsoft introduced **MAI Licensed Weights**, letting enterprises customize a frontier MAI model on their own data and run it inside their Azure environment; AT&T is cited as an early customer. It also confirmed its second-generation **Maia 200** accelerator is in production at 1.7x more tokens per watt, and unveiled Maia 300.\n\nThe coding models are already in GitHub Copilot. Microsoft concedes they are not yet tuned for fundamental science or very long-horizon agentic work. The strategy is clear: compete on cost per task as enterprise AI bills climb."
+      },
+      "zh": {
+        "title": "微软 Ignite 发布七款自研 MAI 模型，以低价对标 OpenAI 与 Anthropic",
+        "excerpt": "微软 AI 在 11 月 17 日 Ignite 大会发布七款自研模型，覆盖编码、安全、图像、语音与路由，宣称以对手零头的价格达到前沿质量，同时让 Maia 200 加速器投产。",
+        "content": "微软 AI 在 11 月 17 日的 **Ignite** 大会上发布**七款自研 MAI 模型**，主打价格性能比。产品线覆盖编码（MAI Code 2 与 Code 2 Flash）、安全（MAI Cyber 2 Flash）、图像（MAI Image 2.7）、实时语音（MAI Realtime 1）、转写（基于 MAI Transcribe 2 的 Dragon Copilot Transcribe）与路由（Decision 1.1）。\n\n宣称颇为激进。微软称 **MAI Code 2 达到 GPT-6.1 Sol 98% 的编码质量，价格约为其 40%**；达到 Claude Opus 5.5 性能的 96%，成本仅 5%。MAI Cyber 2 Flash 据称在 CyberGym-E2E 上以不到 2% 的每任务成本超过 GPT-6 Astra 的质量。MAI Realtime 1 起价每音频分钟 0.01 美元。这些数字含 50% 上线折扣，且均为微软自测，非独立结果。\n\n与模型一同推出的还有 **MAI Licensed Weights**：企业可用自有数据定制前沿 MAI 模型，并在自己的 Azure 环境中运行，AT&T 被列为早期客户。微软同时确认第二代 **Maia 200** 加速器已投产，每瓦 token 数提升 1.7 倍，并发布 Maia 300。\n\n编码模型已进入 GitHub Copilot。微软也承认，这些模型尚未针对基础科学研究或超长程智能体任务调优。战略很清楚：在企业 AI 账单不断攀升之际，用「每个任务的成本」竞争。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 6,
+      "timeAgo": 12,
+      "date": "2026-11-19",
+      "en": {
+        "title": "FlipTest: All 11 Video World Models Score Below Random on Counterfactual Physics",
+        "excerpt": "A Google DeepMind-led preprint finds 11 video world models all fail a simple flip test — best pair accuracy 18.3%, below the 25% of random guessing — locating the failure in reading world state, not missing pixels.",
+        "content": "A preprint from Google DeepMind, UT Austin and UC Berkeley asks video world models a blunt question: if a tiny change in the present should flip the future, does the model's prediction flip too? The answer, across every model tested, is no.\n\nThe test, called **FlipTest** (arXiv:2611.19822), builds **1,680 starting frames** from 10 simulated and 15 real-world tasks using visual minimal pairs — for example a box resting a few millimetres before a table edge versus a few millimetres past it. One stays put; the other falls. A pair counts as passed only when both opposite outcomes are predicted correctly.\n\n**All 11 models failed.** The best averaged just **18.3% pair accuracy**, below the 25% of random guessing, and none exceeded 5.3% on simulated scenes. Scale did not help: the physical-AI specialist Cosmos3-Super scored 13.7%, essentially level with the general-purpose Wan2.2 at 14.0%. Models flipped just as often on changes that leave the future unchanged as on decisive ones.\n\nThe sharpest control locates the problem: when a vision-language model was allowed to measure the frame with code instead of eyeballing it, accuracy on boundary-crossing steps jumped from 31.3% to 93.3%. The information is present; the models fail to read the state. The paper is a preprint, not peer reviewed, and scoring is judge-dependent, so treat exact numbers as provisional — but the design matters for anyone putting world models into robot or driving planners."
+      },
+      "zh": {
+        "title": "FlipTest：11 个视频世界模型在反事实物理测试中全部低于随机水平",
+        "excerpt": "一篇由 Google DeepMind 领衔的预印本报告，11 个视频世界模型全部未通过翻转测试——最佳配对准确率仅 18.3%，低于 25% 的随机猜测——失败点在读取世界状态，而非像素信息缺失。",
+        "content": "一篇来自 Google DeepMind、UT Austin 与加州大学伯克利分校的预印本，向视频世界模型提出一个直白的问题：如果当下的微小变化本应翻转未来，模型的预测会不会跟着翻转？在所有受测模型上，答案都是否定的。\n\n这项名为 **FlipTest** 的测试（arXiv:2611.19822）用视觉最小对从 10 个仿真任务与 15 个真实场景中构建 **1,680 个初始帧**——例如一个箱子停在桌沿前几毫米，或停在桌沿后几毫米。前者留在桌上，后者掉落。只有当一对帧的两种相反结果都被正确预测，这一对才算通过。\n\n**11 个模型全部未通过。** 最佳配对准确率仅 **18.3%**，低于 25% 的随机猜测，模拟场景下无一超过 5.3%。规模并无帮助：物理 AI 专用模型 Cosmos3-Super 得 13.7%，与通用模型 Wan2.2 的 14.0% 基本持平。模型在不改变未来的扰动上翻转的频率，与在决定性变化上几乎一致。\n\n最关键的对照实验定位了问题：当视觉语言模型被允许用代码而非肉眼测量画面时，边界跨越步骤的准确率从 31.3% 跃升至 93.3%。信息本就在那里，模型却没能读出状态。该论文为预印本，未经同行评议，评分依赖判定器，具体数字宜视为初步结论——但对任何打算把世界模型用于机器人或驾驶规划的人来说，这套测试设计值得认真对待。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 6,
+      "timeAgo": 7,
+      "date": "2026-11-19",
+      "en": {
+        "title": "A Coalition of 92 Researchers and Technologists Declares Anthropic 'Not a Safe AI Company' Ahead of IPO",
+        "excerpt": "The Center for AI Safety joined a broad coalition publishing the MisAnthropic Statement on November 18, accusing Anthropic of weakening safety pledges while racing to build recursively self-improving AI and lobbying for self-serving regulation.",
+        "content": "Ahead of Anthropic's public listing, the Center for AI Safety (CAIS) joined a broad coalition on November 18 to publish the **MisAnthropic Statement**, a three-sentence declaration stating that \"Anthropic is not a safe AI company.\"\n\nThe statement's core charge is about recursive self-improvement. It says Anthropic warns that such systems could concentrate power and escape human control, yet races to build them first and pitches the same capability to public-market investors as a competitive advantage. It also accuses the company of quietly weakening safety pledges and lobbying for regulation that favours itself.\n\nThe signatory list spans rivals and allies alike: Harvard psychologist Steven Pinker, Nobel economist Oliver Hart, Turing Award winner Judea Pearl, MIT's Max Tegmark, Harvard legal scholars Laurence Tribe and Lawrence Lessig, Hugging Face co-founder Thomas Wolf, xAI co-founder Igor Babuschkin, CAIS director Dan Hendrycks and several Fields Medalists. Reporting puts the number of signatories around 92. Even signers who disagreed with the wording said the underlying concern about concentrated power warranted a public stand.\n\nOne concrete basis is Anthropic's February revision of its Responsible Scaling Policy, which dropped an earlier pledge to pause development if safeguards could not be guaranteed. The statement arrives on the eve of Anthropic's Nasdaq debut, raising the stakes: public companies face investor questions and regulatory scrutiny over claims a private firm could make with far less consequence."
+      },
+      "zh": {
+        "title": "92 位研究者与技术人士联署：Anthropic「不是一家安全的 AI 公司」",
+        "excerpt": "AI 安全中心（CAIS）联合广泛联盟于 11 月 18 日发布 MisAnthropic 声明，指控 Anthropic 一边争相研发递归自我改进的 AI，一边削弱安全承诺并游说有利自身的监管。",
+        "content": "在 Anthropic 上市前夕，AI 安全中心（CAIS）于 **11 月 18 日**联合一个广泛联盟发布 **MisAnthropic 声明**——一份三句话的宣言，直称「Anthropic 不是一家安全的 AI 公司」。\n\n声明的核心指控指向递归自我改进。它称 Anthropic 一方面警告这类系统可能集中权力、摆脱人类控制，另一方面却争相率先构建，并把同样的能力作为竞争优势兜售给公开市场投资者。声明还指责该公司悄悄削弱安全承诺，并游说有利自身的监管政策。\n\n签署者横跨对立阵营：哈佛心理学家 Steven Pinker、诺贝尔经济学奖得主 Oliver Hart、图灵奖得主 Judea Pearl、MIT 的 Max Tegmark、哈佛法学学者 Laurence Tribe 与 Lawrence Lessig、Hugging Face 联合创始人 Thomas Wolf、xAI 联合创始人 Igor Babuschkin、CAIS 主任 Dan Hendrycks，以及多位菲尔兹奖得主。报道称签署者约 92 人。即便部分签署者不认同措辞，他们也表示对权力集中的担忧值得公开表态。\n\n一个具体依据是 Anthropic 今年 2 月对其负责任扩展政策的修订，删去了此前「无法保证安全措施就暂停开发」的承诺。声明赶在 Anthropic 纳斯达克挂牌前夕发布，令争议升级：一旦成为上市公司，其安全表述将面临投资者的追问与监管审视，代价远高于私营时期。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 6,
+      "timeAgo": 10,
+      "date": "2026-11-19",
+      "en": {
+        "title": "OpenAI Uses Its Own Models to Design Chips, Cutting Cell Area 13% as AMD Adopts Changes",
+        "excerpt": "OpenAI published research on November 18 showing its models cut warp engine standard-cell area by about 13% in its Jalapeño inference chip, and improved GPU IP PPA by up to 14% in work with AMD.",
+        "content": "OpenAI on November 18 published a research blog describing how its own models are now part of the chip-design loop. On its in-house inference chip **Jalapeño**, the models reduced warp engine standard-cell area by about **13%** and matrix cell area by about **10%**, with tape-out validation already complete.\n\nIn a collaboration with **AMD**, OpenAI says its models improved power-performance-area on flagship GPU IP by up to **14%** — roughly a year of progress compressed into under five months — and that AMD has incorporated some of the changes into designs recently sent to the foundry. OpenAI also worked with Synopsys to train **GPT-Synopsys**, enabling models to use EDA tools directly for design and verification.\n\nThe disclosure is a different genre of model output from code autocomplete: using AI to make physical silicon smaller and more efficient. It also lands as Microsoft, Nvidia, Amazon and others pour billions into custom accelerators, with OpenAI signalling it intends to design its own rather than rely solely on suppliers.\n\nThe performance claims come from OpenAI and its partners and have not been independently verified. Still, the direction is notable — AI companies increasingly applying their models to the hardware beneath them, closing a loop that could compound both capability and cost advantages."
+      },
+      "zh": {
+        "title": "OpenAI 用自家模型设计芯片：标准单元面积缩减 13%，AMD 采纳部分改动",
+        "excerpt": "OpenAI 于 11 月 18 日发布研究，称其模型在自研推理芯片 Jalapeño 上将 warp engine 标准单元面积缩减约 13%，并在与 AMD 的合作中把 GPU IP 的 PPA 提升最高 14%。",
+        "content": "OpenAI 于 **11 月 18 日**发布研究博客，介绍其自有模型如何进入芯片设计环节。在自研推理芯片 **Jalapeño** 上，模型将 warp engine 标准单元面积缩减约 **13%**、矩阵单元面积缩减约 **10%**，且已完成流片验证。\n\n在与 **AMD** 的合作中，OpenAI 称其模型把旗舰 GPU IP 的功耗-性能-面积（PPA）提升最高 **14%**——相当于把约一年的进展压缩到五个月内完成，AMD 已将部分改动纳入近期送交晶圆厂的设计。OpenAI 还与 Synopsys 合作训练了 **GPT-Synopsys**，让模型能够直接使用 EDA 工具进行设计与验证。\n\n这类成果不同于代码补全：它用 AI 把实体硅片做得更小、更高效。披露时机也颇为关键——微软、英伟达、亚马逊等正投入数十亿美元自研加速器，OpenAI 此举表明它打算自行设计芯片，而非完全依赖供应商。\n\n相关性能数据来自 OpenAI 及其合作方，尚未经独立验证。但方向值得关注：AI 公司正越来越多地把自家模型用在支撑它们的硬件上，形成可能同时放大能力优势与成本优势的闭环。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1617791160536-598cf32026fb?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 5,
+      "timeAgo": 14,
+      "date": "2026-11-19",
+      "en": {
+        "title": "Kuaishou's Kling Image 4.0 Goes Live With Native 8K and 2,000-Character Text Rendering",
+        "excerpt": "Kling AI released Kling Image 4.0 on November 17, the first native 8K image model from the Kuaishou unit, with up to 2,000 characters of text per image, 70+ fonts and an API available the same day.",
+        "content": "Kuaishou's creative platform Kling AI released **Kling Image 4.0** on the evening of November 17, an image-generation model built around photorealism, text rendering, instruction following and consistency.\n\nThe headline feature is **native 8K image generation** — rendered at 8K rather than upscaled — which Kling says suits close crops, product shots and large outdoor advertising. The model can place up to **2,000 characters of text** in a single image across more than 70 preset fonts, and generate sets of up to 10 related images or full e-commerce product pages from one prompt. It uses a unified understanding-and-generation architecture.\n\nOn the Artificial Analysis image-tools leaderboard, Kling Image 4.0 sits in the top tier ahead of Nano Banana; reporting places it around sixth or seventh depending on the snapshot. Kling says it ranks fourth globally for UI/UX design and fifth for e-commerce retail. The API opened the same day, with third-party provider fal listing roughly $0.063 per 4K image.\n\nThe release comes a month after the Kling 4.0 video model, letting creators storyboard in Image 4.0 and animate in Kling 4.0. Independent, large-scale tests are still limited, and much of the early showcase came from partner accounts — worth keeping in mind when judging the headline claims."
+      },
+      "zh": {
+        "title": "快手可灵发布 Kling Image 4.0：原生 8K、单图 2000 字，API 同步开放",
+        "excerpt": "可灵 AI 于 11 月 17 日晚发布 Kling Image 4.0，为快手旗下首个原生 8K 图像生成模型，支持单图 2000 字、70 余款字体，API 同日上线。",
+        "content": "快手旗下创意平台可灵 AI 于 **11 月 17 日晚**发布 **Kling Image 4.0**，这代图像生成模型围绕真实感、文字表现、指令理解与一致性升级。\n\n核心功能是**原生 8K 图像生成**——直接以 8K 渲染而非放大，可灵称适合局部裁切、产品图与大型户外广告。模型可在单张图片中生成多达 **2,000 字**，提供 70 余款预设字体，并能从一个提示词生成最多 10 张连贯系列图或完整电商详情页。新模型采用「理解生成统一」架构。\n\n在 Artificial Analysis 图像工具榜单上，Kling Image 4.0 位居第一梯队、领先 Nano Banana；不同快照下排名约在第六至第七之间。可灵称其在 UI/UX 设计板块全球第四、电商零售板块全球第五。API 于发布同日开放，第三方平台 fal 标价约每张 4K 图 0.063 美元。\n\n此次发布距 Kling 4.0 视频模型一个月，创作者可在 Image 4.0 绘制分镜、再用 Kling 4.0 生成动画。目前独立的大规模测评仍有限，早期展示多来自合作方账号，评判上述宣称时值得把这层背景考虑进去。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 6,
+      "timeAgo": 9,
+      "date": "2026-11-19",
+      "en": {
+        "title": "California Proposes Mandatory Frontier-AI Oversight and Emergency Shutdown Powers",
+        "excerpt": "Governor Gavin Newsom released legislative proposals on November 18 requiring licensed independent verifiers to continuously monitor large frontier-AI developers and letting state officials order emergency shutdowns over imminent catastrophic risk.",
+        "content": "California Governor Gavin Newsom on November 18 released legislative proposals that would impose mandatory safety standards on large frontier-AI developers, moving beyond voluntary commitments to a licensed oversight regime.\n\nUnder the plan, independent verification organizations (IVOs) would continuously monitor developers, and state officials could order an **emergency shutdown** when there is imminent catastrophic risk. Companies would have to submit risk-containment agreements, and the proposal would restrict self-improving models. A verification surcharge paid by developers would fund public **CalCompute** computing capacity.\n\nThe proposal draws on a November 16 report from the state's Department of General Services. It still requires review by the state legislature when it reconvenes in December and is **not currently binding**. It is also distinct from a separate action by California's attorney general to sue OpenAI over rogue agents — this is an executive legislative push for a standing regulatory framework, not a single lawsuit.\n\nIf enacted, the framework would give a US state unusually direct leverage over frontier labs, including the power to halt operations. For developers, it signals that the US regulatory path may run through state capitals even as federal preemption remains contested — and that self-improvement research could face explicit restrictions."
+      },
+      "zh": {
+        "title": "加州提出强制前沿 AI 监管与紧急关停权",
+        "excerpt": "加州州长纽森于 11 月 18 日发布立法提案，要求持牌独立验证机构持续监督大型前沿 AI 开发者，并允许州官员在迫近灾难性风险时下令紧急关停。",
+        "content": "加州州长 Gavin Newsom 于 **11 月 18 日**发布立法提案，拟对大型前沿 AI 开发者施加强制安全标准，从自愿承诺转向持牌监督机制。\n\n根据提案，独立验证机构（IVO）将持续监督开发者；当出现迫近的灾难性风险时，州官员可下令**紧急关停**。企业须提交风险遏制协议，提案还将限制自我改进模型。由开发者支付的验证附加费将用于资助公共 **CalCompute** 算力。\n\n该提案源自州政府服务部 11 月 16 日的报告，仍需州议会 12 月复会后审议，**目前不具约束力**。它也不同于加州总检察长此前就智能体失控起诉 OpenAI 的行动——这是一次行政层面的立法推动，旨在建立常设监管框架，而非单一诉讼。\n\n若获通过，该框架将赋予美国一个州对前沿实验室异常直接的干预手段，包括叫停运营。对开发者而言，这释放出一个信号：即便联邦优先于州法的问题仍有争议，美国的监管路径也可能经由州议会推进——而自我改进研究或面临明确限制。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 6,
+      "timeAgo": 11,
+      "date": "2026-11-19",
+      "en": {
+        "title": "Gemini Robotics 2.5 Runs Natively on Franka's FR3 Duo, Shown Live at CoRL 2026",
+        "excerpt": "Franka Robotics announced that Google DeepMind's Gemini Robotics 2.5 runs natively on its FR3 Duo dual-arm robot, with many policies working without extra training because DeepMind used FR3 Duo as a training embodiment.",
+        "content": "Franka Robotics, an Agile Robots company, announced that Google DeepMind's **Gemini Robotics 2.5** now runs natively on its **FR3 Duo** dual-arm robot. Because DeepMind used FR3 Duo as one of the primary training embodiments, many policies run on the hardware with no additional training — the kind of practical detail that saves research teams weeks.\n\nThe integration was demonstrated live at **CoRL 2026** in Austin, and Franka open-sourced its tooling for teleoperation, data collection and inference. The company also took orders for the next-generation **Mobile FR3 Duo**, which runs the arms and base in a single 1 kHz control loop under one safety concept; availability is mid-2027, with a new force-controlled gripper due in Q1 2027.\n\nFor context, DeepMind says Gemini Robotics 2.5 lifted success rates by 30-100% across more than 200 evaluated tasks and cut completion times by 20-30%; an Apollo 2 humanoid running the model reportedly hit 96% success on parts kitting on active Mercedes-Benz production lines.\n\nNative support on a widely used research platform lowers the barrier to reproducing those results, but independent validation at scale remains the open question — as with most robotics benchmarks. The announcement puts Gemini Robotics in direct competition with other embodied foundation models such as Nvidia's GR00T series."
+      },
+      "zh": {
+        "title": "Gemini Robotics 2.5 原生运行于 Franka FR3 Duo，在 CoRL 2026 现场演示",
+        "excerpt": "Franka Robotics 宣布 Google DeepMind 的 Gemini Robotics 2.5 已原生运行于其 FR3 Duo 双臂机器人；由于 DeepMind 将 FR3 Duo 作为训练本体之一，许多策略无需额外训练即可运行。",
+        "content": "Agile Robots 旗下 Franka Robotics 宣布，Google DeepMind 的 **Gemini Robotics 2.5** 现已原生运行于其 **FR3 Duo** 双臂机器人。由于 DeepMind 将 FR3 Duo 作为主要训练本体之一，许多策略无需额外训练即可在该硬件上运行——这类看似不起眼的细节，能为研究团队节省数周时间。\n\n该集成在奥斯汀举行的 **CoRL 2026** 上进行了现场演示，Franka 同时开源了遥操作、数据采集与推理工具链。公司还开始接受下一代 **Mobile FR3 Duo** 的订单：其机械臂与底盘运行在统一的 1 kHz 控制回路和同一安全框架下；预计 2027 年中供货，新款带力控的夹爪将于 2027 年第一季度推出。\n\n作为背景，DeepMind 称 Gemini Robotics 2.5 在 200 多项评测任务上将成功率提升 30% 至 100%，完成时间缩短 20% 至 30%；搭载该模型的 Apollo 2 人形机器人在奔驰活跃产线上的零件配套任务中成功率达 96%。\n\n在广泛使用研究平台上获得原生支持，降低了复现这些结果的门槛，但大规模独立验证仍是待解问题——多数机器人基准皆如此。此举也让 Gemini Robotics 与英伟达 GR00T 系列等具身基础模型形成正面竞争。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=600&h=400&fit=crop",
+      "category": "healthcare",
+      "readTime": 6,
+      "timeAgo": 13,
+      "date": "2026-11-19",
+      "en": {
+        "title": "Isomorphic Labs Raises $5 Billion to Accelerate AI Drug Discovery, Says Demis Hassabis",
+        "excerpt": "Google DeepMind CEO Demis Hassabis said on November 17 that AI drug-discovery company Isomorphic Labs has raised $5 billion to speed the development of new drugs, one of the largest financings in the AI-for-science space.",
+        "content": "Google DeepMind CEO **Demis Hassabis** said on November 17 that **Isomorphic Labs** has raised **$5 billion** to accelerate the discovery of new drugs using AI. The figure, reported across multiple outlets, would rank among the largest financings in the AI-for-science sector.\n\nIsomorphic Labs, a Google-affiliated company spun out of DeepMind's protein-folding work, applies AI models to drug design with the aim of shortening the long, expensive path from target identification to clinical candidates. A raise of this size signals continued investor appetite for applying frontier AI to biology and chemistry, even as other parts of the AI market debate valuations.\n\nThe funding sits alongside a broader wave of AI-pharma deals reported this week, including large partnerships and mid-size design-tool rounds — a reminder that capital is splitting between a few big platforms and firms handling narrower functions such as data and design software.\n\nThe $5 billion figure comes from Hassabis's public remarks and media reports rather than a detailed public filing reviewed here; final terms should be read against any official company disclosure. What is clear is the direction: major tech players are doubling down on using AI to design molecules, and Isomorphic is emerging as one of the best-capitalized bets."
+      },
+      "zh": {
+        "title": "Demis Hassabis：Isomorphic Labs 完成 50 亿美元融资，加速 AI 制药",
+        "excerpt": "Google DeepMind CEO Demis Hassabis 于 11 月 17 日表示，AI 药物研发公司 Isomorphic Labs 已完成 50 亿美元融资，用于加速新药研发，为 AI for Science 领域规模最大的融资之一。",
+        "content": "Google DeepMind CEO **Demis Hassabis** 于 **11 月 17 日**表示，**Isomorphic Labs** 已完成 **50 亿美元**融资，用于加速借助 AI 发现新药。据多家媒体报道，这一规模将位列 AI for Science 领域最大的融资之列。\n\nIsomorphic Labs 是源自 DeepMind 蛋白质折叠研究的 Google 关联企业，运用 AI 模型进行药物设计，目标是缩短从靶点识别到临床候选药物的漫长且昂贵的路径。如此规模的融资表明，尽管 AI 市场其他板块正就估值展开争论，投资者对将前沿 AI 应用于生物与化学的热情依旧不减。\n\n这笔融资与本周报道的更广泛 AI 制药交易潮相呼应——包括大额合作与中型设计工具融资，显示资本正在少数大型平台与专注数据、设计软件等细分功能的公司之间分化。\n\n50 亿美元的数字来自 Hassabis 的公开表态与媒体报道，而非本文查阅的详细公开申报文件，最终条款应以公司正式披露为准。方向是明确的：大型科技公司正加倍押注用 AI 设计分子，而 Isomorphic 正成为其中资金最雄厚的赌注之一。"
+      }
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1560179707-f14ebe90c827?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 4,
+      "date": "2026-11-19",
+      "en": {
+        "title": "Big Banks Shift Losses From AI Agents Onto Customers in Updated Terms",
+        "excerpt": "Citibank, PNC, JPMorgan Chase and Bank of America are updating terms that make customers responsible for activity through third-party AI agents — including when the tool leaks credentials or is hacked, according to TechCrunch.",
+        "content": "A quiet but consequential change is spreading through bank terms of service: losses caused by third-party AI agents are increasingly the customer's problem, not the bank's.\n\nCitibank changed its terms this week so that customers who give third-party AI agents access to their accounts are responsible for activity conducted through those agents — including when the AI tool leaks their credentials or is hacked. According to **TechCrunch**, PNC updated its terms on November 18, and JPMorgan Chase and Bank of America announced similar policies last month. Other reports add Citizens to the list.\n\nThe logic from banks is that once a customer authorises an agent, its actions are effectively the customer's own. For users, the practical implication is significant: the convenience of letting an AI book, pay or trade on your behalf now carries explicit liability, even when the failure is a security breach on the agent's side rather than user error.\n\nThe move reflects how quickly agentic AI is outrunning consumer-protection rules. As banks push risk downstream, users should read the fine print before granting an agent account access, and prefer agents with strong credential handling and clear audit trails. Regulators have yet to say whether such terms will hold."
+      },
+      "zh": {
+        "title": "多家大银行更新条款：将 AI 智能体造成的损失转嫁给客户",
+        "excerpt": "据 TechCrunch 报道，花旗、PNC、摩根大通与美国银行正更新条款，规定客户须对第三方 AI 智能体的操作负责——即便智能体泄露凭证或遭黑客攻击。",
+        "content": "银行服务条款中正在发生一项低调但影响深远的变化：第三方 AI 智能体造成的损失，正越来越多地由客户而非银行承担。\n\n花旗本周修改条款，规定客户若授权第三方 AI 智能体访问账户，须对该智能体进行的活动负责——包括 AI 工具泄露凭证或遭黑客攻击的情形。据 **TechCrunch** 报道，PNC 于 11 月 18 日更新了条款，摩根大通与美国银行上月也宣布了类似政策。另有报道将 Citizens 银行列入其中。\n\n银行的逻辑是：一旦客户授权了智能体，其行为在效果上即等同于客户自身行为。对用户的现实影响不小：让 AI 代你订票、付款或交易的便利，如今附带明确的责任——即便失败源于智能体一侧的安全漏洞，而非用户操作失误。\n\n这一变化反映出智能体 AI 的发展速度已远远跑在消费者保护规则之前。随着银行将风险向下转移，用户在授权智能体访问账户前应细读条款，优先选择凭证处理稳健、审计记录清晰的智能体。监管机构尚未就此类条款是否有效表态。"
+      }
+    }
+  ]
+}
