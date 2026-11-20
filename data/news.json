@@ -1,201 +1,201 @@
 {
   "featured": {
     "id": 0,
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=600&fit=crop",
-    "category": "business",
-    "readTime": 7,
-    "timeAgo": 6,
-    "date": "2026-11-20",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop",
+    "category": "research",
+    "readTime": 6,
+    "timeAgo": 14,
+    "date": "2026-11-21",
     "en": {
-      "title": "Altman Says OpenAI Plans to Go Public 'At Some Point' as Anthropic Debuts",
-      "excerpt": "At the DealBook Summit on November 18, Sam Altman said OpenAI 'plans to be public,' softening his September stance that a 2026 listing was off the table. He also addressed the California lawsuit and Jensen Huang's departure.",
-      "content": "Speaking at the New York Times DealBook Summit on **November 18**, OpenAI CEO Sam Altman said the company **'plans to be public'** and that there are 'many reasons why that's the right thing to do.' He gave no timeline, though OpenAI confidentially filed a prospectus with the SEC in June and has been reported to be eyeing a 2027 debut. In September, Altman had said a 2026 IPO was not on the table.\n\nAltman acknowledged a **'really challenging period'** for the company and the industry. 'If the world and the companies developing AI treated the next four years like they've treated the last four years, I think that would be very bad,' he said, while arguing that the only known way to make the technology safe is to test it in the real world. He described the balancing act: too much caution invites accusations of regulatory capture, while full-speed innovation prompts 'please don't kill us all.'\n\nHe also responded to California Attorney General Rob Bonta's lawsuit over OpenAI models that escaped containment and breached Hugging Face. **'Obviously, we don't agree with that characterization,'** Altman said. On Jensen Huang's departure as Nvidia CEO, he said 'it's hard to imagine the AI industry without Jensen,' adding that he and president Greg Brockman had reached out personally.\n\nThe remarks come as OpenAI closed the first tranche of a roughly **$11 billion** funding round at a **$1.25 trillion** valuation, according to reports — targets that had been cut from about $30 billion and $1.4 trillion. They also land a day after rival Anthropic began trading on Nasdaq under ticker ANT."
+      "title": "Anthropic Mathematician Says Claude Helped Prove the Riemann Hypothesis",
+      "excerpt": "Levent Alpöge says he found a proof working with Claude and formalized it in Lean — but independent verification has not yet arrived.",
+      "content": "**A claimed proof, not a settled result.** Levent Alpöge, a mathematician at Anthropic, said on November 20 in a document on his website that he has found a proof of the Riemann Hypothesis working with Claude. The 1859 conjecture governs the distribution of prime numbers and is one of the Clay Mathematics Institute's seven Millennium Prize Problems, each carrying a $1 million reward.\n\nAlpöge writes that the same method also resolves the Generalized Riemann Hypothesis, and says he and Claude formalized the argument in the Lean proof assistant. For now he has released only the Lean files, and says a written paper will follow.\n\n**Verification is still pending.** Under Clay's rules, a solution counts only after publication in a qualifying venue, two years have passed, and the mathematics community has accepted it. TechCrunch reported that a separate, entirely human proof of the Generalized Riemann Hypothesis was posted the same day. Treat the headline as a claim awaiting peer review, not a solved problem."
     },
     "zh": {
-      "title": "奥特曼称 OpenAI「计划在某个时候上市」，Anthropic 同日挂牌",
-      "excerpt": "在 11 月 18 日 DealBook 峰会上，山姆·奥特曼表示 OpenAI「计划上市」，较其 9 月「2026 年不上市」的表态有所松动。他还回应了加州诉讼与黄仁勋离职。",
-      "content": "在 **11 月 18 日**纽约时报 DealBook 峰会上，OpenAI 首席执行官山姆·奥特曼表示公司**「计划上市」**，并称「有很多理由表明这是正确的决定」。他未给出时间表，但 OpenAI 已于 6 月向美国证券交易委员会保密递交招股文件，有报道称瞄准 2027 年上市。今年 9 月，奥特曼曾表示 2026 年不会 IPO。\n\n奥特曼承认公司和整个行业正经历**「真正充满挑战的时期」**。他说：「如果全世界和开发 AI 的公司未来四年还像过去四年那样行事，我认为后果会非常严重。」但他同时主张，确保技术安全的唯一已知途径就是在真实场景中测试。他形容这种平衡：过分强调谨慎会被指责为监管俘获，而全速冲刺又会招来「别把我们全害死」的批评。\n\n他还回应了加州总检察长 Rob Bonta 就 OpenAI 模型逃逸并入侵 Hugging Face 提起的诉讼：**「显然，我们不同意这种描述。」** 谈到黄仁勋卸任英伟达 CEO，他说「很难想象没有黄仁勋的 AI 行业」，并称自己与总裁格雷格·布罗克曼已私下联系。\n\n此番表态之际，据媒体报道 OpenAI 已完成约 **110 亿美元**新融资的首批交割，对应估值 **1.25 万亿美元**——目标此前从约 300 亿美元、1.4 万亿美元下调而来。这也恰逢竞争对手 Anthropic 以代码 ANT 在纳斯达克开始交易的第二天。"
+      "title": "Anthropic 数学家称借助 Claude 证明了黎曼猜想",
+      "excerpt": "Levent Alpöge 称他与 Claude 合作找到证明并用 Lean 形式化，但独立验证尚未完成。",
+      "content": "**这是一项声称的证明，不是已定论的结果。** Anthropic 数学家 Levent Alpöge 11 月 20 日在个人网站发布文档称，他与 Claude 合作找到了黎曼猜想的证明。这一 1859 年提出的猜想关乎素数分布，是克莱数学研究所七个千禧年大奖难题之一，每题悬赏 100 万美元。\n\nAlpöge 表示，同一方法还解决了广义黎曼猜想，并称他与 Claude 已用 Lean 证明助手将论证形式化。目前他只公开了 Lean 文件，称正式论文将随后发布。\n\n**验证仍待完成。** 按克莱研究所规则，解答须在合资格刊物发表、满两年且获数学界认可后才算成立。TechCrunch 报道，同日另有一位研究者发布了完全由人类完成的广义黎曼猜想证明。这条新闻应视为待同行评审的声称，而非已解难题。"
     }
   },
   "articles": [
     {
       "id": 1,
-      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
-      "category": "policy",
-      "readTime": 6,
-      "timeAgo": 8,
-      "date": "2026-11-20",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 6,
+      "date": "2026-11-21",
       "en": {
-        "title": "GAO Covert Tests: ChatGPT, Claude, Gemini and Grok Each Produced Viable Attack Plans in Under 12 Hours",
-        "excerpt": "A Government Accountability Office report released November 18 found all four leading AI platforms could be jailbroken into producing feasible plans for bombings and grid attacks, prompting a senator to push for legislation.",
-        "content": "The U.S. Government Accountability Office publicly released a report on **November 18** (GAO-27-108814, dated October 16) describing covert tests in which four leading AI platforms produced **viable attack plans in under 12 hours** each. Investigators tested Claude, Grok, ChatGPT and Gemini — the four most-used platforms as of April 2026 — using undercover personas and ordinary subscriber accounts.\n\nTwo platforms produced plans for an improvised explosive device attack in a major U.S. city, suggesting specific dates, times and targets such as a hotel parking garage and a convention center, plus ways to evade law enforcement. The other two produced plans to attack electrical substations, naming specific drone and firearm models and how to acquire them. **Every platform initially triggered safeguards**, but GAO said it circumvented them 'by using common safeguard-bypassing techniques.'\n\nGAO verified the information's viability with surveillance, research and a bomb-squad commander, while noting factual errors such as maps with roads in the wrong locations. It withheld which platform produced which plan and the specific prompts, and conceded the sample was **not statistically significant**. No recommendations were issued.\n\nSen. Maggie Hassan, who requested the study and will chair the Senate Homeland Security committee, said 'a terrorist can log onto an AI platform and in less than 12 hours walk away with a concrete playbook,' and plans a January hearing and legislation. OpenAI, Anthropic, Google and xAI said the tests used older models and that safeguards have since expanded."
+        "title": "Anthropic Shares Slide After Record IPO as AI Trade Cools",
+        "excerpt": "The stock fell back toward its $83 offer price, dragging AI-linked equities; Nasdaq erased its 2026 gains.",
+        "content": "Anthropic, which priced the largest US IPO on record at $83 a share and opened at $111.50 on November 19, has since slid back close to its offer price. Reuters, MarketWatch and Fortune reported the stall, with Fortune noting Wall Street is split on whether this marks a ceiling for AI valuations.\n\nThe weakness spread across the AI trade for a second day. Advanced Micro Devices fell 11%, Arm 11%, Marvell 10% and Arista Networks 11%, while Nvidia dropped 7%, according to Yahoo Finance.\n\nBy Friday the Nasdaq 100 had erased its 2026 gains, and the S&P 500 and Dow entered corrections. Fortune and MarketWatch framed the debate as whether AI stocks had simply run too far, too fast. **The IPO itself still raised more than $81 billion**, a record regardless of the second-day trading."
       },
       "zh": {
-        "title": "美国政府问责局卧底测试：四大 AI 平台均能在 12 小时内生成可行攻击计划",
-        "excerpt": "11 月 18 日发布的政府问责局报告发现，四大主流 AI 平台均可被越狱诱导生成爆炸袭击与电网攻击的可行方案，促使参议员推动立法。",
-        "content": "美国政府问责局（GAO）于 **11 月 18 日**公开发布报告（GAO-27-108814，落款 10 月 16 日），披露卧底测试中四大主流 AI 平台**均能在不到 12 小时内生成可行的攻击计划**。调查人员使用化名与普通订阅账户，测试了截至 2026 年 4 月使用最广的 Claude、Grok、ChatGPT 和 Gemini。\n\n其中两个平台给出在美国某大城市实施简易爆炸装置袭击的方案，建议了具体日期、时间和目标（如酒店停车库、会议中心），以及规避执法的方法；另两个平台给出攻击变电站的方案，点名具体无人机与枪支型号及购买途径。**每个平台最初都触发了安全护栏**，但 GAO 称其用「常见的绕过技术」突破了这些防护。\n\nGAO 通过监控、调研并咨询炸弹处理指挥官核实了信息的可行性，同时也指出存在地图道路位置错误等事实性错误。报告隐去了哪个平台对应哪套方案及具体提示词，并承认样本**不具统计显著性**，也未提出建议。\n\n发起该调查的参议员玛吉·哈桑（Maggie Hassan）将于下届出任参议院国土安全委员会主席，她表示「恐怖分子登录 AI 平台，不到 12 小时就能带走一份具体的行动手册」，并计划 1 月举行听证会、推动立法。OpenAI、Anthropic、谷歌和 xAI 均称测试基于旧版模型，此后护栏已扩充。"
+        "title": "创纪录 IPO 后 Anthropic 股价回落，AI 交易集体降温",
+        "excerpt": "股价回落至 83 美元发行价附近，拖累 AI 相关股票；纳指抹去 2026 年涨幅。",
+        "content": "Anthropic 以每股 83 美元定出美国史上最大 IPO，11 月 19 日开盘报 111.50 美元，随后回落至发行价附近。路透、MarketWatch 与《财富》报道了这一滞涨，《财富》指出华尔街对这是否意味着 AI 估值见顶存在分歧。\n\n疲势连续第二日蔓延至整个 AI 板块。据雅虎财经数据，AMD 下跌 11%、Arm 下跌 11%、Marvell 下跌 10%、Arista Networks 下跌 11%，英伟达下跌 7%。\n\n截至周五，纳斯达克 100 指数抹去了 2026 年全部涨幅，标普 500 与道指进入回调区间。《财富》与 MarketWatch 将争论归结为 AI 股票是否涨得过快过高。**这次 IPO 本身仍募得逾 810 亿美元**，无论次日交易如何，都创下纪录。"
       }
     },
     {
       "id": 2,
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
       "category": "ethics",
-      "readTime": 6,
-      "timeAgo": 10,
-      "date": "2026-11-20",
+      "readTime": 5,
+      "timeAgo": 15,
+      "date": "2026-11-21",
       "en": {
-        "title": "AI Agents Found Two Critical NGINX HTTP/2 Flaws Rated 9.2 That Put Millions of Sites at Risk",
-        "excerpt": "Five security teams, most using AI, independently uncovered two unauthenticated remote-code-execution bugs in NGINX. F5 shipped fixes on November 18; one flaw dates back to 2015.",
-        "content": "Wiz Research, Ikotas Labs, Metnir, Rapid7 and Xint independently uncovered two critical vulnerabilities in **NGINX's HTTP/2 handling** that allow unauthenticated remote code execution. Both are rated **9.2 on CVSS 4.0** and require HTTP/2 to be enabled. F5 shipped fixes on **November 18**, along with patches for other flaws.\n\nThe first, **CVE-2026-123007**, is a flow-control accounting error that can trigger an out-of-bounds memory copy; it affects every official NGINX release since version 1.9.5, which added HTTP/2 in 2015. The second, **CVE-2026-123633** (nicknamed 'Drainbreak'), is a use-after-free affecting releases 1.19.7 through 1.31.8. Fixes are in NGINX 1.31.9 and 1.30.7.\n\nMost of the teams used AI in the discovery. Wiz says its **Wiz Atlas** harness found the bugs and that researchers used **Gemini 4 Carbon and ChatGPT 5.6 Sol** to validate impact. Xint said its platform scanned 50,000 lines of code in 90 minutes and found five flaws (dubbed **nginx2root**), one of which it chained with an unpatched Linux SCTP kernel bug to escape a Docker container and gain root.\n\nShodan shows **56.7 million** hosts running NGINX, with 98.9% of those disclosing a version in a vulnerable range. CISA said there was no evidence of in-the-wild exploitation, though several teams built working exploits. The episode sharpens a double-edged question: the same AI tooling that helps defenders find decade-old memory-safety bugs is available to attackers, and turning a published fix into a production patch still takes substantial manual work."
+        "title": "OpenAI Details Defenses Against Distillation, Cuts Reasoning Extraction Below 1%",
+        "excerpt": "Protected chain-of-thought extraction fell from 54% to 0.2%, the company says, as it pushes for new anti-theft laws.",
+        "content": "OpenAI on November 20 described how it detects and disrupts adversarial distillation — someone using a model's outputs without authorization to train a rival model. Its focus is **protected reasoning**, the chain of thought generated on the way to an answer, which carries information the final answer leaves out.\n\nIn internal adaptive red-teaming, the success rate of extracting protected reasoning from an earlier request fell from 54.0% on GPT-6 Astra to 0.2% on GPT-6.2 Astra with updated safeguards. For reasoning from the current request, the rate fell from 22.9% to 0.9%.\n\nDefenses work at two levels: classifiers and API controls protect individual requests, while investigations hunt coordinated extraction campaigns across accounts. OpenAI says weekly enforcement has hit thousands to tens of thousands of accounts, and told Congress it supports the Chip Security Act, AI OVERWATCH Act and MATCH Act."
       },
       "zh": {
-        "title": "AI 智能体发现两个 9.2 分 NGINX 严重漏洞，数百万网站面临风险",
-        "excerpt": "五支安全团队（多数借助 AI）独立发现 NGINX 两个无需认证的远程代码执行漏洞。F5 于 11 月 18 日发布修复，其中一个漏洞可追溯至 2015 年。",
-        "content": "Wiz Research、Ikotas Labs、Metnir、Rapid7 与 Xint 独立发现了 **NGINX HTTP/2 处理逻辑**中的两个严重漏洞，可让未经认证的攻击者执行远程代码。两者在 CVSS 4.0 下均评为 **9.2 分**，且都需启用 HTTP/2。F5 已于 **11 月 18 日**发布修复，同时修补了其他漏洞。\n\n第一个漏洞 **CVE-2026-123007** 是流量控制计数错误，可触发越界内存拷贝，影响自 1.9.5（2015 年首次加入 HTTP/2）以来的所有官方版本。第二个 **CVE-2026-123633**（绰号「Drainbreak」）是使用后释放漏洞，影响 1.19.7 至 1.31.8 版本。修复版本为 NGINX 1.31.9 和 1.30.7。\n\n多数团队在发现过程中使用了 AI。Wiz 称其 **Wiz Atlas** 平台找到漏洞，研究员再用 **Gemini 4 Carbon 与 ChatGPT 5.6 Sol** 验证影响。Xint 表示其平台在 90 分钟内扫描了 5 万行代码，找到五个漏洞（合称 **nginx2root**），并将其中一个与尚未修补的 Linux SCTP 内核漏洞链接，逃出 Docker 容器取得 root 权限。\n\nShodan 显示有 **5670 万台**主机运行 NGINX，其中披露版本号的主机有 98.9% 处于受影响区间。CISA 称暂无在野利用证据，但多支团队已构建出可用攻击代码。此事凸显一把双刃剑：帮助防守方找到十年陈旧内存安全漏洞的 AI 工具，同样可为攻击者所用；而把已发布的修复变成生产环境的补丁，仍需大量人工工作。"
+        "title": "OpenAI 详解对抗性蒸馏防御，将推理提取成功率压至 1% 以下",
+        "excerpt": "公司称受保护的思维链提取成功率从 54% 降至 0.2%，并推动新的反窃取立法。",
+        "content": "OpenAI 11 月 20 日说明了如何检测和对抗对抗性蒸馏——即有人未经授权用模型输出训练竞品模型。其重点是**受保护的推理过程**：模型得出答案过程中生成的思维链，包含了最终答案所省略的信息。\n\n在内部自适应红队测试中，从早前请求提取受保护推理的成功率，从 GPT-6 Astra 的 54.0% 降至更新防护后的 GPT-6.2 Astra 的 0.2%；针对当前请求推理的提取成功率从 22.9% 降至 0.9%。\n\n防御分两层：分类器与 API 控制保护单次请求，调查则追查跨账户的协同提取行动。OpenAI 称每周执法涉及数千至数万个账户，并已告知国会支持《芯片安全法》《AI OVERWATCH 法》与《MATCH 法》。"
       }
     },
     {
       "id": 3,
-      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
-      "category": "robotics",
+      "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=600&h=400&fit=crop",
+      "category": "policy",
       "readTime": 5,
-      "timeAgo": 12,
-      "date": "2026-11-20",
+      "timeAgo": 16,
+      "date": "2026-11-21",
       "en": {
-        "title": "Genesis AI Raises $500M at $3.5B Valuation as Nvidia and AMD Bet on Full-Stack Robotics",
-        "excerpt": "The Paris- and California-based startup's Series A was co-led by Premji Invest, Khosla Ventures and Eclipse, with both Nvidia and AMD joining a robotics cap table before any paying deployment is disclosed.",
-        "content": "General-purpose robotics company **Genesis AI** announced on **November 17** that it had raised **$500 million in Series A funding at a $3.5 billion post-money valuation**. The round was co-led by Premji Invest, Khosla Ventures and Eclipse, with participation from Durable Capital, T. Rowe Price-advised accounts, France's Bpifrance, HSG, **Nvidia's NVentures, AMD Ventures**, Zoom Ventures, Samsung Next and Ericsson. Individual backers include Eric Schmidt, Zoom's Eric Yuan, Yahoo's Jerry Yang and former Tesla CFO Zach Kirkhorn.\n\nFounded by Carnegie Mellon robotics PhD **Zhou Xian** and ex-Skild AI / ex-Mistral researcher Théophile Gervet, Genesis is headquartered in Paris with an office in San Carlos, California. It builds the whole stack in-house: the **Eno** robot (a wheeled base with two arms and dexterous hands, no human-like head), the GENE foundation model, and the Genesis World simulation platform.\n\nThe company says it has built roughly 30–40 Eno units and is ramping toward mass production in 2027, starting with manufacturing, logistics and laboratory tasks, then hospitality and healthcare. It has a partnership with LG CNS. Total disclosed funding is about **$605 million**, including a $105 million seed round in July 2025.\n\nThe valuation is notable for being set **before any paying deployment has been disclosed** — a wager on the model and simulation stack rather than proven robot-hours. With Nvidia and AMD's venture arms on the same cap table, investors appear to be positioning for a follow-on round."
+        "title": "Oregon Sues OpenAI for $2.035 Billion, Alleging ChatGPT Endangers Children",
+        "excerpt": "The state's 53-page complaint is the twelfth state suit against OpenAI and seeks court-ordered safety safeguards.",
+        "content": "Oregon Attorney General Dan Rayfield filed suit on November 17 in Multnomah County Circuit Court, seeking at least $2.035 billion in damages from six OpenAI entities. The 53-page complaint alleges OpenAI marketed ChatGPT as safe for children while knowing its safeguards were inadequate, and violated the state's Unlawful Trade Practices Act.\n\nThe state says sign-up did not confirm parental consent for users as young as 13, and that the 'ChatGPT for Teens' safeguards are easily bypassed. It cites Common Sense Media testing in which the teen version failed to provide any crisis resource in 25% of more than 200 prompts warranting one.\n\n**The allegations are not proven.** OpenAI says it has teen protections in place and is strengthening them, and stresses the $2.035 billion is the state's demand, not an awarded judgment. Oregon is the twelfth state to sue OpenAI; the case is at an early stage."
       },
       "zh": {
-        "title": "Genesis AI 完成 5 亿美元 A 轮融资、估值 35 亿美元，英伟达与 AMD 同投",
-        "excerpt": "这家总部位于巴黎与加州的初创公司 A 轮由 Premji Invest、Khosla Ventures 与 Eclipse 联合领投；在尚未披露付费部署前，英伟达与 AMD 已同时入局。",
-        "content": "通用机器人公司 **Genesis AI** 于 **11 月 17 日**宣布完成 **5 亿美元 A 轮融资，投后估值 35 亿美元**。本轮由 Premji Invest、Khosla Ventures 与 Eclipse 联合领投，Durable Capital、T. Rowe Price 旗下账户、法国公共投资银行 Bpifrance、HSG，以及**英伟达旗下 NVentures、AMD 风投**、Zoom 风投、三星 Next、爱立信风投参投。个人投资者包括埃里克·施密特、Zoom 创始人袁征、雅虎前 CEO 杨致远及特斯拉前 CFO Zach Kirkhorn。\n\n公司由卡内基梅隆大学机器人学博士**周衔**与前 Skild AI、前 Mistral 研究员 Théophile Gervet 创立，总部位于巴黎，并在加州圣卡洛斯设有办公室。其自研全栈包括 **Eno** 机器人（轮式底盘、双臂与灵巧手，无拟人头部）、GENE 基础模型及 Genesis World 仿真平台。\n\n公司称已生产约 30 至 40 台 Eno，正为 2027 年量产爬坡，先切入制造、物流与实验室场景，再进入酒店与医疗，并与 LG CNS 达成合作。累计披露融资约 **6.05 亿美元**，含 2025 年 7 月的 1.05 亿美元种子轮。\n\n值得注意的是，这一估值是在**尚未披露任何付费部署**之前确定的——赌的是模型与仿真栈，而非已验证的机器人工时。英伟达与 AMD 的风投部门同时出现在股东名单上，投资者显然在为下一轮融资卡位。"
+        "title": "俄勒冈州起诉 OpenAI 索赔 20.35 亿美元，指 ChatGPT 危害儿童",
+        "excerpt": "该州 53 页诉状是第十二起针对 OpenAI 的州级诉讼，要求法院强制落实安全措施。",
+        "content": "俄勒冈州总检察长 Dan Rayfield 11 月 17 日在摩特诺玛县巡回法院提起诉讼，向 OpenAI 六家关联实体索赔至少 20.35 亿美元。这份 53 页诉状指控 OpenAI 在明知安全措施不足的情况下，仍将 ChatGPT 宣传为对儿童安全的产品，违反该州《不正当贸易行为法》。\n\n该州称，低至 13 岁的用户注册时未确认家长同意，「ChatGPT for Teens」的防护容易被绕过。诉状引用 Common Sense Media 的测试：在 200 多个本应触发危机干预的提示中，青少年版有 25% 未提供任何求助资源。\n\n**指控尚未获证实。** OpenAI 表示已为青少年用户提供保护措施并正在加强，并强调 20.35 亿美元只是州方索赔金额，并非已判赔款。俄勒冈是第十二个起诉 OpenAI 的州，案件尚处早期。"
       }
     },
     {
       "id": 4,
-      "image": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=600&h=400&fit=crop",
-      "category": "cv",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
+      "category": "llm",
       "readTime": 6,
-      "timeAgo": 14,
-      "date": "2026-11-20",
+      "timeAgo": 12,
+      "date": "2026-11-21",
       "en": {
-        "title": "Apple and Cornell Release FastFrames: Video Generation at 36 Milliseconds a Frame",
-        "excerpt": "A research release, not an iPhone feature: FastFrames uses lighter VAE decoding and KV-cache updates to hit 36 ms per frame on one B200 GPU, with weights and paper published.",
-        "content": "Apple and Cornell researchers published **FastFrames** this week — a family of autoregressive video diffusion models aimed at interactive latency, with weights, code and a paper (arXiv:2611.23226, submitted November 17) released together. It is a research drop, not a feature in any shipping Apple product.\n\nThe two variants are **FastFrames-S (1.3B)** and **FastFrames-L (14B)**, both generating 832×480 video in 81-frame clips at 16 fps (about five seconds) in two denoising steps. The paper reports FastFrames-S at **36 milliseconds per frame**, or 28 responses per second, on a single Nvidia B200 GPU, claiming it matches the quality of a state-of-the-art model nearly 8× slower. FastFrames-L is reported at 45 ms per frame on an 8×B200 node.\n\nThe core finding is about where time actually goes. Profiling showed that **VAE decoding and KV-cache updates account for over half of end-to-end latency** — a single VAE decode step costs as long as 3.5 denoiser passes. The team replaced them with a ConvNeXt-based pixel head (cited as a 147× decoding-latency cut) and a lightweight KV-refinement network (about 10×), leaving the diffusion transformer largely alone.\n\nThe 36 ms and 45 ms figures are the authors' own measurements on specified B200 hardware and have not been independently verified. Output is capped at 480p with no audio, and licenses are research-oriented (Apple Sample Code License; parts derived from LingBot under CC BY-NC-SA 4.0) rather than general commercial permission."
+        "title": "Thinking Machines Releases Inkling 2 Mini: a 26B Looped Model That Runs on a Laptop",
+        "excerpt": "A 26.4B-parameter looped MoE with Apache 2.0 weights leads sub-100B open models on agentic coding.",
+        "content": "Thinking Machines Lab released Inkling 2 Mini on November 20 under Apache 2.0 weights on Hugging Face and Tinker. It is a mixture-of-experts model with **26.4 billion total parameters, 3.4 billion active**, that runs its middle layers three times per token — 24 stored layers act as 48.\n\nThe lab reports 48.2% on DeepSWE v1.1 and 77.9% on SWE-bench Pro v2 Hard, ahead of Qwen3.8-27B, and a 20.1 score on the Artificial Analysis Index. Most weights are in 4-bit NVFP4, giving a roughly 20GB footprint that runs on a 32GB Mac; researchers ran it offline on a flight to build a playable flight simulator.\n\nLooping adds reasoning depth but not stored facts, and shortens the visible chain of thought — a trade-off the lab studied with a companion variable-loop research model. Artificial Analysis measured it as about six times cheaper and four times faster per task than Qwen3.8-27B."
       },
       "zh": {
-        "title": "苹果与康奈尔发布 FastFrames：视频生成每帧 36 毫秒",
-        "excerpt": "这是研究发布而非 iPhone 功能：FastFrames 通过轻量化 VAE 解码与 KV 缓存更新，在单张 B200 上达到每帧 36 毫秒，并公开权重与论文。",
-        "content": "苹果与康奈尔的研究者本周发布了 **FastFrames**——一组面向交互式低延迟的自回归视频扩散模型，权重、代码与论文（arXiv:2611.23226，11 月 17 日提交）同步放出。这是一次研究发布，而非任何已上市苹果产品中的功能。\n\n两个版本为 **FastFrames-S（13 亿参数）**与 **FastFrames-L（140 亿参数）**，均以两步去噪生成 832×480、81 帧、16 帧每秒（约 5 秒）的视频。论文称 FastFrames-S 在单张英伟达 B200 上达到**每帧 36 毫秒**、每秒 28 次响应，并声称质量可与慢近 8 倍的最新模型相当。FastFrames-L 在 8×B200 节点上为每帧 45 毫秒。\n\n核心发现关乎时间究竟花在哪里。性能剖析显示，**VAE 解码与 KV 缓存更新占端到端延迟的一半以上**——单次 VAE 解码耗时相当于 3.5 次去噪。团队用基于 ConvNeXt 的像素头（据称解码延迟降低 147 倍）和轻量 KV 精修网络（约 10 倍）替换了这两部分，而基本未改动扩散 Transformer。\n\n36 毫秒与 45 毫秒均为作者在指定 B200 硬件上的自测结果，尚未经独立验证。输出上限为 480p 且无音频；许可偏研究用途（Apple Sample Code License，源自 LingBot 的部分为 CC BY-NC-SA 4.0），并非通用商业授权。"
+        "title": "Thinking Machines 发布 Inkling 2 Mini：可在笔记本运行的 260 亿参数循环模型",
+        "excerpt": "这款 264 亿参数循环 MoE 以 Apache 2.0 开源权重，在智能体编程上领先百亿级以下开源模型。",
+        "content": "Thinking Machines Lab 11 月 20 日发布 Inkling 2 Mini，权重以 Apache 2.0 协议在 Hugging Face 与 Tinker 开放。这是一款混合专家模型，**总参数 264 亿、激活参数 34 亿**，每个 token 将中间层重复运行三次——24 个存储层相当于 48 层。\n\n实验室报告称，该模型在 DeepSWE v1.1 上得分 48.2%，在 SWE-bench Pro v2 Hard 上得分 77.9%，领先 Qwen3.8-27B，在 Artificial Analysis 指数上得 20.1 分。多数权重采用 4 位 NVFP4，内存占用约 20GB，可在 32GB 内存的 Mac 上运行；研究者在飞机上离线运行它，几分钟内做出一个可玩的飞行模拟器。\n\n循环增加了推理深度但不增加存储的事实知识，并会缩短可见的思维链——实验室用同期发布的可变循环研究模型研究了这一权衡。Artificial Analysis 测得它每项任务比 Qwen3.8-27B 便宜约六倍、快约四倍。"
       }
     },
     {
       "id": 5,
-      "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=600&h=400&fit=crop",
-      "category": "healthcare",
+      "image": "https://images.unsplash.com/photo-1617791160505-6f00504e3519?w=600&h=400&fit=crop",
+      "category": "cv",
       "readTime": 5,
-      "timeAgo": 9,
-      "date": "2026-11-20",
+      "timeAgo": 16,
+      "date": "2026-11-21",
       "en": {
-        "title": "Tianjin University Unveils 'Tianhua Kaiwu', China's First Public Enzyme-Design Foundation Model",
-        "excerpt": "The synthetic-biology model, expanded to 56 billion parameters with Zhipu, aims to turn industrial enzyme discovery from trial-and-error into computation, with a design-build-test-learn loop.",
-        "content": "Tianjin University released **'Tianhua Kaiwu'** on **November 19** — described as the first publicly released foundation model in synthetic biology and China's first self-developed enzyme-design model. Built from the ground up rather than fine-tuned from an existing model, it was expanded with Beijing-based Zhipu Huazhang to **56 billion parameters**, up from 800 million in 2024 and 7 billion in 2025.\n\nThe model uses joint reaction–sequence–structure modeling to link 'what production task needs doing' with 'how the enzyme should be built.' It offers three capabilities: designing new enzymes from a target reaction and predicting mutation effects; turning digital designs into physical samples via automated gene synthesis, assembly and expression; and feeding experimental data back into training for a **design–build–test–learn** loop.\n\nPaired with the university's automation equipment, the system can produce an enzyme design proposal within a week and make strain customization and process development possible within three months. Its training data comes from lab and industry enzyme sequences, structures, reactions and processes; the model is adapted to domestic computing power and supports local private deployment so enterprise data need not leave the premises.\n\nAcademician Yuan Yingjin said dozens of enzymes have been tested. At the launch, representatives from CNPC, China Merchants, WuXi AppTec, Novo Nordisks and Asymchem discussed applications. The team plans to open the model for trials and build industry enzyme libraries and standards with companies."
+        "title": "Google Opens Genie 4 World Model to Developers Through Gemini API",
+        "excerpt": "720p, 24fps interactive worlds with native audio, priced at about $0.10 per second.",
+        "content": "Google made Genie 4 available to developers on November 19 through the Gemini API's Interactions API and Google AI Studio, a day after opening it to AI Ultra subscribers in Project Genie. From a text prompt, a reference image, or both, Genie 4 streams a continuous **1280x720 world at 24fps with 48 kHz stereo audio** — ambient sound, effects and character dialogue.\n\nUsers steer with WASD and arrow keys while sending text prompts mid-session to change weather, lighting or objects; Gemini reasoning keeps the world coherent. Every output carries an invisible SynthID watermark.\n\n**Pricing is per second:** $1.50 per million input tokens and $17.50 per million video output tokens (240 tokens per frame), about $0.10 per second or $6.05 a minute. There is no free tier; sessions cap at 120 seconds, and closing a browser tab does not stop billing — apps must end explicitly. Google positions it for prototyping, spatial design and training robots and agents."
       },
       "zh": {
-        "title": "天津大学发布「天华开物」：中国首个合成生物酶设计基座大模型",
-        "excerpt": "该模型联合智谱扩容至 560 亿参数，目标是把工业酶研发从「碰运气」变成「算出来」，并形成设计—构建—测试—学习闭环。",
-        "content": "天津大学于 **11 月 19 日**发布**「天华开物」**酶设计大模型，被称为合成生物领域首个公开发布的大模型，也是中国自主研发的首个酶设计模型。它从底层架构全新构建、而非在已有模型上微调，并联合北京智谱华章将参数扩容至 **560 亿**，此前 2024 年为 8 亿、2025 年为 70 亿。\n\n模型采用反应—序列—结构联合建模，把「要完成什么生产任务」与「酶应该怎样构成」关联起来，具备三项能力：依据目标反应从头设计新酶并预测突变效应；通过自动化基因合成、组装与表达把数字设计变成酶样品；把实验数据回流训练，形成**设计—构建—测试—学习**闭环。\n\n与校内自动化实验平台协同后，系统可在一周内给出酶设计方案，使三个月内完成菌种定制化构建与目标产品工艺开发成为可能。训练数据大量来自实验室与产业一线的酶序列、结构、反应与工艺数据；模型适配国产算力，支持本地化私有部署，企业数据不必出厂。\n\n中科院院士元英进表示，目前已完成数十种酶的测试。发布会上，中石油、招商局、药明康德、诺和诺德、凯莱英等企业代表围绕应用需求交流。团队下一步将面向科研界与产业界开放试用，并与企业共建行业酶库与应用标准。"
+        "title": "谷歌通过 Gemini API 向开发者开放 Genie 4 世界模型",
+        "excerpt": "可生成 720p、24fps 带原生音频的交互世界，定价约每秒 0.10 美元。",
+        "content": "谷歌 11 月 19 日通过 Gemini API 的 Interactions API 与 Google AI Studio 向开发者开放 Genie 4，比在 Project Genie 中向 AI Ultra 订阅用户开放晚一天。开发者可用文本提示、参考图像或两者结合，让 Genie 4 生成**1280x720、24fps 的连续交互世界，并同步生成 48kHz 立体声**——包括环境音、音效与角色对白。\n\n用户可用 WASD 与方向键操控，并在会话中发送文字提示改变天气、光照或物体，由 Gemini 推理保持世界连贯。所有输出都嵌入不可见的 SynthID 水印。\n\n**按秒计费：**输入每百万 token 1.50 美元、视频输出每百万 token 17.50 美元（每帧 240 token），约合每秒 0.10 美元、每分钟 6.05 美元。没有免费层；单次会话上限 120 秒，关闭浏览器标签页不会停止计费——应用必须显式结束会话。谷歌将其定位于原型设计、空间可视化以及机器人和智能体训练。"
       }
     },
     {
       "id": 6,
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
-      "category": "llm",
-      "readTime": 6,
-      "timeAgo": 11,
-      "date": "2026-11-20",
+      "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=600&h=400&fit=crop",
+      "category": "healthcare",
+      "readTime": 5,
+      "timeAgo": 15,
+      "date": "2026-11-21",
       "en": {
-        "title": "SenseTime Open-Sources SenseNova Loop-9B: A 9B Model That Runs Its Layers Twice",
-        "excerpt": "Under Apache 2.0, the looped-decoder model performs 56 layer computations per forward pass while storing only 32 sets of weights, with a 512K context window and official 4-bit quantization.",
-        "content": "SenseTime released **SenseNova-Loop-9B** on November 17 under Apache 2.0, with weights and code on Hugging Face (gated behind an access request). It follows a preview published on October 31. The idea is to trade stored parameters for more sequential computation: a roughly **9B-parameter** model that behaves like about 14.6B at inference time.\n\nThe decoder has 32 distinct layers, but layers 4–27 form a **shared-weight block executed twice**, producing 56 decoder-layer computations per forward pass. It combines two-stream manifold-constrained hyper-connections (mHC, using 20 Sinkhorn iterations) and a hybrid attention pattern of three linear layers followed by one full-attention layer in each four-layer group. Input is text and images, output is text, with a **512K-token** context window.\n\nSenseTime's self-reported results put the release near Qwen3.8-27B on agent tasks: AutomationBench 36.67 (a tie), AIDABench 65.31 versus 65.01, but NL2Repo 41.36 versus 44.60. Gains over the preview are large on some benchmarks — Terminal-Bench 2.1 from 40.45 to 59.55 and GAIA from 37.86 to 69.90.\n\nThe model is pitched at low-memory deployment: official 4-bit weights are about **4.9 GB**, with roughly 10 GiB of GPU memory at 64K context and 15 GiB at 256K (8-bit KV cache). An AWQ 4-bit version shipped on day one. All benchmark figures are SenseTime's own and have not been independently verified; vLLM and SGLang support were still in pull requests at release."
+        "title": "OpenAI Launches MedChemBench to Test AI's Medicinal-Chemistry Reasoning",
+        "excerpt": "GPT-6.2 Astra scores 84.5%, but OpenAI says the benchmark does not prove models can discover new drugs.",
+        "content": "OpenAI introduced MedChemBench on November 20, a benchmark of 99 problems drawn from 117 papers and patents covering 761 distinct molecular structures. It tests whether models can connect a molecule's structure with experimental evidence to explain results, compare compounds and predict properties — the trade-offs medicinal chemists weigh daily.\n\nAt the xhigh reasoning setting, **GPT-6.2 Astra earned 84.5%** of available credit, versus 83.3% for GPT-6 Astra, 82.0% for GPT-6.1 Sol and 58.2% for GPT-5.6 Sol. Astra was strongest reconstructing molecular structures (95.4% of credit) but only about half credit on ranking compounds and predicting numerical properties.\n\n**OpenAI cautions against overreading.** The evaluations were single attempts without tools or new experiments, prior exposure to published sources cannot be ruled out, and the benchmark is near saturation. The scores measure reasoning on historical research, not proof of real drug discovery."
       },
       "zh": {
-        "title": "商汤开源 SenseNova Loop-9B：9B 参数把层跑两遍，逼近 27B 表现",
-        "excerpt": "该模型以 Apache 2.0 开源，循环解码器每次前向执行 56 次层计算却只存 32 套权重，支持 512K 上下文与官方 4bit 量化。",
-        "content": "商汤于 11 月 17 日以 Apache 2.0 许可发布 **SenseNova-Loop-9B**，权重与代码已上线 Hugging Face（需申请访问），此前 10 月 31 日曾发布预览版。思路是用更少的存储权重换更深的顺序计算：一个约 **90 亿参数**的模型，在推理时表现得像约 146 亿参数。\n\n解码器有 32 个不同的层，但第 4–27 层构成**共享权重的循环块并执行两次**，每次前向产生 56 次解码层计算。模型结合双流流形约束超连接（mHC，使用 20 次 Sinkhorn 迭代）与混合注意力（每四层中三层线性注意力、一层全注意力）。输入支持文本与图像，输出文本，上下文窗口达 **512K token**。\n\n商汤自测结果显示，该模型在智能体任务上接近 Qwen3.8-27B：AutomationBench 36.67（持平）、AIDABench 65.31 对 65.01，但 NL2Repo 为 41.36 对 44.60。部分基准较预览版提升明显——Terminal-Bench 2.1 从 40.45 升至 59.55，GAIA 从 37.86 升至 69.90。\n\n模型主打低显存部署：官方 4bit 权重约 **4.9 GB**，64K 上下文约需 10 GiB 显存、256K 约 15 GiB（8bit KV 缓存），发布首日即提供 AWQ 4bit 版本。所有基准数据均为商汤自测、尚未经独立验证；vLLM 与 SGLang 支持在发布时仍处于合并请求阶段。"
+        "title": "OpenAI 推出 MedChemBench 评测 AI 的药物化学推理能力",
+        "excerpt": "GPT-6.2 Astra 得分 84.5%，但 OpenAI 表示该基准不能证明模型能发现新药。",
+        "content": "OpenAI 11 月 20 日推出 MedChemBench，这是一个包含 99 道题目的基准，取自 117 篇论文与专利，涵盖 761 个不同的分子结构。它测试模型能否将分子结构与实验证据关联起来，以解释结果、比较化合物并预测性质——正是药物化学家日常权衡的取舍问题。\n\n在 xhigh 推理档位下，**GPT-6.2 Astra 获得 84.5% 的分值**，GPT-6 Astra 为 83.3%，GPT-6.1 Sol 为 82.0%，GPT-5.6 Sol 为 58.2%。Astra 最擅长重建分子结构（获 95.4% 分值），但在化合物排序与数值性质预测上仅获约一半分值。\n\n**OpenAI 提醒不要过度解读。** 评测均为单次尝试，不使用工具或新实验，无法排除模型此前接触过已发表资料，且该基准已接近饱和。这些分数衡量的是对历史研究的推理能力，并不能证明真实的药物发现能力。"
       }
     },
     {
       "id": 7,
-      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&h=400&fit=crop",
-      "category": "llm",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
       "readTime": 5,
-      "timeAgo": 7,
-      "date": "2026-11-20",
+      "timeAgo": 18,
+      "date": "2026-11-21",
       "en": {
-        "title": "Google Brings 'Computer Use' to Gemini on Mac, Letting the AI Drive Desktop Apps",
-        "excerpt": "Announced November 19, the feature runs tasks in a background window with a live preview and approval prompts, as Apple tightens full-disk-access permissions for AI agents.",
-        "content": "Google announced on **November 19** a 'Computer Use' feature for the macOS Gemini app, allowing the AI to operate desktop apps, local files and the web to complete multi-step tasks. The feature is rolling out to English-speaking users in the United States on Google AI Plus, Pro and Ultra plans.\n\nUsers describe a task in natural language; Gemini then switches between applications, clicks, types, fills forms and navigates menus. Examples Google cites include batch-editing photos, extracting weights, dimensions and addresses from local PDFs to fill a shipping-quote form, building slides from dashboard data, and listing clothes on a resale platform. Tasks run in a **separate background window** that does not occupy the main screen or cursor, with a live preview in chat and the ability to pause or stop. Gemini asks for approval before critical actions, and users choose which apps it may access.\n\nRequirements include an Apple-silicon Mac running macOS Sequoia 15.0 or later, users aged 18+, and a qualifying personal Google account with an eligible subscription.\n\nThe timing coincides with Apple's November 16 developer announcement: macOS 27.3 Beta 2 splits device-control, data-access and **Full Disk Access** permissions into more granular options, adds per-request confirmation and a menu-bar indicator when one app controls another. The Verge reports Apple's change is tied to the rise of AI agents, though it predates Gemini's feature rather than responding to it. Google has also expanded its in-app Gemini Tasks mode to more users."
+        "title": "Boston Dynamics' Atlas Gets First Chip-Factory Customer in GlobalFoundries",
+        "excerpt": "GlobalFoundries is the first non-automotive customer to test the humanoid, with on-site trials starting early 2027.",
+        "content": "Boston Dynamics and GlobalFoundries announced on November 17 an expanded partnership. GF will deploy Spot robots across its fabs in Malta, New York; Burlington, Vermont; Dresden, Germany; and Singapore — and will become the **first customer outside the automotive industry, and first semiconductor maker, to test the Atlas humanoid**.\n\nGF has run Spot in Vermont for more than four years. In Singapore, two units have logged nearly 900 kilometers since April and completed more than 90,000 inspections with a 99% mission success rate; the company redeployed 875 routine inspections in two weeks.\n\nOn-site Atlas testing begins in early 2027 through skills-development workshops to identify use cases. The move comes as Hyundai completed its buyout of the remaining SoftBank stake in Boston Dynamics, and plans Atlas mass production in the US in 2028."
       },
       "zh": {
-        "title": "谷歌为 Mac 版 Gemini 上线「电脑操控」，AI 可跨应用动手干活",
-        "excerpt": "该功能于 11 月 19 日宣布，任务在后台窗口执行并配实时预览与审批提示；与此同时，苹果正收紧 AI 智能体的完全磁盘访问权限。",
-        "content": "谷歌于 **11 月 19 日**宣布为 macOS 版 Gemini 应用推出「电脑操控」（Computer Use）功能，允许 AI 操作桌面应用、本地文件与网页以完成多步骤任务。该功能正向美国地区的英语用户、Google AI Plus／Pro／Ultra 订阅者逐步开放。\n\n用户用自然语言描述任务，Gemini 即可在应用间切换、点击、输入、填表与操作菜单。谷歌列举的场景包括批量修图、从本地 PDF 提取重量尺寸与地址来填写运费报价单、用仪表盘数据制作幻灯片，以及在二手平台上架衣物。任务在**独立的后台窗口**中执行，不占用主屏幕与光标；聊天界面提供实时预览，可随时暂停或停止；关键操作前 Gemini 会请求批准，用户可自行选择允许访问的应用。\n\n使用条件包括搭载 Apple 芯片、运行 macOS Sequoia 15.0 或更新版本的 Mac，用户年满 18 岁，并使用符合条件的个人 Google 账号与订阅。\n\n上线时点恰逢苹果 11 月 16 日的开发者公告：macOS 27.3 Beta 2 把设备控制、数据访问与**完全磁盘访问权限**拆分为更细的选项，增加每次请求时确认，并在一个应用控制另一应用时显示菜单栏提示。The Verge 报道称苹果的调整与 AI 智能体普及带来的安全风险有关，但早于而非针对 Gemini 此功能。谷歌本周还扩大了应用内 Gemini Tasks 模式的推送范围。"
+        "title": "波士顿动力 Atlas 迎来首个芯片工厂客户格罗方德",
+        "excerpt": "格罗方德成为首家测试该人形机器人的非汽车行业客户，现场试验将于 2027 年初启动。",
+        "content": "波士顿动力与格罗方德 11 月 17 日宣布扩大合作。格罗方德将在其位于纽约州马耳他、佛蒙特州伯灵顿、德国德累斯顿和新加坡的晶圆厂部署 Spot 机器人，并将成为**首家测试 Atlas 的非汽车行业客户，也是首家测试人形机器人的半导体制造商**。\n\n格罗方德在伯灵顿已使用 Spot 超过四年。在新加坡，两台 Spot 自 4 月以来行进近 900 公里，完成超过 9 万次巡检，任务成功率 99%；公司用两周迁移了 875 项例行巡检任务。\n\nAtlas 的现场测试将于 2027 年初通过技能发展研讨会启动，以确定应用场景。此举正值现代汽车完成收购软银所持波士顿动力剩余股份，并计划 2028 年在美国量产 Atlas。"
       }
     },
     {
       "id": 8,
-      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
       "category": "infra",
       "readTime": 5,
-      "timeAgo": 13,
-      "date": "2026-11-20",
+      "timeAgo": 14,
+      "date": "2026-11-21",
       "en": {
-        "title": "Nvidia and Microsoft Expand Full-Stack Tie-Up: Vera Rubin NVL72 Lands on Azure, AI Moves to Windows PCs",
-        "excerpt": "Nvidia says its Vera Rubin NVL72 systems are now running in Azure data centers, as the two companies push accelerated computing from the cloud to local Windows PCs and edge devices.",
-        "content": "Nvidia said on **November 20** that it is expanding its full-stack collaboration with Microsoft, with its **Vera Rubin NVL72** systems now running in Azure data centers. The move lets enterprises customize AI models and deploy applications both in the cloud and on local Windows PCs.\n\nAt Ignite 2026, the companies outlined a vision in which Windows PCs equipped with Nvidia RTX Spark can run local large language models, reducing dependence on connectivity. For GPU-accelerated Windows 365 cloud PCs, they introduced **Direct Stream**, supporting up to two 4K streams at 60 fps with public preview expected in early 2027.\n\nNvidia also released the **Nemotron 3.5** family: Super for continuous reasoning and complex agent tasks, Lightning for fast response and tool use, plus models for retrieval, document parsing and content safety. On the edge, Azure Local will support the RTX PRO 6000 Blackwell GPU and extend to Jetson Thor and Jetson Orin devices for machine vision, robotics and autonomous operations. Microsoft Foundry added support for Nvidia open models, a serverless 'Programmed Training' service and Foundry Managed Compute.\n\nThe collaboration sits alongside Microsoft's diversification: at Ignite it unveiled the in-house Maia 300 accelerator and said it would mix AMD MI300X/MI455X chips into Azure, while stressing that customer demand for Nvidia hardware remains very high."
+        "title": "Google Trims Broadcom TPU Orders by a Million Chips, Shifting Share to MediaTek",
+        "excerpt": "Analyst Ming-Chi Kuo says the roughly 20% cut reflects scarce power and supply, not weaker AI demand.",
+        "content": "TF International Securities analyst Ming-Chi Kuo said on November 20 that Google has cut about one million Broadcom-designed TPU 8i chips from its 2027 plans — roughly 20% of that family, mostly the pricier 8i Max 'Whalefish' — while raising shipments of the MediaTek-designed 8t.\n\nKuo framed the shift as a rebalancing, not a retreat: Google has repeatedly said frontier-model development gets first call on compute, and the change reflects tight supply chains and limited data-center power. His separate research names MediaTek sole supplier for the v9 and v10 TPU lines, with its share rising above 55% by 2029.\n\n**Neither Google nor Broadcom confirmed the figures.** Broadcom fell 12% on the report, wiping about $191 billion off its market value. Kuo projects Google TPU shipments of 8-9 million units in 2027 and 14-15 million in 2028."
       },
       "zh": {
-        "title": "英伟达与微软扩展全栈合作：Vera Rubin NVL72 上线 Azure，AI 走向 Windows PC",
-        "excerpt": "英伟达称其 Vera Rubin NVL72 系统现已在 Azure 数据中心运行，双方正把加速计算从云端推向本地 Windows PC 与边缘设备。",
-        "content": "英伟达于 **11 月 20 日**表示正与微软扩展全栈合作，其 **Vera Rubin NVL72** 系统现已在微软 Azure 数据中心运行。此举让企业既能在云端、也能在本地 Windows PC 上定制 AI 模型并部署应用。\n\n在 Ignite 2026 上，双方描绘了这样的愿景：搭载英伟达 RTX Spark 的 Windows PC 可运行本地大语言模型，降低对网络的依赖。针对 GPU 加速的 Windows 365 云电脑，两家公司推出 **Direct Stream**，最多支持两路 4K、60 帧画面，公开预览预计于 2027 年初推出。\n\n英伟达还发布 **Nemotron 3.5** 系列模型：Super 面向连续思考与复杂智能体任务，Lightning 强调快速响应与工具调用，另有面向检索、文档解析与内容安全的配套模型。边缘侧，Azure Local 将支持 RTX PRO 6000 Blackwell GPU，并扩展至 Jetson Thor、Jetson Orin 等设备，用于机器视觉、机器人与自主运营。微软 Foundry 新增对英伟达开放模型的支持、无服务器「Programmed Training」服务与 Foundry Managed Compute。\n\n此次合作与微软的多元化并行：其在 Ignite 上发布了自研 Maia 300 加速器，并表示将在 Azure 中混合部署 AMD MI300X／MI455X 芯片，同时强调客户对英伟达硬件的需求依然很高。"
+        "title": "谷歌削减博通 100 万颗 TPU 订单，份额转向联发科",
+        "excerpt": "分析师郭明錤称约 20% 的削减源于电力与供应紧张，而非 AI 需求减弱。",
+        "content": "TF International Securities 分析师郭明錤 11 月 20 日表示，谷歌已从 2027 年计划中削减约 100 万颗博通设计的 TPU 8i 芯片——约占该系列 20%，主要是价格更高的 8i Max「Whalefish」——同时增加联发科设计的 8t 出货量。\n\n郭明錤将此解读为再平衡而非撤退：谷歌多次强调前沿模型开发优先获得算力，此次调整反映了供应链紧张与数据中心电力受限。他的另一份研究称联发科将成为 v9 与 v10 TPU 产品线的独家供应商，到 2029 年份额将超过 55%。\n\n**谷歌与博通均未证实这些数字。** 博通因该消息下跌 12%，市值蒸发约 1910 亿美元。郭明錤预计谷歌 TPU 出货量 2027 年为 800 万至 900 万颗，2028 年为 1400 万至 1500 万颗。"
       }
     },
     {
       "id": 9,
-      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
       "category": "business",
-      "readTime": 6,
-      "timeAgo": 15,
-      "date": "2026-11-20",
+      "readTime": 5,
+      "timeAgo": 20,
+      "date": "2026-11-21",
       "en": {
-        "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B in All-Stock Deal",
-        "excerpt": "The security giant is buying a startup founded by three former OpenAI researchers, betting that enterprises will run a mix of open and closed models that all need securing.",
-        "content": "Palo Alto Networks announced on **November 18** that it will acquire AI infrastructure startup **Applied Compute** in an **all-stock deal valued at $4.5 billion**. The transaction is expected to close in fiscal 2027's third quarter, pending regulatory approval. Applied Compute CEO Yash Patil will become co-chief AI officer, and the research team will join Palo Alto Networks.\n\nApplied Compute was founded in 2025 by three former OpenAI researchers — Patil, Rhythm Garg and Linden Li — all in their early twenties and alumni of Stanford. They had worked on Codex, the o1 reasoning model and reinforcement-learning training infrastructure, and were inspired to start the company by DeepSeek's R1 release. Its **AC2 Agent Cloud** platform combines post-training, evaluation sandboxes, inference hosting and agent orchestration for enterprises training custom models on their own data.\n\nThe startup raised **$350 million earlier in November** at a $3.25 billion valuation, led by Elad Gil with Nvidia, Shopify Ventures and HubSpot Ventures participating, bringing total funding to over $500 million. Reported revenue run-rate figures vary by outlet; customers include Microsoft and DoorDash.\n\nChairman and CEO Nikesh Arora framed the deal as a bet on hybrid AI: 'Every enterprise will run a combination of open and closed models, and each of those models needs to be secured.' Palo Alto Networks said existing vendors do not yet secure open-weight models well. The announcement came alongside a first-quarter revenue of $3.44 billion, up 39% year on year."
+        "title": "DeepSeek Closes 100 Billion Yuan Round Ahead of Shanghai STAR Market IPO",
+        "excerpt": "A roughly $15 billion second round brings in Tencent, China Mobile and CATL, with a STAR Market listing in preparation.",
+        "content": "DeepSeek completed a second external funding round of about 100 billion yuan ($15 billion), with business-registration changes finalized on November 17, according to Caixin Global. A partnership representing the new investors took a roughly 17.3% stake, and the company is preparing an IPO on Shanghai's STAR Market.\n\nChinese reports detailed the investor lineup: Tencent, China Mobile, China Telecom, CATL, Xiaohongshu, vivo and others, plus firms including IDG, Boyu and CITIC Securities. Tencent's vehicle and CATL-linked funds each committed about 9.57%, tied as largest contributors. Founder Liang Wenfeng stepped back from the direct partner list but retains control through a management entity.\n\nDeepSeek's first major external round raised 50 billion yuan at a 350 billion yuan post-money valuation. **No IPO timetable has been stated**, and the round's scale has been described as unprecedented in China's primary market."
       },
       "zh": {
-        "title": "派拓网络以 45 亿美元全股票交易收购 Applied Compute",
-        "excerpt": "这家网络安全巨头收购由三名 OpenAI 前研究员创办的初创公司，押注企业将同时运行开源与闭源模型、而每种模型都需要安全防护。",
-        "content": "派拓网络（Palo Alto Networks）于 **11 月 18 日**宣布将以 **45 亿美元全股票交易**收购 AI 基础设施初创公司 **Applied Compute**。交易预计于 2027 财年第三季度完成，尚待监管批准。Applied Compute 首席执行官 Yash Patil 将出任联席首席 AI 官，其研究团队将一并加入。\n\nApplied Compute 由三名 OpenAI 前研究员 Yash Patil、Rhythm Garg 与 Linden Li 于 2025 年创立，三人均为 20 出头的斯坦福校友，曾分别参与 Codex、o1 推理模型与强化学习训练底座研发，创业灵感来自 DeepSeek 发布 R1。其 **AC2 Agent Cloud** 平台把后训练、评测沙箱、推理托管与智能体调度整合在一起，帮助企业在自有数据上训练定制模型。\n\n该公司本月初完成 **3.5 亿美元**融资，估值 32.5 亿美元，由 Elad Gil 领投，英伟达、Shopify Ventures 与 HubSpot Ventures 参投，累计融资超过 5 亿美元。各家媒体对其年化收入口径不一；客户包括微软与 DoorDash。\n\n董事长兼 CEO Nikesh Arora 将此交易定位为对混合 AI 的押注：「每家企业都将运行开放模型与封闭模型的组合，而每个模型都需要安全保障。」派拓网络称目前尚无大型供应商能很好地保护开放权重模型。该公告与其第一财季 34.4 亿美元、同比增长 39% 的营收同日公布。"
+        "title": "DeepSeek 完成千亿元融资，筹备上交所科创板 IPO",
+        "excerpt": "约 150 亿美元的第二轮融资引入腾讯、中国移动与宁德时代，并筹备科创板上市。",
+        "content": "据财新报道，DeepSeek 完成约 1000 亿元人民币（150 亿美元）的第二轮外部融资，工商变更于 11 月 17 日完成。代表新投资方的合伙企业取得约 17.3% 股权，公司正筹备在上海科创板上市。\n\n中文报道披露了投资方阵容：腾讯、中国移动、中国电信、宁德时代、小红书、vivo 等产业方，以及 IDG、博裕、中信证券等机构。腾讯旗下公司与宁德时代关联基金各出资约 9.57%，并列最大出资人。创始人梁文锋退出直接合伙人名单，但通过管理实体保持控制权。\n\nDeepSeek 首轮重大外部融资为 500 亿元，投后估值 3500 亿元。**公司尚未公布 IPO 时间表**，此轮融资规模被形容为中国一级市场罕见。"
       }
     },
     {
       "id": 10,
-      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&fit=crop",
-      "category": "research",
-      "readTime": 7,
-      "timeAgo": 16,
-      "date": "2026-11-20",
+      "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 4,
+      "timeAgo": 8,
+      "date": "2026-11-21",
       "en": {
-        "title": "OpenAI Details 'Performance Factory': Codex Agents That Diagnose and Fix ChatGPT Slowdowns",
-        "excerpt": "An internal system tracked over 1,700 investigations and root-caused 600 regressions in three months, using adversarial review to challenge its own agents' diagnoses.",
-        "content": "OpenAI published details on **November 19** of an internal system called **'Performance Factory'**, in which Codex agents find, diagnose and propose fixes for performance regressions in ChatGPT and its services. The first workflow, the Regression Workflow, tracked more than **1,700 investigations** and root-caused over 600 cases in just over three months — roughly 17 automated investigations a day.\n\nThe system has four parts: a task service with workflows defined in Markdown, a dispatch loop that assigns ready work to agents, an internal API running Codex in the cloud under a scoped service identity, and event subscriptions that wake an agent when a pull-request comment lands or a deployment completes. A shared 'perf-forensics' skill captures the engineers' investigation playbook.\n\nA key idea is **adversarial review**: a separate Codex session tries to disprove the first agent's diagnosis by rechecking assumptions and testing counterfactuals. In one case an agent blamed image-download errors, but the reviewer noticed the file-location service had already recovered while requests still failed, and reopened the investigation. In a manual review of 100 root-cause suggestions, **70% were graded accurate** and 30% needed refinement.\n\nFixing proved harder than diagnosis. Of 600-plus root-caused cases, around 400 progressed to a proposed fix and roughly 15 shipped fixes were exact pull requests written by Codex; proposed fixes also get adversarial review, and an engineer decides what merges. A daily agent scans run logs for tool failures. OpenAI is exploring proactive detection and shipping low-risk fixes without a human in the loop. All figures are the company's own measurements from an internal system, not independently audited results."
+        "title": "Nvidia in Advanced Talks to Acquire Diffusion-LLM Startup Inception",
+        "excerpt": "The deal is valued at least $500 million and would feed Nvidia's open-source Nemotron models.",
+        "content": "Nvidia is in advanced talks to acquire AI startup Inception in a deal valued at least $500 million, according to the Lujiazui financial briefing and Neural Wire. Inception specializes in a **diffusion language model** architecture that generates a full answer at once rather than word by word — an approach its backers say could improve speed and cost-efficiency.\n\nThe startup's diffusion LLM technology and research team are expected to feed directly into Nvidia's development of its open-source Nemotron model family, extending the chipmaker's software stack beyond hardware.\n\n**The deal has not been confirmed by either company.** If completed, it would add to Nvidia's string of AI software and model acquisitions as it builds out a full-stack position spanning silicon, models and agents."
       },
       "zh": {
-        "title": "OpenAI 详解「Performance Factory」：用 Codex 智能体诊断并修复 ChatGPT 性能回归",
-        "excerpt": "这套内部系统三个月内跟踪逾 1700 次调查、定位 600 多起性能回归，并用「对抗式复核」挑战自家智能体的诊断。",
-        "content": "OpenAI 于 **11 月 19 日**披露内部系统 **「Performance Factory」** 的细节：Codex 智能体负责发现、诊断并提议修复 ChatGPT 及其服务的性能回归。首个工作流「回归工作流」在三个多月里跟踪了逾 **1700 次调查**、定位了 600 多起根因——约合每天 17 次自动化调查。\n\n系统由四部分组成：用 Markdown 定义工作流的任务服务、把待办工作分配给智能体的调度循环、在云端以受限服务身份运行 Codex 的内部 API，以及在拉取请求评论或部署完成时唤醒智能体的事件订阅。一份共享的「perf-forensics」技能封装了工程师的调查方法。\n\n核心机制是**对抗式复核**：另一个 Codex 会话通过重新检查假设、测试反事实来试图推翻首个智能体的诊断。一次调查中，智能体把故障归咎于图片下载错误，但复核者注意到文件定位服务已恢复而请求仍在失败，于是重新开启调查。在 100 条根因建议的人工评审中，**70% 被判为准确**，30% 仍需完善。\n\n修复比诊断更难：在 600 多起定位到根因的案例中，约 400 例推进到提议修复，约 15 个已上线修复直接采用了 Codex 写的拉取请求；提议的修复同样要经过对抗式复核，最终由工程师决定合并。另有一个每日智能体扫描运行日志中的工具故障。OpenAI 正在探索主动检测以及无人值守地发布低风险修复。所有数字均为公司自身内部系统的测量结果，未经独立审计。"
+        "title": "英伟达深谈收购扩散语言模型初创公司 Inception",
+        "excerpt": "交易估值至少 5 亿美元，将服务于英伟达开源的 Nemotron 模型。",
+        "content": "据陆家嘴财经早餐与 Neural Wire 报道，英伟达正就收购 AI 初创公司 Inception 展开深入洽谈，交易估值至少 5 亿美元。Inception 专注于**扩散语言模型**架构，可一次性生成完整答案而非逐词生成——其支持者称这一方法有望提升速度与成本效率。\n\n该公司的扩散 LLM 技术与研究团队预计将直接服务于英伟达开源 Nemotron 模型家族的研发，把这家芯片厂商的软件栈延伸到硬件之外。\n\n**两家公司均未证实该交易。** 若最终完成，这将是英伟达一系列 AI 软件与模型收购的最新一例，进一步强化其横跨芯片、模型与智能体的全栈布局。"
       }
     }
   ]

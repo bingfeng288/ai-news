@@ -1,0 +1,202 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop",
+    "category": "research",
+    "readTime": 6,
+    "timeAgo": 14,
+    "date": "2026-11-21",
+    "en": {
+      "title": "Anthropic Mathematician Says Claude Helped Prove the Riemann Hypothesis",
+      "excerpt": "Levent Alpöge says he found a proof working with Claude and formalized it in Lean — but independent verification has not yet arrived.",
+      "content": "**A claimed proof, not a settled result.** Levent Alpöge, a mathematician at Anthropic, said on November 20 in a document on his website that he has found a proof of the Riemann Hypothesis working with Claude. The 1859 conjecture governs the distribution of prime numbers and is one of the Clay Mathematics Institute's seven Millennium Prize Problems, each carrying a $1 million reward.\n\nAlpöge writes that the same method also resolves the Generalized Riemann Hypothesis, and says he and Claude formalized the argument in the Lean proof assistant. For now he has released only the Lean files, and says a written paper will follow.\n\n**Verification is still pending.** Under Clay's rules, a solution counts only after publication in a qualifying venue, two years have passed, and the mathematics community has accepted it. TechCrunch reported that a separate, entirely human proof of the Generalized Riemann Hypothesis was posted the same day. Treat the headline as a claim awaiting peer review, not a solved problem."
+    },
+    "zh": {
+      "title": "Anthropic 数学家称借助 Claude 证明了黎曼猜想",
+      "excerpt": "Levent Alpöge 称他与 Claude 合作找到证明并用 Lean 形式化，但独立验证尚未完成。",
+      "content": "**这是一项声称的证明，不是已定论的结果。** Anthropic 数学家 Levent Alpöge 11 月 20 日在个人网站发布文档称，他与 Claude 合作找到了黎曼猜想的证明。这一 1859 年提出的猜想关乎素数分布，是克莱数学研究所七个千禧年大奖难题之一，每题悬赏 100 万美元。\n\nAlpöge 表示，同一方法还解决了广义黎曼猜想，并称他与 Claude 已用 Lean 证明助手将论证形式化。目前他只公开了 Lean 文件，称正式论文将随后发布。\n\n**验证仍待完成。** 按克莱研究所规则，解答须在合资格刊物发表、满两年且获数学界认可后才算成立。TechCrunch 报道，同日另有一位研究者发布了完全由人类完成的广义黎曼猜想证明。这条新闻应视为待同行评审的声称，而非已解难题。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 6,
+      "date": "2026-11-21",
+      "en": {
+        "title": "Anthropic Shares Slide After Record IPO as AI Trade Cools",
+        "excerpt": "The stock fell back toward its $83 offer price, dragging AI-linked equities; Nasdaq erased its 2026 gains.",
+        "content": "Anthropic, which priced the largest US IPO on record at $83 a share and opened at $111.50 on November 19, has since slid back close to its offer price. Reuters, MarketWatch and Fortune reported the stall, with Fortune noting Wall Street is split on whether this marks a ceiling for AI valuations.\n\nThe weakness spread across the AI trade for a second day. Advanced Micro Devices fell 11%, Arm 11%, Marvell 10% and Arista Networks 11%, while Nvidia dropped 7%, according to Yahoo Finance.\n\nBy Friday the Nasdaq 100 had erased its 2026 gains, and the S&P 500 and Dow entered corrections. Fortune and MarketWatch framed the debate as whether AI stocks had simply run too far, too fast. **The IPO itself still raised more than $81 billion**, a record regardless of the second-day trading."
+      },
+      "zh": {
+        "title": "创纪录 IPO 后 Anthropic 股价回落，AI 交易集体降温",
+        "excerpt": "股价回落至 83 美元发行价附近，拖累 AI 相关股票；纳指抹去 2026 年涨幅。",
+        "content": "Anthropic 以每股 83 美元定出美国史上最大 IPO，11 月 19 日开盘报 111.50 美元，随后回落至发行价附近。路透、MarketWatch 与《财富》报道了这一滞涨，《财富》指出华尔街对这是否意味着 AI 估值见顶存在分歧。\n\n疲势连续第二日蔓延至整个 AI 板块。据雅虎财经数据，AMD 下跌 11%、Arm 下跌 11%、Marvell 下跌 10%、Arista Networks 下跌 11%，英伟达下跌 7%。\n\n截至周五，纳斯达克 100 指数抹去了 2026 年全部涨幅，标普 500 与道指进入回调区间。《财富》与 MarketWatch 将争论归结为 AI 股票是否涨得过快过高。**这次 IPO 本身仍募得逾 810 亿美元**，无论次日交易如何，都创下纪录。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 5,
+      "timeAgo": 15,
+      "date": "2026-11-21",
+      "en": {
+        "title": "OpenAI Details Defenses Against Distillation, Cuts Reasoning Extraction Below 1%",
+        "excerpt": "Protected chain-of-thought extraction fell from 54% to 0.2%, the company says, as it pushes for new anti-theft laws.",
+        "content": "OpenAI on November 20 described how it detects and disrupts adversarial distillation — someone using a model's outputs without authorization to train a rival model. Its focus is **protected reasoning**, the chain of thought generated on the way to an answer, which carries information the final answer leaves out.\n\nIn internal adaptive red-teaming, the success rate of extracting protected reasoning from an earlier request fell from 54.0% on GPT-6 Astra to 0.2% on GPT-6.2 Astra with updated safeguards. For reasoning from the current request, the rate fell from 22.9% to 0.9%.\n\nDefenses work at two levels: classifiers and API controls protect individual requests, while investigations hunt coordinated extraction campaigns across accounts. OpenAI says weekly enforcement has hit thousands to tens of thousands of accounts, and told Congress it supports the Chip Security Act, AI OVERWATCH Act and MATCH Act."
+      },
+      "zh": {
+        "title": "OpenAI 详解对抗性蒸馏防御，将推理提取成功率压至 1% 以下",
+        "excerpt": "公司称受保护的思维链提取成功率从 54% 降至 0.2%，并推动新的反窃取立法。",
+        "content": "OpenAI 11 月 20 日说明了如何检测和对抗对抗性蒸馏——即有人未经授权用模型输出训练竞品模型。其重点是**受保护的推理过程**：模型得出答案过程中生成的思维链，包含了最终答案所省略的信息。\n\n在内部自适应红队测试中，从早前请求提取受保护推理的成功率，从 GPT-6 Astra 的 54.0% 降至更新防护后的 GPT-6.2 Astra 的 0.2%；针对当前请求推理的提取成功率从 22.9% 降至 0.9%。\n\n防御分两层：分类器与 API 控制保护单次请求，调查则追查跨账户的协同提取行动。OpenAI 称每周执法涉及数千至数万个账户，并已告知国会支持《芯片安全法》《AI OVERWATCH 法》与《MATCH 法》。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 5,
+      "timeAgo": 16,
+      "date": "2026-11-21",
+      "en": {
+        "title": "Oregon Sues OpenAI for $2.035 Billion, Alleging ChatGPT Endangers Children",
+        "excerpt": "The state's 53-page complaint is the twelfth state suit against OpenAI and seeks court-ordered safety safeguards.",
+        "content": "Oregon Attorney General Dan Rayfield filed suit on November 17 in Multnomah County Circuit Court, seeking at least $2.035 billion in damages from six OpenAI entities. The 53-page complaint alleges OpenAI marketed ChatGPT as safe for children while knowing its safeguards were inadequate, and violated the state's Unlawful Trade Practices Act.\n\nThe state says sign-up did not confirm parental consent for users as young as 13, and that the 'ChatGPT for Teens' safeguards are easily bypassed. It cites Common Sense Media testing in which the teen version failed to provide any crisis resource in 25% of more than 200 prompts warranting one.\n\n**The allegations are not proven.** OpenAI says it has teen protections in place and is strengthening them, and stresses the $2.035 billion is the state's demand, not an awarded judgment. Oregon is the twelfth state to sue OpenAI; the case is at an early stage."
+      },
+      "zh": {
+        "title": "俄勒冈州起诉 OpenAI 索赔 20.35 亿美元，指 ChatGPT 危害儿童",
+        "excerpt": "该州 53 页诉状是第十二起针对 OpenAI 的州级诉讼，要求法院强制落实安全措施。",
+        "content": "俄勒冈州总检察长 Dan Rayfield 11 月 17 日在摩特诺玛县巡回法院提起诉讼，向 OpenAI 六家关联实体索赔至少 20.35 亿美元。这份 53 页诉状指控 OpenAI 在明知安全措施不足的情况下，仍将 ChatGPT 宣传为对儿童安全的产品，违反该州《不正当贸易行为法》。\n\n该州称，低至 13 岁的用户注册时未确认家长同意，「ChatGPT for Teens」的防护容易被绕过。诉状引用 Common Sense Media 的测试：在 200 多个本应触发危机干预的提示中，青少年版有 25% 未提供任何求助资源。\n\n**指控尚未获证实。** OpenAI 表示已为青少年用户提供保护措施并正在加强，并强调 20.35 亿美元只是州方索赔金额，并非已判赔款。俄勒冈是第十二个起诉 OpenAI 的州，案件尚处早期。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 6,
+      "timeAgo": 12,
+      "date": "2026-11-21",
+      "en": {
+        "title": "Thinking Machines Releases Inkling 2 Mini: a 26B Looped Model That Runs on a Laptop",
+        "excerpt": "A 26.4B-parameter looped MoE with Apache 2.0 weights leads sub-100B open models on agentic coding.",
+        "content": "Thinking Machines Lab released Inkling 2 Mini on November 20 under Apache 2.0 weights on Hugging Face and Tinker. It is a mixture-of-experts model with **26.4 billion total parameters, 3.4 billion active**, that runs its middle layers three times per token — 24 stored layers act as 48.\n\nThe lab reports 48.2% on DeepSWE v1.1 and 77.9% on SWE-bench Pro v2 Hard, ahead of Qwen3.8-27B, and a 20.1 score on the Artificial Analysis Index. Most weights are in 4-bit NVFP4, giving a roughly 20GB footprint that runs on a 32GB Mac; researchers ran it offline on a flight to build a playable flight simulator.\n\nLooping adds reasoning depth but not stored facts, and shortens the visible chain of thought — a trade-off the lab studied with a companion variable-loop research model. Artificial Analysis measured it as about six times cheaper and four times faster per task than Qwen3.8-27B."
+      },
+      "zh": {
+        "title": "Thinking Machines 发布 Inkling 2 Mini：可在笔记本运行的 260 亿参数循环模型",
+        "excerpt": "这款 264 亿参数循环 MoE 以 Apache 2.0 开源权重，在智能体编程上领先百亿级以下开源模型。",
+        "content": "Thinking Machines Lab 11 月 20 日发布 Inkling 2 Mini，权重以 Apache 2.0 协议在 Hugging Face 与 Tinker 开放。这是一款混合专家模型，**总参数 264 亿、激活参数 34 亿**，每个 token 将中间层重复运行三次——24 个存储层相当于 48 层。\n\n实验室报告称，该模型在 DeepSWE v1.1 上得分 48.2%，在 SWE-bench Pro v2 Hard 上得分 77.9%，领先 Qwen3.8-27B，在 Artificial Analysis 指数上得 20.1 分。多数权重采用 4 位 NVFP4，内存占用约 20GB，可在 32GB 内存的 Mac 上运行；研究者在飞机上离线运行它，几分钟内做出一个可玩的飞行模拟器。\n\n循环增加了推理深度但不增加存储的事实知识，并会缩短可见的思维链——实验室用同期发布的可变循环研究模型研究了这一权衡。Artificial Analysis 测得它每项任务比 Qwen3.8-27B 便宜约六倍、快约四倍。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1617791160505-6f00504e3519?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 5,
+      "timeAgo": 16,
+      "date": "2026-11-21",
+      "en": {
+        "title": "Google Opens Genie 4 World Model to Developers Through Gemini API",
+        "excerpt": "720p, 24fps interactive worlds with native audio, priced at about $0.10 per second.",
+        "content": "Google made Genie 4 available to developers on November 19 through the Gemini API's Interactions API and Google AI Studio, a day after opening it to AI Ultra subscribers in Project Genie. From a text prompt, a reference image, or both, Genie 4 streams a continuous **1280x720 world at 24fps with 48 kHz stereo audio** — ambient sound, effects and character dialogue.\n\nUsers steer with WASD and arrow keys while sending text prompts mid-session to change weather, lighting or objects; Gemini reasoning keeps the world coherent. Every output carries an invisible SynthID watermark.\n\n**Pricing is per second:** $1.50 per million input tokens and $17.50 per million video output tokens (240 tokens per frame), about $0.10 per second or $6.05 a minute. There is no free tier; sessions cap at 120 seconds, and closing a browser tab does not stop billing — apps must end explicitly. Google positions it for prototyping, spatial design and training robots and agents."
+      },
+      "zh": {
+        "title": "谷歌通过 Gemini API 向开发者开放 Genie 4 世界模型",
+        "excerpt": "可生成 720p、24fps 带原生音频的交互世界，定价约每秒 0.10 美元。",
+        "content": "谷歌 11 月 19 日通过 Gemini API 的 Interactions API 与 Google AI Studio 向开发者开放 Genie 4，比在 Project Genie 中向 AI Ultra 订阅用户开放晚一天。开发者可用文本提示、参考图像或两者结合，让 Genie 4 生成**1280x720、24fps 的连续交互世界，并同步生成 48kHz 立体声**——包括环境音、音效与角色对白。\n\n用户可用 WASD 与方向键操控，并在会话中发送文字提示改变天气、光照或物体，由 Gemini 推理保持世界连贯。所有输出都嵌入不可见的 SynthID 水印。\n\n**按秒计费：**输入每百万 token 1.50 美元、视频输出每百万 token 17.50 美元（每帧 240 token），约合每秒 0.10 美元、每分钟 6.05 美元。没有免费层；单次会话上限 120 秒，关闭浏览器标签页不会停止计费——应用必须显式结束会话。谷歌将其定位于原型设计、空间可视化以及机器人和智能体训练。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=600&h=400&fit=crop",
+      "category": "healthcare",
+      "readTime": 5,
+      "timeAgo": 15,
+      "date": "2026-11-21",
+      "en": {
+        "title": "OpenAI Launches MedChemBench to Test AI's Medicinal-Chemistry Reasoning",
+        "excerpt": "GPT-6.2 Astra scores 84.5%, but OpenAI says the benchmark does not prove models can discover new drugs.",
+        "content": "OpenAI introduced MedChemBench on November 20, a benchmark of 99 problems drawn from 117 papers and patents covering 761 distinct molecular structures. It tests whether models can connect a molecule's structure with experimental evidence to explain results, compare compounds and predict properties — the trade-offs medicinal chemists weigh daily.\n\nAt the xhigh reasoning setting, **GPT-6.2 Astra earned 84.5%** of available credit, versus 83.3% for GPT-6 Astra, 82.0% for GPT-6.1 Sol and 58.2% for GPT-5.6 Sol. Astra was strongest reconstructing molecular structures (95.4% of credit) but only about half credit on ranking compounds and predicting numerical properties.\n\n**OpenAI cautions against overreading.** The evaluations were single attempts without tools or new experiments, prior exposure to published sources cannot be ruled out, and the benchmark is near saturation. The scores measure reasoning on historical research, not proof of real drug discovery."
+      },
+      "zh": {
+        "title": "OpenAI 推出 MedChemBench 评测 AI 的药物化学推理能力",
+        "excerpt": "GPT-6.2 Astra 得分 84.5%，但 OpenAI 表示该基准不能证明模型能发现新药。",
+        "content": "OpenAI 11 月 20 日推出 MedChemBench，这是一个包含 99 道题目的基准，取自 117 篇论文与专利，涵盖 761 个不同的分子结构。它测试模型能否将分子结构与实验证据关联起来，以解释结果、比较化合物并预测性质——正是药物化学家日常权衡的取舍问题。\n\n在 xhigh 推理档位下，**GPT-6.2 Astra 获得 84.5% 的分值**，GPT-6 Astra 为 83.3%，GPT-6.1 Sol 为 82.0%，GPT-5.6 Sol 为 58.2%。Astra 最擅长重建分子结构（获 95.4% 分值），但在化合物排序与数值性质预测上仅获约一半分值。\n\n**OpenAI 提醒不要过度解读。** 评测均为单次尝试，不使用工具或新实验，无法排除模型此前接触过已发表资料，且该基准已接近饱和。这些分数衡量的是对历史研究的推理能力，并不能证明真实的药物发现能力。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 5,
+      "timeAgo": 18,
+      "date": "2026-11-21",
+      "en": {
+        "title": "Boston Dynamics' Atlas Gets First Chip-Factory Customer in GlobalFoundries",
+        "excerpt": "GlobalFoundries is the first non-automotive customer to test the humanoid, with on-site trials starting early 2027.",
+        "content": "Boston Dynamics and GlobalFoundries announced on November 17 an expanded partnership. GF will deploy Spot robots across its fabs in Malta, New York; Burlington, Vermont; Dresden, Germany; and Singapore — and will become the **first customer outside the automotive industry, and first semiconductor maker, to test the Atlas humanoid**.\n\nGF has run Spot in Vermont for more than four years. In Singapore, two units have logged nearly 900 kilometers since April and completed more than 90,000 inspections with a 99% mission success rate; the company redeployed 875 routine inspections in two weeks.\n\nOn-site Atlas testing begins in early 2027 through skills-development workshops to identify use cases. The move comes as Hyundai completed its buyout of the remaining SoftBank stake in Boston Dynamics, and plans Atlas mass production in the US in 2028."
+      },
+      "zh": {
+        "title": "波士顿动力 Atlas 迎来首个芯片工厂客户格罗方德",
+        "excerpt": "格罗方德成为首家测试该人形机器人的非汽车行业客户，现场试验将于 2027 年初启动。",
+        "content": "波士顿动力与格罗方德 11 月 17 日宣布扩大合作。格罗方德将在其位于纽约州马耳他、佛蒙特州伯灵顿、德国德累斯顿和新加坡的晶圆厂部署 Spot 机器人，并将成为**首家测试 Atlas 的非汽车行业客户，也是首家测试人形机器人的半导体制造商**。\n\n格罗方德在伯灵顿已使用 Spot 超过四年。在新加坡，两台 Spot 自 4 月以来行进近 900 公里，完成超过 9 万次巡检，任务成功率 99%；公司用两周迁移了 875 项例行巡检任务。\n\nAtlas 的现场测试将于 2027 年初通过技能发展研讨会启动，以确定应用场景。此举正值现代汽车完成收购软银所持波士顿动力剩余股份，并计划 2028 年在美国量产 Atlas。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 5,
+      "timeAgo": 14,
+      "date": "2026-11-21",
+      "en": {
+        "title": "Google Trims Broadcom TPU Orders by a Million Chips, Shifting Share to MediaTek",
+        "excerpt": "Analyst Ming-Chi Kuo says the roughly 20% cut reflects scarce power and supply, not weaker AI demand.",
+        "content": "TF International Securities analyst Ming-Chi Kuo said on November 20 that Google has cut about one million Broadcom-designed TPU 8i chips from its 2027 plans — roughly 20% of that family, mostly the pricier 8i Max 'Whalefish' — while raising shipments of the MediaTek-designed 8t.\n\nKuo framed the shift as a rebalancing, not a retreat: Google has repeatedly said frontier-model development gets first call on compute, and the change reflects tight supply chains and limited data-center power. His separate research names MediaTek sole supplier for the v9 and v10 TPU lines, with its share rising above 55% by 2029.\n\n**Neither Google nor Broadcom confirmed the figures.** Broadcom fell 12% on the report, wiping about $191 billion off its market value. Kuo projects Google TPU shipments of 8-9 million units in 2027 and 14-15 million in 2028."
+      },
+      "zh": {
+        "title": "谷歌削减博通 100 万颗 TPU 订单，份额转向联发科",
+        "excerpt": "分析师郭明錤称约 20% 的削减源于电力与供应紧张，而非 AI 需求减弱。",
+        "content": "TF International Securities 分析师郭明錤 11 月 20 日表示，谷歌已从 2027 年计划中削减约 100 万颗博通设计的 TPU 8i 芯片——约占该系列 20%，主要是价格更高的 8i Max「Whalefish」——同时增加联发科设计的 8t 出货量。\n\n郭明錤将此解读为再平衡而非撤退：谷歌多次强调前沿模型开发优先获得算力，此次调整反映了供应链紧张与数据中心电力受限。他的另一份研究称联发科将成为 v9 与 v10 TPU 产品线的独家供应商，到 2029 年份额将超过 55%。\n\n**谷歌与博通均未证实这些数字。** 博通因该消息下跌 12%，市值蒸发约 1910 亿美元。郭明錤预计谷歌 TPU 出货量 2027 年为 800 万至 900 万颗，2028 年为 1400 万至 1500 万颗。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 20,
+      "date": "2026-11-21",
+      "en": {
+        "title": "DeepSeek Closes 100 Billion Yuan Round Ahead of Shanghai STAR Market IPO",
+        "excerpt": "A roughly $15 billion second round brings in Tencent, China Mobile and CATL, with a STAR Market listing in preparation.",
+        "content": "DeepSeek completed a second external funding round of about 100 billion yuan ($15 billion), with business-registration changes finalized on November 17, according to Caixin Global. A partnership representing the new investors took a roughly 17.3% stake, and the company is preparing an IPO on Shanghai's STAR Market.\n\nChinese reports detailed the investor lineup: Tencent, China Mobile, China Telecom, CATL, Xiaohongshu, vivo and others, plus firms including IDG, Boyu and CITIC Securities. Tencent's vehicle and CATL-linked funds each committed about 9.57%, tied as largest contributors. Founder Liang Wenfeng stepped back from the direct partner list but retains control through a management entity.\n\nDeepSeek's first major external round raised 50 billion yuan at a 350 billion yuan post-money valuation. **No IPO timetable has been stated**, and the round's scale has been described as unprecedented in China's primary market."
+      },
+      "zh": {
+        "title": "DeepSeek 完成千亿元融资，筹备上交所科创板 IPO",
+        "excerpt": "约 150 亿美元的第二轮融资引入腾讯、中国移动与宁德时代，并筹备科创板上市。",
+        "content": "据财新报道，DeepSeek 完成约 1000 亿元人民币（150 亿美元）的第二轮外部融资，工商变更于 11 月 17 日完成。代表新投资方的合伙企业取得约 17.3% 股权，公司正筹备在上海科创板上市。\n\n中文报道披露了投资方阵容：腾讯、中国移动、中国电信、宁德时代、小红书、vivo 等产业方，以及 IDG、博裕、中信证券等机构。腾讯旗下公司与宁德时代关联基金各出资约 9.57%，并列最大出资人。创始人梁文锋退出直接合伙人名单，但通过管理实体保持控制权。\n\nDeepSeek 首轮重大外部融资为 500 亿元，投后估值 3500 亿元。**公司尚未公布 IPO 时间表**，此轮融资规模被形容为中国一级市场罕见。"
+      }
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 4,
+      "timeAgo": 8,
+      "date": "2026-11-21",
+      "en": {
+        "title": "Nvidia in Advanced Talks to Acquire Diffusion-LLM Startup Inception",
+        "excerpt": "The deal is valued at least $500 million and would feed Nvidia's open-source Nemotron models.",
+        "content": "Nvidia is in advanced talks to acquire AI startup Inception in a deal valued at least $500 million, according to the Lujiazui financial briefing and Neural Wire. Inception specializes in a **diffusion language model** architecture that generates a full answer at once rather than word by word — an approach its backers say could improve speed and cost-efficiency.\n\nThe startup's diffusion LLM technology and research team are expected to feed directly into Nvidia's development of its open-source Nemotron model family, extending the chipmaker's software stack beyond hardware.\n\n**The deal has not been confirmed by either company.** If completed, it would add to Nvidia's string of AI software and model acquisitions as it builds out a full-stack position spanning silicon, models and agents."
+      },
+      "zh": {
+        "title": "英伟达深谈收购扩散语言模型初创公司 Inception",
+        "excerpt": "交易估值至少 5 亿美元，将服务于英伟达开源的 Nemotron 模型。",
+        "content": "据陆家嘴财经早餐与 Neural Wire 报道，英伟达正就收购 AI 初创公司 Inception 展开深入洽谈，交易估值至少 5 亿美元。Inception 专注于**扩散语言模型**架构，可一次性生成完整答案而非逐词生成——其支持者称这一方法有望提升速度与成本效率。\n\n该公司的扩散 LLM 技术与研究团队预计将直接服务于英伟达开源 Nemotron 模型家族的研发，把这家芯片厂商的软件栈延伸到硬件之外。\n\n**两家公司均未证实该交易。** 若最终完成，这将是英伟达一系列 AI 软件与模型收购的最新一例，进一步强化其横跨芯片、模型与智能体的全栈布局。"
+      }
+    }
+  ]
+}
