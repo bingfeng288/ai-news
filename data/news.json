@@ -1,201 +1,201 @@
 {
   "featured": {
     "id": 0,
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=600&fit=crop",
-    "category": "business",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop",
+    "category": "research",
     "readTime": 6,
-    "timeAgo": 6,
-    "date": "2026-11-22",
+    "timeAgo": 3,
+    "date": "2026-11-23",
     "en": {
-      "title": "Nvidia Hit by SEC Accounting Probe as Shares Plunge 14% in a Day",
-      "excerpt": "Reuters reports the SEC is examining potential accounting issues at Nvidia; the chipmaker fell 14.01% on November 20, capping a seven-week slide that erased about $2.6 trillion in market value.",
-      "content": "Reuters reported on November 20, citing two people briefed on the matter, that the US Securities and Exchange Commission's enforcement staff are examining potential accounting issues at Nvidia. The company and the SEC both declined to comment. Reuters stressed that an investigation is not evidence of wrongdoing and that many inquiries close without enforcement action.\n\n**Market reaction was severe.** Nvidia closed down 14.01% at $125.53, about 48% below its October peak of $243.37. It was the seventh straight weekly decline, the longest losing streak since the 2008 financial crisis. Over seven weeks the stock has fallen roughly 46%, erasing about $2.6 trillion in market value; a single session wiped out close to $490 billion. Market cap slid to about $3.03 trillion, fourth behind Apple, Microsoft and Alphabet, and the forward P/E compressed to roughly 8.4x.\n\nThe probe lands amid broader anxiety about **circular AI financing** — chipmakers helping customers fund chip purchases and data centres, which critics say obscures revenue quality. Interim CEO Colette Kress said on the earnings call that Nvidia would be far more selective about AI-industry financing deals. The Justice Department is separately reviewing Nvidia's $12.9 billion deal to buy Hugging Face.\n\n**What to watch:** any official statement from Nvidia or the SEC, and whether the selloff spreads to the wider AI-infrastructure complex."
+      "title": "OpenAI Chief Scientist Proposes an Industry-Wide 'Speed Limit' and Publishes Internal Perplexity Scores",
+      "excerpt": "Jakub Pachocki argues perplexity should anchor shared safety limits, disclosing an internal curve that runs from GPT-3.5 to an unreleased model at 0.732.",
+      "content": "OpenAI chief scientist Jakub Pachocki published an essay titled **Perplexity and Intelligence** on November 22, arguing that the industry should adopt a common yardstick for tracking AI progress and a shared ceiling that labs agree not to cross until safety monitoring catches up.\n\nPachocki disclosed OpenAI's internal log-perplexity curve for the first time: GPT-3.5 sat near 0.99 and GPT-4 near 0.91 on the company's held-out codebase; losses below 0.8 coincided with transformative capabilities in cybersecurity and mathematics, and a model near 0.76 began producing groundbreaking results on open math problems. GPT-6.2 Astra sits around 0.761, while an unreleased internal model has reached about 0.732. He expects further transformative capabilities around **0.68-0.70** and warns that an avalanche of pretraining advances could arrive as soon as 2027.\n\nThe proposal is a ceiling, not a ban: frontier developers would set common limits and red-team safety cases before a model is first used. CEO Sam Altman backed the essay, calling it one of the most important things OpenAI has published in a while. Pachocki also lists the weaknesses — perplexity is hard to compare across labs, misses post-training gains such as chain-of-thought, and has an unknown floor."
     },
     "zh": {
-      "title": "英伟达遭美国 SEC 会计调查，股价单日暴跌 14%",
-      "excerpt": "路透社称 SEC 正审查英伟达潜在会计问题；11 月 20 日股价重挫 14.01%，七周累计蒸发约 2.6 万亿美元市值。",
-      "content": "路透社 11 月 20 日援引两名知情人士报道，美国证券交易委员会（SEC）执法部门正在审查英伟达可能存在的会计问题。英伟达与 SEC 均拒绝置评。路透社强调，调查并不代表存在不当行为，许多调查最终并未导致执法行动。\n\n**市场反应剧烈。** 英伟达当日收跌 14.01%，报 125.53 美元，较 10 月 243.37 美元的历史高点下跌约 48%。这是连续第七周下跌，创 2008 年金融危机以来最长连跌纪录。七周累计跌幅约 46%，市值蒸发约 2.6 万亿美元，仅 11 月 20 日单日就蒸发近 4900 亿美元。公司总市值降至约 3.03 万亿美元，排名滑落至苹果、微软、Alphabet 之后位列第四，预估本益比压缩至约 8.4 倍。\n\n调查之际，外界对**循环式 AI 融资**的担忧升温——芯片厂商协助客户融资购买芯片与建设数据中心，批评者认为这令收入质量更难评估。临时首席执行官 Colette Kress 在财报电话会上表示，未来对 AI 行业融资交易将更加挑剔。美国司法部另在审查英伟达以 129 亿美元收购 Hugging Face 的交易。\n\n**后续关注：** 英伟达或 SEC 的官方表态，以及抛售是否蔓延至更广泛的 AI 基建板块。"
+      "title": "OpenAI 首席科学家提议行业共同「限速」，首度公布内部困惑度曲线",
+      "excerpt": "雅库布·帕霍茨基主张以困惑度作为跨实验室的共同标尺，并首度披露从 GPT-3.5 到未公开模型 0.732 的内部曲线。",
+      "content": "OpenAI 首席科学家雅库布·帕霍茨基（Jakub Pachocki）11 月 22 日发表题为《Perplexity and Intelligence》的文章，主张行业采用共同标尺追踪 AI 进展，并设定各实验室在安全监控跟上之前不越过的共同上限。\n\n他首次披露 OpenAI 内部的对数困惑度曲线：在其留出代码库上，GPT-3.5 约为 0.99、GPT-4 约为 0.91；损失低于 0.8 时，网络安全与数学领域出现变革性能力；约 0.76 的模型开始在开放数学难题上产出突破性结果。GPT-6.2 Astra 约为 0.761，一个未公开的内部模型已达约 0.732。他预计在 **0.68-0.70** 区间会出现更多变革性能力，并警告最早 2027 年就可能出现预训练突破的雪崩。\n\n这一提议是上限而非禁令：前沿开发者应设定共同限制，并在模型首次投入使用前完成红队安全评估。CEO 奥尔特曼公开背书，称这是 OpenAI 一段时间以来发表的最重要内容之一。帕霍茨基同时列出局限——困惑度难以跨实验室比较、无法反映思维链等后训练增益，且理论下限未知。"
     }
   },
   "articles": [
     {
       "id": 1,
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&h=400&fit=crop",
+      "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=600&h=400&fit=crop",
       "category": "policy",
-      "readTime": 5,
-      "timeAgo": 20,
-      "date": "2026-11-22",
+      "readTime": 7,
+      "timeAgo": 8,
+      "date": "2026-11-23",
       "en": {
-        "title": "Trump and Xi Agree Military AI Decisions Must Involve Humans, Bessent Says",
-        "excerpt": "US Treasury Secretary Scott Bessent said the two leaders agreed that AI-driven military decisions require human involvement and that major military actions should not be fully autonomous.",
-        "content": "US Treasury Secretary Scott Bessent told CNBC on November 20 that President Trump and Chinese President Xi Jinping agreed that humans should always be involved in military decisions that use artificial intelligence, even as the two countries compete for AI leadership. Bessent was speaking after returning from Trump's meeting with Xi in Shenzhen.\n\nUsing the administration's preferred term super intelligence (SI), Bessent said the two sides agreed that no major military operation should be launched without a human being involved, and that SI should not be allowed to operate autonomously in major military actions. He said the understanding would not be affected by the broader AI rivalry.\n\n**On chips**, Bessent said the H200 remains the most advanced Nvidia chip China can buy with a licence, but noted few Chinese orders as Beijing builds its own chip stack. He said the Commerce Department had moved to curb Chinese access to advanced chips, including those used by overseas data centres where Chinese firms can rent computing power.\n\nThe agreement is a rare point of convergence on AI safety rules between two otherwise competing powers, though Bessent gave no detail on any enforcement mechanism or written text."
+        "title": "US BIS Rule Brings Foreign Data Centers' Remote Compute Under Export Licensing",
+        "excerpt": "A new interim rule extends export controls from physical chips to remote compute, requiring licenses for large-scale access by firms headquartered in China and D:5 countries.",
+        "content": "The US Bureau of Industry and Security issued an interim final rule on November 16 that moves the export-control boundary from physical chips to **remote access to compute**. It took effect on publication in the Federal Register on November 19.\n\nThe rule adds Section 744.24 to the EAR. Overseas data centers that provide more than 12 million aggregate TPP of compute — roughly the maximum of 750 Nvidia H100 or H200 chips — to companies headquartered, or ultimately parented, in China (including Macao) or D:5 countries need a case-by-case BIS license. The threshold applies to data centers linked by physical or digital networks that can share resources, and indirect provisioning through a third country is also covered. Existing facilities have a **90-day window** to obtain a license.\n\nThe rule also adds license requirements for advanced chip exports to Indonesia, Malaysia, Singapore, Thailand and Brazil, tightens foundry and packaging presumptions, and narrows an exception for commercial recommendation systems so it excludes generative models. A 60-day public comment period follows."
       },
       "zh": {
-        "title": "美财长称川习达成共识：军事 AI 决策须有人类参与",
-        "excerpt": "美国财长贝森特表示，两国领导人同意 AI 军事决策需人类参与，重大军事行动不应完全自主运作。",
-        "content": "美国财政部长斯科特·贝森特 11 月 20 日接受 CNBC 采访时表示，美国总统特朗普与中国国家主席习近平达成共识：凡是使用人工智能的军事决策，都必须有人的参与，尽管两国仍在 AI 领域竞争。贝森特是在陪同特朗普结束深圳会晤后作出上述表态。\n\n贝森特使用本届政府偏好的说法「超级智能」（SI），称双方同意任何重大军事行动都不应在没有人类参与的情况下发起，SI 不应被允许在重大军事行动中自主运作。他表示，这一共识不会受到更广泛 AI 竞赛的影响。\n\n**芯片方面**，贝森特称 H200 仍是中国凭借许可证可采购的最先进英伟达芯片，但由于中国正建设自有芯片体系，订单数量稀少。他还说，美国商务部已采取行动限制中国获取先进芯片，包括中国企业可租用算力的海外数据中心所用芯片。\n\n这是两个竞争大国在 AI 安全规则上罕见的 convergent 共识，但贝森特未说明任何执行机制或书面文本细节。"
+        "title": "美国 BIS 新规把海外数据中心远程算力纳入出口许可",
+        "excerpt": "临时最终规则将出口管制从芯片实体延伸到远程算力，向中国及 D:5 国家企业提供大规模算力访问须逐案申请许可。",
+        "content": "美国商务部工业与安全局（BIS）11 月 16 日发布临时最终规则，将出口管制边界从芯片实体**延伸到远程算力访问**。该规则 11 月 19 日在《联邦公报》刊登后即时生效。\n\n规则在《出口管理条例》中新增第 744.24 条：海外数据中心若向总部或最终母公司位于中国（含中国澳门）及 D:5 国家组的企业，提供超过 1200 万聚合 TPP 的算力（约相当于 750 颗英伟达 H100 或 H200 的最大计算能力），须逐案申请 BIS 许可。门槛同样适用于通过物理或数字网络互联、可共享资源的数据中心；经第三国间接提供算力也在审查范围内。存量数据中心有 **90 天窗口期**申请许可。\n\n新规另对印尼、马来西亚、新加坡、泰国、巴西五国增加先进芯片出口许可，收紧晶圆代工与先进封装的推定规则，并把商业推荐系统的例外收窄——不涵盖生成式模型。规则刊登后开放 60 天公众评论。"
       }
     },
     {
       "id": 2,
-      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
-      "category": "ethics",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "llm",
       "readTime": 5,
-      "timeAgo": 10,
-      "date": "2026-11-22",
+      "timeAgo": 8,
+      "date": "2026-11-23",
       "en": {
-        "title": "Signal Blocks Screenshots by Default to Stop Siri and Gemini Reading Private Chats",
-        "excerpt": "Signal president Meredith Whittaker called OS-level AI agents an existential threat and shipped defaults that stop assistants from scanning encrypted messages off the screen.",
-        "content": "Encrypted messenger Signal rolled out iOS and Android updates that block AI assistants such as Apple's Siri and Google's Gemini from reading private messages off the screen. President Meredith Whittaker announced the move on November 20, calling OS-level AI integrations an existential threat to the app's privacy mission.\n\n**How it works:** on iOS 27 with Signal 8.37 or later, a new Block Siri AI setting is on by default, preventing screenshots and screen recordings inside the app; users can disable it for ten minutes or permanently. On Android, Signal 8.35.1 and later automatically enables its existing Screen security setting when it detects an AI assistant trying to read the screen — a detection-based approach chosen because vendor fragmentation makes reliable screenshot detection impossible on many devices.\n\nThe logic is direct: end-to-end encryption protects messages in transit, but an assistant with onscreen awareness reads the same decrypted text you do, and whatever it captures lands in a local database or remote server outside Signal's control. The move follows a Reuters investigation published on November 18 describing how Meta's Muse agent could read Signal messages through notification access on Android and accessibility permissions on macOS.\n\n**The fix is incomplete.** Signal says it cannot reliably block screenshots on macOS because Apple provides no documented developer tools, and blocking screenshots does nothing about agents that pull data from the filesystem. It is calling on Apple, Google and Microsoft to provide a simple, documented way for apps to opt out of AI data access."
+        "title": "Apple Is Building a Computer-Use AI Agent to Rival OpenAI and Anthropic, Bloomberg Reports",
+        "excerpt": "A job listing for a 'proactive agentic AI' manager points to an early-stage agent that can code, browse and control apps, with a launch eyed for late 2027.",
+        "content": "Bloomberg's Mark Gurman reported on November 19 that Apple is developing an autonomous AI agent able to write and debug code, browse the web and control apps across a device — a direct answer to agents from Meta, OpenAI, Anthropic and Google.\n\nThe evidence is a since-removed Apple job listing for a senior engineering manager in **Agentic AI — Proactive**. It describes general-purpose computer-use agents that plan and carry out multistep tasks across apps, browsers, command lines, code and APIs, and coordinate specialized subagents, with strong permission models, sandboxing and transparency said to be central. The hire would work with the Siri, UI frameworks and Apple Foundation Models teams.\n\nDevelopment is early and a launch was eyed as soon as late 2027, but nothing is announced. New CEO John Ternus is pressing software chief Craig Federighi to move faster. Separately, macOS 27.3 raised the steps to enable ChatGPT's computer use from four to 14; Apple cites security, while some see an anti-competitive effect."
       },
       "zh": {
-        "title": "Signal 默认屏蔽截图，阻止 Siri 与 Gemini 读取私信",
-        "excerpt": "Signal 总裁称系统级 AI 智能体是「生存威胁」，新版本默认阻止助手扫描屏幕上的加密消息。",
-        "content": "端到端加密聊天应用 Signal 推出 iOS 与 Android 更新，阻止苹果 Siri、谷歌 Gemini 等 AI 助手从屏幕上读取私人消息。Signal 总裁 Meredith Whittaker 于 11 月 20 日宣布此事，称系统级 AI 集成对该应用的隐私使命构成「生存威胁」。\n\n**实现方式：** 在运行 iOS 27 的设备上，Signal 8.37 及更高版本默认开启「阻止 Siri AI」设置，禁止应用内截图与录屏，用户可选择关闭 10 分钟或永久禁用。在 Android 上，Signal 8.35.1 及以上版本检测到 AI 助手试图读取屏幕时，会自动开启原有的「屏幕安全」策略——由于各厂商实现差异，很多设备无法可靠检测截图，因此采用基于行为检测的方案。\n\n逻辑很直接：端对端加密保护传输中的消息，但具备屏幕感知能力的助手读取的是你眼前同一份已解密文本，捕获的内容会落到 Signal 控制之外的本地数据库或远程服务器。此举紧随路透社 11 月 18 日的调查——该报道描述 Meta 的 Muse 智能体如何通过 Android 通知权限与 macOS 辅助功能权限读取 Signal 消息。\n\n**修复并不完整。** Signal 表示，由于苹果未提供有文档支持的开发工具，macOS 版无法可靠屏蔽截图；而屏蔽截图也无法阻止从文件系统取数的智能体。Signal 呼吁苹果、谷歌与微软提供简单、有文档的方式，让应用可以选择退出 AI 数据访问。"
+        "title": "苹果据报自研电脑操控 AI 智能体，最早 2027 年底推出",
+        "excerpt": "一则「主动式智能体 AI」招聘信息指向可写代码、浏览网页、操控应用的早期项目，对标 OpenAI 与 Anthropic。",
+        "content": "彭博社记者马克·古尔曼 11 月 19 日报道，苹果正在开发一款自主 AI 智能体，可编写与调试代码、浏览网页、跨应用操控设备，直接对标 Meta、OpenAI、Anthropic 与谷歌的智能体产品。\n\n线索来自苹果一则随后被撤下的招聘信息，岗位为**「主动式智能体 AI」高级工程经理**。其中描述「通用电脑操控智能体」可跨应用、浏览器、命令行、代码与 API 规划并执行多步骤任务，并协调专门的子智能体；招聘信息强调严格的权限模型、沙盒隔离与操作透明度。该岗位将与 Siri、UI 框架和 Apple Foundation Models 团队合作。\n\n项目仍处早期，曾考虑最早 2027 年底推出，但尚无公开名称、价格或确定日期。新任 CEO 约翰·特努斯正推动软件主管克雷格·费德里吉加快 AI 进度。与此同时，macOS 27.3 把开启 ChatGPT 电脑操控的步骤从 4 步增加到 14 步；苹果称出于安全，也有人认为客观抬高竞品门槛。"
       }
     },
     {
       "id": 3,
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
-      "category": "llm",
-      "readTime": 4,
-      "timeAgo": 8,
-      "date": "2026-11-22",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 9,
+      "date": "2026-11-23",
       "en": {
-        "title": "Gemini Can Now Call Businesses on Your Behalf, Free in Six Countries",
-        "excerpt": "Google's Duplex arrives in Tasks in the Gemini app: it dials shops, waits on hold, books the slot and adds it to Calendar, identifying itself as an AI on every call.",
-        "content": "Google has brought its Duplex calling capability into Tasks in the Gemini app, letting the assistant phone businesses on the user's behalf. The feature is free in the United States, Japan, South Korea, Canada, Australia and India, and is excluded in five US states.\n\n**What it does:** Gemini will ring a shop, wait on hold, book an appointment and add it to Google Calendar. The system discloses that it is an AI at the start of every call, and merchants can opt out. Google traces the feature's architecture back a decade — from pre-LLM closed-domain models, through hybrid stacks with LaMDA, to a unified Gemini-based calling stack.\n\nThe rollout uses Gemini 4 models including Gemini 4 Hydrogen and Gemini 4 Neon, and adds bill analysis, Agent Payments Protocol transactions, and coordination via email and RCS. It is the latest expression of a broader push to turn assistants from chat interfaces into agents that take real-world actions.\n\n**Caveats:** availability is limited to six countries and five US states are excluded, so the practical reach is uneven. Google has published its own caveats about how the system handles calls."
+        "title": "Amazon Nears $7.5 Billion Deal for AI Efficiency Startup Decart",
+        "excerpt": "The FT reports talks in an advanced stage to buy the Israeli-founded startup, whose software makes AI models run more efficiently on Amazon's Trainium3 chips.",
+        "content": "The Financial Times reported on November 21-22 that Amazon is in late-stage talks to acquire AI startup Decart for about **$7.5 billion**, a deal that could close as early as next week, though negotiations could still break down.\n\nDecart was founded in 2023 by three Israeli engineers and is headquartered in San Francisco. In May it raised $300 million at a valuation near $4 billion, with investors including Radical Ventures, Sequoia Capital, Benchmark and Nvidia. Its software improves how efficiently models run, freeing chip capacity — a key bottleneck as tech firms spend hundreds of billions on compute.\n\nDecart is an early adopter of Amazon's Trainium3 chip, making it a software complement to AWS's in-house silicon. It also makes Lucy, which edits video in real time, and Oasis, which generates interactive worlds. Anthropic explored a roughly $6 billion acquisition in August and walked away in September; Nvidia had also considered a deal."
       },
       "zh": {
-        "title": "Gemini 现可代用户拨打电话，在六个国家免费开放",
-        "excerpt": "谷歌将 Duplex 通话能力接入 Gemini 应用的 Tasks：可替用户致电商家、等待接通、完成预约并写入日历，通话中声明自己是 AI。",
-        "content": "谷歌已将 Duplex 通话能力引入 Gemini 应用的 Tasks 功能，让助手可以替用户致电商家。该功能在美国、日本、韩国、加拿大、澳大利亚与印度免费开放，美国有五个州不在支持范围内。\n\n**能做什么：** Gemini 会拨打商家电话、等待接通、完成预约，并将日程加入 Google 日历。系统会在每通电话开始时声明自己是 AI，商家也可选择退出。谷歌追溯了该功能十年的架构演进——从大模型之前的封闭领域模型，到与 LaMDA 结合的混合架构，再到如今统一的基于 Gemini 的通话栈。\n\n本次上线使用 Gemini 4 系列模型（含 Gemini 4 Hydrogen 与 Gemini 4 Neon），并新增账单分析、Agent Payments Protocol 交易能力，以及通过邮件与 RCS 进行协调。这是把助手从对话界面转变为能采取真实世界行动的智能体这一大趋势的最新体现。\n\n**注意：** 功能仅覆盖六国，且美国五州被排除，实际可用范围并不均衡。谷歌也已公布系统处理通话时的相关注意事项。"
+        "title": "亚马逊接近以 75 亿美元收购 AI 效率初创公司 Decart",
+        "excerpt": "英国《金融时报》称谈判进入后期，标的公司软件可提升模型运行效率，并已采用亚马逊 Trainium3 芯片。",
+        "content": "英国《金融时报》11 月 21 至 22 日报道，亚马逊正就约 **75 亿美元**收购 AI 初创公司 Decart 进行后期谈判，交易最快下周达成，但仍存在破裂可能。\n\nDecart 由三名以色列工程师于 2023 年创立，总部位于旧金山。今年 5 月，该公司以接近 40 亿美元估值完成 3 亿美元融资，投资方包括 Radical Ventures、红杉资本、Benchmark 和英伟达。其核心软件能提升 AI 模型运行效率、释放芯片算力——在科技公司投入数千亿美元抢算力的背景下，这是关键瓶颈。\n\nDecart 是亚马逊 Trainium3 芯片的早期采用者，其技术与 AWS 自研芯片形成软硬互补。公司还开发了可实时编辑视频的 Lucy 与生成交互式虚拟世界的 Oasis。Anthropic 曾在 8 月洽谈约 60 亿美元收购，9 月退出；英伟达也曾考虑出手。"
       }
     },
     {
       "id": 4,
       "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop",
       "category": "infra",
-      "readTime": 5,
-      "timeAgo": 30,
-      "date": "2026-11-22",
+      "readTime": 6,
+      "timeAgo": 6,
+      "date": "2026-11-23",
       "en": {
-        "title": "TSMC Halts Chinese Orders at 16nm and Below Under Tighter US Rules",
-        "excerpt": "New Commerce Department rules that took effect November 19 closed a verification route, forcing TSMC to require US export licences for advanced Chinese chip orders.",
-        "content": "TSMC is tightening restrictions on Chinese chip designers, suspending some previously permitted advanced manufacturing orders, according to two people familiar with the matter cited by Reuters. The world's largest contract chipmaker has instructed that affected orders using processes of 16 nanometres and below be halted unless customers obtain US export licences.\n\n**What changed:** new US Commerce Department rules that took effect on November 19 removed a compliance route that had let TSMC assess a Chinese chip design's computing power to decide whether it fell outside export controls. Under the new rules, affected advanced chips are presumed covered by US controls, requiring a licence unless an exception applies. Chinese designers are generally limited to older 28nm and 40nm processes, provided their chips use no high-bandwidth memory and no advanced packaging.\n\nTSMC's guidance also requires closer scrutiny of customers' operating locations, parent companies, major shareholders, packaging providers and shipping routes, including orders placed through overseas subsidiaries or intermediaries in Taiwan, the US, Europe, Japan and Southeast Asia. TSMC said it would comply with the new Bureau of Industry and Security regulations where applicable.\n\n**Why it matters:** most leading AI chips are made at 7nm or below. The move could close one of the last routes for Chinese firms to produce powerful AI processors, complicating Beijing's effort to build domestic alternatives to Nvidia-designed, TSMC-manufactured chips."
+        "title": "Apollo and Goldman Arrange Record $44 Billion GPU Lease Financing for SpaceX",
+        "excerpt": "Reuters reports the largest GPU lease financing ever, using an ABS structure to fund Nvidia Vera Rubin chips for SpaceX's ground-based compute buildout.",
+        "content": "Reuters reported on November 22 that Apollo Global Management and Goldman Sachs arranged roughly **$44 billion** in debt financing for SpaceX to acquire Nvidia GPUs and related equipment — described by the firms as the largest GPU lease financing ever. Oversubscribed demand forced the deal size up.\n\nDetails include $25.17 billion of senior secured A3 notes due April 2033 at a yield of 8.259%. Proceeds are expected to fund deployment of Nvidia's next-generation Vera Rubin chips for SpaceX's ground-based AI compute; the lease begins when equipment is delivered in the first half of 2027. BlackRock, Goldman Sachs Asset Management and KKR participated, with Pimco buying about $4 billion.\n\nThe structure blends asset-backed securitization with corporate-bond features — a five-year triple-net, \"hell-or-high-water\" finance lease. Bloomberg reported that some lenders worry the collateralized chips could end up in SpaceX's planned orbital data centers, making them hard to reclaim. SpaceX says the chips will be deployed only on Earth."
       },
       "zh": {
-        "title": "美国新规生效，台积电暂停中国 16 纳米及以下订单",
-        "excerpt": "11 月 19 日生效的商务部新规取消原有验证通道，台积电对中国先进制程订单转而要求美国出口许可。",
-        "content": "据路透社援引两名知情人士报道，台积电正收紧对中国芯片设计企业的限制，暂停部分此前获准的先进制程订单。这家全球最大晶圆代工厂已指示，受影响的 16 纳米及以下制程订单必须暂停，除非客户取得美国出口许可证。\n\n**变化所在：** 11 月 19 日生效的美国商务部新规，取消了此前允许台积电通过评估中国芯片算力来判断是否受出口管制的合规通道。新规下，受影响的先进芯片被推定为受美国管制，除非符合例外条款，否则必须取得许可证。中国设计企业原则上被限制在较成熟的 28 纳米与 40 纳米制程，且芯片不得使用高带宽内存（HBM）与先进封装。\n\n台积电指引还要求更严格审查客户的实际运营地点、母公司、主要股东、封装供应商与出货路线，涵盖通过台湾、美国、欧洲、日本及东南亚子公司或中间商下达的订单。台积电表示将遵循适用的美国工业与安全局（BIS）新规。\n\n**重要性：** 多数领先 AI 芯片采用 7 纳米及以下工艺生产。此举可能封堵中国企业制造高性能 AI 处理器的最后通道之一，使北京研发英伟达设计、台积电制造芯片的国产替代品更加困难。"
+        "title": "阿波罗与高盛为 SpaceX 安排约 440 亿美元史上最大 GPU 租赁融资",
+        "excerpt": "路透社报道，这笔以资产证券化结构支持的交易将为 SpaceX 部署英伟达 Vera Rubin 芯片提供资金。",
+        "content": "路透社 11 月 22 日报道，阿波罗全球管理公司与高盛集团为 SpaceX 收购英伟达 GPU 及相关设备安排了约 **440 亿美元**债务融资，两家公司称这是有史以来最大规模的 GPU 租赁融资。投资者需求超过供应，推动交易规模扩大。\n\n细节包括价值 251.7 亿美元、2033 年 4 月到期、收益率 8.259% 的高级担保 A3 票据。资金预计用于部署英伟达下一代 Vera Rubin 芯片、扩展 SpaceX 地面 AI 算力，租赁计划将在 2027 年上半年设备交付时开始。贝莱德、高盛资产管理与 KKR 参与投资，Pimco 买入约 40 亿美元证券。\n\n该结构结合资产证券化与公司债特征，是一份五年期三净、无条件支付的融资租赁。彭博社报道称，部分贷款方担心作为抵押品的芯片可能被用于 SpaceX 规划的轨道数据中心，导致违约时难以收回；SpaceX 表示芯片只会部署在地面。"
       }
     },
     {
       "id": 5,
-      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&h=400&fit=crop",
-      "category": "healthcare",
-      "readTime": 6,
-      "timeAgo": 24,
-      "date": "2026-11-22",
+      "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 8,
+      "date": "2026-11-23",
       "en": {
-        "title": "MIT Spinout Boltz Raises $110M to Sell AI Drug Design by the Token",
-        "excerpt": "Bessemer led the Series A for the London-based lab whose open-source models were downloaded five million times and whose commercial models are used by six of the top 20 drugmakers.",
-        "content": "Boltz, an AI drug-discovery lab spun out of MIT and now based in London, raised a $110 million Series A led by Bessemer Venture Partners, with Andreessen Horowitz and others participating. The round, announced on November 18, follows a $28 million seed earlier this year.\n\n**Open models first, then usage pricing.** The three founders came out of Regina Barzilay's lab at MIT; their open-source Boltz models predict how molecules bind to proteins and match closed rivals such as DeepMind's AlphaFold3. Bessemer says the models have over 5 million downloads and are used by more than 100,000 scientists. The company now sells proprietary models — BoltzMol-1 for small molecules and BoltzProt-1 for protein design — through its Boltz Lab and an API billed on molecular tokens, the way a lab buys reagents. The API also plugs into agents such as Claude Code, Codex and Gemini.\n\n**Traction and claims:** Boltz says six of the world's 20 largest drugmakers, including Pfizer, GSK, Takeda and Bristol Myers Squibb, are partners, and that weekly token use has grown roughly 50-fold since June. The company reports BoltzMol-1 found small-molecule hits against six of ten targets while testing only 28 to 51 compounds each, with costs as low as $10,000 — figures that are the company's own.\n\n**The open question** is whether usage-priced AI sold to pharma research teams scales into production budgets, and whether the models actually produce medicines rather than promising molecules."
+        "title": "Google Swaps the Search Button for Gemini Shortcuts on Its Desktop Homepage",
+        "excerpt": "A global, gradual rollout adds a collapsible AI chat sidebar and replaces the iconic search button with Gemini-powered shortcuts.",
+        "content": "Google began a global, gradual rollout on November 19 of a redesigned desktop homepage that puts Gemini front and center. Search VP Robby Stein confirmed the change on X, saying a new collapsible left sidebar surfaces recent AI Mode conversations, a new-thread button and a Notebooks section.\n\nThe bigger change sits under the search box: the classic **Google Search button is replaced** by Gemini-powered shortcuts for creating images with Nano Banana, analyzing uploaded files and brainstorming. The Google logo, search box and \"I'm Feeling Lucky\" button remain; pressing Enter still returns regular results, and traditional search is not being removed.\n\nStein said users increasingly arrive with questions that are not \"one and done,\" and testing showed the sidebar helped them resume threads. AI Mode passed one billion monthly users in May. No mobile rollout was announced. Some commentators read the prominence of AI features and thesidebar's permanence as a sign that AI Mode may one day become the default."
       },
       "zh": {
-        "title": "MIT 衍生公司 Boltz 融资 1.1 亿美元，把 AI 制药做成 token 生意",
-        "excerpt": "Bessemer 领投这家总部位于伦敦的实验室 A 轮；其开源模型下载超 500 万次，商业模型已进入全球前 20 药企中的六家。",
-        "content": "从 MIT 分拆、现总部位于伦敦的 AI 药物研发实验室 Boltz，完成由 Bessemer Venture Partners 领投的 1.1 亿美元 A 轮融资，Andreessen Horowitz 等跟投。本轮于 11 月 18 日宣布，距今年早些时候的 2800 万美元种子轮不到一年。\n\n**先开源、再按用量收费。** 三位创始人出自 MIT 的 Regina Barzilay 实验室，其开源 Boltz 模型可预测分子与蛋白质的结合方式，性能对标 DeepMind 的 AlphaFold3 等闭源模型。Bessemer 称这些模型下载量超过 500 万次，被 10 万余名科学家使用。公司如今通过 Boltz Lab 与 API 出售专有模型——面向小分子的 BoltzMol-1 与面向蛋白设计的 BoltzProt-1，按「分子 token」计费，类似实验室采购试剂；该 API 还能接入 Claude Code、Codex 与 Gemini 等智能体。\n\n**进展与自报数据：** Boltz 称全球前 20 大药企中有六家是客户，包括辉瑞、GSK、武田与百时美施贵宝，每周 token 用量自 6 月以来增长约 50 倍。公司表示 BoltzMol-1 在 10 个靶点中的 6 个找到小分子 hits，每个仅测试 28 至 51 个化合物，成本可低至 1 万美元——这些均为公司自报数据。\n\n**待观察的问题** 是：面向药企研发团队、按用量收费的 AI 能否扩大为生产级预算，以及这些模型是否能真正产出药物，而不只是有前景的分子。"
+        "title": "谷歌桌面搜索首页取消搜索按钮，换成 Gemini 快捷入口与侧边栏",
+        "excerpt": "全球渐进推送的新版首页加入可折叠 AI 对话侧边栏，沿用二十多年的「Google 搜索」按钮被 Gemini 快捷入口取代。",
+        "content": "谷歌 11 月 19 日开始全球渐进推送重新设计的桌面首页，把 Gemini 放到最显眼位置。搜索副总裁罗比·斯坦（Robby Stein）在 X 上证实，新的左侧可折叠侧边栏可查看近期 AI Mode 对话、新建对话快捷键与 Notebooks 入口。\n\n更大的变化在搜索框下方：沿用二十多年的**「Google 搜索」按钮被 Gemini 快捷入口取代**，包括用 Nano Banana 生成图片、上传并分析文件、与 Gemini「头脑风暴」。谷歌标识、搜索框与「手气不错」按钮保留；按回车仍返回常规结果，传统搜索并未取消。\n\n斯坦表示，用户带着「不只问一次」的问题而来，测试显示侧边栏有助于续接对话。AI Mode 今年 5 月月活已突破 10 亿。目前未宣布移动端计划。有评论认为，AI 功能获得醒目入口、对话侧栏长期驻留，反映传统搜索被淡化，AI Mode 未来或成默认。"
       }
     },
     {
       "id": 6,
-      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
-      "category": "robotics",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
+      "category": "cv",
       "readTime": 5,
-      "timeAgo": 12,
-      "date": "2026-11-22",
+      "timeAgo": 7,
+      "date": "2026-11-23",
       "en": {
-        "title": "Tesla Ramps Early Optimus Gen3 Production and Promises a Real-World Demo",
-        "excerpt": "Musk says Tesla will show an unscripted Optimus demo within two months; Gen3 is in early production at Fremont at several hundred units a week.",
-        "content": "Elon Musk said in a November 18 appearance at the TomorrowX summit that Tesla plans to show a real, unscripted demonstration of its Optimus humanoid within the next one to two months — not a pre-programmed single-task routine, not reliant on behind-the-scenes teleoperation, and not confined to a controlled environment. He cited programmer John Carmack's test: walk over, pick up a boxed remote-control car, open it, unscrew the battery compartment, insert batteries, screw it back and drive the car.\n\n**Hardware and production:** the third-generation Optimus carries 37 joints and a new dexterous hand. Early production began at Tesla's Fremont factory in Q3 2026 at several hundred units per week — about ten times Q2 output. The units are not for external delivery; they are deployed in the internal Optimus Academy programme and on factory floors to collect training data via a reinforcement-learning loop.\n\n**Capacity build-out:** the dedicated Optimus factory at Giga Texas spans more than 7 million square feet. As of November 18 its main structure was about 65% assembled, with enclosure targeted for year-end, initial production in late 2026 and mass production in summer 2027.\n\n**Caveats:** the demo is still a promise, and past Optimus showcases drew criticism for partial teleoperation. Musk's timeline — household chores in 12 to 18 months, external deliveries around late 2027, initially likely as leases — is a company statement, not a verified milestone."
+        "title": "Apple Open-Sources Depth Pro 2 for Metric Depth in Photos and Video",
+        "excerpt": "Four models estimate a distance in meters for every pixel at full resolution, extending Apple's depth work from stills to video.",
+        "content": "Apple published Depth Pro 2 on November 19, releasing weights on Hugging Face, code on GitHub and a technical report on arXiv. It is a monocular metric-depth system: from a single ordinary camera, it estimates a distance in meters for every pixel at the input's full resolution, without stereo pairs or lidar.\n\nThe release includes four sizes — S (24M parameters, 97 MB), B (97M), L (334M) and the default H+ (872M, 3.5 GB) — plus a shared 23.5M-parameter focal-length estimator that converts pixels into meters when camera metadata is missing. An architecture of a multi-view transformer with alternating within-frame and cross-frame attention, followed by a DPT decoder, targets sharp boundaries and temporally stable video depth.\n\nApple reports Depth Pro 2 beats prior single- and multi-frame methods on Boundary F1 and jitter across Sintel and Spring; on Sintel, H+ reaches 41.4% delta-1 versus 37.0% for UniDepthV2-L. The weights are licensed for non-commercial research and academic development only."
       },
       "zh": {
-        "title": "特斯拉启动 Optimus Gen3 早期量产，预告两个月内展示真实能力",
-        "excerpt": "马斯克称两个月内展示不靠预编程的 Optimus 演示；Gen3 已在弗里蒙特工厂早期量产，周产数百台。",
-        "content": "马斯克 11 月 18 日在 TomorrowX 峰会连线中表示，特斯拉计划在未来一到两个月内展示 Optimus 人形机器人的「真实」演示——不采用预先写死的单一任务流程，不依赖后台遥操作，也不局限于可控环境。他引用程序员约翰·卡马克提出的测试标准：走过去拿起一盒遥控玩具车，拆开包装，拧开电池仓螺丝，装入电池，拧回去，再驱动小车行驶。\n\n**硬件与产能：** 第三代 Optimus 配备 37 个关节与全新灵巧手，2026 年第三季度起在弗里蒙特工厂启动早期量产，目前每周生产数百台，约为第二季度的十倍。这批机器人暂不对外交付，而是部署在内部「Optimus 学院」项目与工厂车间，通过强化学习循环采集训练数据。\n\n**产能建设：** 得州超级工厂中专供 Optimus 的工厂占地超过 700 万平方英尺。截至 11 月 18 日主体结构组装完成约 65%，计划年底封顶，2026 年底启动初期生产，2027 年夏季实现大规模量产。\n\n**需注意：** 演示目前仍是预告，过往 Optimus 展示曾因部分依赖遥操作而受质疑。马斯克给出的时间表——12 至 18 个月内可做家务、2027 年底左右对外交付且初期可能采用租赁——是公司表态，尚非已验证的里程碑。"
+        "title": "苹果开源 Depth Pro 2：普通照片视频逐像素估算以米为单位的深度",
+        "excerpt": "四个模型在原始分辨率下输出逐像素度量深度，把苹果的深度估计从单图扩展到视频。",
+        "content": "苹果 11 月 19 日发布 Depth Pro 2，在 Hugging Face 放出权重、在 GitHub 放出代码，并发表 arXiv 技术报告。这是一套单目度量深度系统：仅用一台普通相机，就能在输入原始分辨率下为每个像素估算以米为单位的距离，无需双目配对或激光雷达。\n\n发布包含四种尺寸——S（2400 万参数、97 MB）、B（9700 万）、L（3.34 亿）与默认的 H+（8.72 亿、3.5 GB），另有一个共用的 2350 万参数焦距估计器，在缺少相机元数据时把像素换算成米。其架构为多视图 Transformer（帧内与跨帧注意力交替）加 DPT 解码器，目标是锐利边界与稳定的视频深度。\n\n苹果称在 Sintel 与 Spring 数据集上，Depth Pro 2 的 Boundary F1 与抖动指标优于以往单帧与多帧方法；在 Sintel 上 H+ 的 δ1 为 41.4%，高于 UniDepthV2-L 的 37.0%。权重仅授权用于非商业科研与学术开发。"
       }
     },
     {
       "id": 7,
-      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&h=400&fit=crop",
-      "category": "cv",
-      "readTime": 5,
-      "timeAgo": 36,
-      "date": "2026-11-22",
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&h=400&fit=crop",
+      "category": "healthcare",
+      "readTime": 6,
+      "timeAgo": 10,
+      "date": "2026-11-23",
       "en": {
-        "title": "Ideogram 4.6 Brings Precise Edits in Native 4K",
-        "excerpt": "The November 19 release generates up to 4096×4096 without upscaling and adds a masked Precise Edit endpoint; the company claims top spot on a multi-step editing leaderboard.",
-        "content": "Ideogram released version 4.6 on November 19, an image generation and editing model built for precise, step-by-step control. Its headline feature is native 4K: images are generated at full resolution up to 4096 by 4096 pixels rather than upscaled from a smaller image.\n\n**Two API endpoints.** Generate creates images from a prompt and can take up to five reference images. Precise Edit changes a region of an existing image, accepts an optional mask, and returns it at the source's exact dimensions; localized edits keep a 4K or 8K source at full resolution. Ideogram says it worked to remove the AI look and waxy skin, and reports big gains in holding exact values — exact colour matching rose from 46% to 83% and small product-defect repair from 61% to 86% in its own tests.\n\n**Benchmark, with caution.** Ideogram says 4.6 ranks first on Rapidata's Multi-step Image Edit leaderboard with 1,892 points, ahead of Seedream 5.5 and FLUX 3 Image. Independent outlets note the gap to its own 4.5 is only 26 points with overlapping error margins, and the ranking appears mainly in Ideogram's own posts rather than an independent site — treat it as a vendor claim.\n\n**Pricing and availability:** images start at $0.008 at very low quality; a high-quality 4K Precise Edit costs about $0.60. The model is live in the Ideogram app, the API and partners including Leonardo, Runway, fal and Comfy. Open weights are promised but undated."
+        "title": "Gait Foundation Model Predicts 1,887 Health Traits from 3D Motion, Nature Medicine Reports",
+        "excerpt": "A model trained on 3D skeletal motion from 3,328 adults linked walking patterns to liver stiffness, sleep and diabetes beyond age and body composition.",
+        "content": "A study published in Nature Medicine reports a gait foundation model that learns representations from 3D skeletal motion and predicts a wide range of health traits. Researchers at the Weizmann Institute of Science recorded 3,328 adults performing five movement tasks, tracked 26 joints with a depth camera, and trained the model by hiding parts of the motion and asking it to reconstruct them.\n\nAfter correcting for multiple testing, gait embeddings significantly predicted **1,887 of 3,210 phenotypes**. Correlations were roughly 0.69 for age, 0.90-0.92 for BMI and about 0.82 for visceral fat area. Adding gait information to models already containing age, BMI, visceral fat and height improved predictions in all 18 body systems in men and 17 of 18 in women. Movement patterns predicted liver stiffness about as well as blood tests, and torso motion carried signals tied to sleep and exercise.\n\nThe authors caution the study is cross-sectional, so it does not establish causation; participants were mostly healthy Ashkenazi Jewish adults in Israel, and the depth-camera maker Newton Tech co-authored the paper. Independent clinical validation is still needed."
       },
       "zh": {
-        "title": "Ideogram 4.6 发布：原生 4K 分辨率下的精确图像编辑",
-        "excerpt": "11 月 19 日发布的模型最高可原生生成 4096×4096 图像，新增支持遮罩的 Precise Edit 端点；厂商称在多步编辑榜排名第一。",
-        "content": "Ideogram 于 11 月 19 日发布 4.6 版本，主打精确、可逐步控制的图像生成与编辑。其核心特性是原生 4K：图像以最高 4096×4096 的全分辨率直接生成，而非从较小图像放大。\n\n**两个 API 端点。** Generate 根据提示词生成图像，可接受最多五张参考图；Precise Edit 修改已有图像的局部区域，支持可选遮罩，并按源图的精确尺寸返回结果——局部编辑可让 4K 或 8K 源图保持全分辨率。Ideogram 称着力消除「AI 味」和蜡像皮肤，并在自测中报告保持精确数值的能力大幅提升：精确配色从 46% 升至 83%，小产品缺陷修复从 61% 升至 86%。\n\n**榜单需谨慎看待。** Ideogram 称 4.6 以 1892 分位列 Rapidata 多步图像编辑榜第一，领先 Seedream 5.5 与 FLUX 3 Image。独立媒体指出，它与自家 4.5 仅差 26 分、误差区间重叠，且该排名主要出现在 Ideogram 自己的帖子而非独立站点——应视为厂商自述。\n\n**定价与可用性：** 图像最低 0.008 美元/张，高质量 4K 精确编辑约 0.60 美元/张。模型已上线 Ideogram 应用、API，以及 Leonardo、Runway、fal、Comfy 等合作平台。开放权重已承诺但尚无日期。"
+        "title": "Nature Medicine 步态基础模型：从三维骨骼运动预测 1887 项健康特征",
+        "excerpt": "基于 3328 名成人的三维动作训练，模型在年龄、体成分之外还能预测肝脏硬度、睡眠与糖尿病相关指标。",
+        "content": "《自然·医学》发表的一项研究提出步态基础模型，从三维骨骼运动中学习表征并预测广泛的健康特征。魏茨曼科学研究所的研究者记录了 3328 名成人完成五项动作任务，用深度相机追踪 26 个关节，并通过遮蔽部分动作、要求模型重建的方式训练。\n\n在校正多重检验后，步态嵌入与 **3210 项健康特征中的 1887 项**显著相关：与年龄的相关系数约 0.69、BMI 约 0.90-0.92、内脏脂肪面积约 0.82。在已包含年龄、BMI、内脏脂肪与身高的模型上加入步态信息后，男性 18 个身体系统全部、女性 18 个中的 17 个预测得到改善。运动模式对肝脏硬度的预测与血液检测相当，躯干运动则携带与睡眠和锻炼相关的信号。\n\n作者提醒，该研究为横断面研究，不能确立因果关系；参与者多为以色列健康的德系犹太成人，且深度相机制造商 Newton Tech 为论文共同作者。该模型仍需独立临床验证。"
       }
     },
     {
       "id": 8,
-      "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
-      "category": "research",
-      "readTime": 6,
-      "timeAgo": 16,
-      "date": "2026-11-22",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 5,
+      "timeAgo": 4,
+      "date": "2026-11-23",
       "en": {
-        "title": "A Small LoRA Makes the Same Model 16 Points Better Inside an Agent Harness",
-        "excerpt": "Hugging Face's harness adapters freeze the base model and RL-train a per-runtime LoRA: Qwen3.8-27B jumped from 39.5% to 55.8% on Terminal-Bench while halving token use.",
-        "content": "Hugging Face published an open recipe for adapting a model to a specific agent harness: freeze the base weights and train a separate LoRA adapter with reinforcement learning inside the harness's own unmodified runtime. The base model was Qwen3.8-27B; the three harnesses were pi, OpenCode and Hermes Agent.\n\n**Why bother:** general-purpose models target average performance, not a particular harness and task mix, leaving accuracy and tokens on the table. A proxy between the harness and vLLM captures the exact tokens generated so the model trains against the same tool calls, prompt formatting and failure modes it will see in production. Each adapter was trained with TRL's AsyncGRPOTrainer; a safeagents plugin checked 1.3 million tool calls across runs and blocked 647.\n\n**Reported results** (Hugging Face's own, with no independent reproduction): under pi with thinking off, Terminal-Bench 2.1 accuracy went from 39.5% to 55.8% (+16.3 points, p=0.0013) while average token use per task fell from about 2.9K to 1.5K. Tools calls dropped 53–72% on tasks both versions solved. The three LoRAs are nearly orthogonal (cosine similarity around 0.01–0.02) and were merged into a single super-adapter that runs unchanged across all three harnesses.\n\n**Caveats:** numbers are self-reported with no error bars in the launch post, evaluated only at 27B on three harnesses, and one key benchmark has just 51 tasks. Still, adapters, GGUFs, RL tasks and ready-to-use Docker images are public, so teams can verify on their own workload."
+        "title": "GPT-6.2 Astra Doubles Robot Task Success on XDOF's Ember-0 Benchmark",
+        "excerpt": "A dual-arm robot's average success across 16 manipulation tasks rose from 19.6% to 41.2%, solving knot-tying and T-shirt unfolding for the first time.",
+        "content": "Robotics infrastructure company XDOF reports that GPT-6.2 Astra reached a **41.2% average success rate** across 16 manipulation tasks on its Ember-0 benchmark, up from 19.6% for GPT-6 Astra two months earlier — a gain of 21.6 percentage points.\n\nEmber-0 runs a dual-arm robot in real physical environments, covering grasping, spatial reasoning, two-arm coordination, tool use and deformable objects. XDOF ran trials in parallel on six YAM workstations with 30 repetitions per task and human annotation of substeps, grasp failures and collisions. The model completed knot-tying and T-shirt unfolding — tasks no model had solved before, with 143 prior valid unfolding trials ending in failure. Picking up bread with tongs jumped from 10% to 90%. Average prediction latency fell from 15 seconds to 10.1 seconds.\n\nOpenAI developer accounts reposted the results and Greg Brockman praised the model's robotics performance. The limits remain real: a 41.2% average means most attempts still fail, and roughly 10 seconds of latency is too slow for continuous control. XDOF says Ember-0 may soon saturate."
       },
       "zh": {
-        "title": "小 LoRA 让同一模型在智能体运行环境中提升 16 分",
-        "excerpt": "Hugging Face 的 harness adapters 冻结基座模型、针对每种运行时用强化学习训练 LoRA：Qwen3.8-27B 在 Terminal-Bench 上从 39.5% 升至 55.8%，token 用量减半。",
-        "content": "Hugging Face 发布了一套开放方案，用于让模型适配特定的智能体运行环境（harness）：冻结基座权重，在 harness 未经修改的运行时内部，用强化学习训练一个独立的 LoRA 适配器。基座模型为 Qwen3.8-27B，三个 harness 分别是 pi、OpenCode 与 Hermes Agent。\n\n**为什么要做：** 通用模型追求平均表现，而非针对某个运行环境与任务组合优化，因而损失了准确率与 token 效率。方案在 harness 与 vLLM 之间放置代理，捕获模型实际生成的 token，使训练针对生产环境中完全相同的工具调用、提示格式与失败模式进行。每个适配器用 TRL 的 AsyncGRPOTrainer 训练；safeagents 插件在多轮训练中检查了 130 万次工具调用，拦截 647 次。\n\n**自报结果**（来自 Hugging Face，尚无独立复现）：在 pi 环境、关闭思考模式下，Terminal-Bench 2.1 准确率从 39.5% 升至 55.8%（+16.3 分，p=0.0013），每任务平均 token 用量从约 2.9K 降至 1.5K。在两个版本都能解决的任务上，工具调用减少 53%–72%。三个 LoRA 几乎正交（余弦相似度约 0.01–0.02），已合并为可在三个环境下不加修改运行的 super-adapter。\n\n**需注意：** 数据均为自报，发布文章未给出误差区间，仅在 27B 规模与三个环境上评测，其中一个关键基准只有 51 道题。不过适配器、GGUF、RL 任务与即用 Docker 镜像均已公开，团队可在自己的任务上验证。"
+        "title": "GPT-6.2 Astra 具身实测：双臂机器人 16 项任务成功率由 19.6% 翻倍至 41.2%",
+        "excerpt": "XDOF 的 Ember-0 基准显示，模型首次完成打结与展开 T 恤，平均预测延迟从 15 秒降至 10.1 秒。",
+        "content": "机器人基础设施公司 XDOF 报告，GPT-6.2 Astra 在其 Ember-0 基准的 16 项操作任务上平均成功率达到 **41.2%**，高于两个月前 GPT-6 Astra 的 19.6%，提升 21.6 个百分点。\n\nEmber-0 在真实物理环境中操控双臂机器人，覆盖抓取、空间推理、双臂协同、工具使用与可变形物体。XDOF 在 6 个 YAM 工作站并行测试，每项任务重复 30 次，并由人工标注子步骤、抓取失败与碰撞。模型完成了打结与展开 T 恤——此前没有任何模型通过这两项，展开 T 恤已有 143 次有效试验全部失败；用夹子夹面包的成功率从 10% 跃升至 90%。平均预测延迟从 15 秒降至 10.1 秒。\n\nOpenAI 开发者账号转发了结果，联合创始人布罗克曼称模型在机器人上表现出色。局限同样明显：41.2% 的均值意味着多数尝试仍失败，约 10 秒延迟对连续控制仍偏慢。XDOF 表示 Ember-0 基准可能很快被模型能力饱和。"
       }
     },
     {
       "id": 9,
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
-      "category": "business",
-      "readTime": 5,
-      "timeAgo": 14,
-      "date": "2026-11-22",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 6,
+      "timeAgo": 9,
+      "date": "2026-11-23",
       "en": {
-        "title": "Oracle Says It Is Fully Funded for Its $300 Billion OpenAI Cloud Contract",
-        "excerpt": "Oracle says it has secured the capital to fulfil the five-year deal, capping new fundraising at $20 billion through FY2030 — a company claim made amid scrutiny of AI-linked credit.",
-        "content": "Oracle said on November 20 that it has secured the capital needed to fulfil its cloud infrastructure contract with OpenAI, describing itself as the first hyperscaler fully funded for the current AI investment cycle. The agreement is described as five-year and worth $300 billion.\n\n**The funding framework:** at its investor day Oracle committed to capping additional capital-markets fundraising for fiscal 2027 through fiscal 2030 at $20 billion, split evenly between $10 billion in equity and $10 billion in gross debt, excluding refinancing — on top of a $20 billion at-the-market equity raise completed in Q1 FY2027. Oracle pre-empted future questions, saying ongoing private supplier discussions are optional rather than required to meet contractual obligations.\n\n**Sites:** construction at Abilene, where OpenAI's Astra-6 model was trained, is nearing completion; the next gigawatt-scale site, Shackelford, has full permitting; handover of Nvidia Vera Rubin server racks remains scheduled for the coming weeks. Oracle reiterated expectations of positive free cash flow in H2 FY2028 and more than $30 billion annually in FY2029.\n\n**Read with care:** these are company statements, made in a week when AI-linked credit was under scrutiny and Oracle shares closed down 8.48% before rebounding about 3.5% after hours. The market's core anxiety about the AI build-out is funding, not demand."
+        "title": "alphaXiv Launches a Preprint Server for AI Agents as 936 Agents Publish 936 Papers",
+        "excerpt": "A 12-week experiment let nearly a thousand autonomous agents research, review and cite one another, forming an early scientific community.",
+        "content": "alphaXiv launched a preprint server built specifically for AI agents and published a 12-week observational study, A Society of AI Scientists, on November 19; Science covered the experiment the same day.\n\nAcross the experiment, 35 human-run labs released 936 autonomous agents that produced 936 studies with code and data, exchanged 9,500 messages in 229 agent-created chat rooms, and formed topical hubs. Because negative results counted as much as positive ones, agents cited failed experiments about as often as successful ones and retracted mistaken claims before posting. One lab founded the **Journal of Agent Research**, with agents serving as editors and reviewers.\n\nBlinded comparisons rated agent papers above recent human preprints on experimental rigor and measured claims, but below them on novelty and significance. Some participants called much of the output incremental. Organizers say converting reviewer objections into executable scripts and rerunning them exposed hidden flaws that text-only review missed. Compute costs exceeded hundreds of thousands of dollars, and the setup is seen as a better fit for machine learning than wet-lab sciences."
       },
       "zh": {
-        "title": "Oracle 称已为 3000 亿美元 OpenAI 云合同备足资金",
-        "excerpt": "Oracle 表示已获得履行这份五年期合同所需资本，并承诺 FY2030 前新增融资上限 200 亿美元——此为公司在 AI 信贷受审视之际的自述。",
-        "content": "Oracle 于 11 月 20 日表示，已获得履行与 OpenAI 云基础设施合同所需资本，自称是「首个为当前 AI 投资周期完全融资的超大规模厂商」。该协议被描述为五年期、价值 3000 亿美元。\n\n**融资框架：** 在投资者日，Oracle 承诺将 2027 至 2030 财年新增资本市场融资上限设为 200 亿美元，股权与债务各 100 亿美元（不含债务再融资），此外还在 2027 财年第一季度完成了 200 亿美元的场内股票增发。Oracle 主动回应外界疑问，称与供应商的持续私下讨论是可选安排，而非履行合同义务所必需。\n\n**站点进展：** 用于训练 OpenAI Astra-6 模型的 Abilene 站点建设接近完工；下一个吉瓦级站点 Shackelford 已取得全部许可；英伟达 Vera Rubin 服务器机架预计未来数周交付。Oracle 重申预计 2028 财年下半年自由现金流转正，2029 财年年度自由现金流超过 300 亿美元。\n\n**需谨慎看待：** 这些均为公司表态，发布之际正值 AI 相关信贷受审视——当周 Oracle 股价收跌 8.48%，盘后反弹约 3.5%。市场对 AI 建设的核心焦虑在于融资，而非需求。"
+        "title": "alphaXiv 上线 AI 智能体专属预印本服务器：936 个 Agent 12 周产出 936 篇论文",
+        "excerpt": "一场为期 12 周的实验让近千个自主智能体研究、互评与引用，浮现出早期科学共同体雏形。",
+        "content": "alphaXiv 上线了专门面向 AI 智能体的预印本服务器，并于 11 月 19 日公开 12 周观察研究《一个 AI 科学家社群》，《科学》杂志同日报道了该实验。\n\n实验中，35 个人类运营的实验室投放了 936 个自主智能体，共产出 936 项研究及配套代码与数据，在 229 个由智能体创建的聊天室交换约 9500 条消息，并形成主题交流中心。由于负面结果与正面结果同等计分，智能体引用失败实验与成功实验的频率相当，并会在发表前主动撤回错误主张。一个实验室还创办了**《智能体研究期刊》**，由智能体担任编辑与审稿人。\n\n盲评显示，智能体论文在实验严谨性与主张衡量上高于近期人类预印本，但在新颖性与重要性上仍逊色，部分参与者称大量成果只是渐进式增量。组织者表示，把审稿质疑转化为可执行脚本重跑，暴露出只读文本难以发现的隐藏缺陷。项目算力成本已超数十万美元，被认为更适合机器学习，而非依赖湿实验的学科。"
       }
     },
     {
       "id": 10,
-      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
-      "category": "llm",
-      "readTime": 4,
-      "timeAgo": 28,
-      "date": "2026-11-22",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 5,
+      "timeAgo": 7,
+      "date": "2026-11-23",
       "en": {
-        "title": "Google Previews Tool Retrieval so Agents Load Schemas Only When Needed",
-        "excerpt": "The Interactions API preview keeps tool names and descriptions available and loads full parameter schemas on demand, targeting large tool libraries — though Google gives no measured savings.",
-        "content": "Google has released a preview of Tool Retrieval in the Gemini Interactions API. The feature keeps the names and descriptions of many tools available to an agent while loading full parameter schemas only when a tool is actually needed.\n\n**Why it matters:** large tool libraries can consume a large share of the prompt context just by defining every schema. Loading definitions on demand frees that space for reasoning and content. The preview supports Gemini 3.6 and later models, including Gemini 4, and works with remote MCP servers.\n\n**Engineering caveats:** the feature currently requires the v1beta API and does not support the older generate-content method. Server-side search triggers an additional billed model call, and standard token charges still apply. Google has not published a measured savings figure in the announcement, so teams will need to benchmark the effect on their own tool sets and check which actions their agents can actually execute.\n\nThe release is part of a wider move toward making agent APIs more context-efficient, arriving the same week that Hugging Face published harness adapters aimed at cutting agent token consumption."
+        "title": "Meta Reconsiders 2030 Net-Zero Goal as AI-Driven Emissions Jump 45%",
+        "excerpt": "Its 2026 sustainability report shows 2025 emissions up 45% to 11.8 million tonnes, far above peers, putting the climate deadline under review.",
+        "content": "Meta's 2026 sustainability report, released November 19, shows net emissions rose **45% in 2025** to about 11.8 million tonnes of CO2 equivalent, while electricity use climbed about 35%. Executives say they are re-evaluating the 2030 net-zero goal set in 2020, reviewing \"timelines, sequencing and interim milestones.\"\n\nThe emissions increase far exceeds peers cited by Axios — Google at 18%, Amazon at 16% and Microsoft at 25%. Data-center VP Rachel Peterson and net-zero head Blair Swedeen wrote that when the goal was set they anticipated steady growth and falling clean-energy costs, but \"the reality has been far more complex.\" Meta says it has contracted more than 30 gigawatts of clean energy, though less than half is generating.\n\nThe report notes Meta may turn to natural gas plants where utilities cannot deliver power fast enough. In Louisiana, Entergy is pursuing seven gas units above 5,200 MW to serve Meta's data centers. Direct water use fell 4%, but use in water-stressed regions rose 24% and electricity-related water use rose 37%."
       },
       "zh": {
-        "title": "谷歌预览工具检索：智能体仅在需要时加载工具参数定义",
-        "excerpt": "Interactions API 预览保留工具名称与描述，按需加载完整参数 schema，面向大型工具库——但谷歌未给出实测节省数据。",
-        "content": "谷歌在 Gemini Interactions API 中发布「工具检索」（Tool Retrieval）预览。该功能让智能体始终可见大量工具的名称与描述，仅在真正需要某个工具时才加载其完整参数 schema。\n\n**为何重要：** 大型工具库仅仅定义每个 schema，就可能占用提示上下文的大量空间。按需加载定义可把这部分空间腾给推理与内容。该预览支持 Gemini 3.6 及更新模型（含 Gemini 4），并兼容远程 MCP 服务器。\n\n**工程注意事项：** 该功能目前要求使用 v1beta API，不支持较旧的 generate-content 方法；服务端搜索会触发一次额外计费的模型调用，标准 token 费用照常计算。谷歌在公告中未给出实测节省数据，因此团队需要在自己的工具集上做基准测试，并核查智能体实际能执行哪些动作。\n\n此次发布是让智能体 API 更节省上下文的更广泛趋势的一部分，与同一周 Hugging Face 发布旨在降低智能体 token 消耗的 harness adapters 相呼应。"
+        "title": "Meta 因 AI 基建排放激增 45%，重新评估 2030 净零目标",
+        "excerpt": "2026 可持续发展报告显示 2025 年净排放升至约 1180 万吨，远高于同行，2030 气候期限进入重审。",
+        "content": "Meta 11 月 19 日发布的 2026 可持续发展报告显示，2025 年净排放**上升 45%**至约 1180 万吨二氧化碳当量，用电量增长约 35%。高管表示正在重新评估 2020 年设定的 2030 净零目标，审视「时间线、排序与中期里程碑」。\n\n这一增幅远高于 Axios 引用的同行——谷歌 18%、亚马逊 16%、微软 25%。数据中心副总裁雷切尔·彼得森与净零主管布莱尔·斯威登写道，设定目标时预期稳定增长与清洁能源成本下降，但「现实远为复杂」。Meta 称已签约超过 30 吉瓦清洁能源，但不到一半已发电。\n\n报告指出，当公用事业无法足够快供电时，Meta 可能转向天然气电厂。在路易斯安那州，Entergy 正推进七台总计超过 5200 兆瓦的燃气机组服务 Meta 数据中心。直接用水下降 4%，但高水压力地区用水上升 24%、发电相关用水上升 37%。"
       }
     }
   ]
