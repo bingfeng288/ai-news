@@ -1,0 +1,202 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=600&fit=crop",
+    "category": "business",
+    "readTime": 6,
+    "timeAgo": 4,
+    "date": "2026-11-24",
+    "en": {
+      "title": "Jensen Huang Reinstated at Nvidia as Shares Surge 31.5% in Biggest Day Since 2003",
+      "excerpt": "Nearly two weeks after stepping down, Huang returns as CEO; the chipmaker adds about $952 billion in market value in a single session and the Nasdaq jumps 6.51%.",
+      "content": "Nvidia said on November 23 that its board had unanimously voted to immediately reinstate **Jensen Huang** as president, chief executive and director — just 11 days after announcing his departure on November 12.\n\nThe market reaction was immediate and historic. Nvidia closed up **31.5%** at $165.05, its largest single-day gain since 2003, after touching an intraday high of 36.6%. The move added roughly **$952 billion** in market value in one session. The Nasdaq Composite rose 6.51%, the S&P 500 gained 4.73% and the Dow climbed 3.01%.\n\nIn a statement, board chair Rob Burgess said the board believed Huang was the right person to lead Nvidia and that, after listening to senior US government officials, it was confident his return posed no national-security risk. Huang said he was honored to return and eager to get back to work. President Trump called the decision correct and appropriate, saying the government had no evidence of wrongdoing; people familiar with the matter said Vice President JD Vance and Attorney General Todd Blanche had helped coordinate the move over the weekend.\n\nThe reversal does not end the scrutiny. Senate Democratic Leader Chuck Schumer said Democrats would investigate the administration and Nvidia executives, and a public hearing is scheduled for December 3. Reports that interim executives learned of the decision only at the last hour add to questions about the board's process."
+    },
+    "zh": {
+      "title": "黄仁勋复职英伟达，股价暴涨31.5%，创2003年以来最大单日涨幅",
+      "excerpt": "距宣布离任仅11天，黄仁勋重掌帅印；英伟达单日市值增加约9520亿美元，纳斯达克指数大涨6.51%。",
+      "content": "英伟达11月23日宣布，董事会一致投票决定，即日起恢复**黄仁勋**的公司总裁、首席执行官及董事职务。此时距11月12日宣布其离任仅过去11天。\n\n市场反应迅速而罕见。英伟达收盘上涨**31.5%**，报165.05美元，盘中最高涨36.6%，录得2003年以来最大单日涨幅，单日市值增加约**9520亿美元**。纳斯达克综合指数当日涨6.51%，标普500涨4.73%，道琼斯工业平均指数涨3.01%。\n\n董事会主席琼斯在声明中表示，董事会认为黄仁勋是领导英伟达的合适人选，且在听取美国政府高层意见后，有信心其复职不会构成国家安全风险。黄仁勋称很荣幸回归、迫不及待想回去工作。特朗普表示这一决定「正确且恰当」，政府没有证据表明其存在不法行为；知情人士称副总统万斯与司法部长布兰奇在周末参与了协调。\n\n反转并未终结质疑。参议院民主党领袖舒默表示将动用全部力量调查特朗普政府及英伟达高管，公开听证会定于12月3日举行。有消息称临时首席执行官及多名高管直到最后一刻才获知决定，令董事会议程的透明度再受关注。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f2?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 5,
+      "timeAgo": 12,
+      "date": "2026-11-24",
+      "en": {
+        "title": "Anthropic Hands Enterprises Control of Claude Logs, Launches Claude Ship",
+        "excerpt": "New Enterprise Frontier Safeguards let customers hold 30-day logs in their own cloud with their own keys, reversing a policy that had angered businesses.",
+        "content": "Anthropic on November 23 released an early version of **Enterprise Frontier Safeguards (EFS)**, letting enterprise customers keep usage logs for its most powerful Claude models in their own cloud accounts instead of on Anthropic's infrastructure.\n\nCustomers of the Mythos and Fable models must still retain prompts and responses for 30 days, but can now store them on AWS, Google Cloud or Azure with **customer-held encryption keys**. Anthropic's software, running in the customer's cloud, scans the stored data every 15 minutes for signs of attack and alerts the customer; Anthropic receives an alert but cannot access the underlying data. The safeguard itself is free — customers pay their cloud provider for storage and egress. No general availability date was given.\n\nThe move reverses a June policy that required 30-day retention on Anthropic's own servers to detect misuse, a rule that drew sharp objections from enterprises accustomed to zero data retention. Anthropic has said the data is not used for training and developed EFS with more than 100 customers spanning banks, law firms and technology companies.\n\nAlongside EFS, Anthropic launched **Claude Ship** for software engineers, adding PR Steward and Claude Approvals agents that can resolve merge conflicts, handle failed CI checks and address review feedback, and autonomously approve routine changes where company policy allows. Both are in beta for Claude Team and Enterprise customers, days after the company's record IPO."
+      },
+      "zh": {
+        "title": "Anthropic向企业交出Claude日志控制权，同步推出Claude Ship",
+        "excerpt": "新推出的企业前沿安全防护系统允许客户用自有密钥在自有云存储30天日志，扭转了此前引发企业不满的强制留存政策。",
+        "content": "Anthropic于11月23日发布**企业前沿安全防护系统（EFS）**早期版本，允许企业客户将其最强大Claude模型的使用日志存放在自有云账户，而非Anthropic的基础设施上。\n\n使用Mythos和Fable模型的客户仍须保留提示词与响应30天，但现可存储在AWS、谷歌云或Azure上，并使用**客户自持的加密密钥**。Anthropic的软件在客户云中运行，每15分钟扫描一次存储数据以发现攻击迹象并向客户发出警报；Anthropic也会收到警报，但无法访问底层数据。该系统本身免费，客户只需向云厂商支付存储与流量费用，官方尚未给出正式可用日期。\n\n此举扭转了6月的政策。当时Anthropic要求在自有服务器上强制留存30天以侦测滥用，引发一批习惯零数据留存的企业强烈反弹。Anthropic表示相关数据不用于训练，并与100多家客户共同开发了EFS，客户涵盖银行、律所和科技公司。\n\n与EFS同步，Anthropic面向软件工程师推出**Claude Ship**，新增PR Steward与Claude Approvals两款代理，可处理合并冲突、CI检查失败与审查反馈，并在企业策略允许时自主批准常规变更。两项功能均以测试版向Claude Team及Enterprise客户开放，此时距公司创纪录的IPO仅数日。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 6,
+      "timeAgo": 10,
+      "date": "2026-11-24",
+      "en": {
+        "title": "CrowdStrike to Buy Zscaler for $43.9 Billion in Biggest Cyber Deal Ever",
+        "excerpt": "All-stock pact unites endpoint and zero-trust security, targeting AI-agent safety and expanding CrowdStrike's market by more than $185 billion.",
+        "content": "CrowdStrike and Zscaler said on November 23 they had signed a definitive agreement for CrowdStrike to acquire Zscaler in an **all-stock deal valued at about $43.9 billion**, the largest merger in cybersecurity history.\n\nUnder the terms, Zscaler shareholders will receive 1.135 CrowdStrike shares for each Zscaler share — an implied $260.41 per share based on CrowdStrike's November 20 close of $229.44, a premium of roughly 34%. CrowdStrike holders will own about 84.1% of the combined company, Zscaler holders 15.9%. The combined ending ARR exceeds $10 billion, and Zscaler expands CrowdStrike's addressable market by more than **$185 billion**.\n\nThe strategic pitch is AI-agent security. Zscaler's Zero Trust Exchange sits inline between users, agents and applications, while CrowdStrike's Falcon sensor covers endpoints and workloads. The companies say the merger will unify device and network telemetry into one dataset for Falcon's next-gen SIEM and deliver a unified AI kill switch that can stop an agent on the device and cut its path on the network.\n\nCrowdStrike expects about $1 billion in annualized revenue synergies within 30 months and $500 million in cost synergies within 18 to 24 months. The deal, approved by both boards, is expected to close in the second half of fiscal 2028. Zscaler founder Jay Chaudhry, who holds about 34% and signed a voting agreement, will continue running the business and join the board."
+      },
+      "zh": {
+        "title": "CrowdStrike以439亿美元收购Zscaler，创网络安全并购纪录",
+        "excerpt": "全股票交易将终端安全与零信任合为一体，瞄准AI智能体安全，市场规模扩大逾1850亿美元。",
+        "content": "CrowdStrike与Zscaler于11月23日宣布签署最终协议，CrowdStrike将以**全股票方式约439亿美元**收购Zscaler，成为网络安全行业史上规模最大的并购。\n\n根据协议，Zscaler股东每股可换取1.135股CrowdStrike股票。按CrowdStrike 11月20日收盘价229.44美元计算，隐含价格为每股260.41美元，较Zscaler当日收盘溢价约34%。交易完成后，CrowdStrike原股东持股约84.1%，Zscaler原股东持15.9%。合并后年度经常性收入（ARR）超过100亿美元，Zscaler将令CrowdStrike的可及市场扩大逾**1850亿美元**。\n\n战略核心是AI智能体安全。Zscaler的零信任交换平台位于用户、智能体与应用之间，CrowdStrike的Falcon传感器覆盖终端与云工作负载。双方称合并将把设备与网络遥测汇入同一数据集，用于下一代SIEM，并提供统一的AI熔断开关，可在终端停止某个智能体并切断其网络路径。\n\nCrowdStrike预计交割后30个月内实现约10亿美元年化收入协同，18至24个月内实现5亿美元成本协同。交易已获双方董事会批准，预计2028财年下半年完成。持有约34%股份并签署投票支持协议的Zscaler创始人Jay Chaudhry将继续负责业务并加入董事会。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 6,
+      "timeAgo": 8,
+      "date": "2026-11-24",
+      "en": {
+        "title": "Zhipu Launches GLM-5.4, China's First Loop Transformer Flagship",
+        "excerpt": "A 750B-parameter model using two-pass, 28-layer reasoning is claimed to match 3T-class systems, extending coding into video, games and 3D.",
+        "content": "Zhipu released its next-generation flagship model **GLM-5.4** on the evening of November 23, the first Chinese flagship built on a Loop Transformer architecture.\n\nThe architecture trades depth for scale. According to the company, GLM-5.4 runs a 28-layer base through two recurrent passes, reaching intelligence comparable to 3-trillion-parameter class models with roughly **750B parameters** — improving the ceiling without proportionally increasing the base parameter count. The model also adds vision capabilities.\n\nZhipu frames the release as the start of pan-coding: code generation is extended to video animation (Code to Video), full game creation, 3D spatial reconstruction and image generation, with support for third-party modeling software. Demonstrations show the model producing 3D macro scenes from pure geometry and custom shaders, and rendering short videos or interactive 3D spaces from front-end code with no external assets.\n\nGLM-5.4 is immediately available to all GLM Coding Plan subscribers and has been added to ZCode, Trae, WorkBuddy and Qoder, with usage quotas raised 1.5x for V2/V3 and team plans. APIs will open after a safety review and weights are planned for responsible open-sourcing. Management expects a roughly 3-trillion-parameter GLM-5.5 in December."
+      },
+      "zh": {
+        "title": "智谱发布GLM-5.4，国内首款Loop Transformer旗舰模型",
+        "excerpt": "750B参数经28层两轮循环推演，宣称达到3T级智能，并把编码能力拓展到视频、游戏与3D。",
+        "content": "智谱于11月23日晚发布新一代旗舰模型**GLM-5.4**，这是国内首款采用Loop Transformer架构的旗舰模型。\n\n该架构以深度换规模。据官方介绍，GLM-5.4将28层基座进行两轮循环深度推演，以约**750B参数**达到比肩3万亿参数级模型的智能水平，在不显著增加基座参数量的前提下提升智能上限。新模型同时增加了视觉能力。\n\n智谱将此次发布定义为「泛Coding」的开端：代码生成能力延伸至视频动效（Code to Video）、完整游戏制作、3D空间重建与图像生成，并支持与第三方建模软件联动。官方案例中，模型可仅凭数学几何与自定义着色器从零生成3D微距场景，或在无外部素材时用前端代码实时绘制视频短片与交互式3D空间。\n\nGLM-5.4即日起向GLM Coding Plan全量用户开放，并上线ZCode、Trae、WorkBuddy、Qoder等编码平台，V2/V3及团队版使用额度提升至1.5倍。API将在完成安全评估后开放，模型权重计划以负责任的方式开源。管理层预计12月推出约3万亿参数的GLM-5.5。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&h=400&fit=crop",
+      "category": "healthcare",
+      "readTime": 6,
+      "timeAgo": 14,
+      "date": "2026-11-24",
+      "en": {
+        "title": "Ant Open-Sources LingSante Family of Medical AI Models",
+        "excerpt": "Four models cover multimodal diagnosis, deep clinical reasoning, six-year disease risk prediction and medical safety, with two flagship weights released.",
+        "content": "At its 2026 health ecosystem conference on November 23, Ant unveiled and open-sourced the **LingSante** family of medical and health foundation models — the first systematic display of its healthcare AI work.\n\nTwo core models were released. **LingSante-3.1-air-VL** is a natively multimodal model handling text, images and video; it can combine skin photos, diet images and exam reports in one analysis and tops several benchmarks in medical imaging reports, skin-disease recognition and report interpretation. At 124B total and 5.5B active parameters, it runs on a laptop. **LingSante-3.1-flash** targets hospitals with 560B parameters and a 1M-token context for case records, reports and literature; it ranks first among open models on the InclusionMed composite index.\n\nThe other two models cover **LingSante Pulse**, which predicts risk for more than 150 diseases over the next six years, and **LingSante MedGuard**, which identifies medical safety, compliance and ethical risks from patient context. A real-time multimodal agent, LingSante Live, supports listening, speaking, seeing and acting at once.\n\nThe Afuz app, serving 150 million users with nearly 20 million daily health queries, was upgraded with video-based remote consultation plus human-doctor backup. Ant CEO Han Xinyi stressed that AI remains an assistant and clinical decisions must stay with physicians."
+      },
+      "zh": {
+        "title": "蚂蚁百灵医疗健康大模型家族全面开源",
+        "excerpt": "四款模型覆盖多模态诊断、深度医学推理、六年疾病风险预测与医疗安全，两款旗舰权重已开源。",
+        "content": "在11月23日举行的2026蚂蚁阿福医疗健康生态大会上，蚂蚁发布并**开源百灵医疗健康大模型家族LingSante**，这是其首次系统展示医疗健康AI技术成果。\n\n两款核心模型同步开源。**LingSante-3.1-air-VL**为原生多模态模型，支持文字、图片与视频理解，可结合皮肤照片、饮食图片与体检报告综合分析，在医疗影像报告、皮肤疾病识别、报告解读等多项评测中位居全球第一；参数量124B、激活参数5.5B，可在笔记本电脑部署。**LingSante-3.1-flash**面向专业医疗机构，总参数560B、支持最长1M Token上下文，可处理大量病历、检查报告与文献，在InclusionMed综合指数中位列全球开源模型首位。\n\n另两款模型分别是**LingSante Pulse**（可预测150余种疾病未来六年风险）与**LingSante MedGuard**（结合患者上下文识别医疗安全、合规与伦理风险）。实时多模态智能体LingSante Live则支持边听、边说、边看、边做。\n\n服务1.5亿用户、日均近2000万次健康咨询的阿福App同步升级，新增视频「望闻问切」并接入真人医生把关。蚂蚁CEO韩歆毅强调，无论模型如何迭代，AI始终只是辅助工具，临床决策必须交给专业医师。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 7,
+      "timeAgo": 18,
+      "date": "2026-11-24",
+      "en": {
+        "title": "Zhejiang's Tianmu-2 Chip Builds the World's First Working QRAM",
+        "excerpt": "A Nature Physics paper reports the first real-hardware quantum random-access memory, giving quantum computers a long-missing high-speed data interface.",
+        "content": "A team at Zhejiang University has achieved the world's first real-device implementation of **quantum random-access memory (QRAM)** on its Tianmu-2 superconducting chip, a result published in *Nature Physics* and reported by People's Daily on November 21.\n\nQRAM was proposed in 2008 as a way to use quantum superposition to point to and retrieve multiple data items at once — effectively a high-speed memory for quantum computers. For 18 years it remained theoretical: on real chips the circuits were too long and the noise too high, so quantum states collapsed before data could be read.\n\nStarting in 2022, the team rebuilt the routing architecture and optimized router-node switching so the tree structure could run on a two-dimensional grid. Routing qubits double as monitors: an energy-level transition or logic error produces a signal that lets the system discard invalid queries. Quantum teleportation created fast logical tunnels between distant qubits, easing the physical-wiring constraint.\n\nThe chip ran 4-bit and 8-bit QRAM prototypes with measured accuracy of **80.9% and 60.4%** and circuit depth more than 30% lower than an unoptimized scheme. The work also verified the architecture is locally noise-resistant, meaning usable QRAM can be built on imperfect hardware. Applications could span financial big data, AI training, drug discovery and materials simulation."
+      },
+      "zh": {
+        "title": "浙大天目2号全球首次真机实现量子随机存储器",
+        "excerpt": "成果发表于《自然·物理》，为量子计算机补上长期缺失的高速数据接口。",
+        "content": "浙江大学团队在其自主设计的**天目2号**超导量子芯片上，全球首次真机实现量子随机存储器（QRAM）。成果发表于《自然·物理》，并于11月21日获《人民日报》报道。\n\nQRAM于2008年提出，设想利用量子叠加特性同时精准指向并调取多组数据，相当于给量子计算机装上「高速内存」。但18年来它一直停留在理论层面：真实芯片上电路太长、噪声太大，数据还没读出量子态就已塌缩。\n\n自2022年起，团队重构路由架构、优化路由器节点切换逻辑，让树状结构得以在二维网格芯片上运行。负责路由的量子比特兼任「监视器」，一旦发生能级跃迁或逻辑错误即产生特定信号，系统可自动剔除无效查询。团队还利用量子隐形传态在相距较远的量子比特间建立高速「逻辑隧道」，破解了物理布线对复杂算法结构的限制。\n\n芯片首次成功运行可调取4位与8位数据的QRAM原型，实测准确率分别为**80.9%与60.4%**，线路深度较未优化方案降低30%以上，并首次验证该架构具有局部抗噪特性，意味着在不完美的量子硬件上也能构建实用QRAM。应用前景涵盖金融大数据、AI训练、新药研发与材料模拟。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 6,
+      "timeAgo": 16,
+      "date": "2026-11-24",
+      "en": {
+        "title": "Musk Warns AI Industry Faces a Severe 2027 Cash Squeeze",
+        "excerpt": "Delayed data-center ramp-ups could require hundreds of billions in extra working capital, as infrastructure debt already tops $680 billion.",
+        "content": "Elon Musk warned on November 22 that the AI industry could face a severe cash shortage next year, arguing that delays between paying for compute and reliably generating revenue from it carry an enormous financing cost.\n\nGetting large-scale compute powered up, cooled and run reliably is extremely hard, Musk wrote in reply to a post by Keras creator François Chollet. Even a cumulative delay of a few months between paying for infrastructure and reaching stable revenue would mean **hundreds of billions of dollars in additional working capital** — where, he asked, would that money come from?\n\nChollet's original post argued this is either a bubble or a rare buying opportunity, citing rising GPU spot prices, HBM and DRAM capacity sold out through 2029, frontier training compute roughly doubling every five months, and inference margins of 70% to 85%.\n\nThe warning has data behind it. IDC said global AI infrastructure spending hit $121.4 billion in Q2 2026, up 53% year on year, and raised its full-year forecast to $521 billion. A Federal Reserve report on November 13 said debt issued for advanced computing infrastructure surpassed **$680 billion** by October 2026 — about five times the $130 billion issued in all of 2023 — with outstanding public debt tied to the sector above $1.1 trillion. The IEA projects data-center power use nearly doubling from 485 TWh in 2025 to about 950 TWh by 2030."
+      },
+      "zh": {
+        "title": "马斯克警告2027年AI行业将现严重资金短缺",
+        "excerpt": "数据中心投产延迟或需额外数千亿美元营运资金，基建相关债务已超6800亿美元。",
+        "content": "马斯克11月22日警告，AI行业明年可能面临严重资金短缺。他认为，从为算力付费到算力稳定创收之间的延迟，隐藏着巨大的融资成本。\n\n马斯克在回复Keras创始人François Chollet的帖子时表示，让如此规模的算力上线、散热并可靠运行极其困难。即使从付款到稳定创收仅累积延迟数月，仅营运资金一项就可能增加**数千亿美元**。他反问：这些钱从哪里来？\n\nChollet的原帖认为，这要么是昙花一现的泡沫，要么是难得的买入机会。他列举的理由包括GPU现货价格仍在上涨、HBM与DRAM产能已售罄至2029年、前沿模型训练算力约每5个月翻番，以及推理业务利润率高达70%至85%。\n\n这一担忧有数据支撑。IDC称2026年第二季度全球AI基础设施支出达1214亿美元，同比增长53%，并将全年预测上调至5210亿美元。美联储11月13日报告披露，截至2026年10月，先进计算基础设施相关债务发行已超**6800亿美元**，约为2023年全年1300亿美元的五倍，相关未偿公共债务估计超1.1万亿美元。国际能源署预计，全球数据中心用电量将从2025年的485太瓦时增至2030年的约950太瓦时，接近翻番。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 4,
+      "timeAgo": 9,
+      "date": "2026-11-24",
+      "en": {
+        "title": "Trump Says US Wants to Sell Only Older Chips to China; Beijing Responds",
+        "excerpt": "At a foreign ministry briefing, China said it had already stated its position on US export controls after the president's remarks about selling only less-advanced chips.",
+        "content": "At a regular press conference on November 23, foreign ministry spokesperson Guo Jiakun was asked about President Trump's remark that the United States only wants to sell **older, less advanced chips** to China and is discussing the matter with Beijing.\n\nReuters reported the president's comments, saying the US government was in talks with Chinese counterparts over selling such chips. Asked whether China was negotiating to buy them, Guo replied: regarding US export control measures, China has already clearly stated its position.\n\nThe exchange was carried by the foreign ministry's official transcript and reported by The Paper, Tencent News and other outlets. It comes amid a broader tightening of export controls and a reconfiguration of the global chip supply chain, including recent US moves to restrict advanced computing and semiconductor equipment exports.\n\nThe brief answer left the substance unresolved, but it signals that chip sales remain a live and sensitive channel in US-China talks. No details of any discussions or purchase plans were disclosed."
+      },
+      "zh": {
+        "title": "特朗普称只想向中国出售落后芯片，外交部回应",
+        "excerpt": "外交部发言人在例行记者会上表示，关于美国出口管制措施，中方此前已表明立场。",
+        "content": "在11月23日举行的例行记者会上，外交部发言人郭嘉昆被问及美国总统特朗普关于美国只想向中国出售**相对落后芯片**、并正就此与中方沟通的表态。\n\n路透社报道了特朗普的上述言论，称美国政府正就出售此类芯片与中方进行讨论。当被问及中方是否正与美方谈判购买此类芯片时，郭嘉昆表示：关于美国的出口管制措施，中方此前已经表明了立场。\n\n这一问答见于外交部官网发布的记者会实录，并被澎湃新闻、腾讯新闻等多家媒体转载。此前美国已多次收紧出口管制，先进计算与半导体设备出口限制持续调整，全球芯片供应链正在重构。\n\n简短回应并未透露谈判细节，但显示芯片销售仍是中美对话中一个活跃而敏感的议题。双方均未披露任何具体讨论内容或采购计划。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 5,
+      "timeAgo": 22,
+      "date": "2026-11-24",
+      "en": {
+        "title": "GXO Signs LOI for Up to 1,000 Apptronik Apollo Humanoids",
+        "excerpt": "The logistics giant targets a conditional four-year rollout under a robots-as-a-service model, with first North American deployment in late 2027.",
+        "content": "GXO Logistics, the world's largest pure-play contract logistics provider, has signed a **letter of intent** with Apptronik to expand trials of the Apollo humanoid and explore a robots-as-a-service (RaaS) model, the companies said.\n\nIf the robots meet jointly agreed productivity, safety and operational targets, the two intend to deploy up to **1,000 Apollo robots** over four years, with initial deployment in North America in late 2027. Importantly, this is a conditional goal rather than a firm order — the 1,000-unit figure depends on trials hitting agreed KPIs, according to TrendForce and industry coverage.\n\nFrom 2027, trials move into live operations covering goods-to-person and person-to-goods picking, case and tote movement, packing and sortation, with each use case assessed and sequenced against agreed KPIs. The partnership began with a 2024 proof of concept; Apollo completed a US pilot earlier in 2026 centred on autonomous picking of small consumer goods, and the companies have collected data on more than 50 logistics tasks.\n\nGXO operates more than 1,000 facilities with over 150,000 staff, so even 1,000 robots would be a small fraction of its network. Apptronik, spun out of UT Austin's Human Centered Robotics Lab and built on more than a decade of robots including NASA's Valkyrie, employs nearly 500 people."
+      },
+      "zh": {
+        "title": "GXO签署意向书，四年内部署最多1000台Apollo人形机器人",
+        "excerpt": "物流巨头采用机器人即服务模式设定有条件目标，首批北美部署定于2027年末。",
+        "content": "全球最大的纯合同物流服务商GXO Logistics宣布，已与人形机器人企业Apptronik签署**合作意向书**，扩大Apollo机器人在仓库中的试验，并探索机器人即服务（RaaS）商业模式。\n\n若机器人达到双方约定的生产效率、安全与运营指标，两家公司计划四年内**最多部署1000台Apollo**，首批北美部署定于2027年末。需要注意的是，这是有条件目标而非确定订单——据TrendForce与行业报道，1000台规模取决于试点是否达标。\n\n从2027年起，试验将进入真实运营，覆盖货到人拣选、人到货拣选、箱件与料箱搬运、包装和分拣，每个场景都按约定的KPI分别评估与排序。双方合作始于2024年的概念验证，Apollo已于2026年上半年完成以小件商品自主拣选为重点的美国试点，并已在50多种物流任务上完成数据采集。\n\nGXO在全球运营1000多个设施、拥有逾15万名员工，即便1000台机器人也仅占其网络的一小部分。Apptronik源自德克萨斯大学奥斯汀分校人类中心机器人实验室，技术积累包括NASA的Valkyrie在内的十余款机器人，目前约有500名员工。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 4,
+      "timeAgo": 11,
+      "date": "2026-11-24",
+      "en": {
+        "title": "Google Adds Three-Second Looping GIF Generation to Gemini",
+        "excerpt": "Powered by Gemini Omni 1.2 Flash, the feature turns text, photos or reference video into shareable animated GIFs.",
+        "content": "Google has begun rolling out **GIF animation generation** in Gemini, letting users create custom looping GIFs from text prompts, photos or reference video, according to the company's support documentation and technology media reports on November 23.\n\nThe generated GIFs run about three seconds and loop automatically, aimed at chat replies and social stickers. There are two entry points: describing the desired effect in natural language in the main Gemini chat, or selecting the GIF format in the image/video creation panel and entering a prompt. Built-in templates cover common reaction-style stickers, and users can upload their own images or short clips as references.\n\nThe feature is powered by Google's **Gemini Omni 1.2 Flash** video model, which supports up to 15 seconds of output, was optimized for frame-to-frame consistency, and allows conversational iterative editing — helping keep subjects and details from deforming across a loop. Completed GIFs can be copied into chat, mail and documents or downloaded as standard .gif files.\n\nRollout is gradual: the capability is going to paid Gemini subscribers worldwide, while free users in eight regions — the United States, Japan, South Korea, Australia, Canada, the UK, Germany and France — can also try it. The move follows OpenAI adding GIF generation to ChatGPT with its Images 2.6 model."
+      },
+      "zh": {
+        "title": "谷歌Gemini上线约3秒循环GIF动画生成",
+        "excerpt": "基于Gemini Omni 1.2 Flash视频模型，可用文字、照片或参考视频生成可分享动图。",
+        "content": "据谷歌官方支持文档与科技媒体报道，谷歌已开始向Gemini推送**GIF动画生成**功能，用户可通过文字、照片或参考视频一键生成自定义循环动图。\n\n生成的GIF时长约3秒并自动循环，定位聊天回复与社交表情包等轻量场景。使用时有两种入口：在Gemini主对话框用自然语言描述想要的GIF效果，或在图片／视频创作面板中选择GIF格式再输入提示词。Gemini内置常用反应类表情模板，用户也可上传自己的图片或短视频作为参考素材。\n\n该功能由谷歌的**Gemini Omni 1.2 Flash**视频生成模型驱动。该模型原生支持最高15秒输出，重点优化帧间一致性，并支持对话式迭代编辑，有助于在循环动画中保持主体形象与细节不崩坏。生成后的GIF可直接复制粘贴到聊天软件、邮件与文档，也可下载为标准.gif文件。\n\n功能正逐步推送：面向全球Gemini付费订阅用户开放，同时在美国、日本、韩国、澳大利亚、加拿大、英国、德国和法国这8个地区，免费用户也可体验。此举紧随OpenAI基于Images 2.6模型为ChatGPT新增GIF生成能力之后。"
+      }
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 6,
+      "timeAgo": 13,
+      "date": "2026-11-24",
+      "en": {
+        "title": "Microsoft's AI Chief Says It Is Free to Chase Superintelligence Alone",
+        "excerpt": "Suleyman backs shared safety limits and discloses MAI-2 Base at 0.819 log-perplexity, near GPT-5.6 Sol on OpenAI's own test.",
+        "content": "Microsoft AI chief Mustafa Suleyman says a renegotiated contract has **freed the company to pursue the absolute frontier** independently of OpenAI, and used the moment to put a number on Microsoft's own progress.\n\nIn an interview recorded on November 17 around Microsoft's Ignite event, Suleyman said the October 2025 rewrite of the OpenAI deal allowed Microsoft to independently pursue AGI alone or with third parties. The company started a superintelligence team about a year ago, and he now expects its general-purpose frontier models to reach the absolute frontier in the new year, saying compute is not currently a bottleneck.\n\nSuleyman also publicly backed OpenAI chief scientist Jakub Pachocki's proposal for shared industry safety limits, and disclosed that **MAI-2 Base scores 0.819 log-perplexity** on OpenAI's held-out evaluation set — in the same ballpark as the GPT-5.6 Sol base model. Because both use the same tokenizer, he said, the numbers are directly comparable. Internally, Microsoft has claimed MAI-Base-2, a 2.8-trillion-parameter MoE with 80 billion active parameters trained on 16,000 GB200 GPUs, outperforms GPT-5.6's model on about a quarter of the training compute — a claim that is not independently verified.\n\nFor all the ambition, Suleyman called recursive self-improvement a dangerous capability that makes him really nervous, saying the last three months have been a watershed and that the industry should prove models are safe before putting them into production."
+      },
+      "zh": {
+        "title": "微软AI负责人称已获自由独立追逐超级智能",
+        "excerpt": "Suleyman支持共享安全限值，并披露MAI-2 Base在OpenAI评测集上困惑度0.819。",
+        "content": "微软AI负责人Mustafa Suleyman表示，重新谈判的合约已让公司**摆脱对OpenAI的依赖、独立追逐绝对前沿**，并借此时点公布了微软自身进展的具体数字。\n\n在11月17日微软Ignite活动期间录制的一次访谈中，Suleyman称2025年10月对OpenAI合约的修订，允许微软独立或与其他第三方合作追求AGI。微软约一年前组建了超级智能团队，他预期公司的通用前沿模型将在新年达到「绝对前沿」，并称算力目前并非瓶颈。\n\nSuleyman还公开支持OpenAI首席科学家Jakub Pachocki提出的前沿实验室共享安全限值倡议，并披露**MAI-2 Base在OpenAI留出评测集上的log-perplexity为0.819**，与GPT-5.6 Sol基座模型处于同一水平。他强调两者使用相同分词器，因此数字可直接比较。微软内部还声称，这个2.8万亿参数、800亿激活参数、在1.6万块GB200上训练的MAI-Base-2，仅用约四分之一训练算力就超过了GPT-5.6背后的模型——该说法尚未经独立验证。\n\n尽管雄心勃勃，Suleyman称递归式自我改进是一项「危险能力」，令他非常紧张。他表示过去三个月是一个分水岭，行业应在把模型投入生产前先证明其安全性。"
+      }
+    }
+  ]
+}
