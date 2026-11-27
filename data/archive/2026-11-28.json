@@ -1,0 +1,202 @@
+{
+  "featured": {
+    "id": 0,
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop",
+    "category": "business",
+    "readTime": 7,
+    "timeAgo": 12,
+    "date": "2026-11-28",
+    "en": {
+      "title": "OpenAI Countersues Apple, Alleging Trade-Secret Theft and Pressure on Suppliers",
+      "excerpt": "OpenAI filed counterclaims in a San Jose federal court on November 27, turning Apple's July trade-secrets suit into a two-way fight over the hardware that Jony Ive is helping build.",
+      "content": "**What happened:** On Friday, November 27, OpenAI, its io Products unit, and two former Apple employees (Chang Liu and Tang Yew Tan) filed an answer and 12 counterclaims against Apple in the U.S. District Court for the Northern District of California in San Jose (case 5:26-cv-07078, Doc. 217). Apple had sued in July, alleging OpenAI orchestrated a campaign to steal hardware trade secrets through job candidates and hires.\n\n**The allegations:** OpenAI says Apple unlawfully pressured vendors not to work on its devices, asking suppliers to disclose their OpenAI projects and the Apple-experienced staff assigned to them. One supplier reportedly moved its OpenAI work to the night shift to avoid overlapping with Apple jobs, raising OpenAI's costs. OpenAI also targets Apple's employment agreements and points to an Employee X who joined in December 2025, sent unreleased hardware design and manufacturing files to personal accounts over roughly six months, left on June 2, 2026, and returned to Apple with dozens of documents, which he allegedly briefed senior Apple staff on.\n\n**Why it matters:** The dispute hangs over OpenAI's push into consumer hardware, where former Apple design chief Jony Ive is helping develop a family of products starting with a doughnut-shaped smart speaker. Bloomberg reported that about 400 Apple employees have moved to OpenAI so far.\n\n**Important limits:** These are allegations in a court filing, not judicial findings. Apple has previously said its investigation found no evidence supporting OpenAI's claims and did not immediately comment on the counterclaims. A trial on Apple's original suit is set for July 19, 2027.\n\n**Sources:** Bloomberg (via Yahoo Finance), The Next Web, Financial Times, Reuters, news-insight.ai, Sina, QQ.com."
+    },
+    "zh": {
+      "title": "OpenAI 反诉苹果窃取商业机密，指控其施压供应商阻挠硬件合作",
+      "excerpt": "OpenAI 于 11 月 27 日在圣何塞联邦法院提起反诉，把苹果 7 月的商业秘密诉讼变成一场围绕 Jony Ive 参与开发的硬件计划的双向交锋。",
+      "content": "**发生了什么：** 11 月 27 日周五，OpenAI、其 io Products 子公司以及两名前苹果员工 Chang Liu 和 Tang Yew Tan，在加州北区联邦地区法院圣何塞分院（案号 5:26-cv-07078，文件 217）提交答辩状并提出 12 项反诉。苹果此前于 7 月起诉，指控 OpenAI 通过求职者和新员工策划窃取硬件商业秘密。\n\n**主要指控：** OpenAI 称苹果非法施压供应商不要与其合作，要求供应商披露 OpenAI 项目以及参与其中的、有苹果工作经历的员工名单。据诉状，一家供应商把 OpenAI 的工作挪到夜班以避免与苹果项目冲突，推高了 OpenAI 的成本。OpenAI 还抨击苹果的雇佣协议，并指出一名「X 员工」于 2025 年 12 月加入，在约六个月里反复把未发布的硬件设计与制造文件发到个人账户，2026 年 6 月 2 日离职并回到苹果，据称带走数十份机密文件并向苹果高层汇报。\n\n**为何重要：** 这场纠纷笼罩着 OpenAI 进军消费硬件的计划——前苹果设计主管 Jony Ive 正帮它开发一系列产品，首款预计是一款甜甜圈形状的智能音箱。彭博社报道称，迄今已有约 400 名苹果员工转投 OpenAI。\n\n**重要限制：** 这些是诉状中的指控，不是法院认定。苹果此前表示其调查未发现支持 OpenAI 指控的证据，也未立即回应反诉。苹果原诉的庭审定于 2027 年 7 月 19 日。\n\n**来源：** 彭博社（经雅虎财经）、The Next Web、金融时报、路透社、news-insight.ai、新浪、腾讯网。"
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=600&h=400&fit=crop",
+      "category": "policy",
+      "readTime": 6,
+      "timeAgo": 14,
+      "date": "2026-11-28",
+      "en": {
+        "title": "Japan Drafts AI Law Revision With Safety Duties, Incident Reporting and Penalties",
+        "excerpt": "A Cabinet Office panel approved an outline on November 27 that would oblige high-performance AI providers to prevent misuse and report serious incidents, with fines for ignoring orders.",
+        "content": "**What happened:** On November 27, a working group under Japan's Cabinet Office AI strategy panel presented a draft report on amending the AI Promotion Act (enacted May 2025, in force September 2025). An expert panel broadly approved the outline the same day. The government aims to submit a bill to the 2027 ordinary Diet session.\n\n**The proposed duties:** Providers of high-performance AI services with a certain user base in Japan would have to take safety measures against serious harm from cyberattacks, CBRNE misuse and unexpected AI behavior. Systems with strong cyber capabilities could require user identity verification, refusal of attack-related queries, and reporting of incidents and exploitable defects. The government could issue corrective recommendations and then binding orders; penalties would apply only to those who ignore report requests or orders. Several reports put a ceiling of 100 million yen per corporate violation, with possible individual liability for culpable executives, though penalty details are not final.\n\n**Extraterritorial reach:** The rules would cover foreign frontier providers whose services are used in Japan, naming OpenAI, Anthropic, Google, Alibaba and DeepSeek as likely in scope. Treatment of open-weight models is unresolved. Technical assessments would fall to Japan's AI Safety Institute.\n\n**Why it matters:** Japan has been the G7's most permissive AI jurisdiction, with a promotion-focused law carrying no fines. Moving to enforceable duties with sanctions, and applying them to foreign developers, is a concrete signal that mandatory AI safety obligations are landing in a major non-EU economy.\n\n**Limits:** This is a draft outline, not enacted law. The thresholds for frontier AI, the fine structure and the scope of cyber-capable systems remain undefined.\n\n**Sources:** news-insight.ai, eyeon.ai, Web Pulse, techfastforward, Jiji Press, Snape Report."
+      },
+      "zh": {
+        "title": "日本起草 AI 法修订案：安全义务、事故报告与罚则",
+        "excerpt": "内阁府工作组 11 月 27 日通过一份修订纲要，要求高性能 AI 服务提供方防范滥用并报告重大事故，拒不执行政府命令将被罚款。",
+        "content": "**发生了什么：** 11 月 27 日，内阁府 AI 战略专家panel下的工作组提交了一份修订《AI 促进法》的报告草案。该法 2025 年 5 月制定、9 月生效。同一天专家组基本通过纲要。政府计划在 2027 年通常国会会期提交法案。\n\n**拟议义务：** 在日本达到一定用户规模的高性能 AI 服务提供方，须针对网络攻击、化生放核爆（CBRNE）滥用及 AI 失控造成的严重损害采取安全措施。具备较强网络攻击能力的系统可能需验证用户身份、拒答攻击相关问题、报告事故及可被利用的缺陷。政府可先提出整改建议，再下达有约束力的命令；罚则仅适用于拒不配合报告要求或拒不执行命令者。多家报道提到每项企业违规最高 1 亿日元上限，责任高管可能承担个人责任，但罚则细节尚未定稿。\n\n**域外管辖：** 规则拟覆盖服务在日本被使用的国外前沿模型提供方，OpenAI、Anthropic、谷歌、阿里和 DeepSeek 被点名可能在管辖范围内。开源权重模型的处理方式仍未定。技术评估将由日本 AI 安全研究所（AISI）承担。\n\n**为何重要：** 日本此前是 G7 中对 AI 最宽松的司法辖区，其促进型法律没有任何罚款。转向带制裁的可执行义务、并适用于外国开发者，是强制性 AI 安全义务在非欧盟主要经济体落地的明确信号。\n\n**限制：** 这只是纲要草案，不是已生效法律。「前沿 AI」门槛、罚款结构、「网络能力」系统范围都尚未定义。\n\n**来源：** news-insight.ai、eyeon.ai、Web Pulse、techfastforward、时事通信、Snape Report。"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "robotics",
+      "readTime": 6,
+      "timeAgo": 16,
+      "date": "2026-11-28",
+      "en": {
+        "title": "SenseTime Open-Sources RoboRSI-27B, a Robot Model That Beats GPT-6 Astra on a Sim Benchmark",
+        "excerpt": "The 27B embodied model scores 34.7 on RoboDojo versus GPT-6 Astra's 27.6, and moves from simulation to two real robot arms without real-robot fine-tuning.",
+        "content": "**What shipped:** SenseTime released and open-sourced SenseNova-RoboRSI-27B under Apache 2.0 on November 25, with coverage continuing through November 27. It is a 27-billion-parameter vision-language model for robot manipulation, built on Alibaba's Qwen3.8-27B.\n\n**The core idea:** Unlike a model that only follows preset VLA (vision-language-action) skills, RoboRSI-27B decides at each step whether to call a VLA policy for continuous motion or write code to compute a target position and directly drive the gripper (Code as Policy). In logged runs, VLA accounted for 41.9% of steps and code 58.1%. If a VLA trajectory conflicts with measured localization, the model can reject it and generate a new one.\n\n**The numbers:** On the latest RoboDojo Agent protocol, the model averages 34.7 points — 3.47x its Preview version's 10.0 and above the 27.6 that RoboDojo's team published for GPT-6 Astra (it also edges GPT-6.1 Sol's 33.7 under the same harness). The gain came from three rounds of recursive self-improvement: a teacher model (GPT-6 Astra) finds problems, the harness is extended, and high-quality trajectories fine-tune the 27B student. Position-prediction error within 5 mm rose from 4.3% to 15.5%.\n\n**Simulation to reality:** Using the same weights with no real-robot training or fine-tuning, it succeeded 9 of 10 times stacking blocks on a Piper X arm and 6 of 10 times on pick-and-place with a Piper arm.\n\n**Limits:** The comparison holds under a specific simulation protocol with seed=0 and layout=0; it does not mean the model is better than GPT-6 Astra at all robot tasks. Ten trials per task are a small sample. The vendor's reported 0.02-dollar-per-target construction cost versus 0.50 dollars is a SenseTime claim.\n\n**Sources:** SenseTime WeChat, QQ.com (multiple), Geekiki, Toutiao."
+      },
+      "zh": {
+        "title": "商汤开源 RoboRSI-27B：具身模型在仿真榜上超越 GPT-6 Astra",
+        "excerpt": "这款 270 亿参数具身模型在 RoboDojo 上得 34.7 分，对比 GPT-6 Astra 的 27.6 分，且无需真机微调即可迁移到两款机械臂。",
+        "content": "**发布了什么：** 商汤于 11 月 25 日发布并以 Apache 2.0 协议开源 SenseNova-RoboRSI-27B，报道持续至 11 月 27 日。这是一个 270 亿参数的机器人操作视觉语言模型，基于阿里 Qwen3.8-27B。\n\n**核心思路：** 与只会执行预设 VLA（视觉-语言-动作）技能的模型不同，RoboRSI-27B 每一步自行决定：是调用 VLA 策略做连续运动，还是写代码计算目标位置、直接控制夹爪（Code as Policy）。在记录的步数中，VLA 占 41.9%，代码占 58.1%。若 VLA 轨迹与实测定位冲突，模型可拒绝并重新生成。\n\n**关键数据：** 在 RoboDojo 最新版 Agent 协议下，模型平均得 34.7 分，是 Preview 版 10.0 分的 3.47 倍，高于 RoboDojo 团队公布的 GPT-6 Astra 27.6 分（同一 harness 下也略高于 GPT-6.1 Sol 的 33.7）。提升来自三轮递归自我改进：教师模型 GPT-6 Astra 发现问题、扩展 harness、用优质轨迹微调 27B 学生模型。5 毫米内位置预测误差占比从 4.3% 升至 15.5%。\n\n**从仿真到真机：** 用同一份权重、不经真实机器人数据训练或微调，在 Piper X 机械臂上积木堆叠 10 次成功 9 次，在 Piper 机械臂上抓取放置 10 次成功 6 次。\n\n**限制：** 对比成立于特定仿真协议（seed=0、layout=0），不意味着在所有机器人任务上都强于 GPT-6 Astra；每项任务仅 10 次试验，样本很小。商汤称每个目标构建成本 0.02 美元、对比传统 0.50 美元，这是厂商自述。\n\n**来源：** 商汤公众号、腾讯网（多篇）、Geekiki、今日头条。"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+      "category": "ethics",
+      "readTime": 7,
+      "timeAgo": 15,
+      "date": "2026-11-28",
+      "en": {
+        "title": "Anthropic Details Claude Text Watermarking as Some Users Cancel Over the Global Rollout",
+        "excerpt": "A technical explainer describes a SynthID-Text variant that marks word choices, not characters — while Business Insider found users who quit over marks on delivered code.",
+        "content": "**What happened:** Anthropic published a detailed explanation of how it watermarks Claude's text, as part of the transparency code it signed under the EU AI Act. Coverage and user reaction intensified around November 27–28.\n\n**How it works:** The method is a variant of SynthID-Text, which Google DeepMind published in a 2024 Nature paper. When the model picks between roughly equally good candidate words, a secret watermarking key nudges those low-stakes choices into a statistical pattern that is invisible to readers but checkable by anyone holding the key. Anthropic stresses that no hidden characters are added, no extra tokens are consumed, and its internal tests show no quality or readability impact. The mark carries no identifying information about a person or chat.\n\n**Limits Anthropic itself lists:** The mark survives copy-paste and light editing but a complete rewrite removes it; text Claude only proofread carries almost no mark, since nearly all words came from the human. Code is marked more weakly than prose, though comments can carry it. Detection is in private preview for regulators, law enforcement, media, fact-checkers, researchers and enterprises.\n\n**The backlash:** Business Insider interviewed four users who canceled subscriptions, including a public-policy worker and a freelance developer who feared marks on delivered code could raise client questions or trigger contract penalties — because Anthropic applies the mark globally, not just in the EU. Anthropic told the outlet it has not seen a noticeable rise in cancellations. Models released after August 2, 2026 ship marked from day one; older models are being retrofitted, and signatories need working detection by February 2027.\n\n**Sources:** Anthropic support, Business Insider (via dev.to and Web Pulse digest), rctrl.com, XIX.AI, NetEase."
+      },
+      "zh": {
+        "title": "Anthropic 详解 Claude 文本水印，全球推行引发部分用户退订",
+        "excerpt": "技术说明描述了一种改变选词而非字符的 SynthID-Text 变体；商业内幕则发现用户因交付代码被标记而退订。",
+        "content": "**发生了什么：** Anthropic 发布详细说明，解释其如何为 Claude 文本加水印，这是其在欧盟《AI 法案》下签署的透明度准则的一部分。11 月 27 至 28 日，相关报道与用户反应升温。\n\n**工作原理：** 该方法是 Google DeepMind 2024 年发表于《自然》的 SynthID-Text 变体。当模型在大致等效的候选词之间选择时，一把密钥让这些无关紧要的选择遵循某种统计模式——读者看不见，但持有密钥者可校验。Anthropic 强调不添加隐藏字符、不消耗额外 token，内部测试显示对质量和可读性无影响。水印不包含任何个人或对话身份信息。\n\n**Anthropic 自己列出的局限：** 水印可随复制粘贴和轻度编辑保留，但完整重写会抹掉；Claude 仅做校对的文本几乎不带水印，因为绝大多数词来自作者本人。代码的水印弱于散文，但注释可携带。检测目前对监管机构、执法、媒体、事实核查者、研究人员和企业小范围预览。\n\n**争议：** 《商业内幕》采访了四名退订用户，包括一名公共政策工作者和一名自由开发者，他们担心交付代码上的标记会引发客户质疑或触发合同处罚——因为水印是全球统一施加，不限于欧盟。Anthropic 表示该媒体称未看到退订明显增加。2026 年 8 月 2 日后发布的模型出厂即带标记，旧模型正在补齐，签署方须在 2027 年 2 月前具备可用检测能力。\n\n**来源：** Anthropic 支持页、《商业内幕》（经 dev.to 与 Web Pulse 摘要）、rctrl.com、XIX.AI、网易。"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 6,
+      "timeAgo": 18,
+      "date": "2026-11-28",
+      "en": {
+        "title": "TSMC Readies A14 Process: 50% Better Power Efficiency, Mass Production in H2 2028",
+        "excerpt": "PDK 0.9 is ready for customer design at the 1.4nm-class node, with risk production in H2 2027 and EDA sign-off done on Arm Cortex-A725.",
+        "content": "**What happened:** At the 2026 European Open Innovation Platform ecosystem workshop in Munich on November 24, TSMC disclosed details of its A14 (1.4nm-class) process and said version 0.9 of its process design kit (PDK) is ready for customer design-in. Coverage clustered on November 26–28.\n\n**The numbers:** A14 uses second-generation gate-all-around nanosheet transistors and a NanoFlex Pro standard-cell architecture with Boost Cells for critical paths and Low-Power Cells elsewhere. Against N2P, TSMC reports up to 14% higher speed at the same power, or up to 23% lower total power at the same speed; in a separate full-node comparison it claims 50% better power efficiency, 22% higher placed-transistor density and 23% higher logic density. First SRAM bit density is reported at 48 Mbit per square millimeter. These are separate metrics and should not be read as a uniform gain.\n\n**Roadmap and ecosystem:** Risk production is planned for H2 2027 and mass production for H2 2028. A13, an upgrade within the same node, can shrink die area about 6% without changing the design flow, with a further 5% efficiency gain if designers rework the M0 metal layer and use VT Flex cells; high-volume A13 is targeted for H2 2029. Cadence, Synopsys and Siemens EDA have completed A14 v0.9 sign-off flows, including a full Cortex-A725 implementation.\n\n**Why it matters:** A14's efficiency and density gains set the ceiling for AI chips under power and thermal limits, and its cadence shapes the roadmaps of Nvidia, AMD and Intel's 14A.\n\n**Limits:** All figures are TSMC's own disclosures at a workshop, not independent silicon measurements. A14's first version does not support Super Power Rail backside power, which is planned for 2029.\n\n**Sources:** NetEase, QQ.com (multiple), ZAKER/Fast Tech, SemiWiki via readaitime."
+      },
+      "zh": {
+        "title": "台积电公布 A14 制程细节：能效提升 50%，2028 下半年量产",
+        "excerpt": "1.4 纳米级节点的 PDK 0.9 已可供客户设计，2027 下半年风险试产，EDA 已在 Arm Cortex-A725 上完成签核。",
+        "content": "**发生了什么：** 11 月 24 日，台积电在慕尼黑 2026 欧洲开放创新平台（OIP）生态研讨会上披露 A14（1.4 纳米级）制程细节，称 0.9 版制程设计套件（PDK）已可供客户设计导入。报道集中在 11 月 26 至 28 日。\n\n**关键数据：** A14 采用第二代环绕栅极纳米片晶体管和 NanoFlex Pro 标准单元架构，关键路径用 Boost Cells、一般逻辑用 Low-Power Cells。对比 N2P，台积电称同功耗下速度最高提升 14%，或同速度下总功耗最高降低 23%；另一组全节点对比中能效提升 50%、布局晶体管密度提升 22%、逻辑密度提升 23%，首次公布的 SRAM 位密度为每平方毫米 48 Mbit。这些是彼此独立的指标，不能理解为整体性能统一提升相应比例。\n\n**路线图与生态：** 风险试产计划 2027 年下半年，量产 2028 年下半年。同一节点内的升级版 A13，不改设计流程即可缩小裸片面积约 6%；若重做 M0 金属层并采用 VT Flex 单元，可再提升 5% 能效；A13 大批量生产目标 2029 年下半年。Cadence、Synopsys、Siemens EDA 已完成 A14 v0.9 签核流程，包括完整的 Cortex-A725 实现。\n\n**为何重要：** A14 的能效与密度提升直接决定 AI 芯片在功耗和散热约束下的性能上限，其节奏也影响英伟达、AMD 与英特尔 14A 的路线图。\n\n**限制：** 所有数据均为台积电在研讨会上的自述，非独立流片实测。A14 首版不支持超级电轨（背面供电），该特性计划 2029 年引入。\n\n**来源：** 网易、腾讯网（多篇）、ZAKER/快科技、SemiWiki（经读懂 AI 时代）。"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&h=400&fit=crop",
+      "category": "healthcare",
+      "readTime": 6,
+      "timeAgo": 20,
+      "date": "2026-11-28",
+      "en": {
+        "title": "FDA Clears Retinal-AI Software That Estimates 10-Year Heart Risk From Eye Scans",
+        "excerpt": "Mediwhale's Dr. Noon CVD combines retinal images with age and sex to sort adults into three ASCVD risk tiers, aiming at primary care that already owns fundus cameras.",
+        "content": "**What happened:** On November 27, Seoul-based Mediwhale announced the first U.S. FDA 510(k) clearance for Dr. Noon CVD, a software tool that estimates an individual's 10-year risk of a first atherosclerotic cardiovascular disease (ASCVD) event from noninvasive retinal images combined with age and sex.\n\n**How it works:** A clinician captures a standard retinal fundus photograph in a few minutes. Mediwhale's deep-learning model analyzes vascular patterns correlated with coronary artery calcium — building on peer-reviewed work published in The Lancet Digital Health in 2021 — then pairs those patterns with age and sex to output a personalized risk estimate. Patients fall into three tiers aligned with ACC/AHA standards: low (under 5%), moderate (5% to 19.9%) and high (20% or more), alongside a structured lifestyle checklist.\n\n**Why 510(k) matters:** Clearance means the FDA found the software substantially equivalent to a legally marketed predicate for the stated use — supporting risk assessment, not autonomous treatment decisions. The tool is intended for adults 45 to 79 without a prior ASCVD diagnosis. Mediwhale says it does not measure or report a coronary calcium score and does not replace a cardiac CT scan or standard clinical assessment.\n\n**Why it matters:** The retina is the only place clinicians can photograph small blood vessels directly without needles or radiation. Since U.S. primary care clinics already run fundus cameras for diabetic eye exams, the company is betting on distribution through hardware clinics already own, aligned with the 2026 ACC/AHA dyslipidemia guideline's emphasis on earlier, individualized intervention.\n\n**Limits:** This is a 510(k) clearance for a support role, not proof of improved patient outcomes; the underlying Lancet research is from 2021 and the claims are the vendor's.\n\n**Sources:** PR Newswire, Morningstar, AI News Today."
+      },
+      "zh": {
+        "title": "FDA 批准用眼底照片评估十年心血管风险的视网膜 AI 软件",
+        "excerpt": "Mediwhale 的 Dr. Noon CVD 结合视网膜图像、年龄与性别，把成年人分入三档 ASCVD 风险，瞄准已配备眼底照相机的基层诊所。",
+        "content": "**发生了什么：** 11 月 27 日，首尔 AI 医疗公司 Mediwhale 宣布其 Dr. Noon CVD 获得美国 FDA 510(k) 许可。该软件用无创视网膜图像结合年龄与性别，估算个体首次动脉粥样硬化性心血管疾病（ASCVD）事件的十年风险。\n\n**工作原理：** 医生在几分钟内拍摄一张标准眼底照片。Mediwhale 的深度学习模型分析血管模式——这些模式与冠状动脉钙化相关，基于 2021 年发表于《柳叶刀·数字健康》的同行评审研究——再结合年龄与性别输出个体化风险。患者被分为符合 ACC/AHA 标准的三档：低（低于 5%）、中（5% 至 19.9%）、高（20% 及以上），并附结构化生活方式清单。\n\n**510(k) 的意义：** 获批意味着 FDA 认定该软件在预期用途上与已合法上市的对照器械实质等同——用途是辅助风险评估，而非自主治疗决策。适用人群为 45 至 79 岁、此前未确诊 ASCVD 的成年人。Mediwhale 明确表示它不测量或报告冠脉钙化积分，不替代心脏 CT 或标准临床评估。\n\n**为何重要：** 视网膜是医生无需穿刺或辐射即可直接拍摄小血管的唯一部位。由于美国基层诊所已为糖尿病眼病筛查配备眼底照相机，公司押注通过诊所现有硬件分发，契合 2026 年 ACC/AHA 血脂指南对更早、个体化干预的强调。\n\n**限制：** 这是辅助用途的 510(k) 许可，不等于已证实能改善患者结局；底层研究来自 2021 年，相关表述为厂商自述。\n\n**来源：** 美通社、晨星、AI News Today。"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop",
+      "category": "research",
+      "readTime": 7,
+      "timeAgo": 14,
+      "date": "2026-11-28",
+      "en": {
+        "title": "OS-Omni Benchmark Finds AI Agents Beat Humans on Linux but Trail by 25 Points on iOS",
+        "excerpt": "A six-platform benchmark with 67-step tasks puts the best agent at 68.5% versus a 77.3% human reference, exposing a gap that tracks how much an OS lets software look inside other software.",
+        "content": "**What was published:** A large collaboration led by Hui Shen posted OS-Omni on arXiv on November 25 (arXiv:2611.34232), with code released under Apache-2.0. It is a live cross-platform benchmark and execution environment for computer-using agents, covering Windows, Ubuntu, macOS, iOS, Android and Web. It hit number two on Hugging Face's daily papers on November 27.\n\n**Design:** Version 1 has 48 tasks per platform plus 12 cross-platform workflows pairing a desktop with an Android phone, all with persistent service-backed state such as accounts, carts, budgets and calendars. Agents observe screenshots only and emit platform-agnostic actions. Success is graded by executable final-state evaluators inspecting back-end databases, not by how the screen looks. Human annotators needed 67.54 steps per task on average, versus a 15-step reference for the older OSWorld benchmark.\n\n**Results:** Claude Opus 5.5 leads at 68.5% average success against a 77.3% human reference, an 8.8-point gap; GPT-6 Astra scores 66.1%, Gemini 4 Argon 58.6%, then a cliff to DeepSeek V4.1 Flash at 30.4%. The per-platform split is the story: on Linux, Gemini 95.8, Astra 89.6 and Opus 85.4 all beat the human 74.6; on iOS the best is Opus at 41.7 versus a human 75.2, and on macOS the best is 54.2 versus 79.8.\n\n**Why it matters:** The gap tracks platform openness rather than raw model quality — agents are superhuman where the system is scriptable and documented, and weak where Apple limits what an app may expose. For teams shipping agents, the authors warn that visual progress is not durable state: agents often make a screen look right but forget to save or duplicate a booking.\n\n**Limits:** With 48 tasks per platform, one task moves a score about two points; cross-platform workflows are only 12 tasks. Manufacturer-related disclosure: a covered site notes its articles are written with Claude.\n\n**Sources:** arXiv:2611.34232, Clauday, ArXivSignals, AiMatter, Lacuna, helloMarvis, Web Pulse."
+      },
+      "zh": {
+        "title": "OS-Omni 基准：AI 智能体在 Linux 上超人类，在 iOS 上落后逾 25 分",
+        "excerpt": "这个覆盖六大平台、平均 67 步任务的基准中，最强智能体得 68.5%，人类为 77.3%，差距取决于操作系统允许软件「看进去」的程度。",
+        "content": "**发布了什么：** 由 Hui Shen 领衔的大型合作团队于 11 月 25 日在 arXiv 发布 OS-Omni（arXiv:2611.34232），代码以 Apache-2.0 开源。这是一个跨平台的智能体基准与执行环境，覆盖 Windows、Ubuntu、macOS、iOS、Android 和 Web，11 月 27 日登上 Hugging Face 每日论文第二位。\n\n**设计：** 第一版每个平台 48 个任务，另有 12 个把桌面与安卓手机配对的跨平台工作流，均带账户、购物车、预算、日历等持久化状态。智能体只能看截图，发出平台无关的动作。成功与否由可执行的终态评估器检查后端数据库判定，而非看屏幕效果。人类标注员平均每任务需 67.54 步，而较旧的 OSWorld 基准参考值是 15 步。\n\n**结果：** Claude Opus 5.5 以 68.5% 平均成功率居首，人类参考为 77.3%，差 8.8 分；GPT-6 Astra 66.1%、Gemini 4 Argon 58.6%，之后断崖式跌至 DeepSeek V4.1 Flash 的 30.4%。分平台才是重点：Linux 上 Gemini 95.8、Astra 89.6、Opus 85.4 均超过人类的 74.6；iOS 上最好的 Opus 为 41.7，人类 75.2；macOS 上最好 54.2，人类 79.8。\n\n**为何重要：** 差距跟平台的开放程度走，而非模型绝对能力——系统可脚本化、有文档时智能体超人，苹果限制应用暴露能力时就弱。作者提醒，界面看着对了不等于状态持久化：智能体常让屏幕显示正确却忘了保存，或重复下单。\n\n**限制：** 每平台仅 48 个任务，一道题影响约两分；跨平台工作流只有 12 个。相关站点披露其文章用 Claude 撰写。\n\n**来源：** arXiv:2611.34232、Clauday、ArXivSignals、AiMatter、Lacuna、helloMarvis、Web Pulse。"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
+      "category": "cv",
+      "readTime": 6,
+      "timeAgo": 15,
+      "date": "2026-11-28",
+      "en": {
+        "title": "Sber Open-Sources GigaChat 3.5 Omni, a 432B Model That Reads Video With Its Soundtrack",
+        "excerpt": "The MIT-licensed FP8 checkpoint takes text, images, audio and video with sound in one prompt, answering in text and keeping frames interleaved with their audio in time order.",
+        "content": "**What shipped:** On November 27, Sber released the GigaChat 3.5 Omni checkpoint — a multimodal version of its 432-billion-parameter GigaChat 3.5 Ultra — as FP8 weights under the MIT license. It is a 432B mixture-of-experts model with 28B active parameters per token and a 131K-token context window.\n\n**What is unusual:** The model accepts any combination of text, images, audio and video with its soundtrack in a single request, and answers in text (no generated speech or video). Video is sampled at one frame per second up to 512 frames; each timestamped frame is followed by its slice of audio, so the model sees and hears events in time order. Sber says audio is not first transcribed and images are not turned into text descriptions. The language model combines Multi-head Latent Attention with GatedDeltaNet linear-attention layers and three MTP heads for speculative decoding.\n\n**The numbers, with caveats:** On Sber's own Daily-Omni test, frames plus audio scored 81.04, versus 63.74 with audio alone and 63.16 with frames alone. Across four video-with-sound tests, its average was 61.17, just below Tencent's WeMM-Video FP8 at 61.24. These are vendor-published benchmarks, not independent reproductions, and models did not receive video at identical frame rates.\n\n**Deployment reality:** The repository is about 437 GB; Sber documents serving on one node with eight 80 GB H100 GPUs, and the SGLang integration was still an open pull request when checked on November 27. At one frame per second, a brief gesture or fast cut can be missed.\n\n**Sources:** ByteForward, Hugging Face model card (via BitTide), Supercrzy, Tezkun."
+      },
+      "zh": {
+        "title": "Sber 开源 GigaChat 3.5 Omni：432B 模型可连声音一起读视频",
+        "excerpt": "这份 MIT 许可的 FP8 权重可在一次提示中接收文本、图像、音频及带声轨的视频，以文本作答，并按时间顺序把画面与声音交错。",
+        "content": "**发布了什么：** 11 月 27 日，Sber 发布 GigaChat 3.5 Omni 权重——其 4320 亿参数 GigaChat 3.5 Ultra 的多模态版本——以 FP8 权重、MIT 许可开源。这是 432B 混合专家模型，每 token 激活 280 亿参数，上下文窗口 131K token。\n\n**特别之处：** 模型可在一次请求中接收文本、图像、音频及带声轨视频的任意组合，并以文本作答（不生成语音或视频）。视频以每秒一帧采样、最多 512 帧；每个带时间戳的画面后接对应片段的音频，使模型按时间顺序「看见又听见」事件。Sber 称音频不先转文字、图像不先转描述。语言模型结合多头潜在注意力（MLA）与 GatedDeltaNet 线性注意力层，配三个 MTP 头做投机解码。\n\n**数据与保留：** 在 Sber 自测的 Daily-Omni 上，画面加音频得 81.04，仅音频 63.74，仅画面 63.16。四项带声视频测试平均 61.17，略低于腾讯 WeMM-Video FP8 的 61.24。这些是厂商发布的基准，非独立复现，各模型接收视频的帧率也不一致。\n\n**部署现实：** 仓库约 437 GB；Sber 记录的部署环境是单节点八张 80GB H100，11 月 27 日检查时 SGLang 集成仍是未合并的拉取请求。每秒一帧的采样可能漏掉短暂手势或快速剪辑。\n\n**来源：** ByteForward、Hugging Face 模型卡（经 BitTide）、Supercrzy、Tezkun。"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+      "category": "llm",
+      "readTime": 5,
+      "timeAgo": 16,
+      "date": "2026-11-28",
+      "en": {
+        "title": "Liquid AI Ships d1.3-ultra, Tying the Top Decision-Model Score at 61% Lower Cost",
+        "excerpt": "The hosted decision model scores 76.4 on Decision Index v2.1, matching Bison 31B while Liquid AI says it costs about 61% less per million tasks.",
+        "content": "**What shipped:** Liquid AI released d1.3-ultra on November 27, describing it as its most powerful decision model and a recursive improvement on d1-ultra. It is available the same day in the Liquid console and API, with OpenRouter and Vercel support planned but not live at launch.\n\n**What a decision model is:** Unlike a general chat system, d1 models are built for classification, routing and scoring: one API call returns calibrated probabilities across a fixed set of outcomes rather than generated prose. The endpoint stays POST /decisions/v1/systemone, so d1.2-ultra integrations can switch the model field. Pricing is 0.042 US dollars per million input tokens, with no generated-output-token charge, and a 64K-token context window.\n\n**The numbers:** Liquid AI says the model scores 76.4 on Artificial Analysis Decision Index v2.1, tying Bison 31B for first of 27 models and up from d1.2-ultra's 75.0. Artificial Analysis puts d1.3-ultra at about 133 US dollars per million tasks versus about 345 for Bison 31B — the basis for the roughly 61% lower-cost claim; the median is about 137. New capabilities include top-k rankings, extraction of numbers and dates from text, images and audio, audio time-span localization, and refusals on hard knowledge questions when confidence is low.\n\n**Why it matters:** Decision workloads — ticket classification, document review, policy-violation detection, workflow routing — reward structured single-pass output. Tying the top score at a third of the cost makes specialized probability engines more competitive with chat LLMs.\n\n**Limits:** The cost advantage is Liquid AI's claim based on Artificial Analysis's task-cost model, and actual spend depends on traffic mix. On launch day, Liquid's public model page still listed d1.2 as current, so buyers should confirm the model identifier in the console. Calibration should be tested on your own data.\n\n**Sources:** POSIX AI, AlphaSignal, Techub News, Wisevoter, aidaily.chiba.tw."
+      },
+      "zh": {
+        "title": "Liquid AI 发布 d1.3-ultra：并列决策模型榜首，成本称低 61%",
+        "excerpt": "这款托管决策模型在 Decision Index v2.1 上得 76.4 分，与 Bison 31B 并列第一，Liquid AI 称每百万任务成本约低 61%。",
+        "content": "**发布了什么：** Liquid AI 于 11 月 27 日发布 d1.3-ultra，称其是最强决策模型，也是 d1-ultra 的递归升级版。当天即在 Liquid 控制台和 API 上线，OpenRouter 与 Vercel 支持计划中、发布时尚未开通。\n\n**什么是决策模型：** 与通用聊天系统不同，d1 系列专为分类、路由和打分设计：一次 API 调用返回一组固定结果上的校准概率，而非生成的散文。接口仍是 POST /decisions/v1/systemone，d1.2-ultra 的集成只需改模型字段。定价为每百万输入 token 0.042 美元，不对生成的输出 token 收费，上下文窗口 64K token。\n\n**关键数据：** Liquid AI 称该模型在 Artificial Analysis Decision Index v2.1 上得 76.4 分，与 Bison 31B 并列 27 个模型中的第一，高于 d1.2-ultra 的 75.0。Artificial Analysis 估算 d1.3-ultra 每百万任务约 133 美元，Bison 31B 约 345 美元——这是「成本低约 61%」说法的依据；中位数约 137 美元。新增能力包括 top-k 排序、从文本/图像/音频中提取数字与日期、音频时间区间定位，以及在置信度低时对难题拒答。\n\n**为何重要：** 工单分类、文档审查、违规检测、工作流路由等决策场景，偏爱结构化的单次输出。以三分之一成本并列最高分，让专用概率引擎比聊天大模型更有竞争力。\n\n**限制：** 成本优势是 Liquid AI 基于 Artificial Analysis 任务成本模型的说法，实际支出取决于流量结构。发布当天 Liquid 官网模型页仍列 d1.2 为当前版本，购买者应在控制台确认模型标识。校准应在自有数据上测试。\n\n**来源：** POSIX AI、AlphaSignal、Techub News、Wisevoter、aidaily.chiba.tw。"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&h=400&fit=crop",
+      "category": "business",
+      "readTime": 5,
+      "timeAgo": 13,
+      "date": "2026-11-28",
+      "en": {
+        "title": "MiniMax Soars 109% in Hong Kong Debut, Raising 619 Million Dollars",
+        "excerpt": "The Hailuo maker's IPO drew strong demand and lifted rival Zhipu, but the company still posts heavy losses and faces a copyright suit from Hollywood studios.",
+        "content": "**What happened:** Chinese AI startup MiniMax went public in Hong Kong on Friday, November 27, with shares soaring 109% on debut and raising about 619 million US dollars, according to AFP and multiple reports. Rival Zhipu AI also rose, gaining 20.6% on its second trading day after its own 558-million-dollar IPO.\n\n**The company:** Founded in 2022, MiniMax has 200 million users and runs several applications including its flagship video generator Hailuo AI. CEO Yan Junjie was previously an executive at SenseTime. Co-founder and COO Yun Yeyi told Bloomberg the company had spent only about 500 million US dollars on optimization and creative innovation. Proceeds will fund five years of research into foundation models and AI-native products. Its team includes researchers from Google, Microsoft, Alibaba and DeepSeek.\n\n**The context:** The flotations come before any IPO announcements from OpenAI or Anthropic. Overseas revenue grew from 100,000 US dollars in the nine months to September 2024 to 7.8 million in the same period of 2025. Analysts told AFP that profits were unlikely soon for either company, describing strong investor appetite for China's AI story rather than near-term earnings.\n\n**Risks:** MiniMax recorded a net loss of 512 million US dollars in September 2025 and says it may keep posting losses. It also faces a 75-million-dollar copyright lawsuit from Disney, Universal and Warner Bros. Discovery over its video tool, which it says lacks sufficient evidence. A separate report noted MiniMax shares closed up 17.19% on November 27 after an earlier trading day.\n\n**Sources:** AFP (via Squid News), Hupu, QQ.com, alion.io, InfoCast."
+      },
+      "zh": {
+        "title": "MiniMax 港股首日暴涨 109%，募资 6.19 亿美元",
+        "excerpt": "海螺 AI 母公司的 IPO 需求强劲并带动智谱上涨，但公司仍巨额亏损，并面临好莱坞制片厂的版权诉讼。",
+        "content": "**发生了什么：** 据法新社等多家报道，中国 AI 初创公司 MiniMax 于 11 月 27 日周五在香港上市，首日股价暴涨 109%，募资约 6.19 亿美元。竞争对手智谱 AI 在第二交易日也上涨 20.6%，此前其 IPO 募资 5.58 亿美元。\n\n**公司情况：** MiniMax 成立于 2022 年，拥有 2 亿用户，旗下应用包括旗舰视频生成工具海螺 AI。CEO 闫俊杰曾任商汤高管。联合创始人兼 COO 云熠熠告诉彭博社，公司仅花费约 5 亿美元用于优化与创新。募资将用于未来五年的基础模型与 AI 原生产品研究。团队中有来自谷歌、微软、阿里和 DeepSeek 的研究人员。\n\n**背景：** 此次上市早于 OpenAI 或 Anthropic 的任何 IPO 公告。海外收入从截至 2024 年 9 月的九个月 10 万美元，增至 2025 年同期 780 万美元。分析师告诉法新社，两家公司短期内都难盈利，市场反映的是对中国 AI 叙事的强劲需求，而非近期盈利。\n\n**风险：** MiniMax 在 2025 年 9 月录得 5.12 亿美元净亏损，并表示可能继续亏损。它还面临迪士尼、环球和华纳兄弟探索就其视频工具提起的 7500 万美元版权诉讼，公司称对方证据不足。另有报道指出 MiniMax 股价 11 月 27 日收涨 17.19%。\n\n**来源：** 法新社（经 Squid News）、虎扑、腾讯网、alion.io、InfoCast。"
+      }
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop",
+      "category": "infra",
+      "readTime": 6,
+      "timeAgo": 17,
+      "date": "2026-11-28",
+      "en": {
+        "title": "OpenAI Reportedly Builds Athena Data Platform to Cut Agent Guesswork",
+        "excerpt": "A semantic layer would give agents consistent definitions of business metrics — and could put OpenAI in direct competition with Snowflake and Databricks.",
+        "content": "**What was reported:** The Information reported on November 25 that OpenAI is building a data management platform codenamed Athena to make its AI agents more accurate when working with business data. The Decoder and others picked up the story on November 27. OpenAI has not publicly commented, and there is no timeline or pricing.\n\n**What Athena is:** It resembles a semantic layer — software that pins down consistent definitions for business metrics such as revenue or customer count, so an agent can tell gross from net revenue or active from paying customers. The trigger was blunt: at least one customer found that ChatGPT Work's data analysis agent, launched last fall, was not accurate enough.\n\n**The mechanism:** A person familiar with the plans said OpenAI is building agents that collect, document and continuously update the business rules other agents need, so a new agent does not start from scratch. The report distinguishes this from Palantir-style ontologies; OpenAI does not intend to replace systems that still need formal business models.\n\n**Why it matters:** The strategic point is lock-in. Snowflake and Databricks already sell semantic layers, but switching semantic-layer providers is harder than switching AI models. If OpenAI owns the metric definitions, swapping out GPT becomes easy while leaving OpenAI becomes hard. The Data Agent, launched in September as a Data plugin in ChatGPT Work, connects to enterprise databases and office files to analyze sales, retention and spend.\n\n**Limits:** The reporting is based on a paywalled source and people familiar with the plans; Athena is in early development with nothing announced by OpenAI itself. Teams should keep their own metric definitions documented and portable.\n\n**Sources:** The Information (via The Decoder), AI Agent News, Agent5, ITBear, Clauday."
+      },
+      "zh": {
+        "title": "OpenAI 据报打造 Athena 数据平台，减少智能体「猜」业务指标",
+        "excerpt": "语义层将为智能体统一业务指标定义，也可能让 OpenAI 与 Snowflake、Databricks 正面竞争。",
+        "content": "**报道内容：** The Information 于 11 月 25 日报道称，OpenAI 正在构建一个代号 Athena 的数据管理平台，以提高其 AI 智能体处理业务数据时的准确性。The Decoder 等媒体 11 月 27 日跟进。OpenAI 未公开回应，也没有时间表或定价。\n\n**Athena 是什么：** 它类似语义层——为收入、客户数等业务指标提供统一定义的软件，让智能体能区分总收入与净收入、活跃客户与付费客户。触发点很直接：至少一位客户发现去年秋天推出的 ChatGPT Work 数据分析智能体准确性不足。\n\n**运作方式：** 一位知情人士称，OpenAI 正开发一类智能体，专门收集、记录并持续更新其他智能体所需的业务规则，让新智能体不必从头摸索。报道将其与 Palantir 式本体区分开；OpenAI 无意取代仍需形式化业务模型的系统。\n\n**为何重要：** 关键在于锁定。Snowflake 和 Databricks 已在售语义层，但更换语义层供应商比更换 AI 模型更难。若 OpenAI 掌握指标定义，替换 GPT 变容易，离开 OpenAI 变困难。今年 9 月推出的 Data Agent 以 ChatGPT Work 中的 Data 插件形式提供，可连接企业数据库与办公文件，分析销售、留存和支出。\n\n**限制：** 报道基于付费来源和知情人士；Athena 处于早期研发，OpenAI 本身没有任何官宣。团队应把自己的指标定义记录下来并保持可迁移。\n\n**来源：** The Information（经 The Decoder）、AI Agent News、Agent5、ITBear、Clauday。"
+      }
+    }
+  ]
+}
